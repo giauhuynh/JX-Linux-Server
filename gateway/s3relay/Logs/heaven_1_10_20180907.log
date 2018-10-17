@@ -1,0 +1,6 @@
+2018-09-07 02:34:50	heaven(version 2.02) log start....
+2018-09-07 02:34:56	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:9
+2018-09-09 18:03:11	Allocate Connectionidx:1, IP:194.28.112.53, LeftFreeCount:8
+2018-09-09 18:03:11	Callback Connectionidx:1, CloseReason:5, IP:194.28.112.53, LeftFreeCount: 9
+2018-09-11 15:29:36	Allocate Connectionidx:2, IP:77.72.83.87, LeftFreeCount:8
+2018-09-11 15:29:36	Callback Connectionidx:2, CloseReason:5, IP:77.72.83.87, LeftFreeCount: 9

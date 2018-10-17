@@ -1,0 +1,8 @@
+TongCount=6, MemberCount=108, UnionCount=0
+TongName	MasterName	TongLevel	TongExp	SelfCamp	AllMemberCount	DirectorCount	ManagerCount	MemberCount	BuildLevel	MoneyFund	BuildFund	WarBuildFund	MaintainFund	StoredOffer	StoredBuildFund	UnionNum	UnionName	IsUnionLeader	UnionCamp
+PhongBa	VDKÙ1006	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+MétÙThêi	GiÕtÙS­Ù§ètÙChïa	4	19800	1	57	6	8	42	0	998308	674	448	0	2057	0	0		0	0
+Trïm	TiÒnÙV«ÙNghÜa	0	0	3	27	5	3	18	0	0	608	405	0	3185	0	0		0	0
+ThiªnS¸t	ÙHîiÙSG	5	35520	3	20	1	2	16	0	947871	0	2742	0	991	0	0		0	0
+TèngÙ	BéTr­ëngBéC«ngAn	0	120	3	2	0	0	1	0	995000	4480	0	0	44800	0	0		0	0
+VIP	sdfaaafasf	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0

@@ -1,0 +1,21 @@
+TongCount=19, MemberCount=34, UnionCount=0
+TongName	MasterName	TongLevel	TongExp	SelfCamp	AllMemberCount	DirectorCount	ManagerCount	MemberCount	BuildLevel	MoneyFund	BuildFund	WarBuildFund	MaintainFund	StoredOffer	StoredBuildFund	UnionNum	UnionName	IsUnionLeader	UnionCamp
+HáaÙLong	HáaÙLongÙTµÙNh©n	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+DEPÙBLH	DCPÙTL	0	0	2	11	1	2	7	0	0	0	0	0	0	0	0		0	0
+luongson	testgame	5	35400	2	1	0	0	0	0	2530000	0	0	0	0	0	0		0	0
+MétÙThêi	HoaÙDiÙCungÙChñ	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+§ÖNhÊt	ChäcChäc	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+ewtrwtwe	fasfaffaew	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+TEST	TESTGAMES	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+KimÙ	CuÙChÜÙNg­äc	2	6240	3	1	0	0	0	0	978854378	2240	0	0	22400	0	0		0	0
+MinhXD	VuVuVnn	2	6480	3	1	0	0	0	0	1924958849	15540	51643	0	22330	0	0		0	0
+Laladu	ZzCuxizZ	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+HHBang	SangTpXXX	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+TestHoi	TestChoi	3	9720	3	6	2	0	3	0	666249216	0	0	0	0	0	0		0	0
+Chien	SangTp4	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+V×Sao	JohnniSon	4	21000	1	1	0	0	0	0	554680555	0	0	0	0	0	0		0	0
+admin	testgame2	4	20040	1	1	0	0	0	0	107281111	0	0	0	0	0	0		0	0
+TèngÙ	Anyonie	2	7560	1	1	0	0	0	0	314098441	0	0	0	0	0	0		0	0
+L¸o	L¸oÙTõÙNhá	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+MaGiao	RuouQuenSau	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+qwerqwr	testgame3	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0		0	0

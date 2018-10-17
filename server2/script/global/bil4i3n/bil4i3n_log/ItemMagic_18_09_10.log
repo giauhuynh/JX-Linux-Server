@@ -1,0 +1,4633 @@
+-- [10-09-18 00:05:50]	[DropOn: Train]	[BopVuBu-81-letutl74]		Param: (AddItemEx(1,1664094795,0,0,9,0,8,4,34,1,2,3,2,3,3,0))
+			[ DetailType = 9 ] [[  Tiªn X¹ H­¬ng Nang  ]]
+		Néi lùc tèi ®a: +14 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Sinh lùc tèi ®a: +48 ®iÓm
+
+-- [10-09-18 00:06:43]	[DropOn: Train]	[1StÙThiªnÙNhÉn-107-tuanlovekun]		Param: (AddItemEx(1,1142585758,0,0,2,5,8,2,48,7,7,3,5,5,4,0))
+			[ DetailType = 2 ] [[  B¸ch kÕt C¸i y  ]]
+		Néi lùc tèi ®a: +39 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		ThÓ lùc tèi ®a: +5 ®iÓm
+		'ThÓ lùc tèi ®a: +'6' ®iÓm'
+
+-- [10-09-18 00:06:46]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,757996662,0,0,2,4,9,4,23,4,5,4,1,2,8,0))
+			[ DetailType = 2 ] [[  Táa Tö Hoµng Kim gi¸p  ]]
+		ThÓ lùc tèi ®a: +25 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		Néi lùc tèi ®a: +71 ®iÓm
+
+-- [10-09-18 00:07:45]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-855382100,0,0,7,9,9,4,99,6,1,5,1,1,8,0))
+			[ DetailType = 7 ] [[  §iªu B× DiÖn Tr¸o  ]]
+		ThÓ lùc tèi ®a: +63 ®iÓm
+
+-- [10-09-18 00:09:17]	[DropOn: Train]	[BopVuBu-81-letutl74]		Param: (AddItemEx(1,1283031995,0,0,6,0,8,2,43,4,3,8,6,8,6,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		Néi lùc tèi ®a: +14 ®iÓm
+		'ThÓ lùc tèi ®a: +'3' ®iÓm'
+		Sinh lùc tèi ®a: +23 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [10-09-18 00:10:12]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-1876952381,0,0,2,9,7,1,22,1,4,5,6,5,1,0))
+			[ DetailType = 2 ] [[  Hæ B× y  ]]
+		Sinh lùc tèi ®a: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Néi lùc tèi ®a: +43 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		ThÓ lùc tèi ®a: +47 ®iÓm
+
+-- [10-09-18 00:10:13]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-636147155,0,0,7,10,7,4,6,6,1,1,7,7,6,0))
+			[ DetailType = 7 ] [[  Bµn Xµ Thoa  ]]
+		Sinh lùc tèi ®a: +59 ®iÓm
+
+-- [10-09-18 00:11:13]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1220597603,0,0,6,1,7,2,40,3,6,1,8,8,1,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +16 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +45 ®iÓm
+
+-- [10-09-18 00:12:15]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,916619275,0,0,6,1,10,0,54,7,1,8,5,3,4,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Néi lùc tèi ®a: +62 ®iÓm
+
+-- [10-09-18 00:18:37]	[DropOn: Train]	[BopVuBu-81-letutl74]		Param: (AddItemEx(1,-1240936841,0,0,7,9,7,4,74,4,7,8,7,3,4,0))
+			[ DetailType = 7 ] [[  HuyÒn Cèt Tr©m  ]]
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		Néi lùc tèi ®a: +127 ®iÓm
+		'Kh¸ng b¨ng: +'9'%'
+		ThÓ lùc tèi ®a: +28 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 00:33:31]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,336818980,0,0,8,0,7,1,87,3,7,5,2,3,4,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +15 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		ThÓ lùc tèi ®a: +5 ®iÓm
+
+-- [10-09-18 00:36:45]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1331099921,0,0,5,3,10,1,76,2,6,4,2,8,4,0))
+			[ DetailType = 5 ] [[  Phi Phông Ngoa  ]]
+		Sinh lùc tèi ®a: +26 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+		ThÓ lùc tèi ®a: +54 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Tèc ®é di chuyÓn: +18%
+
+-- [10-09-18 00:45:55]	[DropOn: Train]	[1StÙThiªnÙNhÉn-107-tuanlovekun]		Param: (AddItemEx(1,-1165511195,0,0,7,8,8,0,30,7,2,5,3,5,1,0))
+			[ DetailType = 7 ] [[  PhØ Thóy Thoa  ]]
+		Néi lùc tèi ®a: +70 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		Sinh lùc tèi ®a: +68 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		ThÓ lùc tèi ®a: +45 ®iÓm
+
+-- [10-09-18 00:46:46]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,567752108,0,0,8,1,9,0,4,6,1,6,5,6,4,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [10-09-18 00:54:04]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,-1937776358,0,0,7,0,10,4,122,3,1,3,2,7,3,0))
+			[ DetailType = 7 ] [[  Tú L« m·o  ]]
+		Sinh lùc tèi ®a: +5 ®iÓm
+
+-- [10-09-18 00:55:16]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-370735886,0,0,8,0,9,3,122,1,3,8,3,2,4,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Phßng thñ vËt lı: +'1'%'
+		Sinh lùc tèi ®a: +100 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		ThÓ lùc tèi ®a: +27 ®iÓm
+		'Th©n ph¸p: +'6'®iÓm'
+
+-- [10-09-18 00:57:23]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,389859339,0,0,7,12,9,0,90,3,3,8,3,8,4,0))
+			[ DetailType = 7 ] [[  Lam Tinh Thoa  ]]
+		ThÓ lùc tèi ®a: +25 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		Sinh lùc tèi ®a: +56 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Néi lùc tèi ®a: +23 ®iÓm
+
+-- [10-09-18 00:58:06]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1158870502,0,0,6,0,7,2,126,3,1,3,5,2,6,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +5 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +60 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng háa: +'3'%'
+
+-- [10-09-18 01:05:50]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1138729208,0,0,8,1,10,4,98,3,8,4,6,3,6,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +50 ®iÓm
+		'Kh¸ng b¨ng: +'11'%'
+		Néi lùc tèi ®a: +61 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Sinh lùc tèi ®a: +53 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 01:06:01]	[DropOn: Train]	[1StÙThiªnÙNhÉn-107-tuanlovekun]		Param: (AddItemEx(1,730694389,0,0,6,0,10,1,72,8,3,2,4,8,6,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +106 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Néi lùc tèi ®a: +47 ®iÓm
+
+-- [10-09-18 01:10:08]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1411352882,0,0,3,0,9,0,31,3,1,1,2,2,1,0))
+			[ DetailType = 3 ] [[  Lam B¶o Th¹ch Giíi ChØ  ]]
+		Sinh lùc tèi ®a: +60 ®iÓm
+		'Søc m¹nh: +'2'®iÓm'
+		Néi lùc tèi ®a: +19 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 01:13:39]	[DropOn: Train]	[1StÙThiªnÙNhÉn-107-tuanlovekun]		Param: (AddItemEx(1,646749384,0,0,5,1,7,1,97,4,8,3,7,8,3,0))
+			[ DetailType = 5 ] [[  Hæ B× Ngoa  ]]
+		Sinh lùc tèi ®a: +76 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		Tèc ®é di chuyÓn: +25%
+
+-- [10-09-18 01:16:28]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,-361990650,0,0,7,2,7,4,82,2,2,8,4,8,5,0))
+			[ DetailType = 7 ] [[  Nh©n B× DiÖn Tr¸o  ]]
+		Sinh lùc tèi ®a: +24 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Néi lùc tèi ®a: +45 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		ThÓ lùc tèi ®a: +40 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 01:16:28]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-2059204010,0,0,8,0,7,0,55,7,8,7,1,1,4,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +74 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [10-09-18 01:17:17]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-229384560,0,0,5,0,9,4,137,6,5,8,4,6,1,0))
+			[ DetailType = 5 ] [[  Phong VÜ Tèng Ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		ThÓ lùc tèi ®a: +145 ®iÓm
+		'Kh¸ng b¨ng: +'3'%'
+		Tèc ®é di chuyÓn: +15%
+
+-- [10-09-18 01:18:09]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,662150043,0,0,7,3,9,4,150,5,7,3,7,4,7,0))
+			[ DetailType = 7 ] [[  ThÊt B¶o ph¸t Qu¸n  ]]
+		ThÓ lùc tèi ®a: +44 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		Sinh lùc tèi ®a: +47 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+
+-- [10-09-18 01:19:59]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1860509309,0,0,6,1,8,4,76,2,3,2,4,7,3,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +29 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +34 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Néi lùc tèi ®a: +107 ®iÓm
+
+-- [10-09-18 01:27:17]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1980863051,0,0,8,0,9,0,78,2,3,4,1,6,1,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		ThÓ lùc tèi ®a: +6 ®iÓm
+
+-- [10-09-18 01:32:32]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,443840979,0,0,5,1,9,4,131,5,8,1,2,8,8,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		ThÓ lùc tèi ®a: +83 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		Néi lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Tèc ®é di chuyÓn: +26%
+		'Thêi gian tróng ®éc: -'30'%'
+
+-- [10-09-18 01:36:27]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-2055818380,0,0,5,0,8,4,59,4,7,5,4,3,7,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		Tèc ®é di chuyÓn: +19%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +74 ®iÓm
+		'Kh¸ng b¨ng: +'8'%'
+		ThÓ lùc tèi ®a: +51 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 01:37:01]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,286575334,0,0,7,0,9,4,55,3,8,7,2,2,4,0))
+			[ DetailType = 7 ] [[  NiÖm Ninh M·o  ]]
+		Néi lùc tèi ®a: +17 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Sinh lùc tèi ®a: +114 ®iÓm
+
+-- [10-09-18 01:38:02]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1454237516,0,0,8,0,9,1,53,8,4,4,1,6,4,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +101 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Sinh lùc tèi ®a: +38 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		ThÓ lùc tèi ®a: +101 ®iÓm
+
+-- [10-09-18 01:39:37]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1084208316,0,0,8,0,8,4,41,8,3,3,8,2,8,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		Néi lùc tèi ®a: +32 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Sinh lùc tèi ®a: +24 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 01:42:32]	[DropOn: Train]	[DoanhDoanh-82-letutl72]		Param: (AddItemEx(1,1459350468,0,0,2,13,10,2,60,3,5,8,1,7,5,0))
+			[ DetailType = 2 ] [[  L­u Tiªn QuÇn  ]]
+		Néi lùc tèi ®a: +52 ®iÓm
+		'Kh¸ng háa: +'8'%'
+		ThÓ lùc tèi ®a: +96 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Sinh lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 01:43:15]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,337242186,0,0,7,11,9,1,101,6,5,8,3,8,7,0))
+			[ DetailType = 7 ] [[  Gi¶i Tr¹i Kh«i  ]]
+		Sinh lùc tèi ®a: +26 ®iÓm
+		'Kh¸ng l«i: +'8'%'
+		Néi lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		ThÓ lùc tèi ®a: +74 ®iÓm
+
+-- [10-09-18 01:43:51]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,1464875413,0,0,2,10,7,3,15,7,7,1,4,6,7,0))
+			[ DetailType = 2 ] [[  Thanh La sam  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Néi lùc tèi ®a: +6 ®iÓm
+		'Th©n ph¸p: +'5'®iÓm'
+		Ph¶n ®oµn vËt lı: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 01:46:05]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-599935759,0,0,5,3,10,1,64,1,1,4,7,8,6,0))
+			[ DetailType = 5 ] [[  Phi Phông Ngoa  ]]
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Tèc ®é di chuyÓn: +11%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		Sinh lùc tèi ®a: +26 ®iÓm
+
+-- [10-09-18 01:50:03]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-156133558,0,0,8,1,7,3,74,3,1,1,6,4,7,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +49 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Sinh lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +73 ®iÓm
+		'Phßng thñ vËt lı: +'10'%'
+
+-- [10-09-18 01:55:29]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1493429491,0,0,8,1,8,3,48,2,6,4,3,2,1,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		Néi lùc tèi ®a: +34 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		ThÓ lùc tèi ®a: +14 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Sinh lùc tèi ®a: +12 ®iÓm
+
+-- [10-09-18 01:58:27]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,546971528,0,0,5,2,8,2,49,6,3,1,3,4,7,0))
+			[ DetailType = 5 ] [[  Ph¹m Hång Ngoa  ]]
+		ThÓ lùc tèi ®a: +59 ®iÓm
+		'ThÓ lùc tèi ®a: +'6' ®iÓm'
+		Néi lùc tèi ®a: +9 ®iÓm
+		'Kh¸ng háa: +'1'%'
+		Tèc ®é di chuyÓn: +17%
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 01:59:01]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1994551436,0,0,9,1,8,4,5,2,1,3,2,1,1,0))
+			[ DetailType = 9 ] [[  MÆc Ngäc Ngäc Béi   ]]
+		Sinh lùc tèi ®a: +7 ®iÓm
+
+-- [10-09-18 01:59:49]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-815574201,0,0,5,0,7,1,43,8,5,2,3,8,3,0))
+			[ DetailType = 5 ] [[  TrÜ VÜ Tèng Ngoa  ]]
+		Sinh lùc tèi ®a: +69 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Tèc ®é di chuyÓn: +11%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Néi lùc tèi ®a: +56 ®iÓm
+
+-- [10-09-18 01:59:50]	[DropOn: Train]	[1StÙThiªnÙNhÉn-107-tuanlovekun]		Param: (AddItemEx(1,-74422784,0,0,5,0,10,0,9,4,5,7,6,7,2,0))
+			[ DetailType = 5 ] [[  Cöu TiÕt X­¬ng VÜ Ngoa  ]]
+		ThÓ lùc tèi ®a: +69 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Néi lùc tèi ®a: +71 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +84 ®iÓm
+
+-- [10-09-18 02:06:55]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-749888663,0,0,5,2,8,2,95,1,3,5,1,1,5,0))
+			[ DetailType = 5 ] [[  Ph¹m Hång Ngoa  ]]
+		ThÓ lùc tèi ®a: +12 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Tèc ®é di chuyÓn: +18%
+
+-- [10-09-18 02:09:06]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,976366183,0,0,9,1,8,1,24,2,1,2,2,2,3,0))
+			[ DetailType = 9 ] [[  MÆc Ngäc Ngäc Béi   ]]
+		Sinh lùc tèi ®a: +29 ®iÓm
+		'May m¾n: +'1'%'
+		Phôc håi néi lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Néi lùc tèi ®a: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 02:11:21]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,120957064,0,0,7,6,9,0,11,4,5,2,1,4,3,0))
+			[ DetailType = 7 ] [[  Tµm T¬ M·o  ]]
+		ThÓ lùc tèi ®a: +38 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +9 ®iÓm
+
+-- [10-09-18 02:14:20]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,1345690504,0,0,7,9,7,0,121,3,2,7,4,8,5,0))
+			[ DetailType = 7 ] [[  HuyÒn Cèt Tr©m  ]]
+		Sinh lùc tèi ®a: +19 ®iÓm
+		'Kh¸ng ®éc: +'4'%'
+		Néi lùc tèi ®a: +108 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +36 ®iÓm
+
+-- [10-09-18 02:16:30]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,1992181035,0,0,9,0,10,4,12,2,2,1,3,3,3,0))
+			[ DetailType = 9 ] [[  Long Tiªn H­¬ng Nang  ]]
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 02:17:31]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1961430063,0,0,9,1,9,0,16,2,1,2,2,1,1,0))
+			[ DetailType = 9 ] [[  Hoµng Ngäc Ngäc Béi   ]]
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Søc m¹nh: +'1'®iÓm'
+		Néi lùc tèi ®a: +23 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		ThÓ lùc tèi ®a: +14 ®iÓm
+
+-- [10-09-18 02:21:08]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-918626491,0,0,8,1,10,3,126,2,3,5,2,8,5,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		Néi lùc tèi ®a: +8 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Phßng thñ vËt lı: +'3'%'
+		Sinh lùc tèi ®a: +47 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [10-09-18 02:21:43]	[DropOn: Train]	[1StÙThiªnÙNhÉn-107-tuanlovekun]		Param: (AddItemEx(1,-1085538178,0,0,5,2,7,0,40,3,1,8,3,6,2,0))
+			[ DetailType = 5 ] [[  Liªn Phong Ngoa  ]]
+		ThÓ lùc tèi ®a: +9 ®iÓm
+
+-- [10-09-18 02:27:22]	[DropOn: Train]	[1StÙThiªnÙNhÉn-107-tuanlovekun]		Param: (AddItemEx(1,1158573681,0,0,6,0,7,2,43,1,8,1,4,8,6,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'ThÓ lùc tèi ®a: +'11' ®iÓm'
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng háa: +'9'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 02:28:16]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,2009157917,0,0,7,13,7,0,26,4,6,8,1,1,6,0))
+			[ DetailType = 7 ] [[  Thanh L­u Ly Ph¸t Xoa  ]]
+		Sinh lùc tèi ®a: +49 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [10-09-18 02:29:25]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,1030138358,0,0,5,0,9,3,14,4,6,5,7,6,3,0))
+			[ DetailType = 5 ] [[  Phong VÜ Tèng Ngoa  ]]
+		ThÓ lùc tèi ®a: +23 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Sinh lùc tèi ®a: +44 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		Tèc ®é di chuyÓn: +22%
+		'Phßng thñ vËt lı: +'4'%'
+
+-- [10-09-18 02:33:57]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,-1411599899,0,0,5,3,10,2,66,5,6,4,2,6,2,0))
+			[ DetailType = 5 ] [[  Phi Phông Ngoa  ]]
+		Sinh lùc tèi ®a: +82 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Tèc ®é di chuyÓn: +15%
+		'ThÓ lùc tèi ®a: +'3' ®iÓm'
+		Néi lùc tèi ®a: +45 ®iÓm
+		'Kh¸ng háa: +'5'%'
+
+-- [10-09-18 02:39:20]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-77136526,0,0,7,3,7,3,92,6,7,4,8,7,7,0))
+			[ DetailType = 7 ] [[  Anh L¹c Qu¸n  ]]
+		ThÓ lùc tèi ®a: +112 ®iÓm
+		'Phßng thñ vËt lı: +'11'%'
+		Sinh lùc tèi ®a: +28 ®iÓm
+		'Th©n ph¸p: +'6'®iÓm'
+		Néi lùc tèi ®a: +73 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 02:40:55]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,-847091121,0,0,7,5,9,2,136,5,2,6,4,2,3,0))
+			[ DetailType = 7 ] [[  T×nh nhía Hoµn  ]]
+		Néi lùc tèi ®a: +65 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+		Sinh lùc tèi ®a: +14 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 02:41:18]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-801558492,0,0,6,1,8,1,30,1,5,2,2,3,2,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		Néi lùc tèi ®a: +15 ®iÓm
+		'Kh¸ng l«i: +'8'%'
+		ThÓ lùc tèi ®a: +5 ®iÓm
+
+-- [10-09-18 02:42:04]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,1694961006,0,0,8,1,9,2,119,1,4,4,3,6,3,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng háa: +'2'%'
+		Sinh lùc tèi ®a: +28 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		ThÓ lùc tèi ®a: +35 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 02:48:55]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1456580801,0,0,5,0,7,2,110,2,4,3,6,1,5,0))
+			[ DetailType = 5 ] [[  TrÜ VÜ Tèng Ngoa  ]]
+		Sinh lùc tèi ®a: +23 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		ThÓ lùc tèi ®a: +18 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Néi lùc tèi ®a: +16 ®iÓm
+		'Kh¸ng háa: +'4'%'
+
+-- [10-09-18 02:51:00]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,74480409,0,0,7,9,8,0,36,6,6,2,7,4,5,0))
+			[ DetailType = 7 ] [[  Hæ B×DiÖn Tr¸o  ]]
+		Sinh lùc tèi ®a: +53 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		ThÓ lùc tèi ®a: +36 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 02:51:06]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1546396217,0,0,6,1,7,1,73,3,3,1,2,7,5,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+
+-- [10-09-18 02:51:20]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1060164744,0,0,8,0,8,2,26,8,8,3,3,7,1,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		ThÓ lùc tèi ®a: +133 ®iÓm
+		'ThÓ lùc tèi ®a: +'10' ®iÓm'
+		Néi lùc tèi ®a: +9 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Sinh lùc tèi ®a: +80 ®iÓm
+
+-- [10-09-18 02:53:52]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1207492907,0,0,7,7,7,3,114,7,6,6,4,3,6,0))
+			[ DetailType = 7 ] [[  Thiªn Thanh M·o  ]]
+		Néi lùc tèi ®a: +137 ®iÓm
+		'Th©n ph¸p: +'5'®iÓm'
+		ThÓ lùc tèi ®a: +93 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'Phßng thñ vËt lı: +'10'%'
+
+-- [10-09-18 02:54:02]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-1117354729,0,0,8,0,9,3,81,8,7,6,4,6,1,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +5 ®iÓm
+		'Th©n ph¸p: +'13'®iÓm'
+		ThÓ lùc tèi ®a: +88 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Sinh lùc tèi ®a: +85 ®iÓm
+
+-- [10-09-18 02:56:13]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1366744256,0,0,6,0,7,3,1,1,4,5,6,7,5,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Néi lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		ThÓ lùc tèi ®a: +17 ®iÓm
+		'Phßng thñ vËt lı: +'10'%'
+		Sinh lùc tèi ®a: +112 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+
+-- [10-09-18 02:57:54]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1203065129,0,0,2,8,8,0,98,1,4,6,3,6,6,0))
+			[ DetailType = 2 ] [[  §Şa Duyªn ®¹o y  ]]
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Thêi gian phôc håi: -30
+
+-- [10-09-18 02:58:43]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,-310633859,0,0,7,3,7,0,114,1,5,6,3,5,7,0))
+			[ DetailType = 7 ] [[  Anh L¹c Qu¸n  ]]
+		ThÓ lùc tèi ®a: +16 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +87 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Néi lùc tèi ®a: +54 ®iÓm
+
+-- [10-09-18 03:06:47]	[DropOn: Train]	[1StÙThiªnÙNhÉn-107-tuanlovekun]		Param: (AddItemEx(1,109675733,0,0,2,0,8,2,82,1,5,2,2,5,3,0))
+			[ DetailType = 2 ] [[  Minh TÜnh Cµ Sa  ]]
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng háa: +'1'%'
+		Néi lùc tèi ®a: +6 ®iÓm
+		'ThÓ lùc tèi ®a: +'3' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 03:08:22]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,658523454,0,0,8,0,9,2,140,5,3,2,2,6,8,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		ThÓ lùc tèi ®a: +26 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Sinh lùc tèi ®a: +66 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 03:09:25]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-827283365,0,0,7,2,7,1,4,1,5,2,7,1,6,0))
+			[ DetailType = 7 ] [[  Nh©n B× DiÖn Tr¸o  ]]
+		Sinh lùc tèi ®a: +14 ®iÓm
+		'Kh¸ng l«i: +'7'%'
+		Néi lùc tèi ®a: +12 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+		ThÓ lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 03:11:28]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,-356918876,0,0,4,1,8,1,21,3,2,1,3,2,2,0))
+			[ DetailType = 4 ] [[  Hång PhØ Thóy Hé Th©n phï   ]]
+		ThÓ lùc tèi ®a: +15 ®iÓm
+		'May m¾n: +'2'%'
+		Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Néi lùc tèi ®a: +20 ®iÓm
+
+-- [10-09-18 03:13:37]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1183951267,0,0,7,7,7,4,10,5,4,3,2,5,2,0))
+			[ DetailType = 7 ] [[  Thiªn Thanh M·o  ]]
+		Sinh lùc tèi ®a: +49 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +24 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Néi lùc tèi ®a: +48 ®iÓm
+
+-- [10-09-18 03:14:50]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,260245673,0,0,6,1,10,3,14,5,2,6,3,4,1,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +51 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +8 ®iÓm
+
+-- [10-09-18 03:20:42]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-702266707,0,0,8,1,8,1,79,3,6,3,4,2,2,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +49 ®iÓm
+		'Kh¸ng l«i: +'9'%'
+		ThÓ lùc tèi ®a: +12 ®iÓm
+
+-- [10-09-18 03:27:48]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,2121233192,0,0,6,1,8,3,109,2,7,7,6,2,7,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +32 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		Néi lùc tèi ®a: +29 ®iÓm
+		'Thêi gian lµm chËm: -'30'%'
+		ThÓ lùc tèi ®a: +31 ®iÓm
+		'Phßng thñ vËt lı: +'15'%'
+
+-- [10-09-18 03:28:30]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,-1787608479,0,0,6,0,8,2,89,7,6,8,8,2,7,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		Néi lùc tèi ®a: +108 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+		ThÓ lùc tèi ®a: +67 ®iÓm
+		'Kh¸ng háa: +'5'%'
+		Sinh lùc tèi ®a: +16 ®iÓm
+		'Thêi gian cho¸ng: -'30' ®iÓm'
+
+-- [10-09-18 03:28:32]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-1358302033,0,0,8,1,8,1,18,5,4,8,5,1,3,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		Néi lùc tèi ®a: +28 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		ThÓ lùc tèi ®a: +88 ®iÓm
+		'Kh¸ng l«i: +'7'%'
+		Sinh lùc tèi ®a: +14 ®iÓm
+
+-- [10-09-18 03:32:09]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1369105896,0,0,7,8,10,3,47,6,2,8,4,8,3,0))
+			[ DetailType = 7 ] [[  ¢m D­¬ng V« Cùc qu¸n  ]]
+		Néi lùc tèi ®a: +64 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		ThÓ lùc tèi ®a: +146 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		Sinh lùc tèi ®a: +62 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [10-09-18 03:32:57]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-377417703,0,0,2,7,8,4,16,1,1,4,1,8,6,0))
+			[ DetailType = 2 ] [[  Minh tÜnh cµ sa  ]]
+		ThÓ lùc tèi ®a: +12 ®iÓm
+
+-- [10-09-18 03:34:38]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1632147985,0,0,8,0,10,1,141,1,4,4,1,5,1,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 03:36:49]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1731928817,0,0,6,1,10,0,37,6,2,4,2,4,7,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +80 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		Néi lùc tèi ®a: +16 ®iÓm
+
+-- [10-09-18 03:37:05]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-1373754685,0,0,8,1,7,4,140,4,4,1,7,7,8,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +6 ®iÓm
+		'Kh¸ng b¨ng: +'9'%'
+		Néi lùc tèi ®a: +20 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 03:37:16]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,-1482640423,0,0,5,2,8,3,10,2,8,8,3,7,2,0))
+			[ DetailType = 5 ] [[  Ph¹m Hång Ngoa  ]]
+		Sinh lùc tèi ®a: +34 ®iÓm
+		'Phßng thñ vËt lı: +'15'%'
+		ThÓ lùc tèi ®a: +144 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Tèc ®é di chuyÓn: +25%
+
+-- [10-09-18 03:37:49]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,1575407164,0,0,7,0,7,1,1,3,5,6,6,4,3,0))
+			[ DetailType = 7 ] [[  Phï Dung M·o  ]]
+		Néi lùc tèi ®a: +21 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		ThÓ lùc tèi ®a: +37 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		Sinh lùc tèi ®a: +23 ®iÓm
+
+-- [10-09-18 03:38:12]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,-2094854209,0,0,7,6,7,1,121,7,7,4,3,2,8,0))
+			[ DetailType = 7 ] [[  Chu Khëi Qu¸n  ]]
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng l«i: +'7'%'
+		Néi lùc tèi ®a: +58 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 03:44:22]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,744663393,0,0,6,0,9,1,120,3,6,2,2,1,7,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +30 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		ThÓ lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Néi lùc tèi ®a: +16 ®iÓm
+
+-- [10-09-18 03:52:34]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,-1325004566,0,0,6,0,7,4,149,1,5,7,8,6,6,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		Sinh lùc tèi ®a: +89 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Néi lùc tèi ®a: +60 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [10-09-18 03:56:45]	[DropOn: Train]	[1StÙThiªnÙNhÉn-107-tuanlovekun]		Param: (AddItemEx(1,-2017641742,0,0,8,0,8,2,133,4,6,8,8,4,1,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		ThÓ lùc tèi ®a: +33 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		Sinh lùc tèi ®a: +112 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 03:57:13]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1153781747,0,0,5,0,8,1,13,3,6,4,4,5,8,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		Tèc ®é di chuyÓn: +13%
+		'Kh¸ng l«i: +'9'%'
+		Néi lùc tèi ®a: +20 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 03:57:37]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,1620835561,0,0,8,0,8,2,69,8,5,3,3,7,3,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		Sinh lùc tèi ®a: +112 ®iÓm
+		'Kh¸ng háa: +'9'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [10-09-18 03:59:25]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,1394756522,0,0,7,2,7,0,99,4,3,8,2,1,4,0))
+			[ DetailType = 7 ] [[  Nh©n B× DiÖn Tr¸o  ]]
+		Sinh lùc tèi ®a: +78 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		ThÓ lùc tèi ®a: +17 ®iÓm
+
+-- [10-09-18 04:01:31]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-535244075,0,0,5,2,9,4,21,1,2,1,8,7,2,0))
+			[ DetailType = 5 ] [[  B¹ch Chu ngoa  ]]
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Néi lùc tèi ®a: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+		Tèc ®é di chuyÓn: +25%
+
+-- [10-09-18 04:03:06]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1620165567,0,0,7,11,7,4,150,8,6,7,6,3,4,0))
+			[ DetailType = 7 ] [[  Song Phông TriÒu Thiªn Qu¸n  ]]
+		Néi lùc tèi ®a: +84 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		ThÓ lùc tèi ®a: +27 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+
+-- [10-09-18 04:05:00]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,2099502328,0,0,3,0,9,1,45,1,3,1,2,2,2,0))
+			[ DetailType = 3 ] [[  Lam B¶o Th¹ch Giíi ChØ  ]]
+		Néi lùc tèi ®a: +19 ®iÓm
+		'May m¾n: +'3'%'
+		Sinh lùc tèi ®a: +9 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 04:05:45]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-302027525,0,0,2,0,7,1,124,4,5,1,1,7,3,0))
+			[ DetailType = 2 ] [[  NguyÖn B¹ch Cµ Sa   ]]
+		Sinh lùc tèi ®a: +43 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Néi lùc tèi ®a: +12 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		Ph¶n ®oµn vËt lı: +4 ®iÓm
+
+-- [10-09-18 04:07:21]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,696222140,0,0,7,5,10,2,81,8,6,7,8,5,1,0))
+			[ DetailType = 7 ] [[  Trİch Tinh hoµn  ]]
+		Néi lùc tèi ®a: +129 ®iÓm
+		'Kh¸ng háa: +'11'%'
+		Sinh lùc tèi ®a: +71 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+
+-- [10-09-18 04:07:49]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,1811497157,0,0,6,1,9,0,76,1,3,6,8,6,1,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +56 ®iÓm
+
+-- [10-09-18 04:10:02]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-517090260,0,0,5,0,8,4,25,6,6,4,8,4,8,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		Néi lùc tèi ®a: +107 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +21 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +78 ®iÓm
+		'Kh¸ng b¨ng: +'11'%'
+
+-- [10-09-18 04:12:17]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1494485417,0,0,5,0,10,3,68,3,1,4,1,8,8,0))
+			[ DetailType = 5 ] [[  Cöu TiÕt X­¬ng VÜ Ngoa  ]]
+		Sinh lùc tèi ®a: +31 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		ThÓ lùc tèi ®a: +55 ®iÓm
+
+-- [10-09-18 04:17:35]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,2141382644,0,0,7,3,10,3,15,5,3,5,6,3,5,0))
+			[ DetailType = 7 ] [[  Th«ng Thiªn Ph¸t Qu¸n  ]]
+		Sinh lùc tèi ®a: +26 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		Néi lùc tèi ®a: +44 ®iÓm
+		'Phßng thñ vËt lı: +'15'%'
+		ThÓ lùc tèi ®a: +45 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 04:18:15]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,524065478,0,0,6,1,8,1,121,8,1,7,3,7,1,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +48 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Néi lùc tèi ®a: +94 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +42 ®iÓm
+
+-- [10-09-18 04:18:39]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-1137944621,0,0,8,1,7,4,72,8,1,5,1,7,1,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		Néi lùc tèi ®a: +60 ®iÓm
+
+-- [10-09-18 04:18:43]	[DropOn: Train]	[BopVuBu-82-letutl74]		Param: (AddItemEx(1,-984089222,0,0,7,12,10,0,41,4,8,3,8,1,2,0))
+			[ DetailType = 7 ] [[  Thanh Tinh Thoa  ]]
+		Sinh lùc tèi ®a: +32 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		ThÓ lùc tèi ®a: +43 ®iÓm
+		'Kh¸ng ®éc: +'15'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 04:19:10]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1405379179,0,0,6,0,8,4,69,7,6,8,2,2,7,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +123 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+		Néi lùc tèi ®a: +73 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Sinh lùc tèi ®a: +20 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+
+-- [10-09-18 04:27:31]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1196974925,0,0,6,1,9,3,56,5,1,1,7,2,5,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +59 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Sinh lùc tèi ®a: +14 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Phßng thñ vËt lı: +'7'%'
+
+-- [10-09-18 04:28:17]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,-435629563,0,0,5,1,9,3,10,4,1,8,8,1,4,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Néi lùc tèi ®a: +8 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Sinh lùc tèi ®a: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'Phßng thñ vËt lı: +'7'%'
+
+-- [10-09-18 04:31:00]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,722765473,0,0,6,0,9,1,146,6,3,3,4,1,3,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Néi lùc tèi ®a: +16 ®iÓm
+
+-- [10-09-18 04:36:35]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1401231803,0,0,9,0,7,1,45,1,2,3,1,1,3,0))
+			[ DetailType = 9 ] [[  TrÇm §µn H­¬ng Nang  ]]
+		Néi lùc tèi ®a: +8 ®iÓm
+		'May m¾n: +'1'%'
+		Sinh lùc tèi ®a: +58 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 04:37:38]	[DropOn: Train]	[1StÙThiªnÙNhÉn-107-tuanlovekun]		Param: (AddItemEx(1,702235035,0,0,2,6,10,0,19,7,2,5,3,6,1,0))
+			[ DetailType = 2 ] [[  TuyÒn Long bµo  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Sinh lùc tèi ®a: +96 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		ThÓ lùc tèi ®a: +80 ®iÓm
+
+-- [10-09-18 04:38:02]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-1484045072,0,0,7,13,9,4,71,4,6,7,4,3,2,0))
+			[ DetailType = 7 ] [[  Phông Nh·n Kh«i  ]]
+		Sinh lùc tèi ®a: +40 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+		ThÓ lùc tèi ®a: +55 ®iÓm
+		'Kh¸ng b¨ng: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 04:43:00]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1617159710,0,0,8,0,7,4,91,8,6,5,2,5,7,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +9 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +15 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 04:44:28]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-1115929571,0,0,7,12,8,4,90,6,5,4,3,4,6,0))
+			[ DetailType = 7 ] [[  Léc nhÜ Thoa  ]]
+		Sinh lùc tèi ®a: +89 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +54 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +50 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+
+-- [10-09-18 04:45:44]	[DropOn: Train]	[1StÙThiªnÙNhÉn-107-tuanlovekun]		Param: (AddItemEx(1,2060897091,0,0,6,1,9,0,47,4,2,1,7,8,6,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +6 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +18 ®iÓm
+
+-- [10-09-18 04:47:04]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1334881160,0,0,9,0,7,2,2,1,2,3,3,3,3,0))
+			[ DetailType = 9 ] [[  TrÇm §µn H­¬ng Nang  ]]
+		ThÓ lùc tèi ®a: +19 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +53 ®iÓm
+		'Kh¸ng háa: +'2'%'
+		Sinh lùc tèi ®a: +37 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [10-09-18 04:55:09]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1471041516,0,0,8,1,8,4,95,5,1,4,2,7,2,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 04:56:14]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1562314582,0,0,8,1,9,3,103,7,5,4,7,6,7,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Néi lùc tèi ®a: +46 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		ThÓ lùc tèi ®a: +79 ®iÓm
+		'Phßng thñ vËt lı: +'11'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Th©n ph¸p: +'6'®iÓm'
+
+-- [10-09-18 04:58:38]	[DropOn: Train]	[1StÙThiªnÙNhÉn-107-tuanlovekun]		Param: (AddItemEx(1,1058967044,0,0,9,1,8,2,9,2,1,1,3,1,3,0))
+			[ DetailType = 9 ] [[  MÆc Ngäc Ngäc Béi   ]]
+		Sinh lùc tèi ®a: +30 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		ThÓ lùc tèi ®a: +5 ®iÓm
+		'Kh¸ng háa: +'1'%'
+		Néi lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 05:07:30]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-373968113,0,0,6,0,9,0,85,4,4,8,7,5,1,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng ®éc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +43 ®iÓm
+
+-- [10-09-18 05:08:47]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1985596266,0,0,8,1,8,4,124,5,8,4,8,4,5,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +73 ®iÓm
+		'Kh¸ng b¨ng: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Néi lùc tèi ®a: +67 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 05:16:47]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1896088394,0,0,6,0,8,2,130,1,5,6,1,5,6,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'10' ®iÓm'
+		Néi lùc tèi ®a: +111 ®iÓm
+
+-- [10-09-18 05:19:09]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1853670258,0,0,8,1,9,2,13,2,5,7,8,6,5,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +9 ®iÓm
+		'ThÓ lùc tèi ®a: +'10' ®iÓm'
+		Néi lùc tèi ®a: +116 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		ThÓ lùc tèi ®a: +23 ®iÓm
+		'Kh¸ng háa: +'6'%'
+
+-- [10-09-18 05:25:31]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,2079171470,0,0,8,0,8,2,38,6,5,4,7,6,3,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		Néi lùc tèi ®a: +77 ®iÓm
+		'ThÓ lùc tèi ®a: +'10' ®iÓm'
+		ThÓ lùc tèi ®a: +67 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		Sinh lùc tèi ®a: +23 ®iÓm
+		'Kh¸ng háa: +'4'%'
+
+-- [10-09-18 05:27:10]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1433467180,0,0,5,3,8,2,92,8,2,5,1,4,4,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		Tèc ®é di chuyÓn: +19%
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		ThÓ lùc tèi ®a: +40 ®iÓm
+
+-- [10-09-18 05:28:35]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-2124255877,0,0,6,0,7,0,16,6,8,1,7,7,6,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'7'%'
+		Néi lùc tèi ®a: +12 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 05:28:39]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1647582379,0,0,5,1,7,2,50,7,2,4,2,5,7,0))
+			[ DetailType = 5 ] [[  Hæ B× Ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'3' ®iÓm'
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'Kh¸ng háa: +'5'%'
+		Néi lùc tèi ®a: +57 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+
+-- [10-09-18 05:31:12]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-257239103,0,0,5,2,8,3,118,6,1,2,3,6,7,0))
+			[ DetailType = 5 ] [[  Ph¹m Hång Ngoa  ]]
+		Néi lùc tèi ®a: +25 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		ThÓ lùc tèi ®a: +32 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Sinh lùc tèi ®a: +93 ®iÓm
+		'Phßng thñ vËt lı: +'10'%'
+
+-- [10-09-18 05:31:49]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1495264747,0,0,2,0,10,3,113,1,1,2,5,1,8,0))
+			[ DetailType = 2 ] [[  ThÊt B¶o Cµ Sa  ]]
+		Sinh lùc tèi ®a: +14 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		ThÓ lùc tèi ®a: +24 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 05:48:55]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,931355366,0,0,7,4,7,1,25,5,8,1,3,6,5,0))
+			[ DetailType = 7 ] [[  Ng©n Kh«i  ]]
+		ThÓ lùc tèi ®a: +26 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Sinh lùc tèi ®a: +77 ®iÓm
+
+-- [10-09-18 05:52:58]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1058767957,0,0,2,13,10,1,55,4,5,7,4,1,3,0))
+			[ DetailType = 2 ] [[  L­u Tiªn QuÇn  ]]
+		Sinh lùc tèi ®a: +46 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Kh¸ng l«i: +'9'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 05:53:24]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1344438789,0,0,2,3,10,4,60,2,4,7,3,4,3,0))
+			[ DetailType = 2 ] [[  Gi¸ng Sa Bµo  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +68 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+
+-- [10-09-18 05:58:27]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-329696560,0,0,8,0,7,4,142,7,7,3,7,1,7,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +38 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +17 ®iÓm
+		'Kh¸ng b¨ng: +'8'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [10-09-18 05:58:59]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,1215141712,0,0,3,0,10,2,21,1,1,1,1,1,1,0))
+			[ DetailType = 3 ] [[  Toµn Th¹ch Giíi ChØ  ]]
+		Néi lùc tèi ®a: +11 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 06:01:28]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-688754277,0,0,5,0,10,0,41,4,4,6,8,2,2,0))
+			[ DetailType = 5 ] [[  Cöu TiÕt X­¬ng VÜ Ngoa  ]]
+		Sinh lùc tèi ®a: +41 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		Tèc ®é di chuyÓn: +23%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 06:02:21]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-527397817,0,0,6,1,8,4,74,3,3,2,6,1,5,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +40 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +6 ®iÓm
+		'Kh¸ng b¨ng: +'9'%'
+
+-- [10-09-18 06:03:04]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,971454228,0,0,8,0,9,4,30,1,3,2,1,5,6,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +15 ®iÓm
+		'Kh¸ng b¨ng: +'3'%'
+		Sinh lùc tèi ®a: +5 ®iÓm
+
+-- [10-09-18 06:15:39]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,506829456,0,0,7,8,10,4,63,8,7,8,7,7,2,0))
+			[ DetailType = 7 ] [[  ¢m D­¬ng V« Cùc qu¸n  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Sinh lùc tèi ®a: +70 ®iÓm
+		'Kh¸ng b¨ng: +'11'%'
+		ThÓ lùc tèi ®a: +46 ®iÓm
+
+-- [10-09-18 06:16:21]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-411770142,0,0,6,1,8,2,114,4,7,3,1,2,1,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +60 ®iÓm
+		'Kh¸ng háa: +'13'%'
+		Néi lùc tèi ®a: +58 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Sinh lùc tèi ®a: +9 ®iÓm
+
+-- [10-09-18 06:16:49]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,2067782019,0,0,7,2,10,3,14,4,8,2,7,1,1,0))
+			[ DetailType = 7 ] [[  Tu La Ph¸t kÕt  ]]
+		Néi lùc tèi ®a: +45 ®iÓm
+		'Th©n ph¸p: +'11'®iÓm'
+		Sinh lùc tèi ®a: +20 ®iÓm
+		'Phßng thñ vËt lı: +'7'%'
+		ThÓ lùc tèi ®a: +18 ®iÓm
+
+-- [10-09-18 06:18:12]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,795799808,0,0,6,1,7,4,12,8,7,8,3,3,6,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +76 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		Sinh lùc tèi ®a: +30 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 06:20:22]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1592590295,0,0,5,2,9,3,128,2,6,1,2,3,4,0))
+			[ DetailType = 5 ] [[  B¹ch Chu ngoa  ]]
+		Sinh lùc tèi ®a: +21 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		ThÓ lùc tèi ®a: +10 ®iÓm
+		'Phßng thñ vËt lı: +'3'%'
+		Tèc ®é di chuyÓn: +13%
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [10-09-18 06:24:16]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1663110402,0,0,7,12,8,1,48,4,8,8,4,8,6,0))
+			[ DetailType = 7 ] [[  Léc nhÜ Thoa  ]]
+		Néi lùc tèi ®a: +37 ®iÓm
+		'Kh¸ng l«i: +'13'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +149 ®iÓm
+
+-- [10-09-18 06:28:18]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,1236440142,0,0,5,2,9,2,110,1,1,1,7,8,6,0))
+			[ DetailType = 5 ] [[  B¹ch Chu ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		ThÓ lùc tèi ®a: +15 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		Néi lùc tèi ®a: +72 ®iÓm
+		'Kh¸ng háa: +'1'%'
+
+-- [10-09-18 06:29:51]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1731575744,0,0,8,0,9,1,10,1,5,2,1,8,4,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		ThÓ lùc tèi ®a: +35 ®iÓm
+
+-- [10-09-18 06:31:26]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1796652222,0,0,5,0,8,3,38,4,8,8,6,4,1,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		Néi lùc tèi ®a: +36 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +19 ®iÓm
+		'Th©n ph¸p: +'8'®iÓm'
+		Sinh lùc tèi ®a: +24 ®iÓm
+
+-- [10-09-18 06:31:47]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-530794640,0,0,5,1,10,2,32,7,1,5,8,6,3,0))
+			[ DetailType = 5 ] [[  Thiªn Tµm Ngoa  ]]
+		ThÓ lùc tèi ®a: +11 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +64 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Sinh lùc tèi ®a: +62 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 06:31:49]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,971622248,0,0,8,1,9,1,72,4,7,5,4,2,3,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +63 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		Néi lùc tèi ®a: +9 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		ThÓ lùc tèi ®a: +15 ®iÓm
+
+-- [10-09-18 06:31:55]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,239823866,0,0,8,1,10,4,136,6,5,4,8,4,6,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		Néi lùc tèi ®a: +106 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Sinh lùc tèi ®a: +66 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 06:32:38]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1004741531,0,0,6,0,7,4,88,8,2,4,7,8,6,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +155 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+		Néi lùc tèi ®a: +55 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 06:33:05]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1656615401,0,0,8,0,7,3,57,6,8,6,5,1,2,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +10 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		Néi lùc tèi ®a: +8 ®iÓm
+		'Th©n ph¸p: +'9'®iÓm'
+		Sinh lùc tèi ®a: +6 ®iÓm
+
+-- [10-09-18 06:39:42]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,2089451855,0,0,7,7,9,3,78,3,6,8,4,8,1,0))
+			[ DetailType = 7 ] [[  V« T­íng Ph¸p Qu¸n  ]]
+		Néi lùc tèi ®a: +20 ®iÓm
+		'Th©n ph¸p: +'9'®iÓm'
+		Sinh lùc tèi ®a: +24 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		ThÓ lùc tèi ®a: +126 ®iÓm
+
+-- [10-09-18 06:42:49]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,34544801,0,0,5,1,7,0,14,6,7,8,1,3,7,0))
+			[ DetailType = 5 ] [[  Hæ B× Ngoa  ]]
+		Sinh lùc tèi ®a: +57 ®iÓm
+		'Kh¸ng ®éc: +'14'%'
+		ThÓ lùc tèi ®a: +92 ®iÓm
+
+-- [10-09-18 06:54:50]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,335142436,0,0,8,0,7,4,67,5,2,4,2,4,4,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +40 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		Néi lùc tèi ®a: +65 ®iÓm
+
+-- [10-09-18 06:55:17]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-2091254573,0,0,6,1,10,2,34,4,4,7,7,2,8,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +48 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+		Néi lùc tèi ®a: +40 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 07:00:40]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,907578529,0,0,6,0,10,3,101,8,6,1,6,4,1,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		Néi lùc tèi ®a: +91 ®iÓm
+		'Th©n ph¸p: +'5'®iÓm'
+		ThÓ lùc tèi ®a: +18 ®iÓm
+		'Phßng thñ vËt lı: +'9'%'
+		Sinh lùc tèi ®a: +16 ®iÓm
+
+-- [10-09-18 07:03:30]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-290059293,0,0,8,1,7,0,4,2,5,4,7,8,7,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +39 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Néi lùc tèi ®a: +60 ®iÓm
+		'Kh¸ng ®éc: +'14'%'
+		ThÓ lùc tèi ®a: +18 ®iÓm
+
+-- [10-09-18 07:05:28]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1139550094,0,0,6,1,10,2,89,2,2,3,2,8,5,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Néi lùc tèi ®a: +33 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		Sinh lùc tèi ®a: +39 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		ThÓ lùc tèi ®a: +35 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 07:07:45]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1304514473,0,0,6,1,10,0,112,4,8,7,6,7,3,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +12 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'Kh¸ng ®éc: +'9'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 07:09:55]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,784277998,0,0,5,1,7,3,88,7,7,2,3,5,6,0))
+			[ DetailType = 5 ] [[  Hæ B× Ngoa  ]]
+		Sinh lùc tèi ®a: +9 ®iÓm
+		'Thêi gian lµm chËm: -'30'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		Néi lùc tèi ®a: +27 ®iÓm
+		'Phßng thñ vËt lı: +'8'%'
+
+-- [10-09-18 07:11:35]	[DropOn: Train]	[3StÙThiªnÙNhÉn-107-tuanlovekun2]		Param: (AddItemEx(1,1361627652,0,0,9,1,7,4,28,1,3,1,2,2,1,0))
+			[ DetailType = 9 ] [[  Bİch Ngäc Ngäc Béi   ]]
+		ThÓ lùc tèi ®a: +15 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Néi lùc tèi ®a: +5 ®iÓm
+
+-- [10-09-18 07:12:22]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,1731146895,0,0,8,1,9,3,119,2,1,1,4,2,2,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Néi lùc tèi ®a: +16 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Sinh lùc tèi ®a: +14 ®iÓm
+		'Phßng thñ vËt lı: +'2'%'
+
+-- [10-09-18 07:14:19]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,374853246,0,0,1,0,10,0,4,2,3,1,3,1,1,0))
+			[ DetailType = 1 ] [[  B¸ V­¬ngTiªu  ]]
+		Sinh lùc tèi ®a: +9 ®iÓm
+		'S¸t th­¬ng vËt lı - ngo¹i c«ng: +'13' ®iÓm'
+		§é chİnh x¸c: +22 ®iÓm
+		'S¸t th­¬ng vËt lı - néi c«ng: +'28' ®iÓm'
+		S¸t th­¬ng vËt lı - ngo¹i c«ng: +7%
+
+-- [10-09-18 07:16:04]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1659961250,0,0,6,0,10,1,141,5,4,5,8,1,6,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +67 ®iÓm
+		'Kh¸ng l«i: +'10'%'
+		Néi lùc tèi ®a: +15 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 07:21:59]	[DropOn: Train]	[5StÙThiªnÙNhÉn-103-tuanlovekun4]		Param: (AddItemEx(1,-1920370325,0,0,7,2,7,3,67,8,3,6,8,2,8,0))
+			[ DetailType = 7 ] [[  Nh©n B× DiÖn Tr¸o  ]]
+		Néi lùc tèi ®a: +152 ®iÓm
+		'Th©n ph¸p: +'5'®iÓm'
+		ThÓ lùc tèi ®a: +88 ®iÓm
+		'Phßng thñ vËt lı: +'19'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+
+-- [10-09-18 07:22:47]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,262689233,0,0,6,0,7,2,4,7,4,3,8,7,2,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +120 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng háa: +'7'%'
+		Néi lùc tèi ®a: +16 ®iÓm
+
+-- [10-09-18 07:24:10]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,97183057,0,0,8,0,9,4,118,7,5,3,7,7,7,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +67 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Néi lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng b¨ng: +'14'%'
+		ThÓ lùc tèi ®a: +137 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 07:28:13]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,584375686,0,0,5,2,8,2,138,4,6,5,8,3,7,0))
+			[ DetailType = 5 ] [[  Ph¹m Hång Ngoa  ]]
+		ThÓ lùc tèi ®a: +27 ®iÓm
+		'ThÓ lùc tèi ®a: +'8' ®iÓm'
+		Néi lùc tèi ®a: +52 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		Sinh lùc tèi ®a: +13 ®iÓm
+		'Kh¸ng háa: +'4'%'
+
+-- [10-09-18 07:38:59]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1501644567,0,0,5,3,7,4,135,3,2,3,7,3,3,0))
+			[ DetailType = 5 ] [[  X­¬ng Hoµn ngoa  ]]
+		ThÓ lùc tèi ®a: +29 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Néi lùc tèi ®a: +36 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+		Tèc ®é di chuyÓn: +11%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 07:39:27]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,867950912,0,0,5,3,9,4,71,6,5,5,4,3,6,0))
+			[ DetailType = 5 ] [[  Sİnh Sa ngoa  ]]
+		Néi lùc tèi ®a: +34 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +89 ®iÓm
+		'Kh¸ng b¨ng: +'1'%'
+		ThÓ lùc tèi ®a: +7 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 07:44:12]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1015495056,0,0,0,4,10,1,11,2,2,2,1,1,3,0))
+			[ DetailType = 0 ] [[  Ph¸ Thiªn chïy  ]]
+		Néi lùc tèi ®a: +31 ®iÓm
+		'§éc s¸t - néi c«ng: +'6' ®iÓm'
+		§é chİnh x¸c: +13 ®iÓm
+		'§éc s¸t - ngo¹i c«ng: +'2' ®iÓm'
+		ThÓ lùc tèi ®a: +7 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+
+-- [10-09-18 07:50:55]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,928869900,0,0,7,12,8,1,25,3,1,7,8,4,1,0))
+			[ DetailType = 7 ] [[  Léc nhÜ Thoa  ]]
+		ThÓ lùc tèi ®a: +22 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +20 ®iÓm
+
+-- [10-09-18 07:53:22]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-2137288656,0,0,6,0,7,0,144,4,8,4,7,4,2,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Néi lùc tèi ®a: +23 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Sinh lùc tèi ®a: +22 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 08:01:07]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-704160569,0,0,6,1,10,2,96,8,1,1,8,4,7,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Néi lùc tèi ®a: +148 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'Thêi gian cho¸ng: -'30' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng háa: +'10'%'
+
+-- [10-09-18 08:01:39]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1781654634,0,0,8,1,8,4,52,8,4,2,3,3,8,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		Néi lùc tèi ®a: +47 ®iÓm
+		'Kh¸ng b¨ng: +'3'%'
+		ThÓ lùc tèi ®a: +25 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 08:07:38]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1815917935,0,0,6,0,8,1,80,2,2,3,5,3,5,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +23 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Néi lùc tèi ®a: +16 ®iÓm
+
+-- [10-09-18 08:08:05]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,241579929,0,0,7,7,10,3,53,2,4,2,3,8,5,0))
+			[ DetailType = 7 ] [[  Quan ¢m Ph¸t Qu¸n  ]]
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Néi lùc tèi ®a: +23 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [10-09-18 08:10:02]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1134528519,0,0,5,1,8,2,59,8,1,7,5,6,7,0))
+			[ DetailType = 5 ] [[  Tª B× Ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Sinh lùc tèi ®a: +100 ®iÓm
+		'Kh¸ng háa: +'7'%'
+		ThÓ lùc tèi ®a: +95 ®iÓm
+		'Thêi gian cho¸ng: -'30' ®iÓm'
+
+-- [10-09-18 08:14:08]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1416398454,0,0,5,0,9,3,25,2,5,3,4,1,5,0))
+			[ DetailType = 5 ] [[  Phong VÜ Tèng Ngoa  ]]
+		Néi lùc tèi ®a: +17 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Phßng thñ vËt lı: +'1'%'
+		ThÓ lùc tèi ®a: +13 ®iÓm
+		'Th©n ph¸p: +'8'®iÓm'
+
+-- [10-09-18 08:14:16]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1014632551,0,0,7,7,8,0,88,2,2,3,1,8,4,0))
+			[ DetailType = 7 ] [[  Xİch ¶nh ph¸t Qu¸n  ]]
+		Néi lùc tèi ®a: +23 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 08:18:30]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1182856214,0,0,5,3,8,1,53,8,1,2,8,2,2,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		ThÓ lùc tèi ®a: +48 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Néi lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 08:21:40]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,681978697,0,0,6,1,9,3,117,3,3,2,8,7,6,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Th©n ph¸p: +'5'®iÓm'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		ThÓ lùc tèi ®a: +107 ®iÓm
+		'Thêi gian lµm chËm: -'30'%'
+
+-- [10-09-18 08:22:49]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,761723998,0,0,8,0,7,1,1,7,7,4,2,4,8,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +100 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Néi lùc tèi ®a: +77 ®iÓm
+
+-- [10-09-18 08:23:24]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-427912067,0,0,8,1,10,2,80,1,2,3,3,5,8,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +16 ®iÓm
+		'ThÓ lùc tèi ®a: +'3' ®iÓm'
+		Néi lùc tèi ®a: +22 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +59 ®iÓm
+		'Kh¸ng háa: +'9'%'
+
+-- [10-09-18 08:23:28]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1751055674,0,0,5,0,9,0,109,5,1,2,8,8,1,0))
+			[ DetailType = 5 ] [[  Phong VÜ Tèng Ngoa  ]]
+		Néi lùc tèi ®a: +94 ®iÓm
+
+-- [10-09-18 08:28:26]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-636711510,0,0,7,9,7,2,106,4,8,4,7,4,3,0))
+			[ DetailType = 7 ] [[  HuyÒn Cèt Tr©m  ]]
+		Sinh lùc tèi ®a: +40 ®iÓm
+		'ThÓ lùc tèi ®a: +'14' ®iÓm'
+		Néi lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng háa: +'10'%'
+		ThÓ lùc tèi ®a: +22 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [10-09-18 08:31:17]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1089863528,0,0,9,1,8,1,7,3,2,1,3,2,2,0))
+			[ DetailType = 9 ] [[  MÆc Ngäc Ngäc Béi   ]]
+		Phôc håi néi lùc mçi nöa gi©y: +1 ®iÓm
+		'May m¾n: +'2'%'
+		Néi lùc tèi ®a: +9 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Sinh lùc tèi ®a: +37 ®iÓm
+
+-- [10-09-18 08:32:16]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-2000952640,0,0,7,5,10,2,131,5,7,2,1,2,6,0))
+			[ DetailType = 7 ] [[  Trİch Tinh hoµn  ]]
+		Néi lùc tèi ®a: +48 ®iÓm
+		'ThÓ lùc tèi ®a: +'12' ®iÓm'
+		ThÓ lùc tèi ®a: +36 ®iÓm
+
+-- [10-09-18 08:32:48]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1914694535,0,0,5,3,8,1,96,8,6,4,5,2,4,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		Néi lùc tèi ®a: +12 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+		Sinh lùc tèi ®a: +57 ®iÓm
+		'Kh¸ng l«i: +'7'%'
+		ThÓ lùc tèi ®a: +37 ®iÓm
+
+-- [10-09-18 08:35:29]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-636663116,0,0,7,8,7,3,72,4,1,2,1,3,1,0))
+			[ DetailType = 7 ] [[  Kim Bé Dao  ]]
+		Néi lùc tèi ®a: +32 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		ThÓ lùc tèi ®a: +21 ®iÓm
+
+-- [10-09-18 08:37:39]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1836875719,0,0,7,1,7,0,28,2,5,5,6,5,5,0))
+			[ DetailType = 7 ] [[  Ngò Nh¹c Qu¸n  ]]
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Néi lùc tèi ®a: +57 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Sinh lùc tèi ®a: +93 ®iÓm
+
+-- [10-09-18 08:41:15]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-754812058,0,0,7,7,10,1,77,1,4,2,2,2,8,0))
+			[ DetailType = 7 ] [[  Quan ¢m Ph¸t Qu¸n  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng l«i: +'6'%'
+		ThÓ lùc tèi ®a: +31 ®iÓm
+
+-- [10-09-18 08:42:23]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1864493876,0,0,5,2,7,3,69,4,5,2,8,6,4,0))
+			[ DetailType = 5 ] [[  Liªn Phong Ngoa  ]]
+		Tèc ®é di chuyÓn: +17%
+		'Th©n ph¸p: +'2'®iÓm'
+		Néi lùc tèi ®a: +35 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Phßng thñ vËt lı: +'8'%'
+
+-- [10-09-18 08:43:45]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-276858369,0,0,6,1,9,4,24,3,1,1,1,3,2,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +18 ®iÓm
+
+-- [10-09-18 08:45:19]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,40292093,0,0,6,0,7,2,82,3,5,7,1,6,3,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +28 ®iÓm
+		'ThÓ lùc tèi ®a: +'9' ®iÓm'
+		Néi lùc tèi ®a: +43 ®iÓm
+
+-- [10-09-18 08:48:22]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,2089367474,0,0,0,4,10,2,10,2,1,3,1,2,2,0))
+			[ DetailType = 0 ] [[  Ph¸ Thiªn chïy  ]]
+		S¸t th­¬ng vËt lı - ngo¹i c«ng: +10%
+		'B¨ng s¸t - néi c«ng: +'6' ®iÓm'
+		§é chİnh x¸c: +20 ®iÓm
+		'B¨ng s¸t - ngo¹i c«ng: +'4' ®iÓm'
+		Néi lùc tèi ®a: +27 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+
+-- [10-09-18 08:51:47]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,522221502,0,0,5,3,9,2,70,1,6,1,8,4,4,0))
+			[ DetailType = 5 ] [[  Sİnh Sa ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+		ThÓ lùc tèi ®a: +15 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Tèc ®é di chuyÓn: +17%
+		'ThÓ lùc tèi ®a: +'6' ®iÓm'
+
+-- [10-09-18 08:54:18]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,931942131,0,0,7,11,10,2,21,3,1,2,3,2,1,0))
+			[ DetailType = 7 ] [[  Long L©n Kh«i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+
+-- [10-09-18 08:55:17]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,529016708,0,0,5,2,7,1,145,4,4,1,7,2,1,0))
+			[ DetailType = 5 ] [[  Liªn Phong Ngoa  ]]
+		Tèc ®é di chuyÓn: +19%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng l«i: +'6'%'
+		Néi lùc tèi ®a: +35 ®iÓm
+
+-- [10-09-18 08:58:27]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1560988616,0,0,5,1,9,3,121,6,5,6,1,2,4,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Néi lùc tèi ®a: +80 ®iÓm
+		'Th©n ph¸p: +'6'®iÓm'
+		ThÓ lùc tèi ®a: +52 ®iÓm
+
+-- [10-09-18 09:01:00]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1374264127,0,0,5,1,7,0,91,6,3,3,6,6,8,0))
+			[ DetailType = 5 ] [[  Hæ B× Ngoa  ]]
+		Sinh lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +23 ®iÓm
+
+-- [10-09-18 09:04:43]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,905680932,0,0,9,1,10,4,18,1,1,1,1,3,1,0))
+			[ DetailType = 9 ] [[  D­¬ng Chi B¹ch Ngäc  ]]
+		Sinh lùc tèi ®a: +15 ®iÓm
+
+-- [10-09-18 09:13:22]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1357649456,0,0,8,0,7,4,1,6,7,5,5,4,5,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +104 ®iÓm
+		'Kh¸ng b¨ng: +'15'%'
+		Néi lùc tèi ®a: +25 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +23 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 09:16:16]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1345419212,0,0,6,1,9,1,150,4,1,1,1,4,4,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Sinh lùc tèi ®a: +13 ®iÓm
+
+-- [10-09-18 09:16:17]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-116388519,0,0,8,0,8,4,33,8,5,1,1,3,3,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		Sinh lùc tèi ®a: +36 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 09:19:36]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,536706928,0,0,7,8,7,0,115,5,8,1,5,2,8,0))
+			[ DetailType = 7 ] [[  Kim Bé Dao  ]]
+		Sinh lùc tèi ®a: +71 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Néi lùc tèi ®a: +17 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +7 ®iÓm
+
+-- [10-09-18 09:20:44]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1615822406,0,0,5,3,9,1,44,3,7,2,1,6,7,0))
+			[ DetailType = 5 ] [[  Sİnh Sa ngoa  ]]
+		ThÓ lùc tèi ®a: +5 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Néi lùc tèi ®a: +11 ®iÓm
+
+-- [10-09-18 09:24:29]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1951461504,0,0,2,6,9,0,147,5,3,7,5,5,2,0))
+			[ DetailType = 2 ] [[  T­¬ng Nh­ bµo  ]]
+		ThÓ lùc tèi ®a: +35 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +66 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		Thêi gian phôc håi: -20
+
+-- [10-09-18 09:24:39]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-727853452,0,0,8,1,10,3,64,7,1,7,3,6,5,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		Néi lùc tèi ®a: +103 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Sinh lùc tèi ®a: +33 ®iÓm
+		'Phßng thñ vËt lı: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [10-09-18 09:30:30]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,2054969506,0,0,8,1,7,1,38,2,7,2,2,5,4,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +23 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 09:33:51]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-1394329891,0,0,7,4,9,2,77,5,3,2,1,7,4,0))
+			[ DetailType = 7 ] [[  Kim Kh«i   ]]
+		ThÓ lùc tèi ®a: +16 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Sinh lùc tèi ®a: +14 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 09:34:34]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1074456024,0,0,8,0,8,0,12,8,2,7,5,1,3,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		Néi lùc tèi ®a: +100 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		ThÓ lùc tèi ®a: +86 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 09:35:59]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1831902711,0,0,8,0,9,3,27,3,5,5,7,7,3,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'Th©n ph¸p: +'7'®iÓm'
+		ThÓ lùc tèi ®a: +36 ®iÓm
+		'Phßng thñ vËt lı: +'7'%'
+		Néi lùc tèi ®a: +8 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [10-09-18 09:36:15]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1998426775,0,0,8,1,9,0,35,6,4,3,3,2,2,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		ThÓ lùc tèi ®a: +8 ®iÓm
+
+-- [10-09-18 09:38:41]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,6486378,0,0,8,1,9,3,71,1,2,3,4,5,1,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Sinh lùc tèi ®a: +56 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Néi lùc tèi ®a: +34 ®iÓm
+
+-- [10-09-18 09:38:44]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1933739439,0,0,2,12,9,1,63,6,1,2,1,6,8,0))
+			[ DetailType = 2 ] [[  Kh«i §iªu y  ]]
+		Sinh lùc tèi ®a: +103 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		ThÓ lùc tèi ®a: +35 ®iÓm
+
+-- [10-09-18 09:45:11]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,157387390,0,0,6,1,9,1,43,2,8,7,8,4,7,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +9 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		ThÓ lùc tèi ®a: +135 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 09:49:09]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-1994919361,0,0,8,1,10,4,100,5,4,8,4,3,3,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng b¨ng: +'7'%'
+		ThÓ lùc tèi ®a: +134 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Néi lùc tèi ®a: +29 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [10-09-18 09:50:27]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1839475042,0,0,7,12,7,0,90,4,5,1,5,6,5,0))
+			[ DetailType = 7 ] [[  L­u Ly Thoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Néi lùc tèi ®a: +19 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		Sinh lùc tèi ®a: +60 ®iÓm
+
+-- [10-09-18 09:53:51]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,813227112,0,0,5,2,10,0,137,7,8,2,5,4,8,0))
+			[ DetailType = 5 ] [[  Kim Lò hµi  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		ThÓ lùc tèi ®a: +9 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Tèc ®é di chuyÓn: +17%
+
+-- [10-09-18 09:54:38]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-254888418,0,0,5,1,8,3,34,2,7,3,3,4,7,0))
+			[ DetailType = 5 ] [[  Tª B× Ngoa  ]]
+		Néi lùc tèi ®a: +9 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+		Sinh lùc tèi ®a: +15 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Th©n ph¸p: +'14'®iÓm'
+
+-- [10-09-18 09:54:46]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1735689565,0,0,9,0,8,0,5,1,3,1,3,1,2,0))
+			[ DetailType = 9 ] [[  Tiªn X¹ H­¬ng Nang  ]]
+		Sinh lùc tèi ®a: +16 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		Néi lùc tèi ®a: +14 ®iÓm
+		'Søc m¹nh: +'5'®iÓm'
+		ThÓ lùc tèi ®a: +12 ®iÓm
+
+-- [10-09-18 09:56:51]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1764910301,0,0,8,0,10,3,57,4,2,6,3,5,2,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Néi lùc tèi ®a: +43 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Sinh lùc tèi ®a: +88 ®iÓm
+		'Phßng thñ vËt lı: +'1'%'
+
+-- [10-09-18 10:02:34]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1321997115,0,0,7,8,10,3,105,8,4,2,1,1,1,0))
+			[ DetailType = 7 ] [[  ¢m D­¬ng V« Cùc qu¸n  ]]
+		Néi lùc tèi ®a: +151 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Sinh lùc tèi ®a: +12 ®iÓm
+
+-- [10-09-18 10:03:29]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1264074631,0,0,8,0,9,3,56,2,3,1,7,6,2,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'Th©n ph¸p: +'5'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		ThÓ lùc tèi ®a: +96 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+
+-- [10-09-18 10:12:07]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1650574553,0,0,5,1,10,0,4,6,7,7,3,3,8,0))
+			[ DetailType = 5 ] [[  Thiªn Tµm Ngoa  ]]
+		Sinh lùc tèi ®a: +29 ®iÓm
+		'Kh¸ng ®éc: +'12'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Tèc ®é di chuyÓn: +11%
+
+-- [10-09-18 10:13:22]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-177606991,0,0,8,0,9,0,141,1,2,2,1,5,5,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+
+-- [10-09-18 10:17:40]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-987761784,0,0,6,0,8,3,67,8,3,7,6,1,1,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +42 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Phßng thñ vËt lı: +'2'%'
+		Néi lùc tèi ®a: +15 ®iÓm
+
+-- [10-09-18 10:18:30]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1574457131,0,0,5,1,7,3,94,7,5,8,1,6,4,0))
+			[ DetailType = 5 ] [[  Hæ B× Ngoa  ]]
+		Sinh lùc tèi ®a: +108 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Néi lùc tèi ®a: +151 ®iÓm
+
+-- [10-09-18 10:21:09]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1833055491,0,0,5,0,7,2,50,5,7,6,7,7,1,0))
+			[ DetailType = 5 ] [[  TrÜ VÜ Tèng Ngoa  ]]
+		Néi lùc tèi ®a: +64 ®iÓm
+		'ThÓ lùc tèi ®a: +'13' ®iÓm'
+		Tèc ®é di chuyÓn: +18%
+		'Thêi gian cho¸ng: -'30' ®iÓm'
+		Sinh lùc tèi ®a: +137 ®iÓm
+
+-- [10-09-18 10:21:15]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,2126254687,0,0,5,0,9,1,51,3,8,2,2,1,4,0))
+			[ DetailType = 5 ] [[  Phong VÜ Tèng Ngoa  ]]
+		Néi lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng l«i: +'9'%'
+		Tèc ®é di chuyÓn: +13%
+
+-- [10-09-18 10:23:53]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,194737999,0,0,5,1,8,1,1,7,4,8,7,8,4,0))
+			[ DetailType = 5 ] [[  Tª B× Ngoa  ]]
+		ThÓ lùc tèi ®a: +80 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		Néi lùc tèi ®a: +14 ®iÓm
+
+-- [10-09-18 10:28:32]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,630779714,0,0,5,1,9,3,87,6,4,1,6,4,1,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Sinh lùc tèi ®a: +65 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Néi lùc tèi ®a: +19 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +25 ®iÓm
+
+-- [10-09-18 10:34:00]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1300312654,0,0,6,1,9,4,55,2,2,7,4,1,4,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Néi lùc tèi ®a: +88 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 10:39:51]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1305338173,0,0,6,0,7,0,142,5,2,7,4,1,2,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +86 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		ThÓ lùc tèi ®a: +101 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +18 ®iÓm
+
+-- [10-09-18 10:45:18]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1980845605,0,0,6,0,9,1,1,5,5,4,1,5,7,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +81 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		ThÓ lùc tèi ®a: +70 ®iÓm
+
+-- [10-09-18 10:46:01]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1650528652,0,0,2,11,9,2,27,6,2,5,4,5,7,0))
+			[ DetailType = 2 ] [[  HuyÒn ThiÕt TuyÕt Ng©n gi¸p  ]]
+		Néi lùc tèi ®a: +100 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		Sinh lùc tèi ®a: +59 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Thêi gian phôc håi: -20
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 10:48:12]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1208961021,0,0,8,0,9,3,32,3,6,7,6,4,2,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +16 ®iÓm
+		'Phßng thñ vËt lı: +'7'%'
+		Néi lùc tèi ®a: +114 ®iÓm
+		'Thêi gian lµm chËm: -'30'%'
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+
+-- [10-09-18 10:52:15]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1457768147,0,0,8,0,9,1,83,8,7,5,7,4,4,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +123 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +44 ®iÓm
+		'Kh¸ng l«i: +'14'%'
+		Néi lùc tèi ®a: +40 ®iÓm
+
+-- [10-09-18 10:52:28]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,572994684,0,0,8,1,7,2,65,6,4,5,1,1,4,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +65 ®iÓm
+		'ThÓ lùc tèi ®a: +'8' ®iÓm'
+		Sinh lùc tèi ®a: +57 ®iÓm
+
+-- [10-09-18 10:59:41]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,-616771440,0,0,7,0,7,2,10,4,5,6,3,2,3,0))
+			[ DetailType = 7 ] [[  Phï Dung M·o  ]]
+		Sinh lùc tèi ®a: +68 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +103 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Néi lùc tèi ®a: +21 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+
+-- [10-09-18 11:06:38]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1814857726,0,0,8,0,10,0,120,8,2,4,5,4,4,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +58 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		Néi lùc tèi ®a: +32 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +27 ®iÓm
+
+-- [10-09-18 11:08:12]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1508150018,0,0,8,0,7,1,136,5,5,8,6,8,6,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +32 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +28 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Sinh lùc tèi ®a: +55 ®iÓm
+
+-- [10-09-18 11:13:09]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-535133811,0,0,8,0,10,2,143,6,6,7,5,6,8,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +51 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng háa: +'5'%'
+		ThÓ lùc tèi ®a: +83 ®iÓm
+		'Thêi gian cho¸ng: -'30' ®iÓm'
+
+-- [10-09-18 11:14:59]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,669018387,0,0,8,0,7,4,108,2,6,1,1,7,8,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +20 ®iÓm
+
+-- [10-09-18 11:16:15]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1412518782,0,0,8,0,10,0,123,1,7,3,8,2,7,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'11'%'
+		Sinh lùc tèi ®a: +36 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +31 ®iÓm
+
+-- [10-09-18 11:19:45]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1655349682,0,0,7,5,8,2,79,7,4,1,2,1,6,0))
+			[ DetailType = 7 ] [[  Tİn nhía Hoµn  ]]
+		ThÓ lùc tèi ®a: +122 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Néi lùc tèi ®a: +9 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+
+-- [10-09-18 11:21:05]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1313005304,0,0,6,0,8,3,127,4,6,3,5,6,5,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Phßng thñ vËt lı: +'10'%'
+		ThÓ lùc tèi ®a: +22 ®iÓm
+		'Th©n ph¸p: +'10'®iÓm'
+		Sinh lùc tèi ®a: +38 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 11:24:39]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,415843223,0,0,6,1,8,1,117,8,7,4,1,1,3,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		Néi lùc tèi ®a: +142 ®iÓm
+		'Kh¸ng l«i: +'9'%'
+		Sinh lùc tèi ®a: +48 ®iÓm
+
+-- [10-09-18 11:27:34]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1917497258,0,0,9,1,9,2,28,3,3,1,3,2,2,0))
+			[ DetailType = 9 ] [[  Hoµng Ngäc Ngäc Béi   ]]
+		Sinh lùc tèi ®a: +24 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		ThÓ lùc tèi ®a: +11 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		Phôc håi néi lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 11:43:32]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,2072579628,0,0,6,1,7,2,15,1,8,8,1,6,2,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +7 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		ThÓ lùc tèi ®a: +141 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Sinh lùc tèi ®a: +119 ®iÓm
+		'Kh¸ng háa: +'4'%'
+
+-- [10-09-18 11:45:56]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-121955206,0,0,8,0,7,0,24,1,2,7,1,7,4,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Sinh lùc tèi ®a: +119 ®iÓm
+
+-- [10-09-18 11:48:59]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-2007188463,0,0,7,1,10,4,127,1,6,7,4,5,1,0))
+			[ DetailType = 7 ] [[  Ngò l·o qu¸n  ]]
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng b¨ng: +'14'%'
+		Néi lùc tèi ®a: +75 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 11:54:25]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,899528455,0,0,5,1,10,2,140,8,7,2,3,4,5,0))
+			[ DetailType = 5 ] [[  Thiªn Tµm Ngoa  ]]
+		ThÓ lùc tèi ®a: +29 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+		Tèc ®é di chuyÓn: +13%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +42 ®iÓm
+		'Kh¸ng háa: +'4'%'
+
+-- [10-09-18 11:54:34]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-3301594,0,0,6,1,7,2,124,6,7,6,2,6,8,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +116 ®iÓm
+		'Kh¸ng háa: +'2'%'
+		ThÓ lùc tèi ®a: +71 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Sinh lùc tèi ®a: +104 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 11:57:06]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1382773663,0,0,5,3,8,3,68,8,8,4,7,4,2,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		Sinh lùc tèi ®a: +64 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		Néi lùc tèi ®a: +14 ®iÓm
+
+-- [10-09-18 11:59:19]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,364304329,0,0,7,3,10,4,92,3,2,8,5,8,2,0))
+			[ DetailType = 7 ] [[  Th«ng Thiªn Ph¸t Qu¸n  ]]
+		Néi lùc tèi ®a: +26 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +5 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Sinh lùc tèi ®a: +133 ®iÓm
+
+-- [10-09-18 11:59:21]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,626681452,0,0,7,10,9,3,94,4,3,1,2,3,4,0))
+			[ DetailType = 7 ] [[  Minh Ch©u §Çu Hoµn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		Sinh lùc tèi ®a: +13 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		Néi lùc tèi ®a: +36 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 12:03:04]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,415477577,0,0,7,0,9,3,12,7,5,6,5,7,1,0))
+			[ DetailType = 7 ] [[  NiÖm Ninh M·o  ]]
+		Sinh lùc tèi ®a: +33 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'Phßng thñ vËt lı: +'7'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+
+-- [10-09-18 12:03:08]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1623376561,0,0,8,1,10,2,106,3,2,7,6,4,7,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		Néi lùc tèi ®a: +20 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		ThÓ lùc tèi ®a: +44 ®iÓm
+		'Kh¸ng háa: +'7'%'
+
+-- [10-09-18 12:03:48]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1245111288,0,0,7,12,8,2,122,5,1,3,5,7,4,0))
+			[ DetailType = 7 ] [[  Léc nhÜ Thoa  ]]
+		ThÓ lùc tèi ®a: +68 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +9 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Sinh lùc tèi ®a: +125 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 12:04:07]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-225762100,0,0,7,8,9,0,19,4,8,3,7,4,6,0))
+			[ DetailType = 7 ] [[  Th¸i cùc Qu¸n  ]]
+		Néi lùc tèi ®a: +71 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng ®éc: +'13'%'
+		ThÓ lùc tèi ®a: +39 ®iÓm
+
+-- [10-09-18 12:12:36]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1840235758,0,0,7,3,7,2,12,4,4,8,5,3,1,0))
+			[ DetailType = 7 ] [[  Anh L¹c Qu¸n  ]]
+		Néi lùc tèi ®a: +40 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'6' ®iÓm'
+		Sinh lùc tèi ®a: +31 ®iÓm
+
+-- [10-09-18 12:13:56]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-2116467905,0,0,5,0,7,1,49,4,7,5,5,3,3,0))
+			[ DetailType = 5 ] [[  TrÜ VÜ Tèng Ngoa  ]]
+		Néi lùc tèi ®a: +46 ®iÓm
+		'Kh¸ng l«i: +'12'%'
+		Sinh lùc tèi ®a: +21 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		ThÓ lùc tèi ®a: +38 ®iÓm
+
+-- [10-09-18 12:14:13]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1100463473,0,0,6,1,7,0,69,7,8,8,7,5,2,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng ®éc: +'9'%'
+		ThÓ lùc tèi ®a: +135 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +54 ®iÓm
+
+-- [10-09-18 12:20:26]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-339672721,0,0,5,1,9,3,149,3,1,4,8,2,3,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Néi lùc tèi ®a: +18 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		ThÓ lùc tèi ®a: +16 ®iÓm
+		'Thêi gian lµm chËm: -'30'%'
+		Tèc ®é di chuyÓn: +11%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 12:23:41]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1271963449,0,0,8,0,10,2,102,5,1,5,8,5,2,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +70 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Sinh lùc tèi ®a: +21 ®iÓm
+		'Thêi gian cho¸ng: -'30' ®iÓm'
+		ThÓ lùc tèi ®a: +89 ®iÓm
+		'Kh¸ng háa: +'3'%'
+
+-- [10-09-18 12:25:15]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,2057584005,0,0,5,1,7,0,128,7,8,8,7,5,4,0))
+			[ DetailType = 5 ] [[  Hæ B× Ngoa  ]]
+		Néi lùc tèi ®a: +8 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +6 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		Tèc ®é di chuyÓn: +15%
+
+-- [10-09-18 12:29:36]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-523462592,0,0,8,0,7,4,127,3,2,2,4,4,1,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +43 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		ThÓ lùc tèi ®a: +17 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Néi lùc tèi ®a: +21 ®iÓm
+
+-- [10-09-18 12:30:19]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,104877636,0,0,8,1,8,1,26,5,4,3,2,5,6,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +23 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 12:31:41]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1374454363,0,0,6,1,10,0,134,2,4,5,4,3,2,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +14 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Néi lùc tèi ®a: +29 ®iÓm
+
+-- [10-09-18 12:33:01]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-2103513237,0,0,6,0,10,4,20,8,8,6,4,2,8,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +57 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		ThÓ lùc tèi ®a: +93 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'Kh¸ng b¨ng: +'9'%'
+
+-- [10-09-18 12:34:21]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-2121891760,0,0,8,1,9,0,114,8,2,5,5,1,4,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +133 ®iÓm
+		'Kh¸ng ®éc: +'4'%'
+		Néi lùc tèi ®a: +72 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 12:34:54]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,287778674,0,0,5,1,8,3,53,8,7,5,8,8,2,0))
+			[ DetailType = 5 ] [[  Tª B× Ngoa  ]]
+		Sinh lùc tèi ®a: +13 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Phßng thñ vËt lı: +'15'%'
+		ThÓ lùc tèi ®a: +146 ®iÓm
+
+-- [10-09-18 12:43:01]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1012277154,0,0,5,2,10,3,54,4,3,1,2,1,7,0))
+			[ DetailType = 5 ] [[  Kim Lò hµi  ]]
+		Néi lùc tèi ®a: +26 ®iÓm
+		'Phßng thñ vËt lı: +'2'%'
+		ThÓ lùc tèi ®a: +19 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 12:44:19]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1271509709,0,0,7,11,9,3,87,4,1,3,4,7,7,0))
+			[ DetailType = 7 ] [[  Gi¶i Tr¹i Kh«i  ]]
+		ThÓ lùc tèi ®a: +41 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Néi lùc tèi ®a: +29 ®iÓm
+		'Phßng thñ vËt lı: +'7'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian lµm chËm: -'30'%'
+
+-- [10-09-18 12:45:16]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,897523787,0,0,2,11,10,2,20,2,7,4,4,5,1,0))
+			[ DetailType = 2 ] [[  Tİch LŞch Kim Phông gi¸p  ]]
+		Néi lùc tèi ®a: +14 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+		ThÓ lùc tèi ®a: +12 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		Sinh lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 12:47:00]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1782544404,0,0,2,11,8,4,18,7,8,3,7,6,1,0))
+			[ DetailType = 2 ] [[  Lan Ng©n gi¸p  ]]
+		Sinh lùc tèi ®a: +139 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +54 ®iÓm
+		'Kh¸ng b¨ng: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [10-09-18 12:49:43]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1775629718,0,0,6,1,7,0,123,7,5,5,8,2,5,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +47 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +37 ®iÓm
+		'Kh¸ng ®éc: +'11'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 12:49:53]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1191107811,0,0,5,3,7,2,77,1,1,3,8,3,1,0))
+			[ DetailType = 5 ] [[  X­¬ng Hoµn ngoa  ]]
+		ThÓ lùc tèi ®a: +16 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Tèc ®é di chuyÓn: +13%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +40 ®iÓm
+
+-- [10-09-18 12:53:21]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,994362108,0,0,7,3,7,0,20,3,3,5,1,5,7,0))
+			[ DetailType = 7 ] [[  Anh L¹c Qu¸n  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +78 ®iÓm
+
+-- [10-09-18 12:56:32]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-924771729,0,0,2,7,8,0,125,4,7,2,4,5,2,0))
+			[ DetailType = 2 ] [[  Minh tÜnh cµ sa  ]]
+		Néi lùc tèi ®a: +55 ®iÓm
+		'Kh¸ng ®éc: +'12'%'
+		Sinh lùc tèi ®a: +32 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +14 ®iÓm
+
+-- [10-09-18 12:57:14]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1382313662,0,0,7,4,8,0,123,3,6,7,4,4,7,0))
+			[ DetailType = 7 ] [[  Tinh Cang Kh«i  ]]
+		ThÓ lùc tèi ®a: +13 ®iÓm
+		'Kh¸ng ®éc: +'4'%'
+		Néi lùc tèi ®a: +81 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +70 ®iÓm
+
+-- [10-09-18 13:01:37]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1180265833,0,0,6,1,10,0,133,6,4,2,7,3,7,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +83 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +8 ®iÓm
+
+-- [10-09-18 13:02:17]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1197743791,0,0,6,0,7,1,71,5,3,2,8,6,4,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Néi lùc tèi ®a: +16 ®iÓm
+		'Kh¸ng l«i: +'19'%'
+		ThÓ lùc tèi ®a: +41 ®iÓm
+
+-- [10-09-18 13:03:34]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-506671033,0,0,5,3,8,4,53,2,3,4,4,8,6,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		Tèc ®é di chuyÓn: +11%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Néi lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng b¨ng: +'1'%'
+		ThÓ lùc tèi ®a: +142 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+
+-- [10-09-18 13:06:38]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1898112716,0,0,7,0,9,4,71,8,2,1,1,2,7,0))
+			[ DetailType = 7 ] [[  NiÖm Ninh M·o  ]]
+		ThÓ lùc tèi ®a: +41 ®iÓm
+		'Kh¸ng b¨ng: +'3'%'
+		Sinh lùc tèi ®a: +5 ®iÓm
+
+-- [10-09-18 13:07:32]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,511383403,0,0,8,0,8,3,111,3,8,6,1,8,4,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		ThÓ lùc tèi ®a: +25 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +86 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Sinh lùc tèi ®a: +30 ®iÓm
+		'Phßng thñ vËt lı: +'7'%'
+
+-- [10-09-18 13:09:36]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1494757699,0,0,7,4,9,3,72,1,2,5,7,7,7,0))
+			[ DetailType = 7 ] [[  Kim Kh«i   ]]
+		ThÓ lùc tèi ®a: +16 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Sinh lùc tèi ®a: +59 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Néi lùc tèi ®a: +61 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+
+-- [10-09-18 13:22:15]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,829498825,0,0,7,4,9,0,42,4,8,4,1,1,7,0))
+			[ DetailType = 7 ] [[  Kim Kh«i   ]]
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'Kh¸ng ®éc: +'15'%'
+		Néi lùc tèi ®a: +57 ®iÓm
+
+-- [10-09-18 13:24:59]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,574825587,0,0,7,4,8,3,29,1,5,6,6,1,7,0))
+			[ DetailType = 7 ] [[  Tinh Cang Kh«i  ]]
+		Sinh lùc tèi ®a: +6 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Néi lùc tèi ®a: +41 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		ThÓ lùc tèi ®a: +18 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+
+-- [10-09-18 13:32:51]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,172974329,0,0,7,1,8,1,63,5,6,1,7,8,4,0))
+			[ DetailType = 7 ] [[  Th­îng Thanh Qu¸n  ]]
+		Sinh lùc tèi ®a: +40 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'Kh¸ng l«i: +'9'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 13:33:46]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1317313715,0,0,7,12,8,3,64,5,5,7,2,6,1,0))
+			[ DetailType = 7 ] [[  Léc nhÜ Thoa  ]]
+		ThÓ lùc tèi ®a: +89 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+
+-- [10-09-18 13:37:29]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,-1055279439,0,0,6,1,8,0,83,3,7,5,5,5,8,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng ®éc: +'7'%'
+		Néi lùc tèi ®a: +25 ®iÓm
+
+-- [10-09-18 13:40:18]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1068014640,0,0,7,8,9,3,80,3,4,6,1,4,5,0))
+			[ DetailType = 7 ] [[  Th¸i cùc Qu¸n  ]]
+		Néi lùc tèi ®a: +47 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +116 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Sinh lùc tèi ®a: +60 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [10-09-18 13:42:56]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,2058103412,0,0,8,0,9,1,11,8,1,4,4,6,7,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +100 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +74 ®iÓm
+
+-- [10-09-18 13:47:46]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,856279480,0,0,2,5,8,1,20,6,7,1,6,1,2,0))
+			[ DetailType = 2 ] [[  B¸ch kÕt C¸i y  ]]
+		Néi lùc tèi ®a: +99 ®iÓm
+		'Kh¸ng l«i: +'11'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		ThÓ lùc tèi ®a: +15 ®iÓm
+
+-- [10-09-18 13:48:19]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1987013318,0,0,5,2,8,2,43,4,7,2,4,8,3,0))
+			[ DetailType = 5 ] [[  Ph¹m Hång Ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+		Tèc ®é di chuyÓn: +14%
+		'ThÓ lùc tèi ®a: +'8' ®iÓm'
+		Néi lùc tèi ®a: +80 ®iÓm
+		'Kh¸ng háa: +'4'%'
+
+-- [10-09-18 13:48:49]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,-99437035,0,0,7,4,9,1,113,8,1,7,8,8,8,0))
+			[ DetailType = 7 ] [[  Kim Kh«i   ]]
+		ThÓ lùc tèi ®a: +36 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Néi lùc tèi ®a: +35 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 13:51:12]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1654485102,0,0,8,0,10,0,127,6,4,1,3,7,8,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +73 ®iÓm
+		'Kh¸ng ®éc: +'8'%'
+		Sinh lùc tèi ®a: +19 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [10-09-18 13:53:42]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,211328775,0,0,8,1,10,3,81,8,5,8,5,3,5,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		Néi lùc tèi ®a: +118 ®iÓm
+		'Th©n ph¸p: +'9'®iÓm'
+		ThÓ lùc tèi ®a: +98 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Sinh lùc tèi ®a: +41 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 13:53:57]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,901123728,0,0,8,0,10,2,78,7,5,4,2,7,6,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +59 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Néi lùc tèi ®a: +30 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+
+-- [10-09-18 13:57:01]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-606888467,0,0,7,7,8,2,136,3,2,3,4,2,5,0))
+			[ DetailType = 7 ] [[  Xİch ¶nh ph¸t Qu¸n  ]]
+		Néi lùc tèi ®a: +16 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		ThÓ lùc tèi ®a: +35 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Sinh lùc tèi ®a: +31 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 14:00:10]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-651379077,0,0,2,11,9,2,46,8,6,8,4,1,4,0))
+			[ DetailType = 2 ] [[  HuyÒn ThiÕt TuyÕt Ng©n gi¸p  ]]
+		Sinh lùc tèi ®a: +39 ®iÓm
+		'Kh¸ng háa: +'7'%'
+		Néi lùc tèi ®a: +145 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		ThÓ lùc tèi ®a: +10 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+
+-- [10-09-18 14:01:20]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,645596995,0,0,7,5,7,4,70,6,8,3,1,8,2,0))
+			[ DetailType = 7 ] [[  Song TÇng L­u Ly Hoµn  ]]
+		Sinh lùc tèi ®a: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		Néi lùc tèi ®a: +53 ®iÓm
+
+-- [10-09-18 14:01:56]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,566560937,0,0,8,0,8,2,122,4,1,5,6,5,7,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		ThÓ lùc tèi ®a: +42 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Sinh lùc tèi ®a: +82 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Thêi gian cho¸ng: -'30' ®iÓm'
+
+-- [10-09-18 14:07:07]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-550122996,0,0,8,1,9,0,114,2,5,1,2,3,4,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'4'%'
+		Sinh lùc tèi ®a: +13 ®iÓm
+
+-- [10-09-18 14:09:07]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1394873099,0,0,6,0,10,2,54,4,8,3,5,5,7,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +57 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		Néi lùc tèi ®a: +54 ®iÓm
+		'ThÓ lùc tèi ®a: +'3' ®iÓm'
+		ThÓ lùc tèi ®a: +10 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 14:09:13]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-429007636,0,0,7,12,9,0,50,4,2,4,8,8,2,0))
+			[ DetailType = 7 ] [[  Lam Tinh Thoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Sinh lùc tèi ®a: +70 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Néi lùc tèi ®a: +109 ®iÓm
+
+-- [10-09-18 14:09:28]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,817777041,0,0,9,1,8,4,11,2,2,1,3,2,3,0))
+			[ DetailType = 9 ] [[  MÆc Ngäc Ngäc Béi   ]]
+		Sinh lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng b¨ng: +'1'%'
+		Néi lùc tèi ®a: +18 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +35 ®iÓm
+
+-- [10-09-18 14:10:00]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1519191340,0,0,7,3,9,0,56,5,8,7,1,7,3,0))
+			[ DetailType = 7 ] [[  ThÊt B¶o ph¸t Qu¸n  ]]
+		Néi lùc tèi ®a: +7 ®iÓm
+		'Kh¸ng ®éc: +'13'%'
+		Sinh lùc tèi ®a: +35 ®iÓm
+
+-- [10-09-18 14:11:30]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1337883866,0,0,5,0,9,3,47,7,8,3,8,6,7,0))
+			[ DetailType = 5 ] [[  Phong VÜ Tèng Ngoa  ]]
+		Néi lùc tèi ®a: +26 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Tèc ®é di chuyÓn: +12%
+		'Thêi gian lµm chËm: -'20'%'
+		ThÓ lùc tèi ®a: +31 ®iÓm
+		'Phßng thñ vËt lı: +'15'%'
+
+-- [10-09-18 14:13:09]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,148197899,0,0,5,2,9,0,16,6,3,2,4,4,7,0))
+			[ DetailType = 5 ] [[  B¹ch Chu ngoa  ]]
+		Tèc ®é di chuyÓn: +21%
+		'Kh¸ng ®éc: +'2'%'
+		Néi lùc tèi ®a: +12 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		ThÓ lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 14:13:54]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1501595018,0,0,8,0,9,2,99,1,5,4,8,4,4,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'10' ®iÓm'
+		Sinh lùc tèi ®a: +39 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		ThÓ lùc tèi ®a: +63 ®iÓm
+		'Kh¸ng háa: +'3'%'
+
+-- [10-09-18 14:18:23]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1985621012,0,0,6,0,9,3,34,6,1,4,2,8,8,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +25 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		ThÓ lùc tèi ®a: +74 ®iÓm
+		'Phßng thñ vËt lı: +'3'%'
+		Sinh lùc tèi ®a: +140 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [10-09-18 14:24:32]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-680294014,0,0,6,0,7,2,21,7,3,3,8,7,6,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +99 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		ThÓ lùc tèi ®a: +59 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +104 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+
+-- [10-09-18 14:25:11]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,846822982,0,0,8,1,7,1,14,6,1,4,8,1,3,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		Néi lùc tèi ®a: +100 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		ThÓ lùc tèi ®a: +70 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 14:25:18]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1693405897,0,0,7,9,9,2,73,1,8,1,1,1,1,0))
+			[ DetailType = 7 ] [[  §iªu B× DiÖn Tr¸o  ]]
+		ThÓ lùc tèi ®a: +12 ®iÓm
+		'Kh¸ng háa: +'15'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Néi lùc tèi ®a: +8 ®iÓm
+
+-- [10-09-18 14:25:37]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,133410701,0,0,7,10,10,1,32,4,5,6,6,8,6,0))
+			[ DetailType = 7 ] [[  Long HuyÕt §Çu hoµn  ]]
+		Néi lùc tèi ®a: +40 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Sinh lùc tèi ®a: +97 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +26 ®iÓm
+
+-- [10-09-18 14:25:43]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,2072136487,0,0,5,3,8,3,129,5,8,7,6,6,7,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		ThÓ lùc tèi ®a: +84 ®iÓm
+		'Phßng thñ vËt lı: +'9'%'
+		Sinh lùc tèi ®a: +123 ®iÓm
+		'Th©n ph¸p: +'11'®iÓm'
+		Néi lùc tèi ®a: +92 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 14:37:53]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,-390156742,0,0,8,1,7,1,94,4,7,2,3,6,6,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +78 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Sinh lùc tèi ®a: +28 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Néi lùc tèi ®a: +78 ®iÓm
+
+-- [10-09-18 14:40:32]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1641199426,0,0,8,0,7,0,82,7,6,7,1,3,3,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		Sinh lùc tèi ®a: +19 ®iÓm
+
+-- [10-09-18 14:42:05]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1613736364,0,0,2,11,9,0,138,5,5,8,5,5,6,0))
+			[ DetailType = 2 ] [[  HuyÒn ThiÕt TuyÕt Ng©n gi¸p  ]]
+		Néi lùc tèi ®a: +57 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +5 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		ThÓ lùc tèi ®a: +45 ®iÓm
+
+-- [10-09-18 14:42:56]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,141010990,0,0,2,6,9,0,111,2,5,3,7,8,7,0))
+			[ DetailType = 2 ] [[  T­¬ng Nh­ bµo  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Sinh lùc tèi ®a: +25 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +48 ®iÓm
+
+-- [10-09-18 14:44:12]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,949666720,0,0,7,0,8,2,102,2,3,3,8,6,8,0))
+			[ DetailType = 7 ] [[  ThÈm Lu©n M·o  ]]
+		ThÓ lùc tèi ®a: +11 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		Néi lùc tèi ®a: +17 ®iÓm
+		'Kh¸ng háa: +'5'%'
+		Sinh lùc tèi ®a: +106 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 14:46:17]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,243666277,0,0,8,1,7,1,62,6,5,5,1,7,7,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +96 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Néi lùc tèi ®a: +54 ®iÓm
+
+-- [10-09-18 14:50:05]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1484412279,0,0,6,1,7,4,8,1,4,6,8,8,2,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +12 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'Kh¸ng b¨ng: +'9'%'
+		Néi lùc tèi ®a: +81 ®iÓm
+
+-- [10-09-18 14:50:17]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-1798679489,0,0,7,2,7,1,40,4,3,4,8,7,5,0))
+			[ DetailType = 7 ] [[  Nh©n B× DiÖn Tr¸o  ]]
+		ThÓ lùc tèi ®a: +18 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Sinh lùc tèi ®a: +16 ®iÓm
+		'Kh¸ng l«i: +'15'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [10-09-18 14:53:06]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1228713546,0,0,5,0,8,2,60,2,2,6,6,8,5,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		Néi lùc tèi ®a: +17 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Sinh lùc tèi ®a: +104 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+		ThÓ lùc tèi ®a: +72 ®iÓm
+		'Kh¸ng háa: +'10'%'
+
+-- [10-09-18 14:56:11]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1980611696,0,0,8,1,10,3,5,4,5,1,3,7,1,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		Néi lùc tèi ®a: +80 ®iÓm
+		'Th©n ph¸p: +'8'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Phßng thñ vËt lı: +'3'%'
+		Sinh lùc tèi ®a: +25 ®iÓm
+
+-- [10-09-18 14:57:11]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1870757083,0,0,9,0,8,0,17,3,3,1,2,2,3,0))
+			[ DetailType = 9 ] [[  Tiªn X¹ H­¬ng Nang  ]]
+		ThÓ lùc tèi ®a: +54 ®iÓm
+		'Søc m¹nh: +'3'®iÓm'
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Néi lùc tèi ®a: +25 ®iÓm
+
+-- [10-09-18 14:58:26]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1175569049,0,0,5,2,9,1,42,5,5,8,4,6,4,0))
+			[ DetailType = 5 ] [[  B¹ch Chu ngoa  ]]
+		Néi lùc tèi ®a: +79 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		ThÓ lùc tèi ®a: +152 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 15:03:12]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,1344831601,0,0,8,1,8,1,17,1,8,8,8,5,8,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng l«i: +'15'%'
+		Sinh lùc tèi ®a: +63 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 15:03:28]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1309876308,0,0,6,0,10,0,112,6,7,1,5,2,7,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +40 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		Néi lùc tèi ®a: +5 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Sinh lùc tèi ®a: +11 ®iÓm
+
+-- [10-09-18 15:09:23]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-756107855,0,0,8,1,7,4,70,6,4,6,7,5,7,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +82 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Néi lùc tèi ®a: +60 ®iÓm
+		'Kh¸ng b¨ng: +'7'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+
+-- [10-09-18 15:12:01]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1132968088,0,0,6,0,10,2,111,7,4,7,8,1,1,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +64 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ThÓ lùc tèi ®a: +'6' ®iÓm'
+		Néi lùc tèi ®a: +15 ®iÓm
+
+-- [10-09-18 15:14:47]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-171485403,0,0,8,1,10,1,124,3,8,7,7,3,8,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +25 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Sinh lùc tèi ®a: +44 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 15:16:32]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,432828614,0,0,5,1,7,4,29,2,5,4,7,2,8,0))
+			[ DetailType = 5 ] [[  Hæ B× Ngoa  ]]
+		Néi lùc tèi ®a: +17 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Tèc ®é di chuyÓn: +15%
+		'Thêi gian tróng ®éc: -'20'%'
+		Sinh lùc tèi ®a: +13 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [10-09-18 15:17:33]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1591840651,0,0,7,0,9,0,120,5,4,8,2,5,6,0))
+			[ DetailType = 7 ] [[  NiÖm Ninh M·o  ]]
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +5 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Néi lùc tèi ®a: +30 ®iÓm
+
+-- [10-09-18 15:20:02]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,-33948696,0,0,9,0,7,1,36,2,3,3,3,2,3,0))
+			[ DetailType = 9 ] [[  TrÇm §µn H­¬ng Nang  ]]
+		Phôc håi néi lùc mçi nöa gi©y: +1 ®iÓm
+		'May m¾n: +'3'%'
+		Sinh lùc tèi ®a: +35 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Néi lùc tèi ®a: +25 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 15:21:39]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-77391679,0,0,8,0,7,1,100,6,8,4,4,1,2,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +89 ®iÓm
+		'Kh¸ng l«i: +'9'%'
+		Néi lùc tèi ®a: +18 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +16 ®iÓm
+
+-- [10-09-18 15:23:37]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,717433732,0,0,5,0,10,3,85,7,2,5,6,4,1,0))
+			[ DetailType = 5 ] [[  Cöu TiÕt X­¬ng VÜ Ngoa  ]]
+		Néi lùc tèi ®a: +74 ®iÓm
+		'Phßng thñ vËt lı: +'2'%'
+		Sinh lùc tèi ®a: +5 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +78 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+
+-- [10-09-18 15:25:24]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1032575748,0,0,5,3,8,1,50,2,3,4,1,5,6,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		Sinh lùc tèi ®a: +15 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		ThÓ lùc tèi ®a: +20 ®iÓm
+
+-- [10-09-18 15:26:29]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,1760762578,0,0,7,3,10,4,7,6,7,7,4,4,7,0))
+			[ DetailType = 7 ] [[  Th«ng Thiªn Ph¸t Qu¸n  ]]
+		Néi lùc tèi ®a: +61 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Sinh lùc tèi ®a: +75 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		ThÓ lùc tèi ®a: +76 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [10-09-18 15:27:51]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-476581389,0,0,8,0,10,4,134,4,1,4,4,5,7,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +6 ®iÓm
+
+-- [10-09-18 15:28:01]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,482815920,0,0,0,5,10,3,18,1,2,2,1,2,1,0))
+			[ DetailType = 0 ] [[  Th«n NhËt Tr·m  ]]
+		ThÓ lùc tèi ®a: +11 ®iÓm
+		'Háa s¸t - néi c«ng: +'16' ®iÓm'
+		Tèc ®é ®¸nh - ngo¹i c«ng: +10%
+		'Háa s¸t - ngo¹i c«ng: +'6' ®iÓm'
+		Hót néi lùc: +1%
+
+-- [10-09-18 15:28:09]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-199573095,0,0,8,1,7,0,19,4,8,4,8,1,5,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Sinh lùc tèi ®a: +8 ®iÓm
+
+-- [10-09-18 15:29:26]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1350957774,0,0,5,1,10,3,58,7,3,1,7,8,8,0))
+			[ DetailType = 5 ] [[  Thiªn Tµm Ngoa  ]]
+		Néi lùc tèi ®a: +107 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Phßng thñ vËt lı: +'11'%'
+		Tèc ®é di chuyÓn: +27%
+		'Th©n ph¸p: +'10'®iÓm'
+
+-- [10-09-18 15:36:08]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1185738793,0,0,6,1,8,1,92,2,1,6,2,2,7,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 15:37:04]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,1845263925,0,0,6,0,10,4,132,6,7,1,8,6,3,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		Néi lùc tèi ®a: +45 ®iÓm
+		'Kh¸ng b¨ng: +'1'%'
+		Sinh lùc tèi ®a: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+
+-- [10-09-18 15:38:10]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-506131578,0,0,5,3,9,1,22,5,7,8,6,4,6,0))
+			[ DetailType = 5 ] [[  Sİnh Sa ngoa  ]]
+		Néi lùc tèi ®a: +80 ®iÓm
+		'Kh¸ng l«i: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +75 ®iÓm
+
+-- [10-09-18 15:40:28]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-897009869,0,0,8,1,9,4,125,5,1,2,2,6,5,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Néi lùc tèi ®a: +24 ®iÓm
+
+-- [10-09-18 15:42:32]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-1379677348,0,0,2,3,9,3,111,3,4,2,2,4,4,0))
+			[ DetailType = 2 ] [[  Hµn S­¬ng bµo  ]]
+		Néi lùc tèi ®a: +20 ®iÓm
+		'Th©n ph¸p: +'6'®iÓm'
+		ThÓ lùc tèi ®a: +39 ®iÓm
+		'Phßng thñ vËt lı: +'3'%'
+		Sinh lùc tèi ®a: +61 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [10-09-18 15:42:52]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1320777431,0,0,5,0,8,2,58,6,2,2,7,8,6,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		Tèc ®é di chuyÓn: +18%
+		'Kh¸ng háa: +'3'%'
+		Sinh lùc tèi ®a: +33 ®iÓm
+		'ThÓ lùc tèi ®a: +'7' ®iÓm'
+		Néi lùc tèi ®a: +36 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 15:45:49]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1844496293,0,0,4,1,8,2,11,1,2,1,1,3,1,0))
+			[ DetailType = 4 ] [[  Hång PhØ Thóy Hé Th©n phï   ]]
+		Kh¸ng tÊt c¶: +2%
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		ThÓ lùc tèi ®a: +12 ®iÓm
+
+-- [10-09-18 15:47:53]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1575163511,0,0,7,1,10,3,89,8,2,7,3,6,6,0))
+			[ DetailType = 7 ] [[  Ngò l·o qu¸n  ]]
+		Sinh lùc tèi ®a: +87 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Néi lùc tèi ®a: +87 ®iÓm
+		'Phßng thñ vËt lı: +'3'%'
+		ThÓ lùc tèi ®a: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+
+-- [10-09-18 15:52:23]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,801848732,0,0,6,1,9,2,130,4,6,7,7,3,7,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		Sinh lùc tèi ®a: +80 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		ThÓ lùc tèi ®a: +19 ®iÓm
+		'Kh¸ng háa: +'2'%'
+
+-- [10-09-18 15:55:12]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,220290365,0,0,6,0,10,4,31,6,1,5,2,4,3,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +16 ®iÓm
+
+-- [10-09-18 15:56:09]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,785381103,0,0,2,4,9,3,15,1,4,6,3,8,8,0))
+			[ DetailType = 2 ] [[  Táa Tö Hoµng Kim gi¸p  ]]
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Phßng thñ vËt lı: +'9'%'
+		Néi lùc tèi ®a: +99 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		ThÓ lùc tèi ®a: +36 ®iÓm
+		'Th©n ph¸p: +'15'®iÓm'
+
+-- [10-09-18 15:56:17]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,542887841,0,0,9,1,10,2,4,2,3,2,1,1,2,0))
+			[ DetailType = 9 ] [[  D­¬ng Chi B¹ch Ngäc  ]]
+		Sinh lùc tèi ®a: +20 ®iÓm
+		'ThÓ lùc tèi ®a: +'3' ®iÓm'
+		Néi lùc tèi ®a: +27 ®iÓm
+
+-- [10-09-18 15:56:32]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1784740830,0,0,6,0,8,2,96,4,4,5,6,7,5,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng háa: +'1'%'
+		Sinh lùc tèi ®a: +35 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +116 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 15:57:15]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-612479130,0,0,7,6,8,0,142,6,1,1,3,2,1,0))
+			[ DetailType = 7 ] [[  Doanh Gi¸c M·o  ]]
+		ThÓ lùc tèi ®a: +105 ®iÓm
+
+-- [10-09-18 15:59:20]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-2106556415,0,0,6,1,9,0,6,3,2,6,2,6,4,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +22 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		ThÓ lùc tèi ®a: +43 ®iÓm
+
+-- [10-09-18 16:02:20]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,149556904,0,0,7,7,8,0,34,4,8,2,8,3,1,0))
+			[ DetailType = 7 ] [[  Xİch ¶nh ph¸t Qu¸n  ]]
+		ThÓ lùc tèi ®a: +69 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Néi lùc tèi ®a: +24 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +24 ®iÓm
+
+-- [10-09-18 16:13:24]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-2012849620,0,0,7,13,8,1,79,4,3,4,6,5,7,0))
+			[ DetailType = 7 ] [[  Huy Thñy Kh«i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		Sinh lùc tèi ®a: +61 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Néi lùc tèi ®a: +76 ®iÓm
+
+-- [10-09-18 16:13:59]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-534912987,0,0,7,10,10,2,142,2,3,7,8,7,1,0))
+			[ DetailType = 7 ] [[  Long HuyÕt §Çu hoµn  ]]
+		Néi lùc tèi ®a: +21 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		ThÓ lùc tèi ®a: +60 ®iÓm
+		'ThÓ lùc tèi ®a: +'7' ®iÓm'
+		Sinh lùc tèi ®a: +42 ®iÓm
+
+-- [10-09-18 16:16:57]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-2011088750,0,0,5,3,9,2,52,5,4,4,5,1,7,0))
+			[ DetailType = 5 ] [[  Sİnh Sa ngoa  ]]
+		Sinh lùc tèi ®a: +33 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		Tèc ®é di chuyÓn: +19%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		ThÓ lùc tèi ®a: +9 ®iÓm
+		'Thêi gian cho¸ng: -'30' ®iÓm'
+
+-- [10-09-18 16:17:31]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-104358433,0,0,8,0,9,0,59,8,4,6,4,6,6,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Néi lùc tèi ®a: +16 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Sinh lùc tèi ®a: +96 ®iÓm
+
+-- [10-09-18 16:20:27]	[DropOn: Train]	[§­êngÙM«n-115-tuanlovekun5]		Param: (AddItemEx(1,-351503632,0,0,5,1,7,3,37,2,5,5,1,2,7,0))
+			[ DetailType = 5 ] [[  Hæ B× Ngoa  ]]
+		ThÓ lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Sinh lùc tèi ®a: +27 ®iÓm
+		'Phßng thñ vËt lı: +'10'%'
+
+-- [10-09-18 16:21:27]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1804351142,0,0,7,4,9,4,1,3,8,6,5,3,4,0))
+			[ DetailType = 7 ] [[  Kim Kh«i   ]]
+		Sinh lùc tèi ®a: +52 ®iÓm
+		'Kh¸ng b¨ng: +'1'%'
+		ThÓ lùc tèi ®a: +77 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Néi lùc tèi ®a: +45 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 16:27:06]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1621283815,0,0,5,3,10,0,134,3,2,4,7,7,7,0))
+			[ DetailType = 5 ] [[  Phi Phông Ngoa  ]]
+		Sinh lùc tèi ®a: +25 ®iÓm
+		'Kh¸ng ®éc: +'4'%'
+		Tèc ®é di chuyÓn: +15%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +100 ®iÓm
+
+-- [10-09-18 16:29:48]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-183614609,0,0,7,8,8,3,114,8,8,4,5,6,6,0))
+			[ DetailType = 7 ] [[  PhØ Thóy Thoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Sinh lùc tèi ®a: +43 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		ThÓ lùc tèi ®a: +47 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+
+-- [10-09-18 16:32:14]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,1830433684,0,0,8,1,7,3,131,7,7,4,5,5,5,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +80 ®iÓm
+		'Phßng thñ vËt lı: +'2'%'
+		Sinh lùc tèi ®a: +63 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+
+-- [10-09-18 16:32:31]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-153639071,0,0,8,0,7,2,82,6,8,3,6,7,4,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +20 ®iÓm
+		'ThÓ lùc tèi ®a: +'11' ®iÓm'
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng háa: +'9'%'
+		ThÓ lùc tèi ®a: +122 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 16:34:24]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,495605725,0,0,6,0,9,2,144,2,4,7,6,4,8,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +16 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		Néi lùc tèi ®a: +93 ®iÓm
+		'ThÓ lùc tèi ®a: +'11' ®iÓm'
+		ThÓ lùc tèi ®a: +45 ®iÓm
+		'Kh¸ng háa: +'9'%'
+
+-- [10-09-18 16:35:30]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1153801315,0,0,2,0,8,3,82,4,2,5,7,7,3,0))
+			[ DetailType = 2 ] [[  Minh TÜnh Cµ Sa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Néi lùc tèi ®a: +36 ®iÓm
+		'Phßng thñ vËt lı: +'12'%'
+		Sinh lùc tèi ®a: +76 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [10-09-18 16:42:51]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,-1037373424,0,0,6,0,10,2,71,6,2,8,2,3,5,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Sinh lùc tèi ®a: +63 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		ThÓ lùc tèi ®a: +42 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 16:43:52]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,859435520,0,0,5,1,10,2,23,2,5,7,7,4,3,0))
+			[ DetailType = 5 ] [[  Thiªn Tµm Ngoa  ]]
+		ThÓ lùc tèi ®a: +11 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		Néi lùc tèi ®a: +56 ®iÓm
+		'ThÓ lùc tèi ®a: +'8' ®iÓm'
+		Tèc ®é di chuyÓn: +15%
+		'Kh¸ng háa: +'2'%'
+
+-- [10-09-18 16:44:46]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,533831230,0,0,6,1,10,3,36,6,6,1,2,1,2,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +38 ®iÓm
+		'Th©n ph¸p: +'12'®iÓm'
+		Sinh lùc tèi ®a: +15 ®iÓm
+		'Phßng thñ vËt lı: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 16:47:23]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,2090287611,0,0,6,0,7,1,43,8,5,1,2,1,6,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +116 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		ThÓ lùc tèi ®a: +12 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 16:48:08]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,834295562,0,0,8,1,8,0,114,3,2,7,4,4,2,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		Néi lùc tèi ®a: +36 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		ThÓ lùc tèi ®a: +124 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +70 ®iÓm
+
+-- [10-09-18 16:53:28]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,685113611,0,0,7,2,10,1,48,1,4,8,6,4,1,0))
+			[ DetailType = 7 ] [[  Tu La Ph¸t kÕt  ]]
+		Sinh lùc tèi ®a: +14 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Néi lùc tèi ®a: +124 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		ThÓ lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 16:56:02]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-1771976421,0,0,5,1,10,1,98,8,6,7,2,1,5,0))
+			[ DetailType = 5 ] [[  Thiªn Tµm Ngoa  ]]
+		Néi lùc tèi ®a: +118 ®iÓm
+		'Kh¸ng l«i: +'9'%'
+		ThÓ lùc tèi ®a: +119 ®iÓm
+
+-- [10-09-18 16:56:37]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1950797619,0,0,5,2,9,1,36,3,8,5,6,2,6,0))
+			[ DetailType = 5 ] [[  B¹ch Chu ngoa  ]]
+		ThÓ lùc tèi ®a: +34 ®iÓm
+		'Kh¸ng l«i: +'7'%'
+		Sinh lùc tèi ®a: +50 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+		Tèc ®é di chuyÓn: +11%
+
+-- [10-09-18 17:04:16]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1363905003,0,0,5,1,9,1,83,1,2,4,3,5,4,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Sinh lùc tèi ®a: +14 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Néi lùc tèi ®a: +12 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Tèc ®é di chuyÓn: +13%
+
+-- [10-09-18 17:07:15]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1935766748,0,0,5,0,7,3,128,8,1,1,3,8,8,0))
+			[ DetailType = 5 ] [[  TrÜ VÜ Tèng Ngoa  ]]
+		ThÓ lùc tèi ®a: +129 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Sinh lùc tèi ®a: +13 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Tèc ®é di chuyÓn: +20%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 17:07:26]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1980369696,0,0,6,0,9,2,13,5,8,1,3,3,8,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +44 ®iÓm
+		'Kh¸ng háa: +'15'%'
+		Sinh lùc tèi ®a: +17 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		ThÓ lùc tèi ®a: +7 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+
+-- [10-09-18 17:08:39]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,-1855535024,0,0,7,13,9,4,140,8,5,6,7,8,8,0))
+			[ DetailType = 7 ] [[  Phông Nh·n Kh«i  ]]
+		Sinh lùc tèi ®a: +142 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		ThÓ lùc tèi ®a: +106 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 17:13:57]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-682566776,0,0,5,2,9,2,119,6,6,4,7,3,4,0))
+			[ DetailType = 5 ] [[  B¹ch Chu ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ThÓ lùc tèi ®a: +'12' ®iÓm'
+		Néi lùc tèi ®a: +27 ®iÓm
+		'Kh¸ng háa: +'6'%'
+		Sinh lùc tèi ®a: +15 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 17:15:33]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,249638574,0,0,8,1,10,2,68,4,6,4,2,3,5,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +22 ®iÓm
+		'Kh¸ng háa: +'1'%'
+		Sinh lùc tèi ®a: +29 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +27 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 17:16:15]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-831348073,0,0,7,3,9,0,127,8,8,6,7,8,5,0))
+			[ DetailType = 7 ] [[  ThÊt B¶o ph¸t Qu¸n  ]]
+		Néi lùc tèi ®a: +60 ®iÓm
+		'Kh¸ng ®éc: +'9'%'
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +5 ®iÓm
+
+-- [10-09-18 17:17:14]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-2084880276,0,0,7,5,7,0,2,6,3,6,3,2,6,0))
+			[ DetailType = 7 ] [[  Song TÇng L­u Ly Hoµn  ]]
+		Néi lùc tèi ®a: +65 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +37 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		Sinh lùc tèi ®a: +19 ®iÓm
+
+-- [10-09-18 17:21:46]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-1826750841,0,0,5,2,10,2,135,7,6,1,1,6,3,0))
+			[ DetailType = 5 ] [[  Kim Lò hµi  ]]
+		Tèc ®é di chuyÓn: +15%
+		'ThÓ lùc tèi ®a: +'9' ®iÓm'
+		ThÓ lùc tèi ®a: +8 ®iÓm
+
+-- [10-09-18 17:23:36]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-335112030,0,0,6,1,7,4,3,8,8,6,3,4,8,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +69 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +120 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 17:24:46]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1287764584,0,0,8,1,9,2,15,3,6,2,4,6,8,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +19 ®iÓm
+		'ThÓ lùc tèi ®a: +'12' ®iÓm'
+		Néi lùc tèi ®a: +26 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 17:24:54]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-1374849668,0,0,6,1,9,2,83,8,2,4,4,2,6,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +7 ®iÓm
+		'Kh¸ng háa: +'5'%'
+		Sinh lùc tèi ®a: +60 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		Néi lùc tèi ®a: +19 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 17:25:38]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1939078497,0,0,6,1,8,2,105,4,1,7,6,8,6,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +59 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		ThÓ lùc tèi ®a: +76 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Néi lùc tèi ®a: +75 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 17:27:04]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,656101,0,0,9,0,8,1,5,3,3,1,3,1,1,0))
+			[ DetailType = 9 ] [[  Tiªn X¹ H­¬ng Nang  ]]
+		Sinh lùc tèi ®a: +8 ®iÓm
+		'May m¾n: +'3'%'
+		Néi lùc tèi ®a: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+
+-- [10-09-18 17:28:02]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-2086086798,0,0,8,1,9,2,122,1,2,3,8,4,6,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Sinh lùc tèi ®a: +49 ®iÓm
+		'Kh¸ng háa: +'15'%'
+		Néi lùc tèi ®a: +65 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 17:30:07]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1816237694,0,0,5,0,10,4,113,6,6,4,7,2,7,0))
+			[ DetailType = 5 ] [[  Cöu TiÕt X­¬ng VÜ Ngoa  ]]
+		ThÓ lùc tèi ®a: +27 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Tèc ®é di chuyÓn: +17%
+		'Kh¸ng b¨ng: +'5'%'
+		Néi lùc tèi ®a: +9 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 17:32:01]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1877098402,0,0,8,1,9,2,11,6,6,6,3,8,5,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +22 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Sinh lùc tèi ®a: +108 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		Néi lùc tèi ®a: +132 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 17:32:34]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-401962494,0,0,0,5,10,2,9,3,1,3,3,3,2,0))
+			[ DetailType = 0 ] [[  Th«n NhËt Tr·m  ]]
+		§é chİnh x¸c: +20 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Hót sinh lùc: +1%
+		'B¨ng s¸t - ngo¹i c«ng: +'25' ®iÓm'
+		Sinh lùc tèi ®a: +9 ®iÓm
+		'B¨ng s¸t - néi c«ng: +'6' ®iÓm'
+
+-- [10-09-18 17:34:19]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1630719695,0,0,9,0,7,3,26,3,3,2,3,2,1,0))
+			[ DetailType = 9 ] [[  TrÇm §µn H­¬ng Nang  ]]
+		ThÓ lùc tèi ®a: +18 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Néi lùc tèi ®a: +16 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Sinh lùc tèi ®a: +14 ®iÓm
+
+-- [10-09-18 17:35:49]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-2069980336,0,0,8,0,8,0,64,2,1,5,3,7,4,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		Sinh lùc tèi ®a: +11 ®iÓm
+
+-- [10-09-18 17:36:50]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1823367771,0,0,8,1,10,0,147,6,5,6,4,5,7,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +90 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +98 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 17:37:19]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1041107063,0,0,9,0,7,3,26,1,3,2,2,3,1,0))
+			[ DetailType = 9 ] [[  TrÇm §µn H­¬ng Nang  ]]
+		ThÓ lùc tèi ®a: +12 ®iÓm
+		'Th©n ph¸p: +'5'®iÓm'
+		Néi lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 17:37:56]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,111262450,0,0,6,1,8,3,29,6,7,8,5,3,2,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		Néi lùc tèi ®a: +111 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		Sinh lùc tèi ®a: +99 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		ThÓ lùc tèi ®a: +9 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+
+-- [10-09-18 17:42:09]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,170931098,0,0,8,0,10,1,83,4,6,6,7,5,6,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +26 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Néi lùc tèi ®a: +48 ®iÓm
+
+-- [10-09-18 17:46:45]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1594659468,0,0,9,0,8,3,48,2,1,2,3,1,2,0))
+			[ DetailType = 9 ] [[  Tiªn X¹ H­¬ng Nang  ]]
+		ThÓ lùc tèi ®a: +15 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Sinh lùc tèi ®a: +24 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Néi lùc tèi ®a: +11 ®iÓm
+
+-- [10-09-18 17:48:54]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,2046544094,0,0,2,2,9,4,98,7,8,8,7,1,1,0))
+			[ DetailType = 2 ] [[  V« Dung Kİnh y  ]]
+		Néi lùc tèi ®a: +111 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Thêi gian phôc håi: -20
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +5 ®iÓm
+
+-- [10-09-18 17:49:31]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-1222179440,0,0,8,0,8,2,48,1,4,3,2,5,4,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		Néi lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +17 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Sinh lùc tèi ®a: +25 ®iÓm
+		'ThÓ lùc tèi ®a: +'6' ®iÓm'
+
+-- [10-09-18 17:52:07]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1340901841,0,0,7,13,10,2,1,8,4,8,4,1,1,0))
+			[ DetailType = 7 ] [[  Kim Phông TriÓn Sİ   ]]
+		Néi lùc tèi ®a: +107 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Sinh lùc tèi ®a: +78 ®iÓm
+		'Kh¸ng háa: +'9'%'
+		ThÓ lùc tèi ®a: +16 ®iÓm
+
+-- [10-09-18 17:54:31]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-648488173,0,0,6,0,8,4,130,2,2,7,8,4,4,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		ThÓ lùc tèi ®a: +99 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 17:55:40]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,-325474602,0,0,7,5,7,3,60,5,7,7,5,5,3,0))
+			[ DetailType = 7 ] [[  Song TÇng L­u Ly Hoµn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian lµm chËm: -'30'%'
+		Néi lùc tèi ®a: +7 ®iÓm
+		'Th©n ph¸p: +'8'®iÓm'
+		Sinh lùc tèi ®a: +78 ®iÓm
+		'Phßng thñ vËt lı: +'2'%'
+
+-- [10-09-18 17:56:16]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1061119784,0,0,7,0,10,2,32,8,5,5,6,4,6,0))
+			[ DetailType = 7 ] [[  Tú L« m·o  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +5 ®iÓm
+		'ThÓ lùc tèi ®a: +'10' ®iÓm'
+		ThÓ lùc tèi ®a: +9 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Sinh lùc tèi ®a: +25 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [10-09-18 17:57:34]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1335750944,0,0,4,1,7,3,38,2,3,3,2,1,3,0))
+			[ DetailType = 4 ] [[  B¹ch PhØ Thóy Hé Th©n phï   ]]
+		Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		Néi lùc tèi ®a: +29 ®iÓm
+
+-- [10-09-18 17:58:25]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1598736147,0,0,7,7,9,4,114,8,1,1,8,6,5,0))
+			[ DetailType = 7 ] [[  V« T­íng Ph¸p Qu¸n  ]]
+		Néi lùc tèi ®a: +104 ®iÓm
+
+-- [10-09-18 18:00:43]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-988746812,0,0,8,0,8,2,103,2,4,8,3,7,7,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		ThÓ lùc tèi ®a: +15 ®iÓm
+		'ThÓ lùc tèi ®a: +'8' ®iÓm'
+		Néi lùc tèi ®a: +5 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Sinh lùc tèi ®a: +78 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 18:01:43]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1455678531,0,0,6,0,9,3,52,5,3,8,1,2,6,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +73 ®iÓm
+		'Th©n ph¸p: +'5'®iÓm'
+		ThÓ lùc tèi ®a: +123 ®iÓm
+
+-- [10-09-18 18:03:03]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,823915395,0,0,5,0,9,1,113,8,2,5,6,7,6,0))
+			[ DetailType = 5 ] [[  Phong VÜ Tèng Ngoa  ]]
+		Néi lùc tèi ®a: +133 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+		Tèc ®é di chuyÓn: +25%
+
+-- [10-09-18 18:05:56]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1006118469,0,0,8,0,8,3,62,5,5,3,2,7,7,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		Néi lùc tèi ®a: +24 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		Sinh lùc tèi ®a: +58 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+
+-- [10-09-18 18:08:29]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,1665798254,0,0,8,1,7,0,58,6,2,4,4,1,2,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +114 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		Néi lùc tèi ®a: +20 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 18:11:54]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-367105109,0,0,8,1,9,2,146,4,5,1,6,6,5,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		ThÓ lùc tèi ®a: +12 ®iÓm
+		'Kh¸ng háa: +'9'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'ThÓ lùc tèi ®a: +'9' ®iÓm'
+
+-- [10-09-18 18:11:57]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-217833195,0,0,2,2,10,3,66,2,6,7,5,4,2,0))
+			[ DetailType = 2 ] [[  Thiªn NhÉn MËt Trang  ]]
+		ThÓ lùc tèi ®a: +40 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Sinh lùc tèi ®a: +42 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		Néi lùc tèi ®a: +20 ®iÓm
+
+-- [10-09-18 18:13:01]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1568932919,0,0,7,3,7,0,71,2,4,7,3,8,5,0))
+			[ DetailType = 7 ] [[  Anh L¹c Qu¸n  ]]
+		Néi lùc tèi ®a: +12 ®iÓm
+		'Kh¸ng ®éc: +'7'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+
+-- [10-09-18 18:14:45]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,2073273866,0,0,5,2,8,3,54,5,5,8,2,7,8,0))
+			[ DetailType = 5 ] [[  Ph¹m Hång Ngoa  ]]
+		ThÓ lùc tèi ®a: +79 ®iÓm
+		'Phßng thñ vËt lı: +'6'%'
+		Sinh lùc tèi ®a: +80 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Néi lùc tèi ®a: +40 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 18:15:02]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,767650894,0,0,5,3,9,2,85,2,5,5,5,5,1,0))
+			[ DetailType = 5 ] [[  Sİnh Sa ngoa  ]]
+		Néi lùc tèi ®a: +9 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		Sinh lùc tèi ®a: +43 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +72 ®iÓm
+
+-- [10-09-18 18:28:02]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-120886493,0,0,8,1,10,3,18,5,8,4,1,3,1,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +97 ®iÓm
+		'Th©n ph¸p: +'11'®iÓm'
+		Sinh lùc tèi ®a: +20 ®iÓm
+
+-- [10-09-18 18:34:29]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1035210215,0,0,7,3,10,4,121,3,7,1,5,4,1,0))
+			[ DetailType = 7 ] [[  Th«ng Thiªn Ph¸t Qu¸n  ]]
+		Néi lùc tèi ®a: +20 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +6 ®iÓm
+
+-- [10-09-18 18:36:32]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,1801526729,0,0,9,1,9,2,44,3,3,2,2,2,1,0))
+			[ DetailType = 9 ] [[  Hoµng Ngäc Ngäc Béi   ]]
+		ThÓ lùc tèi ®a: +42 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Sinh lùc tèi ®a: +22 ®iÓm
+		'Kh¸ng háa: +'1'%'
+		Néi lùc tèi ®a: +8 ®iÓm
+
+-- [10-09-18 18:38:35]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-872181461,0,0,7,9,10,3,118,5,7,3,2,8,8,0))
+			[ DetailType = 7 ] [[  HuyÒn Tª DiÖn Tr¸o  ]]
+		Néi lùc tèi ®a: +60 ®iÓm
+		'Th©n ph¸p: +'9'®iÓm'
+		Sinh lùc tèi ®a: +52 ®iÓm
+		'Phßng thñ vËt lı: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+
+-- [10-09-18 18:39:51]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1461446553,0,0,8,1,8,0,139,5,2,2,3,7,6,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +81 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		ThÓ lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 18:42:56]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,561002526,0,0,5,2,7,1,15,5,5,1,2,6,6,0))
+			[ DetailType = 5 ] [[  Liªn Phong Ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		ThÓ lùc tèi ®a: +15 ®iÓm
+
+-- [10-09-18 18:43:28]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,311174926,0,0,5,1,7,1,53,3,1,2,5,3,5,0))
+			[ DetailType = 5 ] [[  Hæ B× Ngoa  ]]
+		ThÓ lùc tèi ®a: +9 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +25 ®iÓm
+
+-- [10-09-18 18:43:44]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1998583727,0,0,8,0,10,2,71,7,8,5,3,6,7,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +87 ®iÓm
+		'ThÓ lùc tèi ®a: +'7' ®iÓm'
+		Sinh lùc tèi ®a: +97 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Néi lùc tèi ®a: +14 ®iÓm
+		'Kh¸ng háa: +'2'%'
+
+-- [10-09-18 18:46:36]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-1418777834,0,0,2,7,7,0,25,5,2,6,8,7,3,0))
+			[ DetailType = 2 ] [[  NguyÖn B¹ch cµ sa  ]]
+		Néi lùc tèi ®a: +17 ®iÓm
+		'Kh¸ng ®éc: +'4'%'
+		ThÓ lùc tèi ®a: +52 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +139 ®iÓm
+
+-- [10-09-18 18:47:45]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1565542121,0,0,7,13,10,1,137,2,8,6,3,4,7,0))
+			[ DetailType = 7 ] [[  Kim Phông TriÓn Sİ   ]]
+		ThÓ lùc tèi ®a: +37 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+		Néi lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Sinh lùc tèi ®a: +57 ®iÓm
+
+-- [10-09-18 18:49:34]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1242257821,0,0,7,5,8,4,21,5,2,3,7,2,8,0))
+			[ DetailType = 7 ] [[  Tİn nhía Hoµn  ]]
+		Sinh lùc tèi ®a: +88 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		ThÓ lùc tèi ®a: +39 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+
+-- [10-09-18 18:49:58]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,59489192,0,0,6,1,8,1,33,7,4,4,2,8,4,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +19 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		ThÓ lùc tèi ®a: +26 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+
+-- [10-09-18 18:50:25]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,425588798,0,0,5,1,9,3,2,6,4,4,4,2,6,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		ThÓ lùc tèi ®a: +27 ®iÓm
+		'Phßng thñ vËt lı: +'4'%'
+		Tèc ®é di chuyÓn: +15%
+		'Th©n ph¸p: +'2'®iÓm'
+		Néi lùc tèi ®a: +36 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 18:52:35]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-857675668,0,0,2,6,9,0,55,6,4,8,8,5,1,0))
+			[ DetailType = 2 ] [[  T­¬ng Nh­ bµo  ]]
+		ThÓ lùc tèi ®a: +49 ®iÓm
+		'Kh¸ng ®éc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +5 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +65 ®iÓm
+
+-- [10-09-18 18:52:37]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,107348493,0,0,8,1,10,1,57,8,5,7,7,2,8,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +27 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +29 ®iÓm
+		'Kh¸ng l«i: +'10'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 18:56:27]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,38531448,0,0,2,13,10,0,95,7,8,7,6,4,6,0))
+			[ DetailType = 2 ] [[  L­u Tiªn QuÇn  ]]
+		Thêi gian phôc håi: -20
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +29 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		ThÓ lùc tèi ®a: +22 ®iÓm
+
+-- [10-09-18 18:57:49]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1272933035,0,0,6,1,9,3,118,5,1,6,5,8,3,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +99 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Néi lùc tèi ®a: +81 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Sinh lùc tèi ®a: +47 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [10-09-18 19:00:09]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1882255098,0,0,8,0,7,0,53,8,8,8,1,3,6,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +5 ®iÓm
+		'Kh¸ng ®éc: +'15'%'
+		Sinh lùc tèi ®a: +39 ®iÓm
+
+-- [10-09-18 19:00:28]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,173620096,0,0,5,2,7,2,63,6,1,7,5,7,5,0))
+			[ DetailType = 5 ] [[  Liªn Phong Ngoa  ]]
+		Tèc ®é di chuyÓn: +17%
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		ThÓ lùc tèi ®a: +139 ®iÓm
+		'Kh¸ng háa: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [10-09-18 19:02:25]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1517812243,0,0,7,10,9,0,149,8,1,4,8,8,6,0))
+			[ DetailType = 7 ] [[  Minh Ch©u §Çu Hoµn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+
+-- [10-09-18 19:05:16]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,789123557,0,0,5,0,8,1,143,1,3,1,5,2,7,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +6 ®iÓm
+		'Kh¸ng l«i: +'7'%'
+		Sinh lùc tèi ®a: +29 ®iÓm
+
+-- [10-09-18 19:05:21]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-1910374331,0,0,5,1,9,2,16,7,4,5,1,3,4,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Sinh lùc tèi ®a: +76 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		Tèc ®é di chuyÓn: +15%
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Néi lùc tèi ®a: +45 ®iÓm
+		'Kh¸ng háa: +'9'%'
+
+-- [10-09-18 19:05:29]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1380183305,0,0,5,2,9,3,86,3,2,7,5,6,1,0))
+			[ DetailType = 5 ] [[  B¹ch Chu ngoa  ]]
+		Sinh lùc tèi ®a: +24 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+
+-- [10-09-18 19:08:14]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1198533415,0,0,8,1,9,1,140,3,4,7,7,5,1,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +40 ®iÓm
+		'Kh¸ng l«i: +'9'%'
+		Néi lùc tèi ®a: +122 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 19:10:39]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,254311769,0,0,4,0,10,3,31,2,2,3,1,1,2,0))
+			[ DetailType = 4 ] [[  Toµn Th¹ch H¹ng Liªn  ]]
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Néi lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 19:11:07]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-208245886,0,0,7,13,9,1,67,5,5,8,8,6,1,0))
+			[ DetailType = 7 ] [[  Phông Nh·n Kh«i  ]]
+		Sinh lùc tèi ®a: +23 ®iÓm
+		'Kh¸ng l«i: +'8'%'
+		Néi lùc tèi ®a: +74 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [10-09-18 19:11:25]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-670686126,0,0,2,4,7,4,128,6,1,2,2,1,2,0))
+			[ DetailType = 2 ] [[  Gi¶i Tr¹i gi¸p  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [10-09-18 19:12:31]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1011489457,0,0,8,0,8,1,97,7,3,6,1,5,4,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		Néi lùc tèi ®a: +136 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		ThÓ lùc tèi ®a: +42 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 19:15:24]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1163605321,0,0,6,0,7,4,15,5,3,2,8,4,3,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +46 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +10 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+		Néi lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+
+-- [10-09-18 19:15:41]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1685559284,0,0,2,11,10,4,87,1,3,2,7,3,7,0))
+			[ DetailType = 2 ] [[  Tİch LŞch Kim Phông gi¸p  ]]
+		Néi lùc tèi ®a: +15 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		Sinh lùc tèi ®a: +36 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 19:18:13]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,644990241,0,0,6,1,10,0,52,4,2,1,5,1,2,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Néi lùc tèi ®a: +16 ®iÓm
+
+-- [10-09-18 19:18:35]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-232030646,0,0,7,5,10,0,142,7,3,8,4,6,4,0))
+			[ DetailType = 7 ] [[  Trİch Tinh hoµn  ]]
+		Néi lùc tèi ®a: +77 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +42 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Sinh lùc tèi ®a: +103 ®iÓm
+
+-- [10-09-18 19:18:49]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,2101886916,0,0,9,0,9,2,31,2,2,1,2,2,1,0))
+			[ DetailType = 9 ] [[  Giµ Nam H­¬ng Nang  ]]
+		Sinh lùc tèi ®a: +33 ®iÓm
+		'Kh¸ng háa: +'5'%'
+		ThÓ lùc tèi ®a: +5 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Phôc håi néi lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 19:18:59]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,666233220,0,0,8,1,7,0,113,8,2,8,2,5,3,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +15 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		Sinh lùc tèi ®a: +76 ®iÓm
+
+-- [10-09-18 19:26:11]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,-226435688,0,0,2,6,10,1,85,8,1,4,7,3,8,0))
+			[ DetailType = 2 ] [[  TuyÒn Long bµo  ]]
+		ThÓ lùc tèi ®a: +47 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Néi lùc tèi ®a: +28 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Ph¶n ®oµn vËt lı: +9 ®iÓm
+
+-- [10-09-18 19:27:24]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,-1798027395,0,0,7,1,8,2,39,6,7,2,1,4,3,0))
+			[ DetailType = 7 ] [[  Th­îng Thanh Qu¸n  ]]
+		Sinh lùc tèi ®a: +60 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		ThÓ lùc tèi ®a: +14 ®iÓm
+
+-- [10-09-18 19:29:27]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1142953045,0,0,3,0,10,4,8,2,2,3,1,2,3,0))
+			[ DetailType = 3 ] [[  Toµn Th¹ch Giíi ChØ  ]]
+		Sinh lùc tèi ®a: +14 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Néi lùc tèi ®a: +44 ®iÓm
+
+-- [10-09-18 19:34:36]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,375754769,0,0,5,3,7,2,68,4,8,6,8,6,2,0))
+			[ DetailType = 5 ] [[  X­¬ng Hoµn ngoa  ]]
+		Sinh lùc tèi ®a: +20 ®iÓm
+		'ThÓ lùc tèi ®a: +'11' ®iÓm'
+		Tèc ®é di chuyÓn: +18%
+		'Kh¸ng háa: +'7'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+
+-- [10-09-18 19:35:54]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,858941703,0,0,9,1,10,4,27,3,1,2,1,1,2,0))
+			[ DetailType = 9 ] [[  D­¬ng Chi B¹ch Ngäc  ]]
+		ThÓ lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 19:37:22]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-1141526992,0,0,5,1,8,1,72,1,7,4,4,1,1,0))
+			[ DetailType = 5 ] [[  Tª B× Ngoa  ]]
+		Néi lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		ThÓ lùc tèi ®a: +7 ®iÓm
+
+-- [10-09-18 19:37:42]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,570373686,0,0,4,1,8,0,47,3,2,2,3,2,3,0))
+			[ DetailType = 4 ] [[  Hång PhØ Thóy Hé Th©n phï   ]]
+		Kh¸ng tÊt c¶: +2%
+		'Kh¸ng ®éc: +'5'%'
+		Néi lùc tèi ®a: +7 ®iÓm
+		'Søc m¹nh: +'4'®iÓm'
+		ThÓ lùc tèi ®a: +13 ®iÓm
+
+-- [10-09-18 19:38:51]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,192438144,0,0,2,1,8,4,115,1,4,1,1,8,6,0))
+			[ DetailType = 2 ] [[  Tam Thanh Bµo  ]]
+		Néi lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		ThÓ lùc tèi ®a: +17 ®iÓm
+
+-- [10-09-18 19:47:31]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1987943307,0,0,8,0,8,4,73,3,3,8,2,8,1,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		Néi lùc tèi ®a: +14 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +5 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 19:50:05]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1829283639,0,0,7,8,7,1,3,5,2,2,3,4,5,0))
+			[ DetailType = 7 ] [[  Kim Bé Dao  ]]
+		Sinh lùc tèi ®a: +48 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		ThÓ lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +48 ®iÓm
+
+-- [10-09-18 19:50:07]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1958152140,0,0,5,2,7,0,118,3,1,2,4,6,7,0))
+			[ DetailType = 5 ] [[  Liªn Phong Ngoa  ]]
+		Sinh lùc tèi ®a: +15 ®iÓm
+
+-- [10-09-18 19:50:17]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-1977802383,0,0,8,1,7,1,25,5,2,4,3,5,7,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +60 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 19:50:20]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1306287564,0,0,6,1,7,3,101,4,3,5,1,8,2,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +40 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		Néi lùc tèi ®a: +71 ®iÓm
+
+-- [10-09-18 19:51:16]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,257309274,0,0,6,0,7,3,21,8,7,5,5,2,2,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +125 ®iÓm
+		'Th©n ph¸p: +'12'®iÓm'
+		Sinh lùc tèi ®a: +95 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +17 ®iÓm
+		'Phßng thñ vËt lı: +'1'%'
+
+-- [10-09-18 19:51:38]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-296874523,0,0,8,0,9,3,93,2,7,7,8,8,1,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +39 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		Sinh lùc tèi ®a: +50 ®iÓm
+
+-- [10-09-18 19:52:31]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1634960799,0,0,7,2,9,4,29,7,8,7,5,3,6,0))
+			[ DetailType = 7 ] [[  B¸ch §éc ph¸t kÕt  ]]
+		Néi lùc tèi ®a: +28 ®iÓm
+		'Kh¸ng b¨ng: +'7'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Sinh lùc tèi ®a: +51 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 19:52:32]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,972687363,0,0,5,0,10,4,105,4,2,3,2,2,6,0))
+			[ DetailType = 5 ] [[  Cöu TiÕt X­¬ng VÜ Ngoa  ]]
+		ThÓ lùc tèi ®a: +51 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Néi lùc tèi ®a: +42 ®iÓm
+
+-- [10-09-18 19:52:48]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1143245232,0,0,7,6,8,0,37,2,8,1,2,2,6,0))
+			[ DetailType = 7 ] [[  Doanh Gi¸c M·o  ]]
+		Sinh lùc tèi ®a: +21 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Néi lùc tèi ®a: +25 ®iÓm
+
+-- [10-09-18 19:53:45]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1910725736,0,0,5,1,9,3,15,4,3,6,4,2,1,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Sinh lùc tèi ®a: +70 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Tèc ®é di chuyÓn: +20%
+		'Phßng thñ vËt lı: +'8'%'
+		Néi lùc tèi ®a: +15 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+
+-- [10-09-18 19:54:25]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1366789614,0,0,2,6,9,3,55,3,3,8,7,7,3,0))
+			[ DetailType = 2 ] [[  T­¬ng Nh­ bµo  ]]
+		Néi lùc tèi ®a: +55 ®iÓm
+		'Phßng thñ vËt lı: +'2'%'
+		Sinh lùc tèi ®a: +128 ®iÓm
+		'Th©n ph¸p: +'8'®iÓm'
+		ThÓ lùc tèi ®a: +52 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 20:00:12]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,1348921228,0,0,7,13,9,1,20,1,1,5,2,1,8,0))
+			[ DetailType = 7 ] [[  Phông Nh·n Kh«i  ]]
+		Néi lùc tèi ®a: +7 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		ThÓ lùc tèi ®a: +28 ®iÓm
+
+-- [10-09-18 20:01:52]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-869242652,0,0,8,1,8,1,98,3,6,7,8,4,5,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +39 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +43 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		Sinh lùc tèi ®a: +32 ®iÓm
+
+-- [10-09-18 20:04:13]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,2137964322,0,0,6,1,10,3,34,6,5,4,8,8,4,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Néi lùc tèi ®a: +39 ®iÓm
+		'Phßng thñ vËt lı: +'1'%'
+		Sinh lùc tèi ®a: +77 ®iÓm
+		'Th©n ph¸p: +'14'®iÓm'
+		ThÓ lùc tèi ®a: +119 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [10-09-18 20:08:31]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,912078860,0,0,7,3,7,2,105,2,6,2,2,2,3,0))
+			[ DetailType = 7 ] [[  Anh L¹c Qu¸n  ]]
+		ThÓ lùc tèi ®a: +7 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		Néi lùc tèi ®a: +13 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Sinh lùc tèi ®a: +36 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 20:09:05]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,137951671,0,0,5,1,7,1,108,3,3,6,7,4,8,0))
+			[ DetailType = 5 ] [[  Hæ B× Ngoa  ]]
+		Néi lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Sinh lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng l«i: +'14'%'
+		ThÓ lùc tèi ®a: +59 ®iÓm
+
+-- [10-09-18 20:10:06]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-948001104,0,0,7,3,8,3,8,7,7,6,7,1,1,0))
+			[ DetailType = 7 ] [[  Tö Kim ph¸t Qu¸n  ]]
+		Sinh lùc tèi ®a: +80 ®iÓm
+		'Th©n ph¸p: +'12'®iÓm'
+		ThÓ lùc tèi ®a: +103 ®iÓm
+		'Thêi gian lµm chËm: -'30'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 20:19:42]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,783049703,0,0,2,7,7,3,69,4,8,7,1,3,2,0))
+			[ DetailType = 2 ] [[  NguyÖn B¹ch cµ sa  ]]
+		Ph¶n ®oµn vËt lı: +10 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		Sinh lùc tèi ®a: +137 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Thêi gian phôc håi: -20
+
+-- [10-09-18 20:20:25]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1520036295,0,0,2,13,8,2,150,3,2,8,3,2,6,0))
+			[ DetailType = 2 ] [[  Kinh B¶o quÇn  ]]
+		ThÓ lùc tèi ®a: +40 ®iÓm
+		'ThÓ lùc tèi ®a: +'3' ®iÓm'
+		Néi lùc tèi ®a: +103 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 20:20:51]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,-55556772,0,0,8,0,9,0,15,1,6,8,4,7,7,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +7 ®iÓm
+		'Kh¸ng ®éc: +'15'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		ThÓ lùc tèi ®a: +46 ®iÓm
+
+-- [10-09-18 20:22:10]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1584300614,0,0,2,5,10,4,34,4,7,6,5,5,6,0))
+			[ DetailType = 2 ] [[  V¹n L­u Quy T«ng Y  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+		ThÓ lùc tèi ®a: +11 ®iÓm
+		'Kh¸ng b¨ng: +'6'%'
+		Néi lùc tèi ®a: +91 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 20:25:01]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1692402552,0,0,8,1,8,1,106,6,7,5,8,6,2,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +23 ®iÓm
+		'Kh¸ng l«i: +'8'%'
+		ThÓ lùc tèi ®a: +38 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 20:25:32]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1655044150,0,0,7,2,10,2,26,3,1,2,4,1,5,0))
+			[ DetailType = 7 ] [[  Tu La Ph¸t kÕt  ]]
+		Néi lùc tèi ®a: +26 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		ThÓ lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [10-09-18 20:26:53]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1187797112,0,0,1,0,9,4,7,2,2,3,1,2,3,0))
+			[ DetailType = 1 ] [[  Kim Tiªu   ]]
+		Tèc ®é ®¸nh - ngo¹i c«ng: +10%
+		'L«i s¸t - ngo¹i c«ng: +'10' ®iÓm'
+		Hót sinh lùc: +1%
+		'L«i s¸t - néi c«ng: +'6' ®iÓm'
+		Néi lùc tèi ®a: +29 ®iÓm
+		'Kh¸ng b¨ng: +'3'%'
+
+-- [10-09-18 20:29:02]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,384934203,0,0,6,0,8,4,9,3,3,5,4,2,1,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +26 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+
+-- [10-09-18 20:33:18]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1389965110,0,0,6,1,10,0,3,1,3,1,4,5,6,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +7 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		ThÓ lùc tèi ®a: +55 ®iÓm
+
+-- [10-09-18 20:33:38]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1821242244,0,0,8,1,9,0,90,4,1,8,1,8,2,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 20:34:18]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,2100975117,0,0,7,4,10,3,20,3,1,8,3,7,7,0))
+			[ DetailType = 7 ] [[  YÓm NhËt kh«i  ]]
+		Néi lùc tèi ®a: +33 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		ThÓ lùc tèi ®a: +97 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Phßng thñ vËt lı: +'14'%'
+
+-- [10-09-18 20:37:09]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-2128570045,0,0,7,0,10,3,4,1,8,3,2,4,5,0))
+			[ DetailType = 7 ] [[  Tú L« m·o  ]]
+		Sinh lùc tèi ®a: +6 ®iÓm
+		'Th©n ph¸p: +'11'®iÓm'
+		Néi lùc tèi ®a: +56 ®iÓm
+		'Phßng thñ vËt lı: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [10-09-18 20:37:19]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1443314695,0,0,2,7,8,0,30,8,7,6,8,8,2,0))
+			[ DetailType = 2 ] [[  Minh tÜnh cµ sa  ]]
+		Ph¶n ®oµn vËt lı: +8 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +100 ®iÓm
+		'Kh¸ng ®éc: +'17'%'
+		ThÓ lùc tèi ®a: +6 ®iÓm
+
+-- [10-09-18 20:39:42]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,-1087656969,0,0,7,7,9,4,141,8,8,5,7,2,3,0))
+			[ DetailType = 7 ] [[  V« T­íng Ph¸p Qu¸n  ]]
+		Néi lùc tèi ®a: +124 ®iÓm
+		'Kh¸ng b¨ng: +'7'%'
+		ThÓ lùc tèi ®a: +84 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+		Sinh lùc tèi ®a: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [10-09-18 20:41:57]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1708074688,0,0,2,8,7,1,105,4,4,5,4,4,1,0))
+			[ DetailType = 2 ] [[  V« Cùc §¹o y  ]]
+		ThÓ lùc tèi ®a: +79 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Thêi gian phôc håi: -20
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Ph¶n ®oµn vËt lı: +7 ®iÓm
+
+-- [10-09-18 20:42:01]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1340710956,0,0,7,0,10,4,118,2,3,5,2,5,2,0))
+			[ DetailType = 7 ] [[  Tú L« m·o  ]]
+		Néi lùc tèi ®a: +7 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		Sinh lùc tèi ®a: +67 ®iÓm
+
+-- [10-09-18 20:43:49]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1388030324,0,0,6,0,9,2,119,6,1,7,5,2,4,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +88 ®iÓm
+		'Kh¸ng háa: +'2'%'
+		Sinh lùc tèi ®a: +33 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [10-09-18 20:45:22]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1805579467,0,0,2,8,7,2,42,8,3,2,2,7,7,0))
+			[ DetailType = 2 ] [[  V« Cùc §¹o y  ]]
+		ThÓ lùc tèi ®a: +29 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'Kh¸ng háa: +'2'%'
+		Thêi gian phôc håi: -30
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+
+-- [10-09-18 20:51:32]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-366304469,0,0,5,1,9,3,45,2,3,4,4,4,5,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Néi lùc tèi ®a: +28 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Tèc ®é di chuyÓn: +13%
+		'Th©n ph¸p: +'7'®iÓm'
+
+-- [10-09-18 20:54:07]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-825611044,0,0,7,5,8,4,86,1,3,2,4,8,4,0))
+			[ DetailType = 7 ] [[  Tİn nhía Hoµn  ]]
+		Néi lùc tèi ®a: +7 ®iÓm
+		'Kh¸ng b¨ng: +'1'%'
+		Sinh lùc tèi ®a: +38 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [10-09-18 20:54:51]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-467422441,0,0,8,0,9,3,116,5,7,2,6,8,8,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'Phßng thñ vËt lı: +'7'%'
+		ThÓ lùc tèi ®a: +35 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Néi lùc tèi ®a: +90 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 20:55:13]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,692672389,0,0,6,0,8,4,120,2,8,3,1,3,6,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +24 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+		Néi lùc tèi ®a: +23 ®iÓm
+
+-- [10-09-18 21:02:10]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-778092598,0,0,6,1,9,3,60,5,1,1,8,2,5,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Sinh lùc tèi ®a: +11 ®iÓm
+		'Phßng thñ vËt lı: +'13'%'
+		ThÓ lùc tèi ®a: +38 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 21:02:16]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,168522799,0,0,7,11,7,3,144,8,1,5,8,1,4,0))
+			[ DetailType = 7 ] [[  Song Phông TriÒu Thiªn Qu¸n  ]]
+		Néi lùc tèi ®a: +132 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian lµm chËm: -'30'%'
+		Sinh lùc tèi ®a: +14 ®iÓm
+		'Phßng thñ vËt lı: +'4'%'
+
+-- [10-09-18 21:02:31]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1646433577,0,0,6,1,8,3,85,5,2,7,5,7,6,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +10 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Néi lùc tèi ®a: +77 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Phßng thñ vËt lı: +'1'%'
+
+-- [10-09-18 21:05:16]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-1330855747,0,0,5,2,7,2,27,2,3,8,1,3,5,0))
+			[ DetailType = 5 ] [[  Liªn Phong Ngoa  ]]
+		ThÓ lùc tèi ®a: +32 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+		Sinh lùc tèi ®a: +24 ®iÓm
+
+-- [10-09-18 21:06:07]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-1868754982,0,0,1,1,10,0,17,2,2,3,1,2,2,0))
+			[ DetailType = 1 ] [[  To¸i NguyÖt §ao  ]]
+		S¸t th­¬ng vËt lı - ngo¹i c«ng: +9%
+		'S¸t th­¬ng vËt lı - néi c«ng: +'2' ®iÓm'
+		Néi lùc tèi ®a: +54 ®iÓm
+		'S¸t th­¬ng vËt lı - ngo¹i c«ng: +'2' ®iÓm'
+		Sinh lùc tèi ®a: +17 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+
+-- [10-09-18 21:08:18]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1345046165,0,0,6,1,7,2,28,1,5,4,7,7,4,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'ThÓ lùc tèi ®a: +'7' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		Sinh lùc tèi ®a: +20 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 21:11:19]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,1479161018,0,0,5,3,8,1,13,5,2,4,7,4,7,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		Néi lùc tèi ®a: +5 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		ThÓ lùc tèi ®a: +68 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +34 ®iÓm
+
+-- [10-09-18 21:25:42]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,572193180,0,0,5,0,8,0,129,3,3,7,3,1,5,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		Néi lùc tèi ®a: +29 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +50 ®iÓm
+		'Kh¸ng ®éc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 21:28:28]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-1584037347,0,0,5,3,8,3,141,1,1,3,5,8,4,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		ThÓ lùc tèi ®a: +16 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Néi lùc tèi ®a: +57 ®iÓm
+		'Phßng thñ vËt lı: +'9'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [10-09-18 21:28:37]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,190207546,0,0,2,4,7,2,55,3,1,3,8,1,4,0))
+			[ DetailType = 2 ] [[  Gi¶i Tr¹i gi¸p  ]]
+		Thêi gian phôc håi: -20
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +26 ®iÓm
+		'Kh¸ng háa: +'11'%'
+		ThÓ lùc tèi ®a: +17 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 21:31:16]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1107024750,0,0,6,1,9,2,81,5,8,3,5,1,7,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +75 ®iÓm
+		'Kh¸ng háa: +'5'%'
+		Sinh lùc tèi ®a: +26 ®iÓm
+		'ThÓ lùc tèi ®a: +'8' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 21:31:35]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1687755475,0,0,5,0,10,0,93,6,2,6,2,1,8,0))
+			[ DetailType = 5 ] [[  Cöu TiÕt X­¬ng VÜ Ngoa  ]]
+		Néi lùc tèi ®a: +36 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		Sinh lùc tèi ®a: +50 ®iÓm
+
+-- [10-09-18 21:36:20]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1408890429,0,0,8,0,7,2,6,6,2,4,6,5,3,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +6 ®iÓm
+		'ThÓ lùc tèi ®a: +'3' ®iÓm'
+		Sinh lùc tèi ®a: +52 ®iÓm
+		'Kh¸ng háa: +'5'%'
+		ThÓ lùc tèi ®a: +18 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [10-09-18 21:38:37]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1325298266,0,0,8,0,8,4,140,5,4,8,7,7,4,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		Néi lùc tèi ®a: +120 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +84 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 21:39:12]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-4085228,0,0,7,8,7,3,7,6,2,4,6,2,8,0))
+			[ DetailType = 7 ] [[  Kim Bé Dao  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Phßng thñ vËt lı: +'4'%'
+		Néi lùc tèi ®a: +60 ®iÓm
+		'Th©n ph¸p: +'6'®iÓm'
+		Sinh lùc tèi ®a: +25 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [10-09-18 21:40:15]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,503900736,0,0,7,6,7,3,22,7,5,1,5,4,3,0))
+			[ DetailType = 7 ] [[  Chu Khëi Qu¸n  ]]
+		Néi lùc tèi ®a: +11 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		Sinh lùc tèi ®a: +17 ®iÓm
+		'Phßng thñ vËt lı: +'3'%'
+		ThÓ lùc tèi ®a: +71 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 21:42:11]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,860015886,0,0,5,2,10,1,88,7,7,8,3,7,5,0))
+			[ DetailType = 5 ] [[  Kim Lò hµi  ]]
+		Néi lùc tèi ®a: +105 ®iÓm
+		'Kh¸ng l«i: +'11'%'
+		Tèc ®é di chuyÓn: +12%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		ThÓ lùc tèi ®a: +40 ®iÓm
+
+-- [10-09-18 21:43:57]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,1711188513,0,0,5,0,8,4,99,2,4,1,8,1,8,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		Sinh lùc tèi ®a: +26 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng b¨ng: +'17'%'
+		Néi lùc tèi ®a: +16 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 21:44:34]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1594637988,0,0,7,1,10,1,42,4,8,2,3,8,5,0))
+			[ DetailType = 7 ] [[  Ngò l·o qu¸n  ]]
+		Sinh lùc tèi ®a: +74 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Néi lùc tèi ®a: +5 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		ThÓ lùc tèi ®a: +110 ®iÓm
+
+-- [10-09-18 21:44:43]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,614288718,0,0,5,0,8,0,34,2,8,2,8,4,2,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		Néi lùc tèi ®a: +9 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Sinh lùc tèi ®a: +80 ®iÓm
+
+-- [10-09-18 21:45:23]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-180901705,0,0,5,3,8,3,128,7,5,2,5,8,8,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		Sinh lùc tèi ®a: +120 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Néi lùc tèi ®a: +27 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		ThÓ lùc tèi ®a: +88 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 21:50:09]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-703977365,0,0,5,1,9,2,21,5,2,3,6,5,6,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Sinh lùc tèi ®a: +51 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Néi lùc tèi ®a: +44 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +58 ®iÓm
+		'Kh¸ng háa: +'9'%'
+
+-- [10-09-18 21:52:28]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,904847142,0,0,8,1,7,3,145,7,2,3,8,8,4,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		Néi lùc tèi ®a: +82 ®iÓm
+		'Phßng thñ vËt lı: +'4'%'
+		Sinh lùc tèi ®a: +22 ®iÓm
+		'Th©n ph¸p: +'14'®iÓm'
+		ThÓ lùc tèi ®a: +121 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [10-09-18 21:53:18]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1822368738,0,0,2,3,9,4,92,7,1,2,6,6,4,0))
+			[ DetailType = 2 ] [[  Hµn S­¬ng bµo  ]]
+		ThÓ lùc tèi ®a: +120 ®iÓm
+
+-- [10-09-18 21:53:26]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1209954165,0,0,8,1,8,1,133,5,5,4,7,8,6,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		Néi lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Sinh lùc tèi ®a: +40 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		ThÓ lùc tèi ®a: +116 ®iÓm
+
+-- [10-09-18 21:54:52]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1322791287,0,0,5,3,9,4,30,1,4,5,7,1,2,0))
+			[ DetailType = 5 ] [[  Sİnh Sa ngoa  ]]
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'Kh¸ng b¨ng: +'7'%'
+		Tèc ®é di chuyÓn: +16%
+		'Thêi gian tróng ®éc: -'30'%'
+		Néi lùc tèi ®a: +6 ®iÓm
+
+-- [10-09-18 21:55:41]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,113271426,0,0,5,2,9,1,47,4,5,4,8,6,6,0))
+			[ DetailType = 5 ] [[  B¹ch Chu ngoa  ]]
+		Néi lùc tèi ®a: +32 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Sinh lùc tèi ®a: +75 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [10-09-18 21:58:43]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-280097883,0,0,6,1,7,4,99,4,2,2,3,6,8,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng b¨ng: +'3'%'
+		ThÓ lùc tèi ®a: +22 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+
+-- [10-09-18 22:00:50]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,38561764,0,0,7,10,9,1,32,5,7,2,1,8,5,0))
+			[ DetailType = 7 ] [[  Minh Ch©u §Çu Hoµn  ]]
+		ThÓ lùc tèi ®a: +23 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		Sinh lùc tèi ®a: +5 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [10-09-18 22:01:08]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1377407196,0,0,6,1,9,3,69,6,2,8,8,4,2,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +102 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Néi lùc tèi ®a: +47 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		ThÓ lùc tèi ®a: +79 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+
+-- [10-09-18 22:01:25]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1148669671,0,0,5,3,8,2,122,5,2,5,6,7,2,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		Néi lùc tèi ®a: +29 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Sinh lùc tèi ®a: +53 ®iÓm
+		'Kh¸ng háa: +'7'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+
+-- [10-09-18 22:01:38]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1760946937,0,0,5,1,9,3,50,6,2,5,5,8,6,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Néi lùc tèi ®a: +31 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Tèc ®é di chuyÓn: +16%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+
+-- [10-09-18 22:03:38]	[DropOn: Train]	[Unlock912-101-unlock912]		Param: (AddItemEx(1,1060427427,0,0,8,0,10,4,83,6,1,1,2,3,6,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 22:03:47]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1803902475,0,0,8,1,8,3,99,7,1,6,3,6,7,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Néi lùc tèi ®a: +6 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+
+-- [10-09-18 22:03:48]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1903994413,0,0,7,9,9,1,77,6,2,2,2,4,7,0))
+			[ DetailType = 7 ] [[  §iªu B× DiÖn Tr¸o  ]]
+		ThÓ lùc tèi ®a: +59 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Sinh lùc tèi ®a: +14 ®iÓm
+
+-- [10-09-18 22:08:30]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,362646158,0,0,2,6,8,1,145,2,3,2,3,6,1,0))
+			[ DetailType = 2 ] [[  Bİch Hoa Bµo  ]]
+		Sinh lùc tèi ®a: +9 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Néi lùc tèi ®a: +25 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Thêi gian phôc håi: -20
+
+-- [10-09-18 22:09:04]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1211982427,0,0,6,0,8,2,56,7,3,2,4,3,1,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		Néi lùc tèi ®a: +114 ®iÓm
+		'Kh¸ng háa: +'2'%'
+		Sinh lùc tèi ®a: +35 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		ThÓ lùc tèi ®a: +43 ®iÓm
+
+-- [10-09-18 22:10:21]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1567212886,0,0,7,4,10,4,41,4,3,7,3,6,1,0))
+			[ DetailType = 7 ] [[  YÓm NhËt kh«i  ]]
+		Sinh lùc tèi ®a: +31 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Néi lùc tèi ®a: +106 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		ThÓ lùc tèi ®a: +61 ®iÓm
+
+-- [10-09-18 22:19:38]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-1921038360,0,0,7,4,7,1,106,8,2,6,6,4,1,0))
+			[ DetailType = 7 ] [[  Ng©n Kh«i  ]]
+		Sinh lùc tèi ®a: +145 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Néi lùc tèi ®a: +67 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 22:19:50]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1713907661,0,0,8,1,7,4,74,6,4,6,3,4,7,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +54 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Sinh lùc tèi ®a: +42 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Néi lùc tèi ®a: +18 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+
+-- [10-09-18 22:31:15]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,2020489991,0,0,6,1,8,4,6,3,2,4,3,6,8,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +37 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Néi lùc tèi ®a: +56 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+
+-- [10-09-18 22:32:18]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1417995943,0,0,6,1,10,3,108,5,5,1,4,4,7,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Néi lùc tèi ®a: +38 ®iÓm
+		'Th©n ph¸p: +'5'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		ThÓ lùc tèi ®a: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+
+-- [10-09-18 22:32:54]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,621280381,0,0,8,0,8,0,77,8,5,2,5,6,4,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		ThÓ lùc tèi ®a: +44 ®iÓm
+		'Kh¸ng ®éc: +'2'%'
+		Néi lùc tèi ®a: +24 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +55 ®iÓm
+
+-- [10-09-18 22:36:43]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-236977687,0,0,8,0,10,4,111,1,5,3,6,1,4,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +12 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Néi lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng b¨ng: +'7'%'
+
+-- [10-09-18 22:37:21]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-1227898883,0,0,5,0,9,2,24,2,1,6,4,8,6,0))
+			[ DetailType = 5 ] [[  Phong VÜ Tèng Ngoa  ]]
+		ThÓ lùc tèi ®a: +24 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Sinh lùc tèi ®a: +87 ®iÓm
+		'Kh¸ng háa: +'9'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 22:44:06]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,671166663,0,0,5,2,10,3,35,3,8,4,5,5,3,0))
+			[ DetailType = 5 ] [[  Kim Lò hµi  ]]
+		Néi lùc tèi ®a: +10 ®iÓm
+		'Phßng thñ vËt lı: +'7'%'
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'Th©n ph¸p: +'5'®iÓm'
+		Sinh lùc tèi ®a: +97 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [10-09-18 22:44:23]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1299150208,0,0,8,1,8,0,118,5,6,2,6,7,1,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +63 ®iÓm
+		'Kh¸ng ®éc: +'11'%'
+		Sinh lùc tèi ®a: +17 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [10-09-18 22:48:12]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-783032301,0,0,8,1,10,0,14,3,6,2,4,1,4,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		Néi lùc tèi ®a: +59 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+
+-- [10-09-18 22:49:04]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1703268975,0,0,5,2,10,0,17,1,6,6,7,1,1,0))
+			[ DetailType = 5 ] [[  Kim Lò hµi  ]]
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +97 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Néi lùc tèi ®a: +14 ®iÓm
+
+-- [10-09-18 22:51:30]	[DropOn: Train]	[BopVuBu-83-letutl74]		Param: (AddItemEx(1,-596262433,0,0,7,0,10,4,104,5,7,1,1,2,5,0))
+			[ DetailType = 7 ] [[  Tú L« m·o  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		ThÓ lùc tèi ®a: +16 ®iÓm
+
+-- [10-09-18 22:51:38]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,-1108704604,0,0,2,1,10,4,26,1,1,7,7,6,1,0))
+			[ DetailType = 2 ] [[  Ch©n Vò Th¸nh Y  ]]
+		Néi lùc tèi ®a: +15 ®iÓm
+
+-- [10-09-18 23:01:28]	[DropOn: Train]	[DoanhDoanh-82-letutl72]		Param: (AddItemEx(1,775301876,0,0,7,2,9,4,142,4,1,8,1,2,6,0))
+			[ DetailType = 7 ] [[  B¸ch §éc ph¸t kÕt  ]]
+		Sinh lùc tèi ®a: +23 ®iÓm
+
+-- [10-09-18 23:01:29]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-9531949,0,0,6,1,7,1,103,8,6,6,3,4,4,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng l«i: +'9'%'
+		ThÓ lùc tèi ®a: +42 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+
+-- [10-09-18 23:01:55]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1977097670,0,0,8,1,7,3,141,8,3,2,4,3,7,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +110 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Néi lùc tèi ®a: +7 ®iÓm
+		'Th©n ph¸p: +'8'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 23:02:19]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-192994598,0,0,6,1,7,3,99,6,7,5,3,8,8,0))
+			[ DetailType = 6 ] [[  MËt Ng©n Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		Sinh lùc tèi ®a: +68 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		ThÓ lùc tèi ®a: +67 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 23:03:15]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-450559106,0,0,5,3,10,2,54,1,7,3,8,1,3,0))
+			[ DetailType = 5 ] [[  Phi Phông Ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'12' ®iÓm'
+		Sinh lùc tèi ®a: +15 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		ThÓ lùc tèi ®a: +5 ®iÓm
+		'Kh¸ng háa: +'4'%'
+
+-- [10-09-18 23:04:59]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-716470930,0,0,7,7,10,1,105,3,5,6,7,8,1,0))
+			[ DetailType = 7 ] [[  Quan ¢m Ph¸t Qu¸n  ]]
+		Néi lùc tèi ®a: +52 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Sinh lùc tèi ®a: +35 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +90 ®iÓm
+
+-- [10-09-18 23:05:30]	[DropOn: Train]	[DoanhDoanh-82-letutl72]		Param: (AddItemEx(1,-1411901258,0,0,7,9,8,4,43,1,2,7,6,8,6,0))
+			[ DetailType = 7 ] [[  Hæ B×DiÖn Tr¸o  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng b¨ng: +'3'%'
+		ThÓ lùc tèi ®a: +54 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Sinh lùc tèi ®a: +155 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [10-09-18 23:07:10]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-2074751052,0,0,7,9,9,1,107,5,7,7,4,3,1,0))
+			[ DetailType = 7 ] [[  §iªu B× DiÖn Tr¸o  ]]
+		Néi lùc tèi ®a: +90 ®iÓm
+		'Kh¸ng l«i: +'10'%'
+		Sinh lùc tèi ®a: +34 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 23:07:31]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1367416709,0,0,5,0,7,1,33,8,3,5,3,8,2,0))
+			[ DetailType = 5 ] [[  TrÜ VÜ Tèng Ngoa  ]]
+		Néi lùc tèi ®a: +51 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +66 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Tèc ®é di chuyÓn: +23%
+
+-- [10-09-18 23:10:33]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-241600885,0,0,7,9,8,0,120,5,1,4,3,5,3,0))
+			[ DetailType = 7 ] [[  Hæ B×DiÖn Tr¸o  ]]
+		Néi lùc tèi ®a: +29 ®iÓm
+
+-- [10-09-18 23:10:59]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,1725142914,0,0,6,0,8,0,10,8,2,8,7,8,4,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +79 ®iÓm
+		'Kh¸ng ®éc: +'4'%'
+		Néi lùc tèi ®a: +34 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [10-09-18 23:19:23]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1904804250,0,0,7,2,10,2,2,2,3,4,8,7,7,0))
+			[ DetailType = 7 ] [[  Tu La Ph¸t kÕt  ]]
+		Néi lùc tèi ®a: +5 ®iÓm
+		'Kh¸ng háa: +'1'%'
+		ThÓ lùc tèi ®a: +63 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Sinh lùc tèi ®a: +40 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [10-09-18 23:21:46]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1796423116,0,0,5,1,10,1,134,6,7,2,6,6,6,0))
+			[ DetailType = 5 ] [[  Thiªn Tµm Ngoa  ]]
+		ThÓ lùc tèi ®a: +15 ®iÓm
+		'Kh¸ng l«i: +'11'%'
+		Néi lùc tèi ®a: +5 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Sinh lùc tèi ®a: +28 ®iÓm
+
+-- [10-09-18 23:24:11]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-123532410,0,0,5,1,10,3,64,8,3,6,6,8,5,0))
+			[ DetailType = 5 ] [[  Thiªn Tµm Ngoa  ]]
+		ThÓ lùc tèi ®a: +40 ®iÓm
+		'Phßng thñ vËt lı: +'1'%'
+		Néi lùc tèi ®a: +7 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Tèc ®é di chuyÓn: +14%
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [10-09-18 23:28:18]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1094719157,0,0,5,2,8,1,57,1,6,2,5,8,6,0))
+			[ DetailType = 5 ] [[  Ph¹m Hång Ngoa  ]]
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+		Néi lùc tèi ®a: +40 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Sinh lùc tèi ®a: +64 ®iÓm
+
+-- [10-09-18 23:29:36]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1613087261,0,0,6,1,9,3,4,1,2,3,3,1,2,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +16 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Néi lùc tèi ®a: +36 ®iÓm
+		'Phßng thñ vËt lı: +'5'%'
+		Sinh lùc tèi ®a: +12 ®iÓm
+
+-- [10-09-18 23:31:40]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-1858015338,0,0,6,1,9,2,108,4,5,5,7,1,1,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng háa: +'2'%'
+		Sinh lùc tèi ®a: +7 ®iÓm
+		'ThÓ lùc tèi ®a: +'12' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [10-09-18 23:32:02]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,355244936,0,0,8,0,7,0,72,6,1,5,4,3,4,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +67 ®iÓm
+
+-- [10-09-18 23:34:26]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,2085700131,0,0,7,4,9,1,129,3,8,7,8,4,8,0))
+			[ DetailType = 7 ] [[  Kim Kh«i   ]]
+		Néi lùc tèi ®a: +20 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+		ThÓ lùc tèi ®a: +24 ®iÓm
+		'Kh¸ng l«i: +'15'%'
+		Sinh lùc tèi ®a: +45 ®iÓm
+
+-- [10-09-18 23:43:18]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1615360610,0,0,7,10,9,2,57,3,1,7,2,7,6,0))
+			[ DetailType = 7 ] [[  Minh Ch©u §Çu Hoµn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +135 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		ThÓ lùc tèi ®a: +51 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [10-09-18 23:48:46]	[DropOn: Train]	[BopVuBu-83-letutl74]		Param: (AddItemEx(1,898693228,0,0,8,0,9,3,25,8,3,5,4,8,2,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +79 ®iÓm
+		'Phßng thñ vËt lı: +'1'%'
+		Néi lùc tèi ®a: +48 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Sinh lùc tèi ®a: +19 ®iÓm
+
+-- [10-09-18 23:49:45]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1233389784,0,0,7,11,10,3,145,8,1,8,5,4,2,0))
+			[ DetailType = 7 ] [[  Long L©n Kh«i  ]]
+		Néi lùc tèi ®a: +34 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		ThÓ lùc tèi ®a: +113 ®iÓm
+		'Phßng thñ vËt lı: +'1'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [10-09-18 23:49:49]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,935295398,0,0,5,0,7,4,120,7,8,7,8,4,6,0))
+			[ DetailType = 5 ] [[  TrÜ VÜ Tèng Ngoa  ]]
+		Néi lùc tèi ®a: +38 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Sinh lùc tèi ®a: +67 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [10-09-18 23:51:22]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,1618125650,0,0,7,2,8,1,67,7,5,2,4,4,4,0))
+			[ DetailType = 7 ] [[  Ngò §éc ph¸t kÕt  ]]
+		Sinh lùc tèi ®a: +40 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		Néi lùc tèi ®a: +32 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +28 ®iÓm
+
+-- [10-09-18 23:59:17]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,310467457,0,0,2,10,9,2,83,7,4,6,1,4,4,0))
+			[ DetailType = 2 ] [[  L¨ng La sam  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Sinh lùc tèi ®a: +93 ®iÓm
+

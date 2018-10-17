@@ -1,0 +1,2 @@
+Name	Quality	Genre	Detail	Particular	GoodsFive	Level	Magiclevel	TaskValue
+LÖnh bµi Phong L¨ng §é	0	4	489	1	0	0	0	2000000

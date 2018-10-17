@@ -1,0 +1,11 @@
+  c             	[2018-09-08 08:44:22]	[SUCCESS]	[ACC]	luukt54	[ROLE]	NgoalongNM	[C]	2	[COUNT]	1	[BUY]	[6-1-2312-1]Hçn Nguyªn Linh Lé	[PLACE]	79
+  c             	[2018-09-08 08:44:23]	[SUCCESS]	[ACC]	luukt54	[ROLE]	NgoalongNM	[C]	2	[COUNT]	1	[BUY]	[6-1-2312-1]Hçn Nguyªn Linh Lé	[PLACE]	79
+  c             	[2018-09-08 08:44:23]	[SUCCESS]	[ACC]	luukt54	[ROLE]	NgoalongNM	[C]	2	[COUNT]	1	[BUY]	[6-1-2312-1]Hçn Nguyªn Linh Lé	[PLACE]	79
+  c             	[2018-09-08 08:44:23]	[SUCCESS]	[ACC]	luukt54	[ROLE]	NgoalongNM	[C]	2	[COUNT]	1	[BUY]	[6-1-2312-1]Hçn Nguyªn Linh Lé	[PLACE]	79
+  c             	[2018-09-08 08:44:23]	[SUCCESS]	[ACC]	luukt54	[ROLE]	NgoalongNM	[C]	2	[COUNT]	1	[BUY]	[6-1-2312-1]Hçn Nguyªn Linh Lé	[PLACE]	79
+  c             	[2018-09-08 08:44:24]	[SUCCESS]	[ACC]	luukt54	[ROLE]	NgoalongNM	[C]	2	[COUNT]	1	[BUY]	[6-1-2312-1]Hçn Nguyªn Linh Lé	[PLACE]	79
+  c             	[2018-09-08 08:44:24]	[SUCCESS]	[ACC]	luukt54	[ROLE]	NgoalongNM	[C]	2	[COUNT]	1	[BUY]	[6-1-2312-1]Hçn Nguyªn Linh Lé	[PLACE]	79
+  c             	[2018-09-08 08:44:24]	[SUCCESS]	[ACC]	luukt54	[ROLE]	NgoalongNM	[C]	2	[COUNT]	1	[BUY]	[6-1-2312-1]Hçn Nguyªn Linh Lé	[PLACE]	79
+  c             	[2018-09-08 08:44:24]	[SUCCESS]	[ACC]	luukt54	[ROLE]	NgoalongNM	[C]	2	[COUNT]	1	[BUY]	[6-1-2312-1]Hçn Nguyªn Linh Lé	[PLACE]	79
+  c             	[2018-09-08 08:44:24]	[SUCCESS]	[ACC]	luukt54	[ROLE]	NgoalongNM	[C]	2	[COUNT]	1	[BUY]	[6-1-2312-1]Hçn Nguyªn Linh Lé	[PLACE]	79
+  c             	[2018-09-08 19:08:15]	[SUCCESS]	[ACC]	luukt54	[ROLE]	NgoalongNM	[C]	60	[COUNT]	1	[BUY]	[6-1-1125-1]BÝ quyÕt kü n¨ng cÊp 120	[PLACE]	79

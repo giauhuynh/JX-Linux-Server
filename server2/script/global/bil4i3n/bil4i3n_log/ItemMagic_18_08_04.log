@@ -1,0 +1,417 @@
+-- [04-08-18 00:55:24]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,1802397313,0,0,7,6,9,1,77,6,6,5,4,3,7,0))
+			[ DetailType = 7 ] [[  Tµm T¬ M·o  ]]
+		Sinh lùc tèi ®a: +87 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +86 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [04-08-18 00:55:24]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,409540490,0,0,7,4,9,0,52,7,1,1,8,3,5,0))
+			[ DetailType = 7 ] [[  Kim Kh«i   ]]
+		Néi lùc tèi ®a: +81 ®iÓm
+
+-- [04-08-18 00:55:24]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,-2079365045,0,0,5,2,9,2,75,8,8,1,4,3,1,0))
+			[ DetailType = 5 ] [[  B¹ch Chu ngoa  ]]
+		ThÓ lùc tèi ®a: +120 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'7'%'
+		Néi lùc tèi ®a: +12 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [04-08-18 00:55:24]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,1369071292,0,0,7,4,8,3,23,2,6,1,4,3,5,0))
+			[ DetailType = 7 ] [[  Tinh Cang Kh«i  ]]
+		Néi lùc tèi ®a: +7 ®iÓm
+		'Th©n ph¸p: +'10'®iÓm'
+		Sinh lùc tèi ®a: +13 ®iÓm
+		'Phßng thñ vËt lý: +'2'%'
+		ThÓ lùc tèi ®a: +19 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [04-08-18 00:55:24]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,1723895373,0,0,8,0,10,3,48,6,6,7,1,6,1,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +43 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Sinh lùc tèi ®a: +128 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+
+-- [04-08-18 00:55:24]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,1364491782,0,0,7,13,8,3,3,6,1,5,6,4,4,0))
+			[ DetailType = 7 ] [[  Huy Thñy Kh«i  ]]
+		Néi lùc tèi ®a: +21 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		ThÓ lùc tèi ®a: +35 ®iÓm
+		'Thêi gian lµm chËm: -'30'%'
+		Sinh lùc tèi ®a: +61 ®iÓm
+		'Phßng thñ vËt lý: +'6'%'
+
+-- [04-08-18 11:43:00]	[DropOn: Boss_Tieu_Hoang_Kim]	[dfdfbdfgfd-200-phamtungdhv]		Param: (AddItemEx(1,-1665927970,0,0,0,4,9,2,5,2,3,1,4,3,4,0))
+			[ DetailType = 0 ] [[  NghiÖt Long chïy  ]]
+		Tèc ®é ®¸nh - ngo¹i c«ng: +10%
+		'B¨ng s¸t - ngo¹i c«ng: +'24' ®iÓm'
+		ThÓ lùc tèi ®a: +15 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Hót néi lùc: +2%
+		'B¨ng s¸t - néi c«ng: +'47' ®iÓm'
+
+-- [04-08-18 11:43:00]	[DropOn: Boss_Tieu_Hoang_Kim]	[dfdfbdfgfd-200-phamtungdhv]		Param: (AddItemEx(1,1169032599,0,0,7,12,8,4,141,3,1,6,7,5,7,0))
+			[ DetailType = 7 ] [[  Léc nhÜ Thoa  ]]
+		Néi lùc tèi ®a: +34 ®iÓm
+
+-- [04-08-18 11:43:00]	[DropOn: Boss_Tieu_Hoang_Kim]	[dfdfbdfgfd-200-phamtungdhv]		Param: (AddItemEx(1,160008956,0,0,2,1,10,3,76,2,8,7,6,3,8,0))
+			[ DetailType = 2 ] [[  Ch©n Vò Th¸nh Y  ]]
+		Sinh lùc tèi ®a: +23 ®iÓm
+		'Th©n ph¸p: +'14'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+		'Phßng thñ vËt lý: +'6'%'
+		ThÓ lùc tèi ®a: +19 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [04-08-18 11:43:00]	[DropOn: Boss_Tieu_Hoang_Kim]	[dfdfbdfgfd-200-phamtungdhv]		Param: (AddItemEx(1,-1315569779,0,0,6,1,9,0,119,6,1,6,8,1,4,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +59 ®iÓm
+
+-- [04-08-18 11:43:00]	[DropOn: Boss_Tieu_Hoang_Kim]	[dfdfbdfgfd-200-phamtungdhv]		Param: (AddItemEx(1,-821119254,0,0,2,3,8,2,3,6,6,1,5,3,3,0))
+			[ DetailType = 2 ] [[  Tö Kim bµo  ]]
+		ThÓ lùc tèi ®a: +42 ®iÓm
+		'ThÓ lùc tèi ®a: +'8' ®iÓm'
+		Sinh lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng háa: +'2'%'
+
+-- [04-08-18 11:43:00]	[DropOn: Boss_Tieu_Hoang_Kim]	[dfdfbdfgfd-200-phamtungdhv]		Param: (AddItemEx(1,589490067,0,0,6,0,10,4,30,7,1,6,5,6,8,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [04-08-18 11:43:00]	[DropOn: Boss_Tieu_Hoang_Kim]	[dfdfbdfgfd-200-phamtungdhv]		Param: (AddItemEx(1,986795048,0,0,2,7,9,2,32,3,1,1,1,1,8,0))
+			[ DetailType = 2 ] [[  Kim L« cµ sa  ]]
+		Sinh lùc tèi ®a: +53 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +9 ®iÓm
+
+-- [04-08-18 14:54:15]	[DropOn: Train]	[RuouQuenSau-200-hoailanghp]		Param: (AddItemEx(1,-496310941,0,0,8,1,7,3,70,7,5,5,6,4,5,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+		'Th©n ph¸p: +'9'®iÓm'
+		Néi lùc tèi ®a: +62 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [04-08-18 17:16:18]	[DropOn: Boss_Tieu_Hoang_Kim]	[Deptrai-200-saluci]		Param: (AddItemEx(1,-1092863535,0,0,6,1,8,1,102,5,7,6,1,2,5,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Néi lùc tèi ®a: +52 ®iÓm
+
+-- [04-08-18 17:16:18]	[DropOn: Boss_Tieu_Hoang_Kim]	[Deptrai-200-saluci]		Param: (AddItemEx(1,1771871332,0,0,2,12,9,2,71,6,3,3,1,4,1,0))
+			[ DetailType = 2 ] [[  Kh«i §iªu y  ]]
+		Sinh lùc tèi ®a: +114 ®iÓm
+		'ThÓ lùc tèi ®a: +'6' ®iÓm'
+		ThÓ lùc tèi ®a: +5 ®iÓm
+
+-- [04-08-18 17:16:18]	[DropOn: Boss_Tieu_Hoang_Kim]	[Deptrai-200-saluci]		Param: (AddItemEx(1,-1082851301,0,0,5,1,10,0,46,3,4,1,3,3,6,0))
+			[ DetailType = 5 ] [[  Thiªn Tµm Ngoa  ]]
+		ThÓ lùc tèi ®a: +26 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+
+-- [04-08-18 17:16:18]	[DropOn: Boss_Tieu_Hoang_Kim]	[Deptrai-200-saluci]		Param: (AddItemEx(1,291911628,0,0,6,0,10,1,133,1,1,4,5,3,2,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		Néi lùc tèi ®a: +7 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Sinh lùc tèi ®a: +29 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [04-08-18 17:16:18]	[DropOn: Boss_Tieu_Hoang_Kim]	[Deptrai-200-saluci]		Param: (AddItemEx(1,-499356447,0,0,5,2,8,0,16,6,1,1,8,3,3,0))
+			[ DetailType = 5 ] [[  Ph¹m Hång Ngoa  ]]
+		ThÓ lùc tèi ®a: +20 ®iÓm
+
+-- [04-08-18 17:16:18]	[DropOn: Boss_Tieu_Hoang_Kim]	[Deptrai-200-saluci]		Param: (AddItemEx(1,939065678,0,0,8,1,8,0,20,6,6,5,5,6,6,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +63 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Sinh lùc tèi ®a: +81 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		Néi lùc tèi ®a: +27 ®iÓm
+
+-- [04-08-18 17:16:18]	[DropOn: Boss_Tieu_Hoang_Kim]	[Deptrai-200-saluci]		Param: (AddItemEx(1,1383919019,0,0,8,0,8,2,70,5,7,7,6,5,8,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		Néi lùc tèi ®a: +28 ®iÓm
+		'ThÓ lùc tèi ®a: +'9' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng háa: +'7'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+
+-- [04-08-18 18:27:25]	[DropOn: Train]	[caibang-200-linhkhang88]		Param: (AddItemEx(1,1860438554,0,0,5,2,8,1,105,4,8,4,7,5,6,0))
+			[ DetailType = 5 ] [[  Ph¹m Hång Ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng l«i: +'13'%'
+		ThÓ lùc tèi ®a: +68 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Néi lùc tèi ®a: +17 ®iÓm
+
+-- [04-08-18 18:35:13]	[DropOn: Boss_Tieu_Hoang_Kim]	[VuVuVnn-200-vunguyen83]		Param: (AddItemEx(1,-1120657459,0,0,6,0,10,2,65,7,7,4,4,1,5,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +47 ®iÓm
+		'Kh¸ng háa: +'9'%'
+		Néi lùc tèi ®a: +14 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		ThÓ lùc tèi ®a: +12 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+
+-- [04-08-18 18:35:13]	[DropOn: Boss_Tieu_Hoang_Kim]	[VuVuVnn-200-vunguyen83]		Param: (AddItemEx(1,1338963954,0,0,6,0,9,2,30,4,1,7,5,8,2,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +28 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		ThÓ lùc tèi ®a: +128 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +5 ®iÓm
+		'Kh¸ng háa: +'1'%'
+
+-- [04-08-18 18:35:13]	[DropOn: Boss_Tieu_Hoang_Kim]	[VuVuVnn-200-vunguyen83]		Param: (AddItemEx(1,-1409648837,0,0,7,6,9,2,44,3,1,6,4,5,1,0))
+			[ DetailType = 7 ] [[  Tµm T¬ M·o  ]]
+		ThÓ lùc tèi ®a: +60 ®iÓm
+		'ThÓ lùc tèi ®a: +'1' ®iÓm'
+		Néi lùc tèi ®a: +95 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		Sinh lùc tèi ®a: +10 ®iÓm
+
+-- [04-08-18 18:35:13]	[DropOn: Boss_Tieu_Hoang_Kim]	[VuVuVnn-200-vunguyen83]		Param: (AddItemEx(1,-312082580,0,0,5,3,10,2,25,8,3,6,7,4,4,0))
+			[ DetailType = 5 ] [[  Phi Phông Ngoa  ]]
+		Néi lùc tèi ®a: +76 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng háa: +'13'%'
+		Sinh lùc tèi ®a: +26 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [04-08-18 18:35:13]	[DropOn: Boss_Tieu_Hoang_Kim]	[VuVuVnn-200-vunguyen83]		Param: (AddItemEx(1,2101229757,0,0,5,0,10,0,111,8,7,3,4,6,5,0))
+			[ DetailType = 5 ] [[  Cöu TiÕt X­¬ng VÜ Ngoa  ]]
+		Sinh lùc tèi ®a: +16 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Néi lùc tèi ®a: +14 ®iÓm
+		'Kh¸ng ®éc: +'9'%'
+		ThÓ lùc tèi ®a: +40 ®iÓm
+
+-- [04-08-18 18:35:13]	[DropOn: Boss_Tieu_Hoang_Kim]	[VuVuVnn-200-vunguyen83]		Param: (AddItemEx(1,-13215690,0,0,8,0,10,2,93,2,2,7,1,2,5,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +17 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		ThÓ lùc tèi ®a: +120 ®iÓm
+
+-- [04-08-18 19:25:01]	[DropOn: Train]	[dfggfd-200-hoangtuan1]		Param: (AddItemEx(1,2105841272,0,0,5,1,9,3,110,8,3,1,6,8,5,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Néi lùc tèi ®a: +49 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		ThÓ lùc tèi ®a: +9 ®iÓm
+		'Phßng thñ vËt lý: +'10'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [04-08-18 19:29:15]	[DropOn: Boss_Tieu_Hoang_Kim]	[V«ÙDanh-200-tranvinh5]		Param: (AddItemEx(1,-1340554350,0,0,7,12,10,0,55,8,8,1,6,4,2,0))
+			[ DetailType = 7 ] [[  Thanh Tinh Thoa  ]]
+		Néi lùc tèi ®a: +155 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		ThÓ lùc tèi ®a: +19 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [04-08-18 19:29:15]	[DropOn: Boss_Tieu_Hoang_Kim]	[V«ÙDanh-200-tranvinh5]		Param: (AddItemEx(1,-729652353,0,0,7,9,9,4,39,1,8,8,4,6,2,0))
+			[ DetailType = 7 ] [[  §iªu B× DiÖn Tr¸o  ]]
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng b¨ng: +'7'%'
+		Néi lùc tèi ®a: +110 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +95 ®iÓm
+
+-- [04-08-18 19:29:15]	[DropOn: Boss_Tieu_Hoang_Kim]	[V«ÙDanh-200-tranvinh5]		Param: (AddItemEx(1,-877754560,0,0,7,3,8,2,32,6,2,8,6,3,6,0))
+			[ DetailType = 7 ] [[  Tö Kim ph¸t Qu¸n  ]]
+		Néi lùc tèi ®a: +28 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+		'Kh¸ng háa: +'15'%'
+		ThÓ lùc tèi ®a: +7 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [04-08-18 19:29:15]	[DropOn: Boss_Tieu_Hoang_Kim]	[V«ÙDanh-200-tranvinh5]		Param: (AddItemEx(1,-2098528735,0,0,6,0,8,3,35,7,3,4,2,6,5,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +53 ®iÓm
+		'Th©n ph¸p: +'5'®iÓm'
+		Néi lùc tèi ®a: +40 ®iÓm
+		'Phßng thñ vËt lý: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [04-08-18 19:29:15]	[DropOn: Boss_Tieu_Hoang_Kim]	[V«ÙDanh-200-tranvinh5]		Param: (AddItemEx(1,-717752874,0,0,7,6,8,3,128,1,8,1,2,5,3,0))
+			[ DetailType = 7 ] [[  Doanh Gi¸c M·o  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		ThÓ lùc tèi ®a: +7 ®iÓm
+		'Phßng thñ vËt lý: +'3'%'
+		Sinh lùc tèi ®a: +28 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [04-08-18 19:29:15]	[DropOn: Boss_Tieu_Hoang_Kim]	[V«ÙDanh-200-tranvinh5]		Param: (AddItemEx(1,-855744529,0,0,8,0,10,2,89,7,3,5,1,7,8,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		ThÓ lùc tèi ®a: +78 ®iÓm
+		'ThÓ lùc tèi ®a: +'3' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [04-08-18 19:29:15]	[DropOn: Boss_Tieu_Hoang_Kim]	[V«ÙDanh-200-tranvinh5]		Param: (AddItemEx(1,1855597162,0,0,5,0,8,2,97,2,1,4,3,1,5,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		ThÓ lùc tèi ®a: +63 ®iÓm
+		'Kh¸ng háa: +'2'%'
+		Néi lùc tèi ®a: +17 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [04-08-18 20:04:59]	[DropOn: Train]	[dsadasd-200-hoangtuan1]		Param: (AddItemEx(1,-867429733,0,0,8,0,8,0,135,5,3,7,1,1,7,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		ThÓ lùc tèi ®a: +85 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Néi lùc tèi ®a: +26 ®iÓm
+
+-- [04-08-18 20:26:39]	[DropOn: Train]	[ChäcChäc-200-thuyhuyenbn1981]		Param: (AddItemEx(1,694291782,0,0,6,1,9,4,69,3,8,1,2,5,2,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +46 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [04-08-18 20:39:59]	[DropOn: Train]	[tester3-200-akane001]		Param: (AddItemEx(1,1513858251,0,0,5,1,9,4,84,7,2,3,2,4,4,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Néi lùc tèi ®a: +60 ®iÓm
+		'Kh¸ng b¨ng: +'1'%'
+		ThÓ lùc tèi ®a: +22 ®iÓm
+
+-- [04-08-18 21:00:55]	[DropOn: Train]	[tester4-200-akane001]		Param: (AddItemEx(1,760639412,0,0,6,0,7,2,104,8,5,3,3,5,4,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'6' ®iÓm'
+		Sinh lùc tèi ®a: +39 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		ThÓ lùc tèi ®a: +45 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [04-08-18 21:31:42]	[DropOn: Boss_Tieu_Hoang_Kim]	[tester5-200-akane001]		Param: (AddItemEx(1,758094849,0,0,5,2,9,4,124,8,1,4,2,6,7,0))
+			[ DetailType = 5 ] [[  B¹ch Chu ngoa  ]]
+		Sinh lùc tèi ®a: +127 ®iÓm
+
+-- [04-08-18 21:31:42]	[DropOn: Boss_Tieu_Hoang_Kim]	[tester5-200-akane001]		Param: (AddItemEx(1,1416102638,0,0,5,3,9,1,138,4,2,1,8,3,6,0))
+			[ DetailType = 5 ] [[  SÝnh Sa ngoa  ]]
+		Sinh lùc tèi ®a: +35 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Néi lùc tèi ®a: +41 ®iÓm
+
+-- [04-08-18 21:31:42]	[DropOn: Boss_Tieu_Hoang_Kim]	[tester5-200-akane001]		Param: (AddItemEx(1,1380645323,0,0,6,1,9,2,19,2,4,1,8,1,4,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +14 ®iÓm
+		'ThÓ lùc tèi ®a: +'5' ®iÓm'
+		Néi lùc tèi ®a: +12 ®iÓm
+		'Kh¸ng háa: +'15'%'
+		ThÓ lùc tèi ®a: +10 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [04-08-18 21:31:42]	[DropOn: Boss_Tieu_Hoang_Kim]	[tester5-200-akane001]		Param: (AddItemEx(1,1846713160,0,0,7,4,8,2,40,7,7,2,3,8,2,0))
+			[ DetailType = 7 ] [[  Tinh Cang Kh«i  ]]
+		Néi lùc tèi ®a: +101 ®iÓm
+		'Kh¸ng háa: +'5'%'
+		Sinh lùc tèi ®a: +9 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +124 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+
+-- [04-08-18 21:31:42]	[DropOn: Boss_Tieu_Hoang_Kim]	[tester5-200-akane001]		Param: (AddItemEx(1,-1770742583,0,0,2,12,10,3,31,6,2,6,2,3,7,0))
+			[ DetailType = 2 ] [[  V¹n Chóng TÒ T©m Y  ]]
+		Sinh lùc tèi ®a: +58 ®iÓm
+		'Phßng thñ vËt lý: +'5'%'
+		ThÓ lùc tèi ®a: +60 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Néi lùc tèi ®a: +25 ®iÓm
+		'Thêi gian lµm chËm: -'30'%'
+
+-- [04-08-18 22:48:20]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,-1379686400,0,0,5,1,9,3,115,1,3,7,8,1,8,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Néi lùc tèi ®a: +11 ®iÓm
+		'Th©n ph¸p: +'4'®iÓm'
+		Sinh lùc tèi ®a: +68 ®iÓm
+		'Phßng thñ vËt lý: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [04-08-18 22:48:20]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,-535421471,0,0,7,10,10,1,73,7,6,3,7,6,2,0))
+			[ DetailType = 7 ] [[  Long HuyÕt §Çu hoµn  ]]
+		Néi lùc tèi ®a: +96 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+
+-- [04-08-18 22:48:20]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,1544570986,0,0,7,10,8,2,137,3,8,2,8,5,8,0))
+			[ DetailType = 7 ] [[  Chu Sa §Çu Hoµn  ]]
+		Néi lùc tèi ®a: +5 ®iÓm
+		'ThÓ lùc tèi ®a: +'14' ®iÓm'
+		ThÓ lùc tèi ®a: +40 ®iÓm
+		'Kh¸ng háa: +'11'%'
+		Sinh lùc tèi ®a: +60 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [04-08-18 22:48:20]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,866563859,0,0,2,11,9,2,75,5,8,7,7,4,8,0))
+			[ DetailType = 2 ] [[  HuyÒn ThiÕt TuyÕt Ng©n gi¸p  ]]
+		Ph¶n ®oµn vËt lý: +4 ®iÓm
+		'ThÓ lùc tèi ®a: +'15' ®iÓm'
+		Sinh lùc tèi ®a: +24 ®iÓm
+		'Thêi gian cho¸ng: -'30' ®iÓm'
+		ThÓ lùc tèi ®a: +39 ®iÓm
+		'Kh¸ng háa: +'19'%'
+
+-- [04-08-18 22:48:20]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,-190436304,0,0,6,1,10,2,107,8,2,7,4,1,2,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Néi lùc tèi ®a: +42 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		ThÓ lùc tèi ®a: +124 ®iÓm
+		'Kh¸ng háa: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [04-08-18 22:48:20]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,-2039729835,0,0,5,0,8,4,13,4,4,5,8,3,3,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		Néi lùc tèi ®a: +8 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +27 ®iÓm
+		'Kh¸ng b¨ng: +'7'%'
+		Sinh lùc tèi ®a: +40 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [04-08-18 22:48:20]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,1825456666,0,0,7,9,9,4,99,7,5,2,8,6,5,0))
+			[ DetailType = 7 ] [[  §iªu B× DiÖn Tr¸o  ]]
+		Sinh lùc tèi ®a: +80 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		ThÓ lùc tèi ®a: +11 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [04-08-18 22:48:20]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,1235414659,0,0,6,1,10,0,150,1,8,6,3,3,4,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +49 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		ThÓ lùc tèi ®a: +40 ®iÓm
+
+-- [04-08-18 22:48:20]	[DropOn: Boss_Tieu_Hoang_Kim]	[DocDep-200-saluci]		Param: (AddItemEx(1,779182292,0,0,5,2,10,4,130,8,5,3,2,3,8,0))
+			[ DetailType = 5 ] [[  Kim Lò hµi  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +5 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Tèc ®é di chuyÓn: +12%
+		'Thêi gian tróng ®éc: -'20'%'
+
