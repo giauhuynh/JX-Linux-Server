@@ -1,0 +1,1303 @@
+
+*
+***** Sword3PaySys Start (@ 2018/08/29 15:05:27.297) >>>>>
+*
+
+[2018/08/29 15:05:27] Init CheckClientID ok!
+[2018/08/29 15:05:27] Init FeeType ok!
+[2018/08/29 15:13:04] 1 >> Start Add Gateway(103.92.25.248 : 36621) Use NetwordID 0 ....
+[2018/08/29 15:13:04] 2 >> Add Gateway(103.92.25.248 : 36621) NetwordID 0 ! -- At 0
+[2018/08/29 15:13:04] 3 >> Free Client Count is 19
+[2018/08/29 15:13:04] 4 >> KGatewayDataProcess[0]'s m_nGameID is changed from [0] to [1] with Account[volamtrunghieu] from [103.92.25.248]
+[2018/08/29 15:13:05] 5 >> Gateway volamtrunghieu(103.92.25.248)B499-BAB1-7C21: Verify OK !Gateway NormalClose At:2018-8-29 14:56:17
+[2018/08/29 15:13:05] 6 >> Gateway Connect OK!
+[2018/08/29 15:13:06] 7 >> Gateway volamtrunghieu(103.92.25.248): Ping 1(s)
+[2018/08/29 15:13:06] 8 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:06] 9 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Login Success ! (Ext:1) From 123.25.218.214:57052 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:06] 10 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:06] 11 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Login Success ! (Ext:1) From 113.184.175.82:51841 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 12 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 13 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Login Success ! (Ext:1) From 123.25.218.214:57051 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 14 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 15 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Login Success ! (Ext:1) From 118.69.88.247:50858 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 16 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 17 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Login Success ! (Ext:1) From 118.69.88.247:50857 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 18 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 19 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Login Success ! (Ext:1) From 118.69.88.247:50859 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 20 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 21 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Login Success ! (Ext:1) From 118.68.5.193:11438 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 22 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 23 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Login Success ! (Ext:1) From 118.68.5.193:33981 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 24 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 25 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Login Success ! (Ext:1) From 14.187.167.3:50104 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 26 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 27 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Login Success ! (Ext:1) From 116.99.167.107:49734 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 28 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 29 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Login Success ! (Ext:1) From 118.68.5.193:34142 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 30 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 31 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Login Success ! (Ext:1) From 14.233.97.112:26017 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 32 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 33 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Login Success ! (Ext:1) From 113.184.175.82:51842 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 34 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 35 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz1 Login Success ! (Ext:1) From 116.99.167.107:49735 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 36 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 37 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Login Success ! (Ext:1) From 118.68.5.193:2746 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 38 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 39 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Login Success ! (Ext:1) From 14.187.167.3:50106 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 40 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 41 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Login Success ! (Ext:1) From 14.187.167.3:50107 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 42 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 43 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 44 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Login Success ! (Ext:1) From 118.69.88.247:50860 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 45 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 46 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 47 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 48 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 49 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 50 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Login Success ! (Ext:1) From 27.79.207.127:53001 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 51 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 52 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 53 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Login Success ! (Ext:1) From 14.245.4.115:52685 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 54 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 55 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 56 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 57 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Login Success ! (Ext:1) From 113.22.34.131:50375 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 58 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 59 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Login Success ! (Ext:1) From 113.184.175.82:51843 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 60 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 61 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Login Success ! (Ext:1) From 27.79.207.127:53002 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 62 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 63 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 64 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 65 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 66 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 67 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 68 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 69 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Login Success ! (Ext:1) From 113.22.34.131:50377 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 70 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 71 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz2 Login Success ! (Ext:1) From 116.99.167.107:49736 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 72 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 73 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 74 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Login Success ! (Ext:1) From 27.79.207.127:12233 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 75 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 76 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Login Success ! (Ext:1) From 27.79.207.127:53004 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 77 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 78 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Login Success ! (Ext:1) From 118.69.88.247:50861 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 79 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:07] 80 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:07] 81 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Login Success ! (Ext:1) From 117.5.236.180:3227 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:07] 82 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 83 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 84 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:08] 85 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Login Success ! (Ext:1) From 14.187.167.3:50108 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:08] 86 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 87 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:08] 88 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Login Success ! (Ext:1) From 14.187.167.3:50109 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:08] 89 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 90 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:08] 91 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Login Success ! (Ext:1) From 27.79.207.127:12235 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:08] 92 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 93 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 94 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 95 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 96 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:08] 97 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Login Success ! (Ext:1) From 14.176.241.9:49603 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:08] 98 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 99 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:08] 100 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Login Success ! (Ext:1) From 118.68.5.193:5248 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:08] 101 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz2 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 102 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:08] 103 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Login Success ! (Ext:1) From 113.184.175.82:51844 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:08] 104 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:08] 105 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Login Success ! (Ext:1) From 113.184.175.82:51845 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:08] 106 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 107 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 108 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:08] 109 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Login Success ! (Ext:1) From 113.22.34.131:50379 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:08] 110 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:08] 111 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Login Success ! (Ext:1) From 113.184.175.82:51846 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:08] 112 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 113 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 114 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 115 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:08] 116 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Login Success ! (Ext:1) From 118.69.88.247:50862 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:08] 117 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:08] 118 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Login Success ! (Ext:1) From 118.68.5.193:34024 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:08] 119 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 120 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 121 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Logout Success ! (Ext:0)
+[2018/08/29 15:13:08] 122 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Logout Success ! (Ext:0)
+[2018/08/29 15:13:09] 123 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:09] 124 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Login Success ! (Ext:1) From 113.22.34.131:50381 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:09] 125 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:09] 126 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Login Success ! (Ext:1) From 113.22.34.131:50382 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:09] 127 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Logout Success ! (Ext:0)
+[2018/08/29 15:13:09] 128 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Logout Success ! (Ext:0)
+[2018/08/29 15:13:09] 129 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Logout Success ! (Ext:0)
+[2018/08/29 15:13:09] 130 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Logout Success ! (Ext:0)
+[2018/08/29 15:13:09] 131 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:09] 132 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Login Success ! (Ext:1) From 117.5.236.180:3228 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:09] 133 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Logout Success ! (Ext:0)
+[2018/08/29 15:13:09] 134 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Logout Success ! (Ext:0)
+[2018/08/29 15:13:09] 135 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:09] 136 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Login Success ! (Ext:1) From 113.22.34.131:50384 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:09] 137 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Logout Success ! (Ext:0)
+[2018/08/29 15:13:09] 138 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Logout Success ! (Ext:0)
+[2018/08/29 15:13:09] 139 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:09] 140 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Login Success ! (Ext:1) From 14.176.241.9:49604 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:09] 141 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:09] 142 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Login Success ! (Ext:1) From 14.176.241.9:49605 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:09] 143 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:09] 144 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:09] 145 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Login Success ! (Ext:1) From 116.99.167.107:49737 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:10] 146 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:10] 147 >> Gateway volamtrunghieu(103.92.25.248): User hieuadnew Login Success ! (Ext:1) From 113.176.144.109:53862 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:10] 148 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:10] 149 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Login Success ! (Ext:1) From 27.79.207.127:53006 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:10] 150 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Logout Success ! (Ext:0)
+[2018/08/29 15:13:10] 151 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:10] 152 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Login Success ! (Ext:1) From 14.176.241.9:49606 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:10] 153 >> Gateway volamtrunghieu(103.92.25.248): User hieuadnew Logout Success ! (Ext:0)
+[2018/08/29 15:13:10] 154 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:10] 155 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Login Success ! (Ext:1) From 116.99.167.107:49738 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:10] 156 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Logout Success ! (Ext:0)
+[2018/08/29 15:13:10] 157 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:10] 158 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Logout Success ! (Ext:0)
+[2018/08/29 15:13:10] 159 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:10] 160 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Login Success ! (Ext:1) From 14.176.241.9:49607 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:10] 161 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:10] 162 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Login Success ! (Ext:1) From 14.176.241.9:49608 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:10] 163 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Logout Success ! (Ext:0)
+[2018/08/29 15:13:10] 164 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Logout Success ! (Ext:0)
+[2018/08/29 15:13:10] 165 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:10] 166 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Login Success ! (Ext:1) From 116.99.167.107:49739 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:11] 167 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Logout Success ! (Ext:0)
+[2018/08/29 15:13:11] 168 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Logout Success ! (Ext:0)
+[2018/08/29 15:13:11] 169 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:12] 170 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:12] 171 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Login Success ! (Ext:1) From 113.22.135.164:61453 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:12] 172 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:12] 173 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Login Success ! (Ext:1) From 14.233.97.112:26369 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:12] 174 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Logout Success ! (Ext:0)
+[2018/08/29 15:13:13] 175 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Logout Success ! (Ext:0)
+[2018/08/29 15:13:13] 176 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:13] 177 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Login Success ! (Ext:1) From 113.22.135.164:61454 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:13] 178 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:13] 179 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Login Success ! (Ext:1) From 123.25.218.214:57059 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:13] 180 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Logout Success ! (Ext:0)
+[2018/08/29 15:13:13] 181 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:13] 182 >> Gateway volamtrunghieu(103.92.25.248): User sarin1990 Login Failed ! --- Name, Password From 116.110.119.64:12582 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:14] 183 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Logout Success ! (Ext:0)
+[2018/08/29 15:13:14] 184 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:14] 185 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Login Success ! (Ext:1) From 113.22.135.164:61456 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:14] 186 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:14] 187 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Login Success ! (Ext:1) From 14.233.97.112:26401 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:14] 188 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Logout Success ! (Ext:0)
+[2018/08/29 15:13:14] 189 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Logout Success ! (Ext:0)
+[2018/08/29 15:13:16] 190 >> Gateway volamtrunghieu(103.92.25.248): Ping 1(s)
+[2018/08/29 15:13:16] 191 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:16] 192 >> Gateway volamtrunghieu(103.92.25.248): User sarin1990 Login Failed ! --- Name, Password From 116.110.119.64:12582 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 193 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 194 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Login Success ! (Ext:1) From 14.187.167.3:50110 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 195 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 196 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Login Success ! (Ext:1) From 113.184.175.82:51848 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 197 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 198 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Login Success ! (Ext:1) From 113.184.175.82:51847 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 199 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 200 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Login Success ! (Ext:1) From 14.187.167.3:50111 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 201 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 202 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Login Success ! (Ext:1) From 118.69.88.247:50864 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 203 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 204 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Login Success ! (Ext:1) From 118.69.88.247:50865 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 205 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 206 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Login Success ! (Ext:1) From 118.69.88.247:50866 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 207 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Logout Success ! (Ext:0)
+[2018/08/29 15:13:17] 208 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 209 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Login Success ! (Ext:1) From 123.25.218.214:57063 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 210 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Logout Success ! (Ext:0)
+[2018/08/29 15:13:17] 211 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Logout Success ! (Ext:0)
+[2018/08/29 15:13:17] 212 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:17] 213 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:17] 214 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 215 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Login Success ! (Ext:1) From 118.68.5.193:62060 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 216 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 217 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Login Success ! (Ext:1) From 123.25.218.214:57064 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 218 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Logout Success ! (Ext:0)
+[2018/08/29 15:13:17] 219 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 220 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Login Success ! (Ext:1) From 118.68.5.193:37504 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 221 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 222 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Login Success ! (Ext:1) From 118.68.5.193:12550 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 223 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 224 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Login Success ! (Ext:1) From 118.68.5.193:34223 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 225 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Logout Success ! (Ext:0)
+[2018/08/29 15:13:17] 226 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 227 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz1 Login Success ! (Ext:1) From 116.99.167.107:49740 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 228 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Logout Success ! (Ext:0)
+[2018/08/29 15:13:17] 229 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 230 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Login Success ! (Ext:1) From 116.99.167.107:49741 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 231 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 232 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Login Success ! (Ext:1) From 14.187.167.3:50112 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 233 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Logout Success ! (Ext:0)
+[2018/08/29 15:13:17] 234 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 235 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Login Success ! (Ext:1) From 14.233.97.112:26433 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:17] 236 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:17] 237 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Login Success ! (Ext:1) From 118.69.88.247:50867 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 238 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 239 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Login Success ! (Ext:1) From 27.79.207.127:53008 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 240 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 241 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 242 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 243 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 244 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 245 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Login Success ! (Ext:1) From 14.245.4.115:52691 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 246 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 247 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 248 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Login Success ! (Ext:1) From 113.22.34.131:50387 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 249 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 250 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Login Success ! (Ext:1) From 113.184.175.82:51849 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 251 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 252 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Login Success ! (Ext:1) From 27.79.207.127:12239 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 253 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 254 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 255 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Login Success ! (Ext:1) From 118.69.88.247:50868 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 256 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 257 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 258 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Login Success ! (Ext:1) From 113.22.34.131:50388 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 259 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 260 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 261 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 262 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz2 Login Success ! (Ext:1) From 116.99.167.107:49742 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 263 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 264 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 265 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Login Success ! (Ext:1) From 27.79.207.127:53010 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 266 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 267 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 268 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Login Success ! (Ext:1) From 117.5.236.180:20481 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 269 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 270 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Login Success ! (Ext:1) From 27.79.207.127:12241 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 271 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 272 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Login Success ! (Ext:1) From 14.187.167.3:50113 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 273 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 274 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Login Success ! (Ext:1) From 14.187.167.3:50114 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 275 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 276 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 277 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 278 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 279 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Login Success ! (Ext:1) From 27.79.207.127:53012 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 280 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 281 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Login Success ! (Ext:1) From 113.184.175.82:51850 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 282 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 283 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Login Success ! (Ext:1) From 113.184.175.82:51851 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 284 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 285 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:18] 286 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 287 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Login Success ! (Ext:1) From 118.68.5.193:7227 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 288 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 289 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Login Success ! (Ext:1) From 113.184.175.82:51852 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:18] 290 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:18] 291 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Login Success ! (Ext:1) From 14.176.241.9:49609 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:19] 292 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz2 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 293 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:19] 294 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Login Success ! (Ext:1) From 118.69.88.247:50869 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:19] 295 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 296 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 297 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 298 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:19] 299 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Login Success ! (Ext:1) From 113.22.34.131:50389 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:19] 300 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:19] 301 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Login Success ! (Ext:1) From 118.68.5.193:36950 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:19] 302 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 303 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 304 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 305 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 306 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 307 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:19] 308 >> Gateway volamtrunghieu(103.92.25.248): User sarin1990 Login Success ! (Ext:1) From 116.110.119.64:12582 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:19] 309 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:19] 310 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Login Success ! (Ext:1) From 113.22.34.131:50390 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:19] 311 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 312 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 313 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:19] 314 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Login Success ! (Ext:1) From 113.22.34.131:50391 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:19] 315 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 316 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 317 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 318 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:19] 319 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Login Success ! (Ext:1) From 117.5.236.180:3230 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:19] 320 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 321 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Logout Success ! (Ext:0)
+[2018/08/29 15:13:19] 322 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:19] 323 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Login Success ! (Ext:1) From 113.22.34.131:50392 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:19] 324 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Logout Success ! (Ext:0)
+[2018/08/29 15:13:20] 325 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Logout Success ! (Ext:0)
+[2018/08/29 15:13:20] 326 >> Gateway volamtrunghieu(103.92.25.248): User sarin1990 Logout Success ! (Ext:0)
+[2018/08/29 15:13:20] 327 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:20] 328 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Login Success ! (Ext:1) From 14.176.241.9:49610 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:20] 329 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:20] 330 >> Gateway volamtrunghieu(103.92.25.248): User hieuadnew Login Success ! (Ext:1) From 113.176.144.109:53864 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:20] 331 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:20] 332 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Login Success ! (Ext:1) From 14.176.241.9:49611 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:20] 333 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:20] 334 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:20] 335 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Login Success ! (Ext:1) From 116.99.167.107:49743 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:20] 336 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:20] 337 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Login Success ! (Ext:1) From 27.79.207.127:12243 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:20] 338 >> Gateway volamtrunghieu(103.92.25.248): User hieuadnew Logout Success ! (Ext:0)
+[2018/08/29 15:13:20] 339 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Logout Success ! (Ext:0)
+[2018/08/29 15:13:20] 340 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:20] 341 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Login Success ! (Ext:1) From 14.176.241.9:49612 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:20] 342 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:20] 343 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Login Success ! (Ext:1) From 116.99.167.107:49744 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:20] 344 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Logout Success ! (Ext:0)
+[2018/08/29 15:13:20] 345 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:20] 346 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Logout Success ! (Ext:0)
+[2018/08/29 15:13:21] 347 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:21] 348 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Login Success ! (Ext:1) From 14.176.241.9:49613 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:21] 349 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Logout Success ! (Ext:0)
+[2018/08/29 15:13:21] 350 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Logout Success ! (Ext:0)
+[2018/08/29 15:13:21] 351 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:21] 352 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Login Success ! (Ext:1) From 14.176.241.9:49614 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:21] 353 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:21] 354 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Login Success ! (Ext:1) From 116.99.167.107:49745 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:21] 355 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Logout Success ! (Ext:0)
+[2018/08/29 15:13:21] 356 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Logout Success ! (Ext:0)
+[2018/08/29 15:13:21] 357 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:22] 358 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:22] 359 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Login Success ! (Ext:1) From 113.22.135.164:61461 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:23] 360 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:23] 361 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Login Success ! (Ext:1) From 14.233.97.112:26497 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:23] 362 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Logout Success ! (Ext:0)
+[2018/08/29 15:13:23] 363 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Logout Success ! (Ext:0)
+[2018/08/29 15:13:23] 364 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:23] 365 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Login Success ! (Ext:1) From 113.22.135.164:61462 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:24] 366 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:24] 367 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Login Success ! (Ext:1) From 123.25.218.214:57073 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:24] 368 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Logout Success ! (Ext:0)
+[2018/08/29 15:13:24] 369 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:24] 370 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Login Success ! (Ext:1) From 113.22.135.164:61463 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:24] 371 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Logout Success ! (Ext:0)
+[2018/08/29 15:13:24] 372 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Logout Success ! (Ext:0)
+[2018/08/29 15:13:24] 373 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:24] 374 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Login Success ! (Ext:1) From 14.233.97.112:26529 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:25] 375 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:25] 376 >> Gateway volamtrunghieu(103.92.25.248): User sarin1990 Login Success ! (Ext:1) From 116.110.119.64:49918 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:25] 377 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Logout Success ! (Ext:0)
+[2018/08/29 15:13:26] 378 >> Gateway volamtrunghieu(103.92.25.248): User sarin1990 Logout Success ! (Ext:0)
+[2018/08/29 15:13:26] 379 >> Gateway volamtrunghieu(103.92.25.248): Ping 0(s)
+[2018/08/29 15:13:27] 380 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:27] 381 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Login Success ! (Ext:1) From 14.187.167.3:50115 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:27] 382 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:27] 383 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Login Success ! (Ext:1) From 14.187.167.3:50116 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:27] 384 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:27] 385 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Login Success ! (Ext:1) From 113.184.175.82:51853 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:27] 386 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:27] 387 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Login Success ! (Ext:1) From 113.184.175.82:51854 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:27] 388 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Logout Success ! (Ext:0)
+[2018/08/29 15:13:27] 389 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Logout Success ! (Ext:0)
+[2018/08/29 15:13:27] 390 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:27] 391 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Login Success ! (Ext:1) From 118.69.88.247:50871 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:27] 392 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:27] 393 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Login Success ! (Ext:1) From 118.69.88.247:50872 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:27] 394 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Logout Success ! (Ext:0)
+[2018/08/29 15:13:27] 395 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:27] 396 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:27] 397 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Login Success ! (Ext:1) From 118.69.88.247:50873 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:27] 398 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:27] 399 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Login Success ! (Ext:1) From 123.25.218.214:57080 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:27] 400 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:27] 401 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:27] 402 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Login Success ! (Ext:1) From 118.68.5.193:14767 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:27] 403 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Logout Success ! (Ext:0)
+[2018/08/29 15:13:27] 404 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Logout Success ! (Ext:0)
+[2018/08/29 15:13:28] 405 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 406 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Login Success ! (Ext:1) From 123.25.218.214:57084 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 407 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 408 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Login Success ! (Ext:1) From 118.68.5.193:12441 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 409 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 410 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Login Success ! (Ext:1) From 118.68.5.193:37084 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 411 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 412 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Login Success ! (Ext:1) From 118.68.5.193:28305 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 413 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Logout Success ! (Ext:0)
+[2018/08/29 15:13:28] 414 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Logout Success ! (Ext:0)
+[2018/08/29 15:13:28] 415 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 416 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Login Success ! (Ext:1) From 116.99.167.107:49746 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 417 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 418 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Login Success ! (Ext:1) From 118.69.88.247:50874 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 419 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 420 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Login Success ! (Ext:1) From 14.187.167.3:50117 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 421 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Logout Success ! (Ext:0)
+[2018/08/29 15:13:28] 422 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 423 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Login Success ! (Ext:1) From 27.79.207.127:53014 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 424 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 425 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Login Success ! (Ext:1) From 14.233.97.112:26593 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 426 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 427 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz1 Login Success ! (Ext:1) From 116.99.167.107:49747 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 428 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Logout Success ! (Ext:0)
+[2018/08/29 15:13:28] 429 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Logout Success ! (Ext:0)
+[2018/08/29 15:13:28] 430 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Logout Success ! (Ext:0)
+[2018/08/29 15:13:28] 431 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 432 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Login Success ! (Ext:1) From 14.245.4.115:52695 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 433 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Logout Success ! (Ext:0)
+[2018/08/29 15:13:28] 434 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Logout Success ! (Ext:0)
+[2018/08/29 15:13:28] 435 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 436 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Login Success ! (Ext:1) From 118.69.88.247:50875 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 437 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 438 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Login Success ! (Ext:1) From 113.184.175.82:51855 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 439 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:28] 440 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 441 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Login Success ! (Ext:1) From 113.22.34.131:50393 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 442 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 443 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Login Success ! (Ext:1) From 27.79.207.127:12245 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 444 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 445 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Login Success ! (Ext:1) From 113.22.34.131:50394 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 446 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:28] 447 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz2 Login Success ! (Ext:1) From 116.99.167.107:49748 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:28] 448 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 449 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 450 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Login Success ! (Ext:1) From 14.187.167.3:50118 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 451 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 452 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 453 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Login Success ! (Ext:1) From 27.79.207.127:53016 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 454 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 455 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Login Success ! (Ext:1) From 14.187.167.3:50119 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 456 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 457 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 458 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Login Success ! (Ext:1) From 27.79.207.127:12247 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 459 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 460 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 461 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Login Success ! (Ext:1) From 117.5.236.180:20483 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 462 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 463 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Login Success ! (Ext:1) From 113.184.175.82:51856 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 464 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 465 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 466 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Login Success ! (Ext:1) From 113.184.175.82:51857 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 467 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 468 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 469 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Login Success ! (Ext:1) From 113.184.175.82:51858 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 470 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 471 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 472 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 473 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 474 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Login Success ! (Ext:1) From 118.68.5.193:34483 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 475 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 476 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Login Success ! (Ext:1) From 118.69.88.247:50876 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 477 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 478 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Login Success ! (Ext:1) From 27.79.207.127:53018 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 479 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz2 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 480 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 481 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Login Success ! (Ext:1) From 14.176.241.9:49615 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 482 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 483 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 484 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Login Success ! (Ext:1) From 118.68.5.193:57415 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 485 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 486 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 487 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Login Success ! (Ext:1) From 113.22.34.131:50395 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 488 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 489 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 490 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 491 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 492 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 493 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 494 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Login Success ! (Ext:1) From 113.22.34.131:50396 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 495 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 496 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 497 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Login Success ! (Ext:1) From 113.22.34.131:50397 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:29] 498 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 499 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 500 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Logout Success ! (Ext:0)
+[2018/08/29 15:13:29] 501 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:29] 502 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Login Success ! (Ext:1) From 117.5.236.180:3232 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:30] 503 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Logout Success ! (Ext:0)
+[2018/08/29 15:13:30] 504 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Logout Success ! (Ext:0)
+[2018/08/29 15:13:30] 505 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Logout Success ! (Ext:0)
+[2018/08/29 15:13:30] 506 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Logout Success ! (Ext:0)
+[2018/08/29 15:13:30] 507 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Logout Success ! (Ext:0)
+[2018/08/29 15:13:30] 508 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:30] 509 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Login Success ! (Ext:1) From 113.22.34.131:50398 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:30] 510 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Logout Success ! (Ext:0)
+[2018/08/29 15:13:30] 511 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:30] 512 >> Gateway volamtrunghieu(103.92.25.248): User hieuadnew Login Success ! (Ext:1) From 113.176.144.109:53867 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:30] 513 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:30] 514 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Login Success ! (Ext:1) From 14.176.241.9:49616 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:30] 515 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:30] 516 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Login Success ! (Ext:1) From 14.176.241.9:49617 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:30] 517 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:30] 518 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:30] 519 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Login Success ! (Ext:1) From 116.99.167.107:49749 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:30] 520 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:30] 521 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Login Success ! (Ext:1) From 27.79.207.127:12249 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:30] 522 >> Gateway volamtrunghieu(103.92.25.248): User hieuadnew Logout Success ! (Ext:0)
+[2018/08/29 15:13:31] 523 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:31] 524 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Login Success ! (Ext:1) From 116.99.167.107:49750 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:31] 525 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Logout Success ! (Ext:0)
+[2018/08/29 15:13:31] 526 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:31] 527 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Login Success ! (Ext:1) From 14.176.241.9:49618 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:31] 528 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Logout Success ! (Ext:0)
+[2018/08/29 15:13:31] 529 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:31] 530 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Logout Success ! (Ext:0)
+[2018/08/29 15:13:31] 531 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Logout Success ! (Ext:0)
+[2018/08/29 15:13:31] 532 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:31] 533 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Login Success ! (Ext:1) From 14.176.241.9:49619 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:31] 534 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:31] 535 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Login Success ! (Ext:1) From 14.176.241.9:49620 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:31] 536 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Logout Success ! (Ext:0)
+[2018/08/29 15:13:31] 537 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:31] 538 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Login Success ! (Ext:1) From 116.99.167.107:49751 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:31] 539 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Logout Success ! (Ext:0)
+[2018/08/29 15:13:31] 540 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Logout Success ! (Ext:0)
+[2018/08/29 15:13:32] 541 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:33] 542 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:33] 543 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Login Success ! (Ext:1) From 113.22.135.164:61467 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:33] 544 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Logout Success ! (Ext:0)
+[2018/08/29 15:13:33] 545 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:33] 546 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Login Success ! (Ext:1) From 14.233.97.112:26881 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:33] 547 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Logout Success ! (Ext:0)
+[2018/08/29 15:13:34] 548 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:34] 549 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Login Success ! (Ext:1) From 113.22.135.164:61469 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:34] 550 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Logout Success ! (Ext:0)
+[2018/08/29 15:13:34] 551 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:34] 552 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Login Success ! (Ext:1) From 123.25.218.214:57089 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:34] 553 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:34] 554 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Login Success ! (Ext:1) From 113.22.135.164:61472 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:34] 555 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Logout Success ! (Ext:0)
+[2018/08/29 15:13:35] 556 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Logout Success ! (Ext:0)
+[2018/08/29 15:13:35] 557 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:35] 558 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Login Success ! (Ext:1) From 14.233.97.112:26977 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:35] 559 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Logout Success ! (Ext:0)
+[2018/08/29 15:13:36] 560 >> Gateway volamtrunghieu(103.92.25.248): Ping 0(s)
+[2018/08/29 15:13:37] 561 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:37] 562 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Login Success ! (Ext:1) From 14.187.167.3:50120 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:37] 563 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:37] 564 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Login Success ! (Ext:1) From 113.184.175.82:51859 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:37] 565 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:37] 566 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Login Success ! (Ext:1) From 14.187.167.3:50121 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:37] 567 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:37] 568 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Login Success ! (Ext:1) From 113.184.175.82:51860 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:37] 569 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Logout Success ! (Ext:0)
+[2018/08/29 15:13:37] 570 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:37] 571 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Login Success ! (Ext:1) From 118.69.88.247:50878 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:37] 572 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Logout Success ! (Ext:0)
+[2018/08/29 15:13:37] 573 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Logout Success ! (Ext:0)
+[2018/08/29 15:13:37] 574 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:37] 575 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Login Success ! (Ext:1) From 118.69.88.247:50879 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:37] 576 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:37] 577 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Login Success ! (Ext:1) From 118.69.88.247:50880 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:37] 578 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:37] 579 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:38] 580 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Logout Success ! (Ext:0)
+[2018/08/29 15:13:38] 581 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:38] 582 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Login Success ! (Ext:1) From 123.25.218.214:57094 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:38] 583 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Logout Success ! (Ext:0)
+[2018/08/29 15:13:38] 584 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:38] 585 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Login Success ! (Ext:1) From 118.68.5.193:42233 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:38] 586 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:38] 587 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Login Success ! (Ext:1) From 123.25.218.214:57095 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:38] 588 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Logout Success ! (Ext:0)
+[2018/08/29 15:13:38] 589 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:38] 590 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Login Success ! (Ext:1) From 118.68.5.193:38011 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:38] 591 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:38] 592 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Login Success ! (Ext:1) From 118.68.5.193:31306 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:38] 593 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:38] 594 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Login Success ! (Ext:1) From 118.68.5.193:19984 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:38] 595 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Logout Success ! (Ext:0)
+[2018/08/29 15:13:38] 596 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:38] 597 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Login Success ! (Ext:1) From 118.69.88.247:50881 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:38] 598 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:38] 599 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Login Success ! (Ext:1) From 14.187.167.3:50122 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:38] 600 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:38] 601 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Login Success ! (Ext:1) From 116.99.167.107:49752 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:38] 602 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Logout Success ! (Ext:0)
+[2018/08/29 15:13:38] 603 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Logout Success ! (Ext:0)
+[2018/08/29 15:13:38] 604 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Logout Success ! (Ext:0)
+[2018/08/29 15:13:38] 605 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Logout Success ! (Ext:0)
+[2018/08/29 15:13:38] 606 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:38] 607 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Login Success ! (Ext:1) From 14.245.4.115:52697 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:38] 608 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Logout Success ! (Ext:0)
+[2018/08/29 15:13:38] 609 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:38] 610 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Login Success ! (Ext:1) From 27.79.207.127:53020 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 611 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Logout Success ! (Ext:0)
+[2018/08/29 15:13:39] 612 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 613 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Login Success ! (Ext:1) From 118.69.88.247:50882 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 614 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:39] 615 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 616 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Login Success ! (Ext:1) From 113.184.175.82:51861 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 617 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 618 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Login Success ! (Ext:1) From 14.233.97.112:27073 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 619 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 620 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Login Success ! (Ext:1) From 14.187.167.3:50123 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 621 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 622 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Login Success ! (Ext:1) From 14.187.167.3:50124 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 623 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 624 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Login Success ! (Ext:1) From 113.22.34.131:50399 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 625 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Logout Success ! (Ext:0)
+[2018/08/29 15:13:39] 626 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Logout Success ! (Ext:0)
+[2018/08/29 15:13:39] 627 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 628 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Login Success ! (Ext:1) From 113.22.34.131:50400 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 629 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 630 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz2 Login Success ! (Ext:1) From 116.99.167.107:49753 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 631 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Logout Success ! (Ext:0)
+[2018/08/29 15:13:39] 632 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 633 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Login Success ! (Ext:1) From 27.79.207.127:12251 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 634 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 635 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Login Success ! (Ext:1) From 113.184.175.82:51862 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 636 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Logout Success ! (Ext:0)
+[2018/08/29 15:13:39] 637 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 638 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Login Success ! (Ext:1) From 27.79.207.127:53022 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 639 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 640 >> Gateway volamtrunghieu(103.92.25.248): User sarin1990 Login Success ! (Ext:1) From 116.110.119.64:49922 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 641 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Logout Success ! (Ext:0)
+[2018/08/29 15:13:39] 642 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Logout Success ! (Ext:0)
+[2018/08/29 15:13:39] 643 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:39] 644 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 645 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Login Success ! (Ext:1) From 113.184.175.82:51863 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 646 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 647 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Login Success ! (Ext:1) From 117.5.236.180:20485 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 648 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 649 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Login Success ! (Ext:1) From 27.79.207.127:12253 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 650 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Logout Success ! (Ext:0)
+[2018/08/29 15:13:39] 651 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 652 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Login Success ! (Ext:1) From 113.184.175.82:51864 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 653 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 654 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Login Success ! (Ext:1) From 118.68.5.193:52349 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 655 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:39] 656 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 657 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Login Success ! (Ext:1) From 118.69.88.247:50884 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 658 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:39] 659 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Login Success ! (Ext:1) From 118.68.5.193:60725 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:39] 660 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz2 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 661 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 662 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 663 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:40] 664 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Login Success ! (Ext:1) From 27.79.207.127:53024 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:40] 665 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 666 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:40] 667 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Login Success ! (Ext:1) From 113.22.34.131:50401 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:40] 668 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 669 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:40] 670 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Login Success ! (Ext:1) From 14.176.241.9:49621 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:40] 671 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 672 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 673 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:40] 674 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Login Success ! (Ext:1) From 113.22.34.131:50402 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:40] 675 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 676 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 677 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:40] 678 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Login Success ! (Ext:1) From 113.22.34.131:50403 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:40] 679 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 680 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 681 >> Gateway volamtrunghieu(103.92.25.248): User sarin1990 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 682 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:40] 683 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Login Success ! (Ext:1) From 117.5.236.180:3234 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:40] 684 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 685 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 686 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 687 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 688 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Logout Success ! (Ext:0)
+[2018/08/29 15:13:40] 689 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:40] 690 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Login Success ! (Ext:1) From 113.22.34.131:50404 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:40] 691 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Logout Success ! (Ext:0)
+[2018/08/29 15:13:41] 692 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:41] 693 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Login Success ! (Ext:1) From 14.176.241.9:49622 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:41] 694 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:41] 695 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Login Success ! (Ext:1) From 14.176.241.9:49623 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:41] 696 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:41] 697 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Login Success ! (Ext:1) From 116.99.167.107:49754 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:41] 698 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:41] 699 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:41] 700 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Login Success ! (Ext:1) From 27.79.207.127:12255 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:41] 701 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:41] 702 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Login Success ! (Ext:1) From 116.99.167.107:49755 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:41] 703 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Logout Success ! (Ext:0)
+[2018/08/29 15:13:41] 704 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:41] 705 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Login Success ! (Ext:1) From 14.176.241.9:49624 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:41] 706 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:41] 707 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Logout Success ! (Ext:0)
+[2018/08/29 15:13:41] 708 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Logout Success ! (Ext:0)
+[2018/08/29 15:13:41] 709 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Logout Success ! (Ext:0)
+[2018/08/29 15:13:41] 710 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:41] 711 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Login Success ! (Ext:1) From 14.176.241.9:49625 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:41] 712 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Logout Success ! (Ext:0)
+[2018/08/29 15:13:41] 713 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:41] 714 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Login Success ! (Ext:1) From 14.176.241.9:49626 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:41] 715 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:41] 716 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Login Success ! (Ext:1) From 116.99.167.107:49756 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:42] 717 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Logout Success ! (Ext:0)
+[2018/08/29 15:13:42] 718 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Logout Success ! (Ext:0)
+[2018/08/29 15:13:42] 719 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:43] 720 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:43] 721 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Login Success ! (Ext:1) From 113.22.135.164:61476 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:43] 722 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Logout Success ! (Ext:0)
+[2018/08/29 15:13:44] 723 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:44] 724 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Login Success ! (Ext:1) From 14.233.97.112:27105 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:44] 725 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:44] 726 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Login Success ! (Ext:1) From 113.22.135.164:61477 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:44] 727 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Logout Success ! (Ext:0)
+[2018/08/29 15:13:44] 728 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Logout Success ! (Ext:0)
+[2018/08/29 15:13:44] 729 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:44] 730 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Login Success ! (Ext:1) From 123.25.218.214:57101 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:45] 731 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:45] 732 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Login Success ! (Ext:1) From 113.22.135.164:61478 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:45] 733 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Logout Success ! (Ext:0)
+[2018/08/29 15:13:45] 734 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Logout Success ! (Ext:0)
+[2018/08/29 15:13:45] 735 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:45] 736 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Login Success ! (Ext:1) From 14.233.97.112:27137 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:46] 737 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Logout Success ! (Ext:0)
+[2018/08/29 15:13:46] 738 >> Gateway volamtrunghieu(103.92.25.248): Ping 0(s)
+[2018/08/29 15:13:47] 739 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:47] 740 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Login Success ! (Ext:1) From 14.187.167.3:50125 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:47] 741 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:47] 742 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Login Success ! (Ext:1) From 14.187.167.3:50126 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:47] 743 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:47] 744 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Login Success ! (Ext:1) From 113.184.175.82:51865 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:47] 745 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Logout Success ! (Ext:0)
+[2018/08/29 15:13:47] 746 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:47] 747 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Login Success ! (Ext:1) From 113.184.175.82:51866 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:47] 748 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Logout Success ! (Ext:0)
+[2018/08/29 15:13:47] 749 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Logout Success ! (Ext:0)
+[2018/08/29 15:13:47] 750 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:47] 751 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Login Success ! (Ext:1) From 118.69.88.247:50885 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:47] 752 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:47] 753 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:47] 754 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Login Success ! (Ext:1) From 118.69.88.247:50886 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:48] 755 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:48] 756 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Login Success ! (Ext:1) From 118.69.88.247:50887 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:48] 757 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:48] 758 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Logout Success ! (Ext:0)
+[2018/08/29 15:13:48] 759 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Logout Success ! (Ext:0)
+[2018/08/29 15:13:48] 760 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:48] 761 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Login Success ! (Ext:1) From 123.25.218.214:57106 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:48] 762 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:48] 763 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Login Success ! (Ext:1) From 118.68.5.193:44527 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:48] 764 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Logout Success ! (Ext:0)
+[2018/08/29 15:13:48] 765 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:48] 766 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Login Success ! (Ext:1) From 118.69.88.247:50888 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:48] 767 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:48] 768 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Login Success ! (Ext:1) From 123.25.218.214:57107 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:48] 769 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Logout Success ! (Ext:0)
+[2018/08/29 15:13:48] 770 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:48] 771 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Login Success ! (Ext:1) From 118.68.5.193:43708 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:48] 772 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:48] 773 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Login Success ! (Ext:1) From 118.68.5.193:56983 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:48] 774 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:48] 775 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Login Success ! (Ext:1) From 118.68.5.193:49694 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 776 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 777 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Login Success ! (Ext:1) From 14.187.167.3:50127 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 778 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Logout Success ! (Ext:0)
+[2018/08/29 15:13:49] 779 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 780 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Login Success ! (Ext:1) From 116.99.167.107:49757 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 781 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Logout Success ! (Ext:0)
+[2018/08/29 15:13:49] 782 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Logout Success ! (Ext:0)
+[2018/08/29 15:13:49] 783 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 784 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Login Success ! (Ext:1) From 14.245.4.115:52700 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 785 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Logout Success ! (Ext:0)
+[2018/08/29 15:13:49] 786 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Logout Success ! (Ext:0)
+[2018/08/29 15:13:49] 787 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 788 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Login Success ! (Ext:1) From 118.69.88.247:50889 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 789 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Logout Success ! (Ext:0)
+[2018/08/29 15:13:49] 790 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:49] 791 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 792 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Login Success ! (Ext:1) From 27.79.207.127:53026 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 793 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 794 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Login Success ! (Ext:1) From 113.184.175.82:51867 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 795 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 796 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Login Success ! (Ext:1) From 14.187.167.3:50128 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 797 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 798 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Login Success ! (Ext:1) From 14.187.167.3:50129 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 799 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 800 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Login Success ! (Ext:1) From 14.233.97.112:27265 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 801 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Logout Success ! (Ext:0)
+[2018/08/29 15:13:49] 802 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 803 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Login Success ! (Ext:1) From 113.22.34.131:50405 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 804 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Logout Success ! (Ext:0)
+[2018/08/29 15:13:49] 805 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 806 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Login Success ! (Ext:1) From 113.22.34.131:50406 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 807 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Logout Success ! (Ext:0)
+[2018/08/29 15:13:49] 808 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 809 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Login Success ! (Ext:1) From 113.184.175.82:51868 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 810 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Logout Success ! (Ext:0)
+[2018/08/29 15:13:49] 811 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:49] 812 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Login Success ! (Ext:1) From 27.79.207.127:12257 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:49] 813 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Logout Success ! (Ext:0)
+[2018/08/29 15:13:49] 814 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 815 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 816 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Login Success ! (Ext:1) From 113.184.175.82:51869 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 817 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 818 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Login Success ! (Ext:1) From 117.5.236.180:20487 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 819 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 820 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Login Success ! (Ext:1) From 113.184.175.82:51870 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 821 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 822 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Login Success ! (Ext:1) From 27.79.207.127:53028 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 823 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 824 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 825 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Login Success ! (Ext:1) From 27.79.207.127:12259 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 826 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 827 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 828 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Login Success ! (Ext:1) From 118.68.5.193:29287 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 829 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 830 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Login Success ! (Ext:1) From 118.69.88.247:50890 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 831 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 832 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 833 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Login Success ! (Ext:1) From 118.68.5.193:6492 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 834 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 835 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 836 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 837 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 838 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Login Success ! (Ext:1) From 27.79.207.127:53030 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 839 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 840 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 841 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Login Success ! (Ext:1) From 113.22.34.131:50407 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 842 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 843 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 844 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Login Success ! (Ext:1) From 14.176.241.9:49627 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 845 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 846 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 847 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Login Success ! (Ext:1) From 113.22.34.131:50408 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 848 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 849 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 850 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 851 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Login Success ! (Ext:1) From 113.22.34.131:50409 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 852 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 853 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 854 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:50] 855 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Login Success ! (Ext:1) From 117.5.236.180:3236 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:50] 856 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Logout Success ! (Ext:0)
+[2018/08/29 15:13:50] 857 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Logout Success ! (Ext:0)
+[2018/08/29 15:13:51] 858 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Logout Success ! (Ext:0)
+[2018/08/29 15:13:51] 859 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Logout Success ! (Ext:0)
+[2018/08/29 15:13:51] 860 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Logout Success ! (Ext:0)
+[2018/08/29 15:13:51] 861 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:51] 862 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Login Success ! (Ext:1) From 113.22.34.131:50410 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:51] 863 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Logout Success ! (Ext:0)
+[2018/08/29 15:13:51] 864 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:51] 865 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Login Success ! (Ext:1) From 14.176.241.9:49628 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:51] 866 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:51] 867 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Login Success ! (Ext:1) From 116.99.167.107:49758 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:51] 868 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Logout Success ! (Ext:0)
+[2018/08/29 15:13:51] 869 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:51] 870 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Login Success ! (Ext:1) From 14.176.241.9:49629 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:51] 871 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:51] 872 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Login Success ! (Ext:1) From 116.99.167.107:49759 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:51] 873 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:51] 874 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Login Success ! (Ext:1) From 27.79.207.127:12261 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:51] 875 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:51] 876 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Login Success ! (Ext:1) From 14.176.241.9:49630 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:51] 877 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Logout Success ! (Ext:0)
+[2018/08/29 15:13:53] 878 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:53] 879 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Logout Success ! (Ext:0)
+[2018/08/29 15:13:53] 880 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Logout Success ! (Ext:0)
+[2018/08/29 15:13:53] 881 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Logout Success ! (Ext:0)
+[2018/08/29 15:13:53] 882 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:53] 883 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Login Success ! (Ext:1) From 14.176.241.9:49631 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:53] 884 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:53] 885 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Login Success ! (Ext:1) From 14.176.241.9:49632 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:53] 886 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Logout Success ! (Ext:0)
+[2018/08/29 15:13:53] 887 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:53] 888 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Login Success ! (Ext:1) From 116.99.167.107:49760 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:53] 889 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Logout Success ! (Ext:0)
+[2018/08/29 15:13:53] 890 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Logout Success ! (Ext:0)
+[2018/08/29 15:13:53] 891 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Logout Success ! (Ext:0)
+[2018/08/29 15:13:54] 892 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:54] 893 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Login Success ! (Ext:1) From 113.22.135.164:61484 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:55] 894 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Logout Success ! (Ext:0)
+[2018/08/29 15:13:55] 895 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:55] 896 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Login Success ! (Ext:1) From 14.233.97.112:27489 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:55] 897 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:55] 898 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Login Success ! (Ext:1) From 113.22.135.164:61485 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:55] 899 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Logout Success ! (Ext:0)
+[2018/08/29 15:13:55] 900 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Logout Success ! (Ext:0)
+[2018/08/29 15:13:56] 901 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:56] 902 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Login Success ! (Ext:1) From 123.25.218.214:57112 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:56] 903 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:56] 904 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Login Success ! (Ext:1) From 113.22.135.164:61487 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:56] 905 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Logout Success ! (Ext:0)
+[2018/08/29 15:13:56] 906 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Logout Success ! (Ext:0)
+[2018/08/29 15:13:57] 907 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:13:57] 908 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Login Success ! (Ext:1) From 14.233.97.112:27521 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:13:57] 909 >> Gateway volamtrunghieu(103.92.25.248): Ping 0(s)
+[2018/08/29 15:13:57] 910 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Logout Success ! (Ext:0)
+[2018/08/29 15:14:01] 911 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:01] 912 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Login Success ! (Ext:1) From 14.233.97.112:27553 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:01] 913 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Logout Success ! (Ext:0)
+[2018/08/29 15:14:02] 914 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:02] 915 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Login Success ! (Ext:1) From 116.99.167.107:49761 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:03] 916 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Logout Success ! (Ext:0)
+[2018/08/29 15:14:05] 917 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:05] 918 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien2 Login Success ! (Ext:1) From 14.233.97.112:27649 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:05] 919 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien2 Logout Success ! (Ext:0)
+[2018/08/29 15:14:07] 920 >> Gateway volamtrunghieu(103.92.25.248): Ping 2(s)
+[2018/08/29 15:14:11] 921 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:11] 922 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Login Success ! (Ext:1) From 14.233.97.112:27809 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:12] 923 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Enter Game Success !
+[2018/08/29 15:14:15] 924 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:15] 925 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien2 Login Success ! (Ext:1) From 14.233.97.112:27873 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:16] 926 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien2 Enter Game Success !
+[2018/08/29 15:14:17] 927 >> Gateway volamtrunghieu(103.92.25.248): Ping 1(s)
+[2018/08/29 15:14:27] 928 >> Gateway volamtrunghieu(103.92.25.248): Ping 10(s)
+[2018/08/29 15:14:37] 929 >> Gateway volamtrunghieu(103.92.25.248): Ping 10(s)
+[2018/08/29 15:14:39] 930 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:39] 931 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz1 Login Success ! (Ext:1) From 116.99.167.107:49762 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:40] 932 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz1 Enter Game Success !
+[2018/08/29 15:14:46] 933 >> Gateway volamtrunghieu(103.92.25.248): Ping 7(s)
+[2018/08/29 15:14:50] 934 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:50] 935 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz2 Login Success ! (Ext:1) From 116.99.167.107:49764 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:50] 936 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz2 Enter Game Success !
+[2018/08/29 15:14:57] 937 >> Gateway volamtrunghieu(103.92.25.248): Ping 6(s)
+[2018/08/29 15:14:58] 938 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:58] 939 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Login Success ! (Ext:1) From 14.187.167.3:50131 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:58] 940 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:58] 941 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Login Success ! (Ext:1) From 113.184.175.82:51871 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:58] 942 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:58] 943 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Login Success ! (Ext:1) From 14.187.167.3:50132 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:59] 944 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:59] 945 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Login Success ! (Ext:1) From 113.184.175.82:51872 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:59] 946 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Enter Game Success !
+[2018/08/29 15:14:59] 947 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:59] 948 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Login Success ! (Ext:1) From 118.69.88.247:50892 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:59] 949 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Enter Game Success !
+[2018/08/29 15:14:59] 950 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:59] 951 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Login Success ! (Ext:1) From 118.69.88.247:50894 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:59] 952 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:59] 953 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Login Success ! (Ext:1) From 118.69.88.247:50893 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:59] 954 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Enter Game Success !
+[2018/08/29 15:14:59] 955 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Enter Game Success !
+[2018/08/29 15:14:59] 956 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Enter Game Success !
+[2018/08/29 15:14:59] 957 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Enter Game Success !
+[2018/08/29 15:14:59] 958 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Enter Game Success !
+[2018/08/29 15:14:59] 959 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:59] 960 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Login Success ! (Ext:1) From 123.25.218.214:57153 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:14:59] 961 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:14:59] 962 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Login Success ! (Ext:1) From 118.68.5.193:59627 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:00] 963 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:00] 964 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Login Success ! (Ext:1) From 118.69.88.247:50898 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:00] 965 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:00] 966 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Login Success ! (Ext:1) From 123.25.218.214:57154 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:00] 967 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:00] 968 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Login Success ! (Ext:1) From 14.187.167.3:50135 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:00] 969 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:00] 970 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Login Success ! (Ext:1) From 118.68.5.193:39049 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:00] 971 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:00] 972 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Login Success ! (Ext:1) From 118.68.5.193:30903 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:00] 973 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Enter Game Success !
+[2018/08/29 15:15:00] 974 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Enter Game Success !
+[2018/08/29 15:15:00] 975 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:00] 976 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Login Success ! (Ext:1) From 118.68.5.193:8792 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:00] 977 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:00] 978 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Login Success ! (Ext:1) From 116.99.167.107:49766 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:00] 979 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Enter Game Success !
+[2018/08/29 15:15:00] 980 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:00] 981 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Login Success ! (Ext:1) From 14.245.4.115:52714 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:00] 982 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:00] 983 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Login Success ! (Ext:1) From 118.69.88.247:50900 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:00] 984 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:00] 985 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Login Success ! (Ext:1) From 113.184.175.82:51875 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:00] 986 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Enter Game Success !
+[2018/08/29 15:15:00] 987 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Enter Game Success !
+[2018/08/29 15:15:01] 988 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Enter Game Success !
+[2018/08/29 15:15:01] 989 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Enter Game Success !
+[2018/08/29 15:15:01] 990 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 991 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Login Success ! (Ext:1) From 14.187.167.3:50137 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 992 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 993 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Login Success ! (Ext:1) From 27.79.207.127:12263 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 994 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Enter Game Success !
+[2018/08/29 15:15:01] 995 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 996 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Login Success ! (Ext:1) From 14.187.167.3:50138 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 997 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Enter Game Success !
+[2018/08/29 15:15:01] 998 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 999 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Login Success ! (Ext:1) From 113.22.34.131:50411 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 1000 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Enter Game Success !
+[2018/08/29 15:15:01] 1001 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 1002 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Login Success ! (Ext:1) From 113.184.175.82:51876 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 1003 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 1004 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Login Success ! (Ext:1) From 113.184.175.82:51877 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 1005 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Enter Game Success !
+[2018/08/29 15:15:01] 1006 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 1007 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Login Success ! (Ext:1) From 113.22.34.131:50412 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 1008 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 1009 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Login Success ! (Ext:1) From 27.79.207.127:53036 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 1010 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 1011 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Login Success ! (Ext:1) From 117.5.236.180:3237 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 1012 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 1013 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Login Success ! (Ext:1) From 113.184.175.82:51879 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 1014 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Enter Game Success !
+[2018/08/29 15:15:01] 1015 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Enter Game Success !
+[2018/08/29 15:15:01] 1016 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Enter Game Success !
+[2018/08/29 15:15:01] 1017 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 1018 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Login Success ! (Ext:1) From 27.79.207.127:53038 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 1019 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 1020 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Login Success ! (Ext:1) From 118.68.5.193:41583 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 1021 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Enter Game Success !
+[2018/08/29 15:15:01] 1022 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 1023 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Login Success ! (Ext:1) From 27.79.207.127:12267 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 1024 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 1025 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Login Success ! (Ext:1) From 118.69.88.247:50902 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:01] 1026 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:01] 1027 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Login Success ! (Ext:1) From 118.68.5.193:37176 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:02] 1028 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Enter Game Success !
+[2018/08/29 15:15:02] 1029 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Enter Game Success !
+[2018/08/29 15:15:02] 1030 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:02] 1031 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Login Success ! (Ext:1) From 113.22.34.131:50415 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:02] 1032 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:02] 1033 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Login Success ! (Ext:1) From 27.79.207.127:53040 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:02] 1034 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Enter Game Success !
+[2018/08/29 15:15:02] 1035 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:02] 1036 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Login Success ! (Ext:1) From 14.176.241.9:49633 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:02] 1037 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Enter Game Success !
+[2018/08/29 15:15:02] 1038 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Enter Game Success !
+[2018/08/29 15:15:02] 1039 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Enter Game Success !
+[2018/08/29 15:15:02] 1040 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:02] 1041 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Login Success ! (Ext:1) From 113.22.34.131:50416 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:02] 1042 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Enter Game Success !
+[2018/08/29 15:15:02] 1043 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:02] 1044 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Login Success ! (Ext:1) From 117.5.236.180:20489 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:02] 1045 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:02] 1046 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Login Success ! (Ext:1) From 113.22.34.131:50417 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:02] 1047 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Enter Game Success !
+[2018/08/29 15:15:02] 1048 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Enter Game Success !
+[2018/08/29 15:15:02] 1049 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Enter Game Success !
+[2018/08/29 15:15:02] 1050 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Enter Game Success !
+[2018/08/29 15:15:02] 1051 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Enter Game Success !
+[2018/08/29 15:15:02] 1052 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:02] 1053 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Login Success ! (Ext:1) From 113.22.34.131:50419 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:02] 1054 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Enter Game Success !
+[2018/08/29 15:15:02] 1055 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Enter Game Success !
+[2018/08/29 15:15:02] 1056 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Enter Game Success !
+[2018/08/29 15:15:03] 1057 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Enter Game Success !
+[2018/08/29 15:15:03] 1058 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:03] 1059 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Login Success ! (Ext:1) From 14.176.241.9:49635 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:03] 1060 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Enter Game Success !
+[2018/08/29 15:15:03] 1061 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Enter Game Success !
+[2018/08/29 15:15:03] 1062 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:03] 1063 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Login Success ! (Ext:1) From 14.176.241.9:49636 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:03] 1064 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:03] 1065 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Login Success ! (Ext:1) From 116.99.167.107:49768 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:03] 1066 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:03] 1067 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Login Success ! (Ext:1) From 14.176.241.9:49637 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:03] 1068 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:03] 1069 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Login Success ! (Ext:1) From 27.79.207.127:12275 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:03] 1070 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Enter Game Success !
+[2018/08/29 15:15:03] 1071 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Enter Game Success !
+[2018/08/29 15:15:03] 1072 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:03] 1073 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Login Success ! (Ext:1) From 14.176.241.9:49639 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:03] 1074 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:03] 1075 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Login Success ! (Ext:1) From 14.176.241.9:49640 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:04] 1076 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:04] 1077 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Login Success ! (Ext:1) From 116.99.167.107:49770 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:04] 1078 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Enter Game Success !
+[2018/08/29 15:15:04] 1079 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Enter Game Success !
+[2018/08/29 15:15:04] 1080 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Enter Game Success !
+[2018/08/29 15:15:04] 1081 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Enter Game Success !
+[2018/08/29 15:15:04] 1082 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Enter Game Success !
+[2018/08/29 15:15:04] 1083 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Enter Game Success !
+[2018/08/29 15:15:04] 1084 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Enter Game Success !
+[2018/08/29 15:15:05] 1085 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:05] 1086 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Login Success ! (Ext:1) From 113.22.135.164:61520 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:05] 1087 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Enter Game Success !
+[2018/08/29 15:15:06] 1088 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:06] 1089 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Login Success ! (Ext:1) From 113.22.135.164:61523 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:06] 1090 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:06] 1091 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Login Success ! (Ext:1) From 14.233.97.112:29313 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:06] 1092 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Enter Game Success !
+[2018/08/29 15:15:06] 1093 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:06] 1094 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Login Success ! (Ext:1) From 113.22.135.164:61525 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:07] 1095 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Enter Game Success !
+[2018/08/29 15:15:07] 1096 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:07] 1097 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Login Success ! (Ext:1) From 123.25.218.214:57159 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:07] 1098 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Enter Game Success !
+[2018/08/29 15:15:07] 1099 >> Gateway volamtrunghieu(103.92.25.248): Ping 0(s)
+[2018/08/29 15:15:07] 1100 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:07] 1101 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Login Success ! (Ext:1) From 14.233.97.112:29537 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:08] 1102 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Enter Game Success !
+[2018/08/29 15:15:08] 1103 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Enter Game Success !
+[2018/08/29 15:15:13] 1104 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:13] 1105 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Login Success ! (Ext:1) From 116.99.167.107:49772 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:14] 1106 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Enter Game Success !
+[2018/08/29 15:15:17] 1107 >> Gateway volamtrunghieu(103.92.25.248): Ping 3(s)
+[2018/08/29 15:15:27] 1108 >> Gateway volamtrunghieu(103.92.25.248): Ping 10(s)
+[2018/08/29 15:15:37] 1109 >> Gateway volamtrunghieu(103.92.25.248): Ping 10(s)
+[2018/08/29 15:15:41] 1110 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:41] 1111 >> Gateway volamtrunghieu(103.92.25.248): User sarin1990 Login Success ! (Ext:1) From 116.110.119.64:12374 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:42] 1112 >> Gateway volamtrunghieu(103.92.25.248): User sarin1990 Enter Game Success !
+[2018/08/29 15:15:47] 1113 >> Gateway volamtrunghieu(103.92.25.248): Ping 4(s)
+[2018/08/29 15:15:51] 1114 >> Start Add Gateway(192.168.248.103 : 54774) Use NetwordID 1 ....
+[2018/08/29 15:15:51] 1115 >> Add Gateway(192.168.248.103 : 54774) NetwordID 1 ! -- At 1
+[2018/08/29 15:15:51] 1116 >> Free Client Count is 18
+[2018/08/29 15:15:51] 1117 >> KGatewayDataProcess[1]'s m_nGameID is changed from [0] to [3] with Account[volamtrunghieu1] from [192.168.248.103]
+[2018/08/29 15:15:51] 1118 >> Gateway volamtrunghieu1(192.168.248.103)0050-56AF-5950: Verify OK !Gateway NormalClose At:2018-8-29 14:58:45
+[2018/08/29 15:15:51] 1119 >> Gateway Connect OK!
+[2018/08/29 15:15:53] 1120 >> Gateway volamtrunghieu1(192.168.248.103): Ping 1(s)
+[2018/08/29 15:15:53] 1121 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:15:53] 1122 >> Gateway volamtrunghieu(103.92.25.248): User minhvu25091990 Login Success ! (Ext:1) From 116.110.119.64:12375 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:55] 1123 >> Gateway volamtrunghieu(103.92.25.248): User minhvu25091990 Enter Game Success !
+[2018/08/29 15:15:57] 1124 >> Gateway volamtrunghieu(103.92.25.248): Ping 1(s)
+[2018/08/29 15:15:58] 1125 >> Gateway volamtrunghieu(103.92.25.248): User minhvu25091990 Logout Success ! (Ext:0)
+[2018/08/29 15:15:58] 1126 >> KGatewayDataProcess[1]'s m_nGameID is 3
+[2018/08/29 15:15:58] 1127 >> Gateway volamtrunghieu1(192.168.248.103): User hieuadnew2 Login Success ! (Ext:1) From 113.176.144.109:53883 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:15:58] 1128 >> Gateway volamtrunghieu1(192.168.248.103): User hieuadnew2 Logout Success ! (Ext:0)
+[2018/08/29 15:16:02] 1129 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:16:02] 1130 >> Gateway volamtrunghieu(103.92.25.248): User minhvu25091990 Login Failed ! --- Name, Password From 116.110.119.64:12343 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:16:03] 1131 >> Gateway volamtrunghieu1(192.168.248.103): Ping 4(s)
+[2018/08/29 15:16:07] 1132 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:16:07] 1133 >> Gateway volamtrunghieu(103.92.25.248): User minhvu25091990 Login Success ! (Ext:1) From 116.110.119.64:12343 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:16:07] 1134 >> Gateway volamtrunghieu(103.92.25.248): Ping 0(s)
+[2018/08/29 15:16:09] 1135 >> Gateway volamtrunghieu(103.92.25.248): User minhvu25091990 Enter Game Success !
+[2018/08/29 15:16:09] 1136 >> KGatewayDataProcess[1]'s m_nGameID is 3
+[2018/08/29 15:16:09] 1137 >> Gateway volamtrunghieu1(192.168.248.103): User hieuadnew2 Login Success ! (Ext:1) From 113.176.144.109:53884 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:16:10] 1138 >> Gateway volamtrunghieu1(192.168.248.103): User hieuadnew2 Logout Success ! (Ext:0)
+[2018/08/29 15:16:11] 1139 >> Gateway volamtrunghieu(103.92.25.248): User minhvu25091990 Logout Success ! (Ext:0)
+[2018/08/29 15:16:14] 1140 >> Gateway volamtrunghieu1(192.168.248.103): Ping 3(s)
+[2018/08/29 15:16:17] 1141 >> Gateway volamtrunghieu(103.92.25.248): Ping 5(s)
+[2018/08/29 15:16:18] 1142 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:16:18] 1143 >> Gateway volamtrunghieu(103.92.25.248): User saluci Login Success ! (Ext:1) From 116.110.119.64:12598 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:16:20] 1144 >> KGatewayDataProcess[1]'s m_nGameID is 3
+[2018/08/29 15:16:20] 1145 >> Gateway volamtrunghieu1(192.168.248.103): User hieuadnew2 Login Success ! (Ext:1) From 113.176.144.109:53886 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:16:20] 1146 >> Gateway volamtrunghieu(103.92.25.248): User saluci Enter Game Success !
+[2018/08/29 15:16:20] 1147 >> Gateway volamtrunghieu1(192.168.248.103): User hieuadnew2 Logout Success ! (Ext:0)
+[2018/08/29 15:16:23] 1148 >> Gateway volamtrunghieu1(192.168.248.103): Ping 3(s)
+[2018/08/29 15:16:27] 1149 >> Gateway volamtrunghieu(103.92.25.248): Ping 7(s)
+[2018/08/29 15:16:30] 1150 >> KGatewayDataProcess[1]'s m_nGameID is 3
+[2018/08/29 15:16:30] 1151 >> Gateway volamtrunghieu1(192.168.248.103): User hieuadnew2 Login Success ! (Ext:1) From 113.176.144.109:53887 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:16:30] 1152 >> Gateway volamtrunghieu1(192.168.248.103): User hieuadnew2 Logout Success ! (Ext:0)
+[2018/08/29 15:16:32] 1153 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:16:32] 1154 >> Gateway volamtrunghieu(103.92.25.248): User sarin3 Login Success ! (Ext:1) From 116.110.119.64:49954 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:16:33] 1155 >> Gateway volamtrunghieu1(192.168.248.103): Ping 3(s)
+[2018/08/29 15:16:34] 1156 >> Gateway volamtrunghieu(103.92.25.248): User sarin3 Enter Game Success !
+[2018/08/29 15:16:37] 1157 >> Gateway volamtrunghieu(103.92.25.248): Ping 3(s)
+[2018/08/29 15:16:40] 1158 >> KGatewayDataProcess[1]'s m_nGameID is 3
+[2018/08/29 15:16:40] 1159 >> Gateway volamtrunghieu1(192.168.248.103): User hieuadnew2 Login Success ! (Ext:1) From 113.176.144.109:53889 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:16:40] 1160 >> Gateway volamtrunghieu1(192.168.248.103): User hieuadnew2 Logout Success ! (Ext:0)
+[2018/08/29 15:16:43] 1161 >> Gateway volamtrunghieu1(192.168.248.103): Ping 3(s)
+[2018/08/29 15:16:47] 1162 >> Gateway volamtrunghieu(103.92.25.248): Ping 10(s)
+[2018/08/29 15:16:53] 1163 >> Gateway volamtrunghieu1(192.168.248.103): Ping 10(s)
+[2018/08/29 15:16:57] 1164 >> Gateway volamtrunghieu(103.92.25.248): Ping 9(s)
+[2018/08/29 15:17:03] 1165 >> Gateway volamtrunghieu1(192.168.248.103): Ping 10(s)
+[2018/08/29 15:17:07] 1166 >> Gateway volamtrunghieu(103.92.25.248): Ping 10(s)
+[2018/08/29 15:17:13] 1167 >> Gateway volamtrunghieu1(192.168.248.103): Ping 10(s)
+[2018/08/29 15:17:17] 1168 >> Gateway volamtrunghieu(103.92.25.248): Ping 10(s)
+[2018/08/29 15:17:24] 1169 >> Gateway volamtrunghieu1(192.168.248.103): Ping 9(s)
+[2018/08/29 15:17:24] 1170 >> Start Remove NetwordID 1 ....
+[2018/08/29 15:17:24] 1171 >> Remove Gateway NetwordID 1 ! -- At 1
+[2018/08/29 15:17:24] 1172 >> Free Client Count is 19
+[2018/08/29 15:17:27] 1173 >> Gateway volamtrunghieu(103.92.25.248): Ping 9(s)
+[2018/08/29 15:17:37] 1174 >> Gateway volamtrunghieu(103.92.25.248): Ping 10(s)
+[2018/08/29 15:17:47] 1175 >> Gateway volamtrunghieu(103.92.25.248): Ping 9(s)
+[2018/08/29 15:17:57] 1176 >> Gateway volamtrunghieu(103.92.25.248): Ping 10(s)
+[2018/08/29 15:18:06] 1177 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien1 Logout Success ! (Ext:0)
+[2018/08/29 15:18:06] 1178 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien2 Logout Success ! (Ext:0)
+[2018/08/29 15:18:06] 1179 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz1 Logout Success ! (Ext:0)
+[2018/08/29 15:18:06] 1180 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz2 Logout Success ! (Ext:0)
+[2018/08/29 15:18:06] 1181 >> Gateway volamtrunghieu(103.92.25.248): User longyen014 Logout Success ! (Ext:0)
+[2018/08/29 15:18:06] 1182 >> Gateway volamtrunghieu(103.92.25.248): User longyen016 Logout Success ! (Ext:0)
+[2018/08/29 15:18:06] 1183 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt14 Logout Success ! (Ext:0)
+[2018/08/29 15:18:06] 1184 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Logout Success ! (Ext:0)
+[2018/08/29 15:18:06] 1185 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Logout Success ! (Ext:0)
+[2018/08/29 15:18:06] 1186 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1187 >> Gateway volamtrunghieu(103.92.25.248): User nonhanvd Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1188 >> Gateway volamtrunghieu(103.92.25.248): User luukt55 Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1189 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka09 Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1190 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1191 >> Gateway volamtrunghieu(103.92.25.248): User longyen010 Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1192 >> Gateway volamtrunghieu(103.92.25.248): Ping 0(s)
+[2018/08/29 15:18:07] 1193 >> Gateway volamtrunghieu(103.92.25.248): User luukt54 Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1194 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka010 Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1195 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka08 Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1196 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka06 Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1197 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz5 Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1198 >> Gateway volamtrunghieu(103.92.25.248): User nonhandl Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1199 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1200 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt10 Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1201 >> Gateway volamtrunghieu(103.92.25.248): User longyen017 Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1202 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1203 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Logout Success ! (Ext:0)
+[2018/08/29 15:18:07] 1204 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1205 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt12 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1206 >> Gateway volamtrunghieu(103.92.25.248): User thangvl9 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1207 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt11 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1208 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1209 >> Gateway volamtrunghieu(103.92.25.248): User colobache195 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1210 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun1 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1211 >> Gateway volamtrunghieu(103.92.25.248): User nonhannm Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1212 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1213 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka07 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1214 >> Gateway volamtrunghieu(103.92.25.248): User xuxuka01 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1215 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun2 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1216 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1217 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1218 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh05 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1219 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1220 >> Gateway volamtrunghieu(103.92.25.248): User colobache195195 Logout Success ! (Ext:0)
+[2018/08/29 15:18:08] 1221 >> Gateway volamtrunghieu(103.92.25.248): User thangvl7 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1222 >> Gateway volamtrunghieu(103.92.25.248): User thangvl5 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1223 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh06 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1224 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh01 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1225 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz4 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1226 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh04 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1227 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1228 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh03 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1229 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1230 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1231 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1232 >> Gateway volamtrunghieu(103.92.25.248): User minhngo7989 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1233 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1234 >> Gateway volamtrunghieu(103.92.25.248): User minhngo89 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1235 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1236 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Logout Success ! (Ext:0)
+[2018/08/29 15:18:09] 1237 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungz6 Logout Success ! (Ext:0)
+[2018/08/29 15:18:10] 1238 >> Gateway volamtrunghieu(103.92.25.248): User sarin1990 Logout Success ! (Ext:0)
+[2018/08/29 15:18:10] 1239 >> Gateway volamtrunghieu(103.92.25.248): User saluci Logout Success ! (Ext:0)
+[2018/08/29 15:18:10] 1240 >> Gateway volamtrunghieu(103.92.25.248): User sarin3 Logout Success ! (Ext:0)
+[2018/08/29 15:18:17] 1241 >> Gateway volamtrunghieu(103.92.25.248): Ping 7(s)
+[2018/08/29 15:18:18] 1242 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:18] 1243 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Login Success ! (Ext:1) From 118.69.88.247:50919 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:18] 1244 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:18] 1245 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Login Success ! (Ext:1) From 27.79.207.127:53055 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:18] 1246 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:18] 1247 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Login Success ! (Ext:1) From 123.25.218.214:57262 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:18] 1248 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:18] 1249 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Login Success ! (Ext:1) From 116.99.167.107:49774 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:18] 1250 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:18] 1251 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Login Success ! (Ext:1) From 14.187.167.3:50145 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:18] 1252 >> Gateway volamtrunghieu(103.92.25.248): User nonhantl Logout Success ! (Ext:0)
+[2018/08/29 15:18:18] 1253 >> Gateway volamtrunghieu(103.92.25.248): User longyen018 Logout Success ! (Ext:0)
+[2018/08/29 15:18:18] 1254 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:18] 1255 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Login Success ! (Ext:1) From 113.22.34.131:50429 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:18] 1256 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun3 Logout Success ! (Ext:0)
+[2018/08/29 15:18:18] 1257 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:18] 1258 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Login Success ! (Ext:1) From 14.176.241.9:49646 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:18] 1259 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:18] 1260 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Login Success ! (Ext:1) From 113.22.34.131:50430 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:18] 1261 >> Gateway volamtrunghieu(103.92.25.248): User luukt53 Logout Success ! (Ext:0)
+[2018/08/29 15:18:18] 1262 >> Gateway volamtrunghieu(103.92.25.248): User thoakhungzz6 Logout Success ! (Ext:0)
+[2018/08/29 15:18:18] 1263 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:18] 1264 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Login Success ! (Ext:1) From 118.69.88.247:50920 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:18] 1265 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:18] 1266 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Login Success ! (Ext:1) From 27.79.207.127:53056 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:19] 1267 >> Gateway volamtrunghieu(103.92.25.248): User thangvl6 Logout Success ! (Ext:0)
+[2018/08/29 15:18:19] 1268 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:19] 1269 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Login Success ! (Ext:1) From 14.233.97.112:45825 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:19] 1270 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:19] 1271 >> Gateway volamtrunghieu(103.92.25.248): User saluci Login Success ! (Ext:1) From 116.110.119.64:49972 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:19] 1272 >> Gateway volamtrunghieu(103.92.25.248): User thangvl10 Logout Success ! (Ext:0)
+[2018/08/29 15:18:19] 1273 >> Gateway volamtrunghieu(103.92.25.248): User tranvinh02 Logout Success ! (Ext:0)
+[2018/08/29 15:18:19] 1274 >> Gateway volamtrunghieu(103.92.25.248): User nonhandm Logout Success ! (Ext:0)
+[2018/08/29 15:18:19] 1275 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:19] 1276 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Login Success ! (Ext:1) From 14.245.4.115:52774 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:19] 1277 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:19] 1278 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Login Success ! (Ext:1) From 113.22.135.164:61610 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:19] 1279 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:19] 1280 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Login Success ! (Ext:1) From 14.233.97.112:45858 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:19] 1281 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun4 Logout Success ! (Ext:0)
+[2018/08/29 15:18:19] 1282 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:19] 1283 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Login Success ! (Ext:1) From 113.22.34.131:50431 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:19] 1284 >> Gateway volamtrunghieu(103.92.25.248): User saluci Logout Success ! (Ext:0)
+[2018/08/29 15:18:19] 1285 >> Gateway volamtrunghieu(103.92.25.248): User huyenuyqs Logout Success ! (Ext:0)
+[2018/08/29 15:18:19] 1286 >> Gateway volamtrunghieu(103.92.25.248): User hoangminh89 Logout Success ! (Ext:0)
+[2018/08/29 15:18:19] 1287 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien Logout Success ! (Ext:0)
+[2018/08/29 15:18:19] 1288 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:19] 1289 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Login Success ! (Ext:1) From 113.184.175.82:51883 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:19] 1290 >> Gateway volamtrunghieu(103.92.25.248): User timlaivohien3 Logout Success ! (Ext:0)
+[2018/08/29 15:18:19] 1291 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:19] 1292 >> Gateway volamtrunghieu(103.92.25.248): User tuanlovekun5 Login Success ! (Ext:1) From 27.79.207.127:12281 With 0 LeftTimeOfPoint, with Logout:0
+[2018/08/29 15:18:19] 1293 >> Gateway volamtrunghieu(103.92.25.248): User thangvl8 Logout Success ! (Ext:0)
+[2018/08/29 15:18:19] 1294 >> Gateway volamtrunghieu(103.92.25.248): User sangtpbrvt5 Logout Success ! (Ext:0)
+[2018/08/29 15:18:19] 1295 >> KGatewayDataProcess[0]'s m_nGameID is 1
+[2018/08/29 15:18:19] 1296 >> Gateway volamtrunghieu(103.92.25.248): User nonhantn1 Login Success ! (Ext:1) From 118.69.88.247:50922 With 0 LeftTimeOfPoint, with Logout:0

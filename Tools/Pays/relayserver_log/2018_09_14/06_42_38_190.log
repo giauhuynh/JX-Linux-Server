@@ -1,0 +1,1398 @@
+[2018/09/14 06:42:38] 43586 -- ==Enter Add Relay(103.92.25.248 : 39652) Client 12 !
+[2018/09/14 06:42:38] 43587 -- ==Add Relay(103.92.25.248 : 39652) Client 12 ! -- Count 1
+[2018/09/14 06:42:38] 43588 -- ==Enter Remove Relay Client 11 ! -- Count 1
+[2018/09/14 06:42:38] 43589 -- ==Remove Relay Client 11 ! -- Count 1
+[2018/09/14 06:42:38] 43590 -- DB Connect 0 is busy !
+[2018/09/14 06:42:39] 43591 -- DB Connect 0 is free !
+[2018/09/14 06:43:04] 43592 -- ==Enter Add Relay(103.92.25.248 : 39654) Client 13 !
+[2018/09/14 06:43:04] 43593 -- ==Add Relay(103.92.25.248 : 39654) Client 13 ! -- Count 1
+[2018/09/14 06:43:04] 43594 -- ==Enter Remove Relay Client 12 ! -- Count 1
+[2018/09/14 06:43:04] 43595 -- ==Remove Relay Client 12 ! -- Count 1
+[2018/09/14 06:43:04] 43596 -- DB Connect 0 is busy !
+[2018/09/14 06:43:05] 43597 -- DB Connect 0 is free !
+[2018/09/14 06:43:30] 43598 -- ==Enter Add Relay(103.92.25.248 : 39656) Client 14 !
+[2018/09/14 06:43:30] 43599 -- ==Add Relay(103.92.25.248 : 39656) Client 14 ! -- Count 1
+[2018/09/14 06:43:30] 43600 -- ==Enter Remove Relay Client 13 ! -- Count 1
+[2018/09/14 06:43:30] 43601 -- ==Remove Relay Client 13 ! -- Count 1
+[2018/09/14 06:43:30] 43602 -- DB Connect 0 is busy !
+[2018/09/14 06:43:31] 43603 -- DB Connect 0 is free !
+[2018/09/14 06:43:56] 43604 -- ==Enter Add Relay(103.92.25.248 : 39658) Client 9 !
+[2018/09/14 06:43:56] 43605 -- ==Add Relay(103.92.25.248 : 39658) Client 9 ! -- Count 1
+[2018/09/14 06:43:56] 43606 -- ==Enter Remove Relay Client 14 ! -- Count 1
+[2018/09/14 06:43:56] 43607 -- ==Remove Relay Client 14 ! -- Count 1
+[2018/09/14 06:43:56] 43608 -- DB Connect 0 is busy !
+[2018/09/14 06:43:57] 43609 -- DB Connect 0 is free !
+[2018/09/14 06:44:22] 43610 -- ==Enter Add Relay(103.92.25.248 : 39660) Client 15 !
+[2018/09/14 06:44:22] 43611 -- ==Add Relay(103.92.25.248 : 39660) Client 15 ! -- Count 1
+[2018/09/14 06:44:22] 43612 -- ==Enter Remove Relay Client 9 ! -- Count 1
+[2018/09/14 06:44:22] 43613 -- ==Remove Relay Client 9 ! -- Count 1
+[2018/09/14 06:44:22] 43614 -- DB Connect 0 is busy !
+[2018/09/14 06:44:23] 43615 -- DB Connect 0 is free !
+[2018/09/14 06:44:48] 43616 -- ==Enter Add Relay(103.92.25.248 : 39662) Client 17 !
+[2018/09/14 06:44:48] 43617 -- ==Add Relay(103.92.25.248 : 39662) Client 17 ! -- Count 1
+[2018/09/14 06:44:48] 43618 -- ==Enter Remove Relay Client 15 ! -- Count 1
+[2018/09/14 06:44:48] 43619 -- ==Remove Relay Client 15 ! -- Count 1
+[2018/09/14 06:44:48] 43620 -- DB Connect 0 is busy !
+[2018/09/14 06:44:49] 43621 -- DB Connect 0 is free !
+[2018/09/14 06:45:14] 43622 -- ==Enter Add Relay(103.92.25.248 : 39664) Client 16 !
+[2018/09/14 06:45:14] 43623 -- ==Add Relay(103.92.25.248 : 39664) Client 16 ! -- Count 1
+[2018/09/14 06:45:14] 43624 -- ==Enter Remove Relay Client 17 ! -- Count 1
+[2018/09/14 06:45:14] 43625 -- ==Remove Relay Client 17 ! -- Count 1
+[2018/09/14 06:45:14] 43626 -- DB Connect 0 is busy !
+[2018/09/14 06:45:15] 43627 -- DB Connect 0 is free !
+[2018/09/14 06:45:40] 43628 -- ==Enter Add Relay(103.92.25.248 : 39666) Client 5 !
+[2018/09/14 06:45:40] 43629 -- ==Add Relay(103.92.25.248 : 39666) Client 5 ! -- Count 1
+[2018/09/14 06:45:40] 43630 -- ==Enter Remove Relay Client 16 ! -- Count 1
+[2018/09/14 06:45:40] 43631 -- ==Remove Relay Client 16 ! -- Count 1
+[2018/09/14 06:45:40] 43632 -- DB Connect 0 is busy !
+[2018/09/14 06:45:41] 43633 -- DB Connect 0 is free !
+[2018/09/14 06:46:06] 43634 -- ==Enter Add Relay(103.92.25.248 : 39668) Client 0 !
+[2018/09/14 06:46:06] 43635 -- ==Add Relay(103.92.25.248 : 39668) Client 0 ! -- Count 1
+[2018/09/14 06:46:06] 43636 -- ==Enter Remove Relay Client 5 ! -- Count 1
+[2018/09/14 06:46:06] 43637 -- ==Remove Relay Client 5 ! -- Count 1
+[2018/09/14 06:46:06] 43638 -- DB Connect 0 is busy !
+[2018/09/14 06:46:07] 43639 -- DB Connect 0 is free !
+[2018/09/14 06:46:32] 43640 -- ==Enter Add Relay(103.92.25.248 : 39670) Client 2 !
+[2018/09/14 06:46:32] 43641 -- ==Add Relay(103.92.25.248 : 39670) Client 2 ! -- Count 1
+[2018/09/14 06:46:32] 43642 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/09/14 06:46:32] 43643 -- ==Remove Relay Client 0 ! -- Count 1
+[2018/09/14 06:46:32] 43644 -- DB Connect 0 is busy !
+[2018/09/14 06:46:33] 43645 -- DB Connect 0 is free !
+[2018/09/14 06:46:58] 43646 -- ==Enter Add Relay(103.92.25.248 : 39672) Client 3 !
+[2018/09/14 06:46:58] 43647 -- ==Add Relay(103.92.25.248 : 39672) Client 3 ! -- Count 1
+[2018/09/14 06:46:58] 43648 -- ==Enter Remove Relay Client 2 ! -- Count 1
+[2018/09/14 06:46:58] 43649 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/09/14 06:46:58] 43650 -- DB Connect 0 is busy !
+[2018/09/14 06:46:59] 43651 -- DB Connect 0 is free !
+[2018/09/14 06:47:24] 43652 -- ==Enter Add Relay(103.92.25.248 : 39674) Client 18 !
+[2018/09/14 06:47:24] 43653 -- ==Add Relay(103.92.25.248 : 39674) Client 18 ! -- Count 1
+[2018/09/14 06:47:24] 43654 -- ==Enter Remove Relay Client 3 ! -- Count 1
+[2018/09/14 06:47:24] 43655 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/09/14 06:47:24] 43656 -- DB Connect 0 is busy !
+[2018/09/14 06:47:25] 43657 -- DB Connect 0 is free !
+[2018/09/14 06:47:50] 43658 -- ==Enter Add Relay(103.92.25.248 : 39676) Client 4 !
+[2018/09/14 06:47:50] 43659 -- ==Add Relay(103.92.25.248 : 39676) Client 4 ! -- Count 1
+[2018/09/14 06:47:50] 43660 -- ==Enter Remove Relay Client 18 ! -- Count 1
+[2018/09/14 06:47:50] 43661 -- ==Remove Relay Client 18 ! -- Count 1
+[2018/09/14 06:47:50] 43662 -- DB Connect 0 is busy !
+[2018/09/14 06:47:51] 43663 -- DB Connect 0 is free !
+[2018/09/14 06:48:16] 43664 -- ==Enter Add Relay(103.92.25.248 : 39678) Client 7 !
+[2018/09/14 06:48:16] 43665 -- ==Add Relay(103.92.25.248 : 39678) Client 7 ! -- Count 1
+[2018/09/14 06:48:16] 43666 -- ==Enter Remove Relay Client 4 ! -- Count 1
+[2018/09/14 06:48:16] 43667 -- ==Remove Relay Client 4 ! -- Count 1
+[2018/09/14 06:48:16] 43668 -- DB Connect 0 is busy !
+[2018/09/14 06:48:17] 43669 -- DB Connect 0 is free !
+[2018/09/14 06:48:42] 43670 -- ==Enter Add Relay(103.92.25.248 : 39680) Client 6 !
+[2018/09/14 06:48:42] 43671 -- ==Add Relay(103.92.25.248 : 39680) Client 6 ! -- Count 1
+[2018/09/14 06:48:42] 43672 -- ==Enter Remove Relay Client 7 ! -- Count 1
+[2018/09/14 06:48:42] 43673 -- ==Remove Relay Client 7 ! -- Count 1
+[2018/09/14 06:48:42] 43674 -- DB Connect 0 is busy !
+[2018/09/14 06:48:43] 43675 -- DB Connect 0 is free !
+[2018/09/14 06:49:08] 43676 -- ==Enter Add Relay(103.92.25.248 : 39682) Client 19 !
+[2018/09/14 06:49:08] 43677 -- ==Add Relay(103.92.25.248 : 39682) Client 19 ! -- Count 1
+[2018/09/14 06:49:08] 43678 -- ==Enter Remove Relay Client 6 ! -- Count 1
+[2018/09/14 06:49:08] 43679 -- ==Remove Relay Client 6 ! -- Count 1
+[2018/09/14 06:49:08] 43680 -- DB Connect 0 is busy !
+[2018/09/14 06:49:09] 43681 -- DB Connect 0 is free !
+[2018/09/14 06:49:34] 43682 -- ==Enter Add Relay(103.92.25.248 : 39684) Client 8 !
+[2018/09/14 06:49:34] 43683 -- ==Add Relay(103.92.25.248 : 39684) Client 8 ! -- Count 1
+[2018/09/14 06:49:34] 43684 -- ==Enter Remove Relay Client 19 ! -- Count 1
+[2018/09/14 06:49:34] 43685 -- ==Remove Relay Client 19 ! -- Count 1
+[2018/09/14 06:49:34] 43686 -- DB Connect 0 is busy !
+[2018/09/14 06:49:35] 43687 -- DB Connect 0 is free !
+[2018/09/14 06:50:00] 43688 -- ==Enter Add Relay(103.92.25.248 : 39686) Client 1 !
+[2018/09/14 06:50:00] 43689 -- ==Add Relay(103.92.25.248 : 39686) Client 1 ! -- Count 1
+[2018/09/14 06:50:00] 43690 -- ==Enter Remove Relay Client 8 ! -- Count 1
+[2018/09/14 06:50:00] 43691 -- ==Remove Relay Client 8 ! -- Count 1
+[2018/09/14 06:50:00] 43692 -- DB Connect 0 is busy !
+[2018/09/14 06:50:01] 43693 -- DB Connect 0 is free !
+[2018/09/14 06:50:26] 43694 -- ==Enter Add Relay(103.92.25.248 : 39688) Client 10 !
+[2018/09/14 06:50:26] 43695 -- ==Add Relay(103.92.25.248 : 39688) Client 10 ! -- Count 1
+[2018/09/14 06:50:26] 43696 -- ==Enter Remove Relay Client 1 ! -- Count 1
+[2018/09/14 06:50:26] 43697 -- ==Remove Relay Client 1 ! -- Count 1
+[2018/09/14 06:50:26] 43698 -- DB Connect 0 is busy !
+[2018/09/14 06:50:27] 43699 -- DB Connect 0 is free !
+[2018/09/14 06:50:52] 43700 -- ==Enter Add Relay(103.92.25.248 : 39690) Client 11 !
+[2018/09/14 06:50:52] 43701 -- ==Add Relay(103.92.25.248 : 39690) Client 11 ! -- Count 1
+[2018/09/14 06:50:52] 43702 -- ==Enter Remove Relay Client 10 ! -- Count 1
+[2018/09/14 06:50:52] 43703 -- ==Remove Relay Client 10 ! -- Count 1
+[2018/09/14 06:50:52] 43704 -- DB Connect 0 is busy !
+[2018/09/14 06:50:53] 43705 -- DB Connect 0 is free !
+[2018/09/14 06:51:18] 43706 -- ==Enter Add Relay(103.92.25.248 : 39692) Client 12 !
+[2018/09/14 06:51:18] 43707 -- ==Add Relay(103.92.25.248 : 39692) Client 12 ! -- Count 1
+[2018/09/14 06:51:18] 43708 -- ==Enter Remove Relay Client 11 ! -- Count 1
+[2018/09/14 06:51:18] 43709 -- ==Remove Relay Client 11 ! -- Count 1
+[2018/09/14 06:51:18] 43710 -- DB Connect 0 is busy !
+[2018/09/14 06:51:19] 43711 -- DB Connect 0 is free !
+[2018/09/14 06:51:44] 43712 -- ==Enter Add Relay(103.92.25.248 : 39694) Client 13 !
+[2018/09/14 06:51:44] 43713 -- ==Add Relay(103.92.25.248 : 39694) Client 13 ! -- Count 1
+[2018/09/14 06:51:44] 43714 -- ==Enter Remove Relay Client 12 ! -- Count 1
+[2018/09/14 06:51:44] 43715 -- ==Remove Relay Client 12 ! -- Count 1
+[2018/09/14 06:51:44] 43716 -- DB Connect 0 is busy !
+[2018/09/14 06:51:45] 43717 -- DB Connect 0 is free !
+[2018/09/14 06:52:10] 43718 -- ==Enter Add Relay(103.92.25.248 : 39696) Client 14 !
+[2018/09/14 06:52:10] 43719 -- ==Add Relay(103.92.25.248 : 39696) Client 14 ! -- Count 1
+[2018/09/14 06:52:10] 43720 -- ==Enter Remove Relay Client 13 ! -- Count 1
+[2018/09/14 06:52:10] 43721 -- ==Remove Relay Client 13 ! -- Count 1
+[2018/09/14 06:52:10] 43722 -- DB Connect 0 is busy !
+[2018/09/14 06:52:11] 43723 -- DB Connect 0 is free !
+[2018/09/14 06:52:37] 43724 -- ==Enter Add Relay(103.92.25.248 : 39698) Client 9 !
+[2018/09/14 06:52:37] 43725 -- ==Add Relay(103.92.25.248 : 39698) Client 9 ! -- Count 1
+[2018/09/14 06:52:37] 43726 -- ==Enter Remove Relay Client 14 ! -- Count 1
+[2018/09/14 06:52:37] 43727 -- ==Remove Relay Client 14 ! -- Count 1
+[2018/09/14 06:52:37] 43728 -- DB Connect 0 is busy !
+[2018/09/14 06:52:38] 43729 -- DB Connect 0 is free !
+[2018/09/14 06:53:03] 43730 -- ==Enter Add Relay(103.92.25.248 : 39700) Client 15 !
+[2018/09/14 06:53:03] 43731 -- ==Add Relay(103.92.25.248 : 39700) Client 15 ! -- Count 1
+[2018/09/14 06:53:03] 43732 -- ==Enter Remove Relay Client 9 ! -- Count 1
+[2018/09/14 06:53:03] 43733 -- ==Remove Relay Client 9 ! -- Count 1
+[2018/09/14 06:53:03] 43734 -- DB Connect 0 is busy !
+[2018/09/14 06:53:04] 43735 -- DB Connect 0 is free !
+[2018/09/14 06:53:29] 43736 -- ==Enter Add Relay(103.92.25.248 : 39702) Client 17 !
+[2018/09/14 06:53:29] 43737 -- ==Add Relay(103.92.25.248 : 39702) Client 17 ! -- Count 1
+[2018/09/14 06:53:29] 43738 -- ==Enter Remove Relay Client 15 ! -- Count 1
+[2018/09/14 06:53:29] 43739 -- ==Remove Relay Client 15 ! -- Count 1
+[2018/09/14 06:53:29] 43740 -- DB Connect 0 is busy !
+[2018/09/14 06:53:30] 43741 -- DB Connect 0 is free !
+[2018/09/14 06:53:55] 43742 -- ==Enter Add Relay(103.92.25.248 : 39704) Client 16 !
+[2018/09/14 06:53:55] 43743 -- ==Add Relay(103.92.25.248 : 39704) Client 16 ! -- Count 1
+[2018/09/14 06:53:55] 43744 -- ==Enter Remove Relay Client 17 ! -- Count 1
+[2018/09/14 06:53:55] 43745 -- ==Remove Relay Client 17 ! -- Count 1
+[2018/09/14 06:53:55] 43746 -- DB Connect 0 is busy !
+[2018/09/14 06:53:56] 43747 -- DB Connect 0 is free !
+[2018/09/14 06:54:21] 43748 -- ==Enter Add Relay(103.92.25.248 : 39706) Client 5 !
+[2018/09/14 06:54:21] 43749 -- ==Add Relay(103.92.25.248 : 39706) Client 5 ! -- Count 1
+[2018/09/14 06:54:21] 43750 -- ==Enter Remove Relay Client 16 ! -- Count 1
+[2018/09/14 06:54:21] 43751 -- ==Remove Relay Client 16 ! -- Count 1
+[2018/09/14 06:54:21] 43752 -- DB Connect 0 is busy !
+[2018/09/14 06:54:22] 43753 -- DB Connect 0 is free !
+[2018/09/14 06:54:47] 43754 -- ==Enter Add Relay(103.92.25.248 : 39708) Client 0 !
+[2018/09/14 06:54:47] 43755 -- ==Add Relay(103.92.25.248 : 39708) Client 0 ! -- Count 1
+[2018/09/14 06:54:47] 43756 -- ==Enter Remove Relay Client 5 ! -- Count 1
+[2018/09/14 06:54:47] 43757 -- ==Remove Relay Client 5 ! -- Count 1
+[2018/09/14 06:54:47] 43758 -- DB Connect 0 is busy !
+[2018/09/14 06:54:48] 43759 -- DB Connect 0 is free !
+[2018/09/14 06:55:13] 43760 -- ==Enter Add Relay(103.92.25.248 : 39710) Client 2 !
+[2018/09/14 06:55:13] 43761 -- ==Add Relay(103.92.25.248 : 39710) Client 2 ! -- Count 1
+[2018/09/14 06:55:13] 43762 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/09/14 06:55:13] 43763 -- ==Remove Relay Client 0 ! -- Count 1
+[2018/09/14 06:55:13] 43764 -- DB Connect 0 is busy !
+[2018/09/14 06:55:14] 43765 -- DB Connect 0 is free !
+[2018/09/14 06:55:39] 43766 -- ==Enter Add Relay(103.92.25.248 : 39712) Client 3 !
+[2018/09/14 06:55:39] 43767 -- ==Add Relay(103.92.25.248 : 39712) Client 3 ! -- Count 1
+[2018/09/14 06:55:39] 43768 -- ==Enter Remove Relay Client 2 ! -- Count 1
+[2018/09/14 06:55:39] 43769 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/09/14 06:55:39] 43770 -- DB Connect 0 is busy !
+[2018/09/14 06:55:40] 43771 -- DB Connect 0 is free !
+[2018/09/14 06:56:05] 43772 -- ==Enter Add Relay(103.92.25.248 : 39714) Client 18 !
+[2018/09/14 06:56:05] 43773 -- ==Add Relay(103.92.25.248 : 39714) Client 18 ! -- Count 1
+[2018/09/14 06:56:05] 43774 -- ==Enter Remove Relay Client 3 ! -- Count 1
+[2018/09/14 06:56:05] 43775 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/09/14 06:56:05] 43776 -- DB Connect 0 is busy !
+[2018/09/14 06:56:06] 43777 -- DB Connect 0 is free !
+[2018/09/14 06:56:31] 43778 -- ==Enter Add Relay(103.92.25.248 : 39716) Client 4 !
+[2018/09/14 06:56:31] 43779 -- ==Add Relay(103.92.25.248 : 39716) Client 4 ! -- Count 1
+[2018/09/14 06:56:31] 43780 -- ==Enter Remove Relay Client 18 ! -- Count 1
+[2018/09/14 06:56:31] 43781 -- ==Remove Relay Client 18 ! -- Count 1
+[2018/09/14 06:56:31] 43782 -- DB Connect 0 is busy !
+[2018/09/14 06:56:32] 43783 -- DB Connect 0 is free !
+[2018/09/14 06:56:57] 43784 -- ==Enter Add Relay(103.92.25.248 : 39718) Client 7 !
+[2018/09/14 06:56:57] 43785 -- ==Add Relay(103.92.25.248 : 39718) Client 7 ! -- Count 1
+[2018/09/14 06:56:57] 43786 -- ==Enter Remove Relay Client 4 ! -- Count 1
+[2018/09/14 06:56:57] 43787 -- ==Remove Relay Client 4 ! -- Count 1
+[2018/09/14 06:56:57] 43788 -- DB Connect 0 is busy !
+[2018/09/14 06:56:58] 43789 -- DB Connect 0 is free !
+[2018/09/14 06:57:23] 43790 -- ==Enter Add Relay(103.92.25.248 : 39720) Client 6 !
+[2018/09/14 06:57:23] 43791 -- ==Add Relay(103.92.25.248 : 39720) Client 6 ! -- Count 1
+[2018/09/14 06:57:23] 43792 -- ==Enter Remove Relay Client 7 ! -- Count 1
+[2018/09/14 06:57:23] 43793 -- ==Remove Relay Client 7 ! -- Count 1
+[2018/09/14 06:57:23] 43794 -- DB Connect 0 is busy !
+[2018/09/14 06:57:24] 43795 -- DB Connect 0 is free !
+[2018/09/14 06:57:49] 43796 -- ==Enter Add Relay(103.92.25.248 : 39722) Client 19 !
+[2018/09/14 06:57:49] 43797 -- ==Add Relay(103.92.25.248 : 39722) Client 19 ! -- Count 1
+[2018/09/14 06:57:49] 43798 -- ==Enter Remove Relay Client 6 ! -- Count 1
+[2018/09/14 06:57:49] 43799 -- ==Remove Relay Client 6 ! -- Count 1
+[2018/09/14 06:57:49] 43800 -- DB Connect 0 is busy !
+[2018/09/14 06:57:50] 43801 -- DB Connect 0 is free !
+[2018/09/14 06:58:15] 43802 -- ==Enter Add Relay(103.92.25.248 : 39724) Client 8 !
+[2018/09/14 06:58:15] 43803 -- ==Add Relay(103.92.25.248 : 39724) Client 8 ! -- Count 1
+[2018/09/14 06:58:15] 43804 -- ==Enter Remove Relay Client 19 ! -- Count 1
+[2018/09/14 06:58:15] 43805 -- ==Remove Relay Client 19 ! -- Count 1
+[2018/09/14 06:58:15] 43806 -- DB Connect 0 is busy !
+[2018/09/14 06:58:16] 43807 -- DB Connect 0 is free !
+[2018/09/14 06:58:41] 43808 -- ==Enter Add Relay(103.92.25.248 : 39726) Client 1 !
+[2018/09/14 06:58:41] 43809 -- ==Add Relay(103.92.25.248 : 39726) Client 1 ! -- Count 1
+[2018/09/14 06:58:41] 43810 -- ==Enter Remove Relay Client 8 ! -- Count 1
+[2018/09/14 06:58:41] 43811 -- ==Remove Relay Client 8 ! -- Count 1
+[2018/09/14 06:58:41] 43812 -- DB Connect 0 is busy !
+[2018/09/14 06:58:42] 43813 -- DB Connect 0 is free !
+[2018/09/14 06:59:07] 43814 -- ==Enter Add Relay(103.92.25.248 : 39728) Client 10 !
+[2018/09/14 06:59:07] 43815 -- ==Add Relay(103.92.25.248 : 39728) Client 10 ! -- Count 1
+[2018/09/14 06:59:07] 43816 -- ==Enter Remove Relay Client 1 ! -- Count 1
+[2018/09/14 06:59:07] 43817 -- ==Remove Relay Client 1 ! -- Count 1
+[2018/09/14 06:59:07] 43818 -- DB Connect 0 is busy !
+[2018/09/14 06:59:08] 43819 -- DB Connect 0 is free !
+[2018/09/14 06:59:33] 43820 -- ==Enter Add Relay(103.92.25.248 : 39730) Client 11 !
+[2018/09/14 06:59:33] 43821 -- ==Add Relay(103.92.25.248 : 39730) Client 11 ! -- Count 1
+[2018/09/14 06:59:33] 43822 -- ==Enter Remove Relay Client 10 ! -- Count 1
+[2018/09/14 06:59:33] 43823 -- ==Remove Relay Client 10 ! -- Count 1
+[2018/09/14 06:59:33] 43824 -- DB Connect 0 is busy !
+[2018/09/14 06:59:34] 43825 -- DB Connect 0 is free !
+[2018/09/14 07:00:00] 43826 -- ==Enter Add Relay(103.92.25.248 : 39732) Client 12 !
+[2018/09/14 07:00:00] 43827 -- ==Add Relay(103.92.25.248 : 39732) Client 12 ! -- Count 1
+[2018/09/14 07:00:00] 43828 -- ==Enter Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:00:00] 43829 -- ==Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:00:00] 43830 -- DB Connect 0 is busy !
+[2018/09/14 07:00:01] 43831 -- DB Connect 0 is free !
+[2018/09/14 07:00:26] 43832 -- ==Enter Add Relay(103.92.25.248 : 39734) Client 13 !
+[2018/09/14 07:00:26] 43833 -- ==Add Relay(103.92.25.248 : 39734) Client 13 ! -- Count 1
+[2018/09/14 07:00:26] 43834 -- ==Enter Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:00:26] 43835 -- ==Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:00:26] 43836 -- DB Connect 0 is busy !
+[2018/09/14 07:00:27] 43837 -- DB Connect 0 is free !
+[2018/09/14 07:00:52] 43838 -- ==Enter Add Relay(103.92.25.248 : 39736) Client 14 !
+[2018/09/14 07:00:52] 43839 -- ==Add Relay(103.92.25.248 : 39736) Client 14 ! -- Count 1
+[2018/09/14 07:00:52] 43840 -- ==Enter Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:00:52] 43841 -- ==Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:00:52] 43842 -- DB Connect 0 is busy !
+[2018/09/14 07:00:53] 43843 -- DB Connect 0 is free !
+[2018/09/14 07:01:18] 43844 -- ==Enter Add Relay(103.92.25.248 : 39738) Client 9 !
+[2018/09/14 07:01:18] 43845 -- ==Add Relay(103.92.25.248 : 39738) Client 9 ! -- Count 1
+[2018/09/14 07:01:18] 43846 -- ==Enter Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:01:18] 43847 -- ==Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:01:18] 43848 -- DB Connect 0 is busy !
+[2018/09/14 07:01:19] 43849 -- DB Connect 0 is free !
+[2018/09/14 07:01:44] 43850 -- ==Enter Add Relay(103.92.25.248 : 39740) Client 15 !
+[2018/09/14 07:01:44] 43851 -- ==Add Relay(103.92.25.248 : 39740) Client 15 ! -- Count 1
+[2018/09/14 07:01:44] 43852 -- ==Enter Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:01:44] 43853 -- ==Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:01:44] 43854 -- DB Connect 0 is busy !
+[2018/09/14 07:01:45] 43855 -- DB Connect 0 is free !
+[2018/09/14 07:02:10] 43856 -- ==Enter Add Relay(103.92.25.248 : 39742) Client 17 !
+[2018/09/14 07:02:10] 43857 -- ==Add Relay(103.92.25.248 : 39742) Client 17 ! -- Count 1
+[2018/09/14 07:02:10] 43858 -- ==Enter Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:02:10] 43859 -- ==Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:02:10] 43860 -- DB Connect 0 is busy !
+[2018/09/14 07:02:11] 43861 -- DB Connect 0 is free !
+[2018/09/14 07:02:36] 43862 -- ==Enter Add Relay(103.92.25.248 : 39744) Client 16 !
+[2018/09/14 07:02:36] 43863 -- ==Add Relay(103.92.25.248 : 39744) Client 16 ! -- Count 1
+[2018/09/14 07:02:36] 43864 -- ==Enter Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:02:36] 43865 -- ==Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:02:36] 43866 -- DB Connect 0 is busy !
+[2018/09/14 07:02:37] 43867 -- DB Connect 0 is free !
+[2018/09/14 07:03:02] 43868 -- ==Enter Add Relay(103.92.25.248 : 39746) Client 5 !
+[2018/09/14 07:03:02] 43869 -- ==Add Relay(103.92.25.248 : 39746) Client 5 ! -- Count 1
+[2018/09/14 07:03:02] 43870 -- ==Enter Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:03:02] 43871 -- ==Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:03:02] 43872 -- DB Connect 0 is busy !
+[2018/09/14 07:03:03] 43873 -- DB Connect 0 is free !
+[2018/09/14 07:03:28] 43874 -- ==Enter Add Relay(103.92.25.248 : 39748) Client 0 !
+[2018/09/14 07:03:28] 43875 -- ==Add Relay(103.92.25.248 : 39748) Client 0 ! -- Count 1
+[2018/09/14 07:03:28] 43876 -- ==Enter Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:03:28] 43877 -- ==Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:03:28] 43878 -- DB Connect 0 is busy !
+[2018/09/14 07:03:29] 43879 -- DB Connect 0 is free !
+[2018/09/14 07:03:54] 43880 -- ==Enter Add Relay(103.92.25.248 : 39750) Client 2 !
+[2018/09/14 07:03:54] 43881 -- ==Add Relay(103.92.25.248 : 39750) Client 2 ! -- Count 1
+[2018/09/14 07:03:54] 43882 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:03:54] 43883 -- ==Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:03:54] 43884 -- DB Connect 0 is busy !
+[2018/09/14 07:03:55] 43885 -- DB Connect 0 is free !
+[2018/09/14 07:04:20] 43886 -- ==Enter Add Relay(103.92.25.248 : 39752) Client 3 !
+[2018/09/14 07:04:20] 43887 -- ==Add Relay(103.92.25.248 : 39752) Client 3 ! -- Count 1
+[2018/09/14 07:04:20] 43888 -- ==Enter Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:04:20] 43889 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:04:20] 43890 -- DB Connect 0 is busy !
+[2018/09/14 07:04:21] 43891 -- DB Connect 0 is free !
+[2018/09/14 07:04:46] 43892 -- ==Enter Add Relay(103.92.25.248 : 39754) Client 18 !
+[2018/09/14 07:04:46] 43893 -- ==Add Relay(103.92.25.248 : 39754) Client 18 ! -- Count 1
+[2018/09/14 07:04:46] 43894 -- ==Enter Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:04:46] 43895 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:04:46] 43896 -- DB Connect 0 is busy !
+[2018/09/14 07:04:47] 43897 -- DB Connect 0 is free !
+[2018/09/14 07:05:12] 43898 -- ==Enter Add Relay(103.92.25.248 : 39756) Client 4 !
+[2018/09/14 07:05:12] 43899 -- ==Add Relay(103.92.25.248 : 39756) Client 4 ! -- Count 1
+[2018/09/14 07:05:12] 43900 -- ==Enter Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:05:12] 43901 -- ==Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:05:12] 43902 -- DB Connect 0 is busy !
+[2018/09/14 07:05:13] 43903 -- DB Connect 0 is free !
+[2018/09/14 07:05:38] 43904 -- ==Enter Add Relay(103.92.25.248 : 39758) Client 7 !
+[2018/09/14 07:05:38] 43905 -- ==Add Relay(103.92.25.248 : 39758) Client 7 ! -- Count 1
+[2018/09/14 07:05:38] 43906 -- ==Enter Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:05:38] 43907 -- ==Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:05:38] 43908 -- DB Connect 0 is busy !
+[2018/09/14 07:05:39] 43909 -- DB Connect 0 is free !
+[2018/09/14 07:06:04] 43910 -- ==Enter Add Relay(103.92.25.248 : 39760) Client 6 !
+[2018/09/14 07:06:04] 43911 -- ==Add Relay(103.92.25.248 : 39760) Client 6 ! -- Count 1
+[2018/09/14 07:06:04] 43912 -- ==Enter Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:06:04] 43913 -- ==Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:06:04] 43914 -- DB Connect 0 is busy !
+[2018/09/14 07:06:05] 43915 -- DB Connect 0 is free !
+[2018/09/14 07:06:30] 43916 -- ==Enter Add Relay(103.92.25.248 : 39762) Client 19 !
+[2018/09/14 07:06:30] 43917 -- ==Add Relay(103.92.25.248 : 39762) Client 19 ! -- Count 1
+[2018/09/14 07:06:30] 43918 -- ==Enter Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:06:30] 43919 -- ==Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:06:30] 43920 -- DB Connect 0 is busy !
+[2018/09/14 07:06:31] 43921 -- DB Connect 0 is free !
+[2018/09/14 07:06:56] 43922 -- ==Enter Add Relay(103.92.25.248 : 39764) Client 8 !
+[2018/09/14 07:06:56] 43923 -- ==Add Relay(103.92.25.248 : 39764) Client 8 ! -- Count 1
+[2018/09/14 07:06:56] 43924 -- ==Enter Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:06:56] 43925 -- ==Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:06:56] 43926 -- DB Connect 0 is busy !
+[2018/09/14 07:06:57] 43927 -- DB Connect 0 is free !
+[2018/09/14 07:07:23] 43928 -- ==Enter Add Relay(103.92.25.248 : 39766) Client 1 !
+[2018/09/14 07:07:23] 43929 -- ==Add Relay(103.92.25.248 : 39766) Client 1 ! -- Count 1
+[2018/09/14 07:07:23] 43930 -- ==Enter Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:07:23] 43931 -- ==Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:07:23] 43932 -- DB Connect 0 is busy !
+[2018/09/14 07:07:24] 43933 -- DB Connect 0 is free !
+[2018/09/14 07:07:48] 43934 -- ==Enter Add Relay(103.92.25.248 : 39768) Client 10 !
+[2018/09/14 07:07:48] 43935 -- ==Add Relay(103.92.25.248 : 39768) Client 10 ! -- Count 1
+[2018/09/14 07:07:48] 43936 -- ==Enter Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:07:48] 43937 -- ==Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:07:48] 43938 -- DB Connect 0 is busy !
+[2018/09/14 07:07:49] 43939 -- DB Connect 0 is free !
+[2018/09/14 07:08:15] 43940 -- ==Enter Add Relay(103.92.25.248 : 39770) Client 11 !
+[2018/09/14 07:08:15] 43941 -- ==Add Relay(103.92.25.248 : 39770) Client 11 ! -- Count 1
+[2018/09/14 07:08:15] 43942 -- ==Enter Remove Relay Client 10 ! -- Count 1
+[2018/09/14 07:08:15] 43943 -- ==Remove Relay Client 10 ! -- Count 1
+[2018/09/14 07:08:15] 43944 -- DB Connect 0 is busy !
+[2018/09/14 07:08:16] 43945 -- DB Connect 0 is free !
+[2018/09/14 07:08:41] 43946 -- ==Enter Add Relay(103.92.25.248 : 39772) Client 12 !
+[2018/09/14 07:08:41] 43947 -- ==Add Relay(103.92.25.248 : 39772) Client 12 ! -- Count 1
+[2018/09/14 07:08:41] 43948 -- ==Enter Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:08:41] 43949 -- ==Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:08:41] 43950 -- DB Connect 0 is busy !
+[2018/09/14 07:08:42] 43951 -- DB Connect 0 is free !
+[2018/09/14 07:09:07] 43952 -- ==Enter Add Relay(103.92.25.248 : 39774) Client 13 !
+[2018/09/14 07:09:07] 43953 -- ==Add Relay(103.92.25.248 : 39774) Client 13 ! -- Count 1
+[2018/09/14 07:09:07] 43954 -- ==Enter Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:09:07] 43955 -- ==Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:09:07] 43956 -- DB Connect 0 is busy !
+[2018/09/14 07:09:08] 43957 -- DB Connect 0 is free !
+[2018/09/14 07:09:33] 43958 -- ==Enter Add Relay(103.92.25.248 : 39776) Client 14 !
+[2018/09/14 07:09:33] 43959 -- ==Add Relay(103.92.25.248 : 39776) Client 14 ! -- Count 1
+[2018/09/14 07:09:33] 43960 -- ==Enter Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:09:33] 43961 -- ==Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:09:33] 43962 -- DB Connect 0 is busy !
+[2018/09/14 07:09:34] 43963 -- DB Connect 0 is free !
+[2018/09/14 07:09:59] 43964 -- ==Enter Add Relay(103.92.25.248 : 39778) Client 9 !
+[2018/09/14 07:09:59] 43965 -- ==Add Relay(103.92.25.248 : 39778) Client 9 ! -- Count 1
+[2018/09/14 07:09:59] 43966 -- ==Enter Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:09:59] 43967 -- ==Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:09:59] 43968 -- DB Connect 0 is busy !
+[2018/09/14 07:10:00] 43969 -- DB Connect 0 is free !
+[2018/09/14 07:10:25] 43970 -- ==Enter Add Relay(103.92.25.248 : 39780) Client 15 !
+[2018/09/14 07:10:25] 43971 -- ==Add Relay(103.92.25.248 : 39780) Client 15 ! -- Count 1
+[2018/09/14 07:10:25] 43972 -- ==Enter Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:10:25] 43973 -- ==Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:10:25] 43974 -- DB Connect 0 is busy !
+[2018/09/14 07:10:26] 43975 -- DB Connect 0 is free !
+[2018/09/14 07:10:51] 43976 -- ==Enter Add Relay(103.92.25.248 : 39782) Client 17 !
+[2018/09/14 07:10:51] 43977 -- ==Add Relay(103.92.25.248 : 39782) Client 17 ! -- Count 1
+[2018/09/14 07:10:51] 43978 -- ==Enter Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:10:51] 43979 -- ==Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:10:51] 43980 -- DB Connect 0 is busy !
+[2018/09/14 07:10:52] 43981 -- DB Connect 0 is free !
+[2018/09/14 07:11:17] 43982 -- ==Enter Add Relay(103.92.25.248 : 39784) Client 16 !
+[2018/09/14 07:11:17] 43983 -- ==Add Relay(103.92.25.248 : 39784) Client 16 ! -- Count 1
+[2018/09/14 07:11:17] 43984 -- ==Enter Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:11:17] 43985 -- ==Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:11:17] 43986 -- DB Connect 0 is busy !
+[2018/09/14 07:11:18] 43987 -- DB Connect 0 is free !
+[2018/09/14 07:11:43] 43988 -- ==Enter Add Relay(103.92.25.248 : 39786) Client 5 !
+[2018/09/14 07:11:43] 43989 -- ==Add Relay(103.92.25.248 : 39786) Client 5 ! -- Count 1
+[2018/09/14 07:11:43] 43990 -- ==Enter Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:11:43] 43991 -- ==Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:11:43] 43992 -- DB Connect 0 is busy !
+[2018/09/14 07:11:44] 43993 -- DB Connect 0 is free !
+[2018/09/14 07:12:10] 43994 -- ==Enter Add Relay(103.92.25.248 : 39788) Client 0 !
+[2018/09/14 07:12:10] 43995 -- ==Add Relay(103.92.25.248 : 39788) Client 0 ! -- Count 1
+[2018/09/14 07:12:10] 43996 -- ==Enter Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:12:10] 43997 -- ==Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:12:10] 43998 -- DB Connect 0 is busy !
+[2018/09/14 07:12:11] 43999 -- DB Connect 0 is free !
+[2018/09/14 07:12:36] 44000 -- ==Enter Add Relay(103.92.25.248 : 39790) Client 2 !
+[2018/09/14 07:12:36] 44001 -- ==Add Relay(103.92.25.248 : 39790) Client 2 ! -- Count 1
+[2018/09/14 07:12:36] 44002 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:12:36] 44003 -- ==Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:12:36] 44004 -- DB Connect 0 is busy !
+[2018/09/14 07:12:37] 44005 -- DB Connect 0 is free !
+[2018/09/14 07:13:02] 44006 -- ==Enter Add Relay(103.92.25.248 : 39792) Client 3 !
+[2018/09/14 07:13:02] 44007 -- ==Add Relay(103.92.25.248 : 39792) Client 3 ! -- Count 1
+[2018/09/14 07:13:02] 44008 -- ==Enter Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:13:02] 44009 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:13:02] 44010 -- DB Connect 0 is busy !
+[2018/09/14 07:13:03] 44011 -- DB Connect 0 is free !
+[2018/09/14 07:13:28] 44012 -- ==Enter Add Relay(103.92.25.248 : 39794) Client 18 !
+[2018/09/14 07:13:28] 44013 -- ==Add Relay(103.92.25.248 : 39794) Client 18 ! -- Count 1
+[2018/09/14 07:13:28] 44014 -- ==Enter Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:13:28] 44015 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:13:28] 44016 -- DB Connect 0 is busy !
+[2018/09/14 07:13:29] 44017 -- DB Connect 0 is free !
+[2018/09/14 07:13:54] 44018 -- ==Enter Add Relay(103.92.25.248 : 39796) Client 4 !
+[2018/09/14 07:13:54] 44019 -- ==Add Relay(103.92.25.248 : 39796) Client 4 ! -- Count 1
+[2018/09/14 07:13:54] 44020 -- ==Enter Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:13:54] 44021 -- ==Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:13:54] 44022 -- DB Connect 0 is busy !
+[2018/09/14 07:13:55] 44023 -- DB Connect 0 is free !
+[2018/09/14 07:14:20] 44024 -- ==Enter Add Relay(103.92.25.248 : 39798) Client 7 !
+[2018/09/14 07:14:20] 44025 -- ==Add Relay(103.92.25.248 : 39798) Client 7 ! -- Count 1
+[2018/09/14 07:14:20] 44026 -- ==Enter Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:14:20] 44027 -- ==Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:14:20] 44028 -- DB Connect 0 is busy !
+[2018/09/14 07:14:21] 44029 -- DB Connect 0 is free !
+[2018/09/14 07:14:46] 44030 -- ==Enter Add Relay(103.92.25.248 : 39800) Client 6 !
+[2018/09/14 07:14:46] 44031 -- ==Add Relay(103.92.25.248 : 39800) Client 6 ! -- Count 1
+[2018/09/14 07:14:46] 44032 -- ==Enter Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:14:46] 44033 -- ==Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:14:46] 44034 -- DB Connect 0 is busy !
+[2018/09/14 07:14:47] 44035 -- DB Connect 0 is free !
+[2018/09/14 07:15:12] 44036 -- ==Enter Add Relay(103.92.25.248 : 39802) Client 19 !
+[2018/09/14 07:15:12] 44037 -- ==Add Relay(103.92.25.248 : 39802) Client 19 ! -- Count 1
+[2018/09/14 07:15:12] 44038 -- ==Enter Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:15:12] 44039 -- ==Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:15:12] 44040 -- DB Connect 0 is busy !
+[2018/09/14 07:15:13] 44041 -- DB Connect 0 is free !
+[2018/09/14 07:15:38] 44042 -- ==Enter Add Relay(103.92.25.248 : 39804) Client 8 !
+[2018/09/14 07:15:38] 44043 -- ==Add Relay(103.92.25.248 : 39804) Client 8 ! -- Count 1
+[2018/09/14 07:15:38] 44044 -- ==Enter Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:15:38] 44045 -- ==Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:15:38] 44046 -- DB Connect 0 is busy !
+[2018/09/14 07:15:39] 44047 -- DB Connect 0 is free !
+[2018/09/14 07:16:04] 44048 -- ==Enter Add Relay(103.92.25.248 : 39806) Client 1 !
+[2018/09/14 07:16:04] 44049 -- ==Add Relay(103.92.25.248 : 39806) Client 1 ! -- Count 1
+[2018/09/14 07:16:04] 44050 -- ==Enter Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:16:04] 44051 -- ==Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:16:04] 44052 -- DB Connect 0 is busy !
+[2018/09/14 07:16:05] 44053 -- DB Connect 0 is free !
+[2018/09/14 07:16:30] 44054 -- ==Enter Add Relay(103.92.25.248 : 39808) Client 10 !
+[2018/09/14 07:16:30] 44055 -- ==Add Relay(103.92.25.248 : 39808) Client 10 ! -- Count 1
+[2018/09/14 07:16:30] 44056 -- ==Enter Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:16:30] 44057 -- ==Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:16:31] 44058 -- DB Connect 0 is busy !
+[2018/09/14 07:16:32] 44059 -- DB Connect 0 is free !
+[2018/09/14 07:16:56] 44060 -- ==Enter Add Relay(103.92.25.248 : 39810) Client 11 !
+[2018/09/14 07:16:56] 44061 -- ==Add Relay(103.92.25.248 : 39810) Client 11 ! -- Count 1
+[2018/09/14 07:16:56] 44062 -- ==Enter Remove Relay Client 10 ! -- Count 1
+[2018/09/14 07:16:56] 44063 -- ==Remove Relay Client 10 ! -- Count 1
+[2018/09/14 07:16:56] 44064 -- DB Connect 0 is busy !
+[2018/09/14 07:16:57] 44065 -- DB Connect 0 is free !
+[2018/09/14 07:17:22] 44066 -- ==Enter Add Relay(103.92.25.248 : 39812) Client 12 !
+[2018/09/14 07:17:22] 44067 -- ==Add Relay(103.92.25.248 : 39812) Client 12 ! -- Count 1
+[2018/09/14 07:17:22] 44068 -- ==Enter Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:17:22] 44069 -- ==Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:17:22] 44070 -- DB Connect 0 is busy !
+[2018/09/14 07:17:23] 44071 -- DB Connect 0 is free !
+[2018/09/14 07:17:49] 44072 -- ==Enter Add Relay(103.92.25.248 : 39814) Client 13 !
+[2018/09/14 07:17:49] 44073 -- ==Add Relay(103.92.25.248 : 39814) Client 13 ! -- Count 1
+[2018/09/14 07:17:49] 44074 -- ==Enter Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:17:49] 44075 -- ==Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:17:49] 44076 -- DB Connect 0 is busy !
+[2018/09/14 07:17:50] 44077 -- DB Connect 0 is free !
+[2018/09/14 07:18:15] 44078 -- ==Enter Add Relay(103.92.25.248 : 39816) Client 14 !
+[2018/09/14 07:18:15] 44079 -- ==Add Relay(103.92.25.248 : 39816) Client 14 ! -- Count 1
+[2018/09/14 07:18:15] 44080 -- ==Enter Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:18:15] 44081 -- ==Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:18:15] 44082 -- DB Connect 0 is busy !
+[2018/09/14 07:18:16] 44083 -- DB Connect 0 is free !
+[2018/09/14 07:18:40] 44084 -- ==Enter Add Relay(103.92.25.248 : 39818) Client 9 !
+[2018/09/14 07:18:40] 44085 -- ==Add Relay(103.92.25.248 : 39818) Client 9 ! -- Count 1
+[2018/09/14 07:18:40] 44086 -- ==Enter Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:18:40] 44087 -- ==Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:18:41] 44088 -- DB Connect 0 is busy !
+[2018/09/14 07:18:42] 44089 -- DB Connect 0 is free !
+[2018/09/14 07:19:07] 44090 -- ==Enter Add Relay(103.92.25.248 : 39820) Client 15 !
+[2018/09/14 07:19:07] 44091 -- ==Add Relay(103.92.25.248 : 39820) Client 15 ! -- Count 1
+[2018/09/14 07:19:07] 44092 -- ==Enter Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:19:07] 44093 -- ==Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:19:07] 44094 -- DB Connect 0 is busy !
+[2018/09/14 07:19:08] 44095 -- DB Connect 0 is free !
+[2018/09/14 07:19:33] 44096 -- ==Enter Add Relay(103.92.25.248 : 39822) Client 17 !
+[2018/09/14 07:19:33] 44097 -- ==Add Relay(103.92.25.248 : 39822) Client 17 ! -- Count 1
+[2018/09/14 07:19:33] 44098 -- ==Enter Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:19:33] 44099 -- ==Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:19:33] 44100 -- DB Connect 0 is busy !
+[2018/09/14 07:19:34] 44101 -- DB Connect 0 is free !
+[2018/09/14 07:19:59] 44102 -- ==Enter Add Relay(103.92.25.248 : 39824) Client 16 !
+[2018/09/14 07:19:59] 44103 -- ==Add Relay(103.92.25.248 : 39824) Client 16 ! -- Count 1
+[2018/09/14 07:19:59] 44104 -- ==Enter Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:19:59] 44105 -- ==Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:19:59] 44106 -- DB Connect 0 is busy !
+[2018/09/14 07:20:00] 44107 -- DB Connect 0 is free !
+[2018/09/14 07:20:25] 44108 -- ==Enter Add Relay(103.92.25.248 : 39826) Client 5 !
+[2018/09/14 07:20:25] 44109 -- ==Add Relay(103.92.25.248 : 39826) Client 5 ! -- Count 1
+[2018/09/14 07:20:25] 44110 -- ==Enter Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:20:25] 44111 -- ==Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:20:25] 44112 -- DB Connect 0 is busy !
+[2018/09/14 07:20:26] 44113 -- DB Connect 0 is free !
+[2018/09/14 07:20:51] 44114 -- ==Enter Add Relay(103.92.25.248 : 39828) Client 0 !
+[2018/09/14 07:20:51] 44115 -- ==Add Relay(103.92.25.248 : 39828) Client 0 ! -- Count 1
+[2018/09/14 07:20:51] 44116 -- ==Enter Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:20:51] 44117 -- ==Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:20:51] 44118 -- DB Connect 0 is busy !
+[2018/09/14 07:20:52] 44119 -- DB Connect 0 is free !
+[2018/09/14 07:21:17] 44120 -- ==Enter Add Relay(103.92.25.248 : 39830) Client 2 !
+[2018/09/14 07:21:17] 44121 -- ==Add Relay(103.92.25.248 : 39830) Client 2 ! -- Count 1
+[2018/09/14 07:21:17] 44122 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:21:17] 44123 -- ==Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:21:17] 44124 -- DB Connect 0 is busy !
+[2018/09/14 07:21:18] 44125 -- DB Connect 0 is free !
+[2018/09/14 07:21:43] 44126 -- ==Enter Add Relay(103.92.25.248 : 39832) Client 3 !
+[2018/09/14 07:21:43] 44127 -- ==Add Relay(103.92.25.248 : 39832) Client 3 ! -- Count 1
+[2018/09/14 07:21:43] 44128 -- ==Enter Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:21:43] 44129 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:21:43] 44130 -- DB Connect 0 is busy !
+[2018/09/14 07:21:44] 44131 -- DB Connect 0 is free !
+[2018/09/14 07:22:09] 44132 -- ==Enter Add Relay(103.92.25.248 : 39834) Client 18 !
+[2018/09/14 07:22:09] 44133 -- ==Add Relay(103.92.25.248 : 39834) Client 18 ! -- Count 1
+[2018/09/14 07:22:09] 44134 -- ==Enter Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:22:09] 44135 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:22:09] 44136 -- DB Connect 0 is busy !
+[2018/09/14 07:22:10] 44137 -- DB Connect 0 is free !
+[2018/09/14 07:22:35] 44138 -- ==Enter Add Relay(103.92.25.248 : 39836) Client 4 !
+[2018/09/14 07:22:35] 44139 -- ==Add Relay(103.92.25.248 : 39836) Client 4 ! -- Count 1
+[2018/09/14 07:22:35] 44140 -- ==Enter Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:22:35] 44141 -- ==Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:22:35] 44142 -- DB Connect 0 is busy !
+[2018/09/14 07:22:36] 44143 -- DB Connect 0 is free !
+[2018/09/14 07:23:01] 44144 -- ==Enter Add Relay(103.92.25.248 : 39838) Client 7 !
+[2018/09/14 07:23:01] 44145 -- ==Add Relay(103.92.25.248 : 39838) Client 7 ! -- Count 1
+[2018/09/14 07:23:01] 44146 -- ==Enter Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:23:01] 44147 -- ==Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:23:01] 44148 -- DB Connect 0 is busy !
+[2018/09/14 07:23:02] 44149 -- DB Connect 0 is free !
+[2018/09/14 07:23:27] 44150 -- ==Enter Add Relay(103.92.25.248 : 39840) Client 6 !
+[2018/09/14 07:23:27] 44151 -- ==Add Relay(103.92.25.248 : 39840) Client 6 ! -- Count 1
+[2018/09/14 07:23:27] 44152 -- ==Enter Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:23:27] 44153 -- ==Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:23:27] 44154 -- DB Connect 0 is busy !
+[2018/09/14 07:23:28] 44155 -- DB Connect 0 is free !
+[2018/09/14 07:23:53] 44156 -- ==Enter Add Relay(103.92.25.248 : 39842) Client 19 !
+[2018/09/14 07:23:53] 44157 -- ==Add Relay(103.92.25.248 : 39842) Client 19 ! -- Count 1
+[2018/09/14 07:23:53] 44158 -- ==Enter Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:23:53] 44159 -- ==Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:23:53] 44160 -- DB Connect 0 is busy !
+[2018/09/14 07:23:54] 44161 -- DB Connect 0 is free !
+[2018/09/14 07:24:19] 44162 -- ==Enter Add Relay(103.92.25.248 : 39844) Client 8 !
+[2018/09/14 07:24:19] 44163 -- ==Add Relay(103.92.25.248 : 39844) Client 8 ! -- Count 1
+[2018/09/14 07:24:19] 44164 -- ==Enter Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:24:19] 44165 -- ==Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:24:19] 44166 -- DB Connect 0 is busy !
+[2018/09/14 07:24:20] 44167 -- DB Connect 0 is free !
+[2018/09/14 07:24:45] 44168 -- ==Enter Add Relay(103.92.25.248 : 39846) Client 1 !
+[2018/09/14 07:24:45] 44169 -- ==Add Relay(103.92.25.248 : 39846) Client 1 ! -- Count 1
+[2018/09/14 07:24:45] 44170 -- ==Enter Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:24:45] 44171 -- ==Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:24:45] 44172 -- DB Connect 0 is busy !
+[2018/09/14 07:24:46] 44173 -- DB Connect 0 is free !
+[2018/09/14 07:25:11] 44174 -- ==Enter Add Relay(103.92.25.248 : 39848) Client 10 !
+[2018/09/14 07:25:11] 44175 -- ==Add Relay(103.92.25.248 : 39848) Client 10 ! -- Count 1
+[2018/09/14 07:25:11] 44176 -- ==Enter Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:25:11] 44177 -- ==Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:25:11] 44178 -- DB Connect 0 is busy !
+[2018/09/14 07:25:12] 44179 -- DB Connect 0 is free !
+[2018/09/14 07:25:37] 44180 -- ==Enter Add Relay(103.92.25.248 : 39850) Client 11 !
+[2018/09/14 07:25:37] 44181 -- ==Add Relay(103.92.25.248 : 39850) Client 11 ! -- Count 1
+[2018/09/14 07:25:37] 44182 -- ==Enter Remove Relay Client 10 ! -- Count 1
+[2018/09/14 07:25:37] 44183 -- ==Remove Relay Client 10 ! -- Count 1
+[2018/09/14 07:25:37] 44184 -- DB Connect 0 is busy !
+[2018/09/14 07:25:40] 44185 -- DB Connect 0 is free !
+[2018/09/14 07:26:03] 44186 -- ==Enter Add Relay(103.92.25.248 : 39852) Client 12 !
+[2018/09/14 07:26:03] 44187 -- ==Add Relay(103.92.25.248 : 39852) Client 12 ! -- Count 1
+[2018/09/14 07:26:03] 44188 -- ==Enter Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:26:03] 44189 -- ==Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:26:03] 44190 -- DB Connect 0 is busy !
+[2018/09/14 07:26:04] 44191 -- DB Connect 0 is free !
+[2018/09/14 07:26:29] 44192 -- ==Enter Add Relay(103.92.25.248 : 39854) Client 13 !
+[2018/09/14 07:26:29] 44193 -- ==Add Relay(103.92.25.248 : 39854) Client 13 ! -- Count 1
+[2018/09/14 07:26:29] 44194 -- ==Enter Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:26:29] 44195 -- ==Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:26:29] 44196 -- DB Connect 0 is busy !
+[2018/09/14 07:26:30] 44197 -- DB Connect 0 is free !
+[2018/09/14 07:26:55] 44198 -- ==Enter Add Relay(103.92.25.248 : 39856) Client 14 !
+[2018/09/14 07:26:55] 44199 -- ==Add Relay(103.92.25.248 : 39856) Client 14 ! -- Count 1
+[2018/09/14 07:26:55] 44200 -- ==Enter Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:26:55] 44201 -- ==Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:26:55] 44202 -- DB Connect 0 is busy !
+[2018/09/14 07:26:56] 44203 -- DB Connect 0 is free !
+[2018/09/14 07:27:21] 44204 -- ==Enter Add Relay(103.92.25.248 : 39858) Client 9 !
+[2018/09/14 07:27:21] 44205 -- ==Add Relay(103.92.25.248 : 39858) Client 9 ! -- Count 1
+[2018/09/14 07:27:21] 44206 -- ==Enter Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:27:21] 44207 -- ==Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:27:21] 44208 -- DB Connect 0 is busy !
+[2018/09/14 07:27:22] 44209 -- DB Connect 0 is free !
+[2018/09/14 07:27:47] 44210 -- ==Enter Add Relay(103.92.25.248 : 39860) Client 15 !
+[2018/09/14 07:27:47] 44211 -- ==Add Relay(103.92.25.248 : 39860) Client 15 ! -- Count 1
+[2018/09/14 07:27:47] 44212 -- ==Enter Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:27:47] 44213 -- ==Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:27:47] 44214 -- DB Connect 0 is busy !
+[2018/09/14 07:27:48] 44215 -- DB Connect 0 is free !
+[2018/09/14 07:28:13] 44216 -- ==Enter Add Relay(103.92.25.248 : 39862) Client 17 !
+[2018/09/14 07:28:13] 44217 -- ==Add Relay(103.92.25.248 : 39862) Client 17 ! -- Count 1
+[2018/09/14 07:28:13] 44218 -- ==Enter Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:28:13] 44219 -- ==Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:28:13] 44220 -- DB Connect 0 is busy !
+[2018/09/14 07:28:14] 44221 -- DB Connect 0 is free !
+[2018/09/14 07:28:39] 44222 -- ==Enter Add Relay(103.92.25.248 : 39864) Client 16 !
+[2018/09/14 07:28:39] 44223 -- ==Add Relay(103.92.25.248 : 39864) Client 16 ! -- Count 1
+[2018/09/14 07:28:39] 44224 -- ==Enter Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:28:39] 44225 -- ==Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:28:39] 44226 -- DB Connect 0 is busy !
+[2018/09/14 07:28:40] 44227 -- DB Connect 0 is free !
+[2018/09/14 07:29:05] 44228 -- ==Enter Add Relay(103.92.25.248 : 39866) Client 5 !
+[2018/09/14 07:29:05] 44229 -- ==Add Relay(103.92.25.248 : 39866) Client 5 ! -- Count 1
+[2018/09/14 07:29:05] 44230 -- ==Enter Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:29:05] 44231 -- ==Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:29:05] 44232 -- DB Connect 0 is busy !
+[2018/09/14 07:29:07] 44233 -- DB Connect 0 is free !
+[2018/09/14 07:29:32] 44234 -- ==Enter Add Relay(103.92.25.248 : 39868) Client 0 !
+[2018/09/14 07:29:32] 44235 -- ==Add Relay(103.92.25.248 : 39868) Client 0 ! -- Count 1
+[2018/09/14 07:29:32] 44236 -- ==Enter Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:29:32] 44237 -- ==Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:29:32] 44238 -- DB Connect 0 is busy !
+[2018/09/14 07:29:33] 44239 -- DB Connect 0 is free !
+[2018/09/14 07:29:58] 44240 -- ==Enter Add Relay(103.92.25.248 : 39870) Client 2 !
+[2018/09/14 07:29:58] 44241 -- ==Add Relay(103.92.25.248 : 39870) Client 2 ! -- Count 1
+[2018/09/14 07:29:58] 44242 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:29:58] 44243 -- ==Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:29:58] 44244 -- DB Connect 0 is busy !
+[2018/09/14 07:29:59] 44245 -- DB Connect 0 is free !
+[2018/09/14 07:30:24] 44246 -- ==Enter Add Relay(103.92.25.248 : 39872) Client 3 !
+[2018/09/14 07:30:24] 44247 -- ==Add Relay(103.92.25.248 : 39872) Client 3 ! -- Count 1
+[2018/09/14 07:30:24] 44248 -- ==Enter Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:30:24] 44249 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:30:24] 44250 -- DB Connect 0 is busy !
+[2018/09/14 07:30:25] 44251 -- DB Connect 0 is free !
+[2018/09/14 07:30:50] 44252 -- ==Enter Add Relay(103.92.25.248 : 39874) Client 18 !
+[2018/09/14 07:30:50] 44253 -- ==Add Relay(103.92.25.248 : 39874) Client 18 ! -- Count 1
+[2018/09/14 07:30:50] 44254 -- ==Enter Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:30:50] 44255 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:30:50] 44256 -- DB Connect 0 is busy !
+[2018/09/14 07:30:51] 44257 -- DB Connect 0 is free !
+[2018/09/14 07:31:16] 44258 -- ==Enter Add Relay(103.92.25.248 : 39876) Client 4 !
+[2018/09/14 07:31:16] 44259 -- ==Add Relay(103.92.25.248 : 39876) Client 4 ! -- Count 1
+[2018/09/14 07:31:16] 44260 -- ==Enter Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:31:16] 44261 -- ==Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:31:16] 44262 -- DB Connect 0 is busy !
+[2018/09/14 07:31:17] 44263 -- DB Connect 0 is free !
+[2018/09/14 07:31:42] 44264 -- ==Enter Add Relay(103.92.25.248 : 39878) Client 7 !
+[2018/09/14 07:31:42] 44265 -- ==Add Relay(103.92.25.248 : 39878) Client 7 ! -- Count 1
+[2018/09/14 07:31:42] 44266 -- ==Enter Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:31:42] 44267 -- ==Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:31:42] 44268 -- DB Connect 0 is busy !
+[2018/09/14 07:31:43] 44269 -- DB Connect 0 is free !
+[2018/09/14 07:32:08] 44270 -- ==Enter Add Relay(103.92.25.248 : 39880) Client 6 !
+[2018/09/14 07:32:08] 44271 -- ==Add Relay(103.92.25.248 : 39880) Client 6 ! -- Count 1
+[2018/09/14 07:32:08] 44272 -- ==Enter Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:32:08] 44273 -- ==Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:32:08] 44274 -- DB Connect 0 is busy !
+[2018/09/14 07:32:09] 44275 -- DB Connect 0 is free !
+[2018/09/14 07:32:34] 44276 -- ==Enter Add Relay(103.92.25.248 : 39882) Client 19 !
+[2018/09/14 07:32:34] 44277 -- ==Add Relay(103.92.25.248 : 39882) Client 19 ! -- Count 1
+[2018/09/14 07:32:34] 44278 -- ==Enter Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:32:34] 44279 -- ==Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:32:34] 44280 -- DB Connect 0 is busy !
+[2018/09/14 07:32:35] 44281 -- DB Connect 0 is free !
+[2018/09/14 07:33:00] 44282 -- ==Enter Add Relay(103.92.25.248 : 39884) Client 8 !
+[2018/09/14 07:33:00] 44283 -- ==Add Relay(103.92.25.248 : 39884) Client 8 ! -- Count 1
+[2018/09/14 07:33:00] 44284 -- ==Enter Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:33:00] 44285 -- ==Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:33:00] 44286 -- DB Connect 0 is busy !
+[2018/09/14 07:33:01] 44287 -- DB Connect 0 is free !
+[2018/09/14 07:33:26] 44288 -- ==Enter Add Relay(103.92.25.248 : 39886) Client 1 !
+[2018/09/14 07:33:26] 44289 -- ==Add Relay(103.92.25.248 : 39886) Client 1 ! -- Count 1
+[2018/09/14 07:33:26] 44290 -- ==Enter Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:33:26] 44291 -- ==Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:33:26] 44292 -- DB Connect 0 is busy !
+[2018/09/14 07:33:27] 44293 -- DB Connect 0 is free !
+[2018/09/14 07:33:52] 44294 -- ==Enter Add Relay(103.92.25.248 : 39888) Client 10 !
+[2018/09/14 07:33:52] 44295 -- ==Add Relay(103.92.25.248 : 39888) Client 10 ! -- Count 1
+[2018/09/14 07:33:52] 44296 -- ==Enter Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:33:52] 44297 -- ==Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:33:52] 44298 -- DB Connect 0 is busy !
+[2018/09/14 07:33:53] 44299 -- DB Connect 0 is free !
+[2018/09/14 07:34:18] 44300 -- ==Enter Add Relay(103.92.25.248 : 39890) Client 11 !
+[2018/09/14 07:34:18] 44301 -- ==Add Relay(103.92.25.248 : 39890) Client 11 ! -- Count 1
+[2018/09/14 07:34:18] 44302 -- ==Enter Remove Relay Client 10 ! -- Count 1
+[2018/09/14 07:34:18] 44303 -- ==Remove Relay Client 10 ! -- Count 1
+[2018/09/14 07:34:18] 44304 -- DB Connect 0 is busy !
+[2018/09/14 07:34:19] 44305 -- DB Connect 0 is free !
+[2018/09/14 07:34:44] 44306 -- ==Enter Add Relay(103.92.25.248 : 39892) Client 12 !
+[2018/09/14 07:34:44] 44307 -- ==Add Relay(103.92.25.248 : 39892) Client 12 ! -- Count 1
+[2018/09/14 07:34:44] 44308 -- ==Enter Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:34:44] 44309 -- ==Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:34:44] 44310 -- DB Connect 0 is busy !
+[2018/09/14 07:34:45] 44311 -- DB Connect 0 is free !
+[2018/09/14 07:35:10] 44312 -- ==Enter Add Relay(103.92.25.248 : 39894) Client 13 !
+[2018/09/14 07:35:10] 44313 -- ==Add Relay(103.92.25.248 : 39894) Client 13 ! -- Count 1
+[2018/09/14 07:35:10] 44314 -- ==Enter Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:35:10] 44315 -- ==Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:35:10] 44316 -- DB Connect 0 is busy !
+[2018/09/14 07:35:11] 44317 -- DB Connect 0 is free !
+[2018/09/14 07:35:36] 44318 -- ==Enter Add Relay(103.92.25.248 : 39896) Client 14 !
+[2018/09/14 07:35:36] 44319 -- ==Add Relay(103.92.25.248 : 39896) Client 14 ! -- Count 1
+[2018/09/14 07:35:36] 44320 -- ==Enter Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:35:36] 44321 -- ==Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:35:36] 44322 -- DB Connect 0 is busy !
+[2018/09/14 07:35:37] 44323 -- DB Connect 0 is free !
+[2018/09/14 07:36:02] 44324 -- ==Enter Add Relay(103.92.25.248 : 39898) Client 9 !
+[2018/09/14 07:36:02] 44325 -- ==Add Relay(103.92.25.248 : 39898) Client 9 ! -- Count 1
+[2018/09/14 07:36:02] 44326 -- ==Enter Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:36:02] 44327 -- ==Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:36:02] 44328 -- DB Connect 0 is busy !
+[2018/09/14 07:36:03] 44329 -- DB Connect 0 is free !
+[2018/09/14 07:36:28] 44330 -- ==Enter Add Relay(103.92.25.248 : 39900) Client 15 !
+[2018/09/14 07:36:28] 44331 -- ==Add Relay(103.92.25.248 : 39900) Client 15 ! -- Count 1
+[2018/09/14 07:36:28] 44332 -- ==Enter Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:36:28] 44333 -- ==Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:36:28] 44334 -- DB Connect 0 is busy !
+[2018/09/14 07:36:29] 44335 -- DB Connect 0 is free !
+[2018/09/14 07:36:55] 44336 -- ==Enter Add Relay(103.92.25.248 : 39902) Client 17 !
+[2018/09/14 07:36:55] 44337 -- ==Add Relay(103.92.25.248 : 39902) Client 17 ! -- Count 1
+[2018/09/14 07:36:55] 44338 -- ==Enter Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:36:55] 44339 -- ==Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:36:55] 44340 -- DB Connect 0 is busy !
+[2018/09/14 07:36:56] 44341 -- DB Connect 0 is free !
+[2018/09/14 07:37:21] 44342 -- ==Enter Add Relay(103.92.25.248 : 39904) Client 16 !
+[2018/09/14 07:37:21] 44343 -- ==Add Relay(103.92.25.248 : 39904) Client 16 ! -- Count 1
+[2018/09/14 07:37:21] 44344 -- ==Enter Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:37:21] 44345 -- ==Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:37:21] 44346 -- DB Connect 0 is busy !
+[2018/09/14 07:37:22] 44347 -- DB Connect 0 is free !
+[2018/09/14 07:37:47] 44348 -- ==Enter Add Relay(103.92.25.248 : 39906) Client 5 !
+[2018/09/14 07:37:47] 44349 -- ==Add Relay(103.92.25.248 : 39906) Client 5 ! -- Count 1
+[2018/09/14 07:37:47] 44350 -- ==Enter Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:37:47] 44351 -- ==Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:37:47] 44352 -- DB Connect 0 is busy !
+[2018/09/14 07:37:48] 44353 -- DB Connect 0 is free !
+[2018/09/14 07:38:12] 44354 -- ==Enter Add Relay(103.92.25.248 : 39908) Client 0 !
+[2018/09/14 07:38:12] 44355 -- ==Add Relay(103.92.25.248 : 39908) Client 0 ! -- Count 1
+[2018/09/14 07:38:12] 44356 -- ==Enter Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:38:12] 44357 -- ==Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:38:12] 44358 -- DB Connect 0 is busy !
+[2018/09/14 07:38:13] 44359 -- DB Connect 0 is free !
+[2018/09/14 07:38:39] 44360 -- ==Enter Add Relay(103.92.25.248 : 39910) Client 2 !
+[2018/09/14 07:38:39] 44361 -- ==Add Relay(103.92.25.248 : 39910) Client 2 ! -- Count 1
+[2018/09/14 07:38:39] 44362 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:38:39] 44363 -- ==Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:38:39] 44364 -- DB Connect 0 is busy !
+[2018/09/14 07:38:40] 44365 -- DB Connect 0 is free !
+[2018/09/14 07:39:05] 44366 -- ==Enter Add Relay(103.92.25.248 : 39912) Client 3 !
+[2018/09/14 07:39:05] 44367 -- ==Add Relay(103.92.25.248 : 39912) Client 3 ! -- Count 1
+[2018/09/14 07:39:05] 44368 -- ==Enter Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:39:05] 44369 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:39:05] 44370 -- DB Connect 0 is busy !
+[2018/09/14 07:39:06] 44371 -- DB Connect 0 is free !
+[2018/09/14 07:39:31] 44372 -- ==Enter Add Relay(103.92.25.248 : 39914) Client 18 !
+[2018/09/14 07:39:31] 44373 -- ==Add Relay(103.92.25.248 : 39914) Client 18 ! -- Count 1
+[2018/09/14 07:39:31] 44374 -- ==Enter Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:39:31] 44375 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:39:31] 44376 -- DB Connect 0 is busy !
+[2018/09/14 07:39:32] 44377 -- DB Connect 0 is free !
+[2018/09/14 07:39:57] 44378 -- ==Enter Add Relay(103.92.25.248 : 39916) Client 4 !
+[2018/09/14 07:39:57] 44379 -- ==Add Relay(103.92.25.248 : 39916) Client 4 ! -- Count 1
+[2018/09/14 07:39:57] 44380 -- ==Enter Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:39:57] 44381 -- ==Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:39:57] 44382 -- DB Connect 0 is busy !
+[2018/09/14 07:39:58] 44383 -- DB Connect 0 is free !
+[2018/09/14 07:40:23] 44384 -- ==Enter Add Relay(103.92.25.248 : 39918) Client 7 !
+[2018/09/14 07:40:23] 44385 -- ==Add Relay(103.92.25.248 : 39918) Client 7 ! -- Count 1
+[2018/09/14 07:40:23] 44386 -- ==Enter Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:40:23] 44387 -- ==Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:40:23] 44388 -- DB Connect 0 is busy !
+[2018/09/14 07:40:24] 44389 -- DB Connect 0 is free !
+[2018/09/14 07:40:49] 44390 -- ==Enter Add Relay(103.92.25.248 : 39920) Client 6 !
+[2018/09/14 07:40:49] 44391 -- ==Add Relay(103.92.25.248 : 39920) Client 6 ! -- Count 1
+[2018/09/14 07:40:49] 44392 -- ==Enter Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:40:49] 44393 -- ==Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:40:49] 44394 -- DB Connect 0 is busy !
+[2018/09/14 07:40:50] 44395 -- DB Connect 0 is free !
+[2018/09/14 07:41:15] 44396 -- ==Enter Add Relay(103.92.25.248 : 39922) Client 19 !
+[2018/09/14 07:41:15] 44397 -- ==Add Relay(103.92.25.248 : 39922) Client 19 ! -- Count 1
+[2018/09/14 07:41:15] 44398 -- ==Enter Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:41:15] 44399 -- ==Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:41:15] 44400 -- DB Connect 0 is busy !
+[2018/09/14 07:41:16] 44401 -- DB Connect 0 is free !
+[2018/09/14 07:41:41] 44402 -- ==Enter Add Relay(103.92.25.248 : 39924) Client 8 !
+[2018/09/14 07:41:41] 44403 -- ==Add Relay(103.92.25.248 : 39924) Client 8 ! -- Count 1
+[2018/09/14 07:41:41] 44404 -- ==Enter Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:41:41] 44405 -- ==Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:41:41] 44406 -- DB Connect 0 is busy !
+[2018/09/14 07:41:42] 44407 -- DB Connect 0 is free !
+[2018/09/14 07:42:08] 44408 -- ==Enter Add Relay(103.92.25.248 : 39926) Client 1 !
+[2018/09/14 07:42:08] 44409 -- ==Add Relay(103.92.25.248 : 39926) Client 1 ! -- Count 1
+[2018/09/14 07:42:08] 44410 -- ==Enter Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:42:08] 44411 -- ==Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:42:08] 44412 -- DB Connect 0 is busy !
+[2018/09/14 07:42:09] 44413 -- DB Connect 0 is free !
+[2018/09/14 07:42:34] 44414 -- ==Enter Add Relay(103.92.25.248 : 39928) Client 10 !
+[2018/09/14 07:42:34] 44415 -- ==Add Relay(103.92.25.248 : 39928) Client 10 ! -- Count 1
+[2018/09/14 07:42:34] 44416 -- ==Enter Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:42:34] 44417 -- ==Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:42:34] 44418 -- DB Connect 0 is busy !
+[2018/09/14 07:42:35] 44419 -- DB Connect 0 is free !
+[2018/09/14 07:43:00] 44420 -- ==Enter Add Relay(103.92.25.248 : 39930) Client 11 !
+[2018/09/14 07:43:00] 44421 -- ==Add Relay(103.92.25.248 : 39930) Client 11 ! -- Count 1
+[2018/09/14 07:43:00] 44422 -- ==Enter Remove Relay Client 10 ! -- Count 1
+[2018/09/14 07:43:00] 44423 -- ==Remove Relay Client 10 ! -- Count 1
+[2018/09/14 07:43:00] 44424 -- DB Connect 0 is busy !
+[2018/09/14 07:43:01] 44425 -- DB Connect 0 is free !
+[2018/09/14 07:43:26] 44426 -- ==Enter Add Relay(103.92.25.248 : 39932) Client 12 !
+[2018/09/14 07:43:26] 44427 -- ==Add Relay(103.92.25.248 : 39932) Client 12 ! -- Count 1
+[2018/09/14 07:43:26] 44428 -- ==Enter Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:43:26] 44429 -- ==Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:43:26] 44430 -- DB Connect 0 is busy !
+[2018/09/14 07:43:27] 44431 -- DB Connect 0 is free !
+[2018/09/14 07:43:51] 44432 -- ==Enter Add Relay(103.92.25.248 : 39934) Client 13 !
+[2018/09/14 07:43:51] 44433 -- ==Add Relay(103.92.25.248 : 39934) Client 13 ! -- Count 1
+[2018/09/14 07:43:51] 44434 -- ==Enter Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:43:51] 44435 -- ==Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:43:51] 44436 -- DB Connect 0 is busy !
+[2018/09/14 07:43:52] 44437 -- DB Connect 0 is free !
+[2018/09/14 07:44:18] 44438 -- ==Enter Add Relay(103.92.25.248 : 39936) Client 14 !
+[2018/09/14 07:44:18] 44439 -- ==Add Relay(103.92.25.248 : 39936) Client 14 ! -- Count 1
+[2018/09/14 07:44:18] 44440 -- ==Enter Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:44:18] 44441 -- ==Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:44:18] 44442 -- DB Connect 0 is busy !
+[2018/09/14 07:44:19] 44443 -- DB Connect 0 is free !
+[2018/09/14 07:44:44] 44444 -- ==Enter Add Relay(103.92.25.248 : 39938) Client 9 !
+[2018/09/14 07:44:44] 44445 -- ==Add Relay(103.92.25.248 : 39938) Client 9 ! -- Count 1
+[2018/09/14 07:44:44] 44446 -- ==Enter Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:44:44] 44447 -- ==Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:44:44] 44448 -- DB Connect 0 is busy !
+[2018/09/14 07:44:45] 44449 -- DB Connect 0 is free !
+[2018/09/14 07:45:10] 44450 -- ==Enter Add Relay(103.92.25.248 : 39940) Client 15 !
+[2018/09/14 07:45:10] 44451 -- ==Add Relay(103.92.25.248 : 39940) Client 15 ! -- Count 1
+[2018/09/14 07:45:10] 44452 -- ==Enter Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:45:10] 44453 -- ==Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:45:10] 44454 -- DB Connect 0 is busy !
+[2018/09/14 07:45:11] 44455 -- DB Connect 0 is free !
+[2018/09/14 07:45:36] 44456 -- ==Enter Add Relay(103.92.25.248 : 39942) Client 17 !
+[2018/09/14 07:45:36] 44457 -- ==Add Relay(103.92.25.248 : 39942) Client 17 ! -- Count 1
+[2018/09/14 07:45:36] 44458 -- ==Enter Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:45:36] 44459 -- ==Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:45:36] 44460 -- DB Connect 0 is busy !
+[2018/09/14 07:45:37] 44461 -- DB Connect 0 is free !
+[2018/09/14 07:46:02] 44462 -- ==Enter Add Relay(103.92.25.248 : 39944) Client 16 !
+[2018/09/14 07:46:02] 44463 -- ==Add Relay(103.92.25.248 : 39944) Client 16 ! -- Count 1
+[2018/09/14 07:46:02] 44464 -- ==Enter Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:46:02] 44465 -- ==Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:46:02] 44466 -- DB Connect 0 is busy !
+[2018/09/14 07:46:03] 44467 -- DB Connect 0 is free !
+[2018/09/14 07:46:28] 44468 -- ==Enter Add Relay(103.92.25.248 : 39946) Client 5 !
+[2018/09/14 07:46:28] 44469 -- ==Add Relay(103.92.25.248 : 39946) Client 5 ! -- Count 1
+[2018/09/14 07:46:28] 44470 -- ==Enter Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:46:28] 44471 -- ==Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:46:28] 44472 -- DB Connect 0 is busy !
+[2018/09/14 07:46:29] 44473 -- DB Connect 0 is free !
+[2018/09/14 07:46:54] 44474 -- ==Enter Add Relay(103.92.25.248 : 39948) Client 0 !
+[2018/09/14 07:46:54] 44475 -- ==Add Relay(103.92.25.248 : 39948) Client 0 ! -- Count 1
+[2018/09/14 07:46:54] 44476 -- ==Enter Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:46:54] 44477 -- ==Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:46:54] 44478 -- DB Connect 0 is busy !
+[2018/09/14 07:46:55] 44479 -- DB Connect 0 is free !
+[2018/09/14 07:47:20] 44480 -- ==Enter Add Relay(103.92.25.248 : 39950) Client 2 !
+[2018/09/14 07:47:20] 44481 -- ==Add Relay(103.92.25.248 : 39950) Client 2 ! -- Count 1
+[2018/09/14 07:47:20] 44482 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:47:20] 44483 -- ==Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:47:20] 44484 -- DB Connect 0 is busy !
+[2018/09/14 07:47:21] 44485 -- DB Connect 0 is free !
+[2018/09/14 07:47:46] 44486 -- ==Enter Add Relay(103.92.25.248 : 39952) Client 3 !
+[2018/09/14 07:47:46] 44487 -- ==Add Relay(103.92.25.248 : 39952) Client 3 ! -- Count 1
+[2018/09/14 07:47:46] 44488 -- ==Enter Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:47:46] 44489 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:47:46] 44490 -- DB Connect 0 is busy !
+[2018/09/14 07:47:47] 44491 -- DB Connect 0 is free !
+[2018/09/14 07:48:12] 44492 -- ==Enter Add Relay(103.92.25.248 : 39954) Client 18 !
+[2018/09/14 07:48:12] 44493 -- ==Add Relay(103.92.25.248 : 39954) Client 18 ! -- Count 1
+[2018/09/14 07:48:12] 44494 -- ==Enter Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:48:12] 44495 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:48:12] 44496 -- DB Connect 0 is busy !
+[2018/09/14 07:48:13] 44497 -- DB Connect 0 is free !
+[2018/09/14 07:48:38] 44498 -- ==Enter Add Relay(103.92.25.248 : 39956) Client 4 !
+[2018/09/14 07:48:38] 44499 -- ==Add Relay(103.92.25.248 : 39956) Client 4 ! -- Count 1
+[2018/09/14 07:48:38] 44500 -- ==Enter Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:48:38] 44501 -- ==Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:48:38] 44502 -- DB Connect 0 is busy !
+[2018/09/14 07:48:39] 44503 -- DB Connect 0 is free !
+[2018/09/14 07:49:04] 44504 -- ==Enter Add Relay(103.92.25.248 : 39958) Client 7 !
+[2018/09/14 07:49:04] 44505 -- ==Add Relay(103.92.25.248 : 39958) Client 7 ! -- Count 1
+[2018/09/14 07:49:04] 44506 -- ==Enter Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:49:04] 44507 -- ==Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:49:04] 44508 -- DB Connect 0 is busy !
+[2018/09/14 07:49:05] 44509 -- DB Connect 0 is free !
+[2018/09/14 07:49:30] 44510 -- ==Enter Add Relay(103.92.25.248 : 39960) Client 6 !
+[2018/09/14 07:49:30] 44511 -- ==Add Relay(103.92.25.248 : 39960) Client 6 ! -- Count 1
+[2018/09/14 07:49:30] 44512 -- ==Enter Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:49:30] 44513 -- ==Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:49:30] 44514 -- DB Connect 0 is busy !
+[2018/09/14 07:49:31] 44515 -- DB Connect 0 is free !
+[2018/09/14 07:49:56] 44516 -- ==Enter Add Relay(103.92.25.248 : 39962) Client 19 !
+[2018/09/14 07:49:56] 44517 -- ==Add Relay(103.92.25.248 : 39962) Client 19 ! -- Count 1
+[2018/09/14 07:49:56] 44518 -- ==Enter Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:49:56] 44519 -- ==Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:49:56] 44520 -- DB Connect 0 is busy !
+[2018/09/14 07:49:57] 44521 -- DB Connect 0 is free !
+[2018/09/14 07:50:23] 44522 -- ==Enter Add Relay(103.92.25.248 : 39964) Client 8 !
+[2018/09/14 07:50:23] 44523 -- ==Add Relay(103.92.25.248 : 39964) Client 8 ! -- Count 1
+[2018/09/14 07:50:23] 44524 -- ==Enter Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:50:23] 44525 -- ==Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:50:23] 44526 -- DB Connect 0 is busy !
+[2018/09/14 07:50:24] 44527 -- DB Connect 0 is free !
+[2018/09/14 07:50:48] 44528 -- ==Enter Add Relay(103.92.25.248 : 39966) Client 1 !
+[2018/09/14 07:50:48] 44529 -- ==Add Relay(103.92.25.248 : 39966) Client 1 ! -- Count 1
+[2018/09/14 07:50:48] 44530 -- ==Enter Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:50:48] 44531 -- ==Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:50:48] 44532 -- DB Connect 0 is busy !
+[2018/09/14 07:50:49] 44533 -- DB Connect 0 is free !
+[2018/09/14 07:51:15] 44534 -- ==Enter Add Relay(103.92.25.248 : 39968) Client 10 !
+[2018/09/14 07:51:15] 44535 -- ==Add Relay(103.92.25.248 : 39968) Client 10 ! -- Count 1
+[2018/09/14 07:51:15] 44536 -- ==Enter Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:51:15] 44537 -- ==Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:51:15] 44538 -- DB Connect 0 is busy !
+[2018/09/14 07:51:16] 44539 -- DB Connect 0 is free !
+[2018/09/14 07:51:41] 44540 -- ==Enter Add Relay(103.92.25.248 : 39970) Client 11 !
+[2018/09/14 07:51:41] 44541 -- ==Add Relay(103.92.25.248 : 39970) Client 11 ! -- Count 1
+[2018/09/14 07:51:41] 44542 -- ==Enter Remove Relay Client 10 ! -- Count 1
+[2018/09/14 07:51:41] 44543 -- ==Remove Relay Client 10 ! -- Count 1
+[2018/09/14 07:51:41] 44544 -- DB Connect 0 is busy !
+[2018/09/14 07:51:42] 44545 -- DB Connect 0 is free !
+[2018/09/14 07:52:07] 44546 -- ==Enter Add Relay(103.92.25.248 : 39972) Client 12 !
+[2018/09/14 07:52:07] 44547 -- ==Add Relay(103.92.25.248 : 39972) Client 12 ! -- Count 1
+[2018/09/14 07:52:07] 44548 -- ==Enter Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:52:07] 44549 -- ==Remove Relay Client 11 ! -- Count 1
+[2018/09/14 07:52:07] 44550 -- DB Connect 0 is busy !
+[2018/09/14 07:52:08] 44551 -- DB Connect 0 is free !
+[2018/09/14 07:52:33] 44552 -- ==Enter Add Relay(103.92.25.248 : 39974) Client 13 !
+[2018/09/14 07:52:33] 44553 -- ==Add Relay(103.92.25.248 : 39974) Client 13 ! -- Count 1
+[2018/09/14 07:52:33] 44554 -- ==Enter Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:52:33] 44555 -- ==Remove Relay Client 12 ! -- Count 1
+[2018/09/14 07:52:33] 44556 -- DB Connect 0 is busy !
+[2018/09/14 07:52:34] 44557 -- DB Connect 0 is free !
+[2018/09/14 07:52:59] 44558 -- ==Enter Add Relay(103.92.25.248 : 39976) Client 14 !
+[2018/09/14 07:52:59] 44559 -- ==Add Relay(103.92.25.248 : 39976) Client 14 ! -- Count 1
+[2018/09/14 07:52:59] 44560 -- ==Enter Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:52:59] 44561 -- ==Remove Relay Client 13 ! -- Count 1
+[2018/09/14 07:52:59] 44562 -- DB Connect 0 is busy !
+[2018/09/14 07:53:00] 44563 -- DB Connect 0 is free !
+[2018/09/14 07:53:25] 44564 -- ==Enter Add Relay(103.92.25.248 : 39978) Client 9 !
+[2018/09/14 07:53:25] 44565 -- ==Add Relay(103.92.25.248 : 39978) Client 9 ! -- Count 1
+[2018/09/14 07:53:25] 44566 -- ==Enter Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:53:25] 44567 -- ==Remove Relay Client 14 ! -- Count 1
+[2018/09/14 07:53:25] 44568 -- DB Connect 0 is busy !
+[2018/09/14 07:53:26] 44569 -- DB Connect 0 is free !
+[2018/09/14 07:53:51] 44570 -- ==Enter Add Relay(103.92.25.248 : 39980) Client 15 !
+[2018/09/14 07:53:51] 44571 -- ==Add Relay(103.92.25.248 : 39980) Client 15 ! -- Count 1
+[2018/09/14 07:53:51] 44572 -- ==Enter Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:53:51] 44573 -- ==Remove Relay Client 9 ! -- Count 1
+[2018/09/14 07:53:51] 44574 -- DB Connect 0 is busy !
+[2018/09/14 07:53:52] 44575 -- DB Connect 0 is free !
+[2018/09/14 07:54:17] 44576 -- ==Enter Add Relay(103.92.25.248 : 39982) Client 17 !
+[2018/09/14 07:54:17] 44577 -- ==Add Relay(103.92.25.248 : 39982) Client 17 ! -- Count 1
+[2018/09/14 07:54:17] 44578 -- ==Enter Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:54:17] 44579 -- ==Remove Relay Client 15 ! -- Count 1
+[2018/09/14 07:54:17] 44580 -- DB Connect 0 is busy !
+[2018/09/14 07:54:18] 44581 -- DB Connect 0 is free !
+[2018/09/14 07:54:43] 44582 -- ==Enter Add Relay(103.92.25.248 : 39984) Client 16 !
+[2018/09/14 07:54:43] 44583 -- ==Add Relay(103.92.25.248 : 39984) Client 16 ! -- Count 1
+[2018/09/14 07:54:43] 44584 -- ==Enter Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:54:43] 44585 -- ==Remove Relay Client 17 ! -- Count 1
+[2018/09/14 07:54:43] 44586 -- DB Connect 0 is busy !
+[2018/09/14 07:54:44] 44587 -- DB Connect 0 is free !
+[2018/09/14 07:55:10] 44588 -- ==Enter Add Relay(103.92.25.248 : 39986) Client 5 !
+[2018/09/14 07:55:10] 44589 -- ==Add Relay(103.92.25.248 : 39986) Client 5 ! -- Count 1
+[2018/09/14 07:55:10] 44590 -- ==Enter Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:55:10] 44591 -- ==Remove Relay Client 16 ! -- Count 1
+[2018/09/14 07:55:10] 44592 -- DB Connect 0 is busy !
+[2018/09/14 07:55:11] 44593 -- DB Connect 0 is free !
+[2018/09/14 07:55:35] 44594 -- ==Enter Add Relay(103.92.25.248 : 39988) Client 0 !
+[2018/09/14 07:55:35] 44595 -- ==Add Relay(103.92.25.248 : 39988) Client 0 ! -- Count 1
+[2018/09/14 07:55:35] 44596 -- ==Enter Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:55:35] 44597 -- ==Remove Relay Client 5 ! -- Count 1
+[2018/09/14 07:55:35] 44598 -- DB Connect 0 is busy !
+[2018/09/14 07:55:36] 44599 -- DB Connect 0 is free !
+[2018/09/14 07:56:02] 44600 -- ==Enter Add Relay(103.92.25.248 : 39990) Client 2 !
+[2018/09/14 07:56:02] 44601 -- ==Add Relay(103.92.25.248 : 39990) Client 2 ! -- Count 1
+[2018/09/14 07:56:02] 44602 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:56:02] 44603 -- ==Remove Relay Client 0 ! -- Count 1
+[2018/09/14 07:56:02] 44604 -- DB Connect 0 is busy !
+[2018/09/14 07:56:03] 44605 -- DB Connect 0 is free !
+[2018/09/14 07:56:28] 44606 -- ==Enter Add Relay(103.92.25.248 : 39992) Client 3 !
+[2018/09/14 07:56:28] 44607 -- ==Add Relay(103.92.25.248 : 39992) Client 3 ! -- Count 1
+[2018/09/14 07:56:28] 44608 -- ==Enter Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:56:28] 44609 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/09/14 07:56:28] 44610 -- DB Connect 0 is busy !
+[2018/09/14 07:56:29] 44611 -- DB Connect 0 is free !
+[2018/09/14 07:56:54] 44612 -- ==Enter Add Relay(103.92.25.248 : 39994) Client 18 !
+[2018/09/14 07:56:54] 44613 -- ==Add Relay(103.92.25.248 : 39994) Client 18 ! -- Count 1
+[2018/09/14 07:56:54] 44614 -- ==Enter Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:56:54] 44615 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/09/14 07:56:54] 44616 -- DB Connect 0 is busy !
+[2018/09/14 07:56:55] 44617 -- DB Connect 0 is free !
+[2018/09/14 07:57:20] 44618 -- ==Enter Add Relay(103.92.25.248 : 39996) Client 4 !
+[2018/09/14 07:57:20] 44619 -- ==Add Relay(103.92.25.248 : 39996) Client 4 ! -- Count 1
+[2018/09/14 07:57:20] 44620 -- ==Enter Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:57:20] 44621 -- ==Remove Relay Client 18 ! -- Count 1
+[2018/09/14 07:57:20] 44622 -- DB Connect 0 is busy !
+[2018/09/14 07:57:21] 44623 -- DB Connect 0 is free !
+[2018/09/14 07:57:46] 44624 -- ==Enter Add Relay(103.92.25.248 : 39998) Client 7 !
+[2018/09/14 07:57:46] 44625 -- ==Add Relay(103.92.25.248 : 39998) Client 7 ! -- Count 1
+[2018/09/14 07:57:46] 44626 -- ==Enter Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:57:46] 44627 -- ==Remove Relay Client 4 ! -- Count 1
+[2018/09/14 07:57:46] 44628 -- DB Connect 0 is busy !
+[2018/09/14 07:57:47] 44629 -- DB Connect 0 is free !
+[2018/09/14 07:58:12] 44630 -- ==Enter Add Relay(103.92.25.248 : 40000) Client 6 !
+[2018/09/14 07:58:12] 44631 -- ==Add Relay(103.92.25.248 : 40000) Client 6 ! -- Count 1
+[2018/09/14 07:58:12] 44632 -- ==Enter Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:58:12] 44633 -- ==Remove Relay Client 7 ! -- Count 1
+[2018/09/14 07:58:12] 44634 -- DB Connect 0 is busy !
+[2018/09/14 07:58:13] 44635 -- DB Connect 0 is free !
+[2018/09/14 07:58:38] 44636 -- ==Enter Add Relay(103.92.25.248 : 40002) Client 19 !
+[2018/09/14 07:58:38] 44637 -- ==Add Relay(103.92.25.248 : 40002) Client 19 ! -- Count 1
+[2018/09/14 07:58:38] 44638 -- ==Enter Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:58:38] 44639 -- ==Remove Relay Client 6 ! -- Count 1
+[2018/09/14 07:58:38] 44640 -- DB Connect 0 is busy !
+[2018/09/14 07:58:39] 44641 -- DB Connect 0 is free !
+[2018/09/14 07:59:04] 44642 -- ==Enter Add Relay(103.92.25.248 : 40004) Client 8 !
+[2018/09/14 07:59:04] 44643 -- ==Add Relay(103.92.25.248 : 40004) Client 8 ! -- Count 1
+[2018/09/14 07:59:04] 44644 -- ==Enter Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:59:04] 44645 -- ==Remove Relay Client 19 ! -- Count 1
+[2018/09/14 07:59:04] 44646 -- DB Connect 0 is busy !
+[2018/09/14 07:59:05] 44647 -- DB Connect 0 is free !
+[2018/09/14 07:59:30] 44648 -- ==Enter Add Relay(103.92.25.248 : 40006) Client 1 !
+[2018/09/14 07:59:30] 44649 -- ==Add Relay(103.92.25.248 : 40006) Client 1 ! -- Count 1
+[2018/09/14 07:59:30] 44650 -- ==Enter Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:59:30] 44651 -- ==Remove Relay Client 8 ! -- Count 1
+[2018/09/14 07:59:30] 44652 -- DB Connect 0 is busy !
+[2018/09/14 07:59:31] 44653 -- DB Connect 0 is free !
+[2018/09/14 07:59:56] 44654 -- ==Enter Add Relay(103.92.25.248 : 40008) Client 10 !
+[2018/09/14 07:59:56] 44655 -- ==Add Relay(103.92.25.248 : 40008) Client 10 ! -- Count 1
+[2018/09/14 07:59:56] 44656 -- ==Enter Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:59:56] 44657 -- ==Remove Relay Client 1 ! -- Count 1
+[2018/09/14 07:59:56] 44658 -- DB Connect 0 is busy !
+[2018/09/14 07:59:57] 44659 -- DB Connect 0 is free !
+[2018/09/14 08:00:22] 44660 -- ==Enter Add Relay(103.92.25.248 : 40010) Client 11 !
+[2018/09/14 08:00:22] 44661 -- ==Add Relay(103.92.25.248 : 40010) Client 11 ! -- Count 1
+[2018/09/14 08:00:22] 44662 -- ==Enter Remove Relay Client 10 ! -- Count 1
+[2018/09/14 08:00:22] 44663 -- ==Remove Relay Client 10 ! -- Count 1
+[2018/09/14 08:00:22] 44664 -- DB Connect 0 is busy !
+[2018/09/14 08:00:23] 44665 -- DB Connect 0 is free !
+[2018/09/14 08:00:48] 44666 -- ==Enter Add Relay(103.92.25.248 : 40012) Client 12 !
+[2018/09/14 08:00:48] 44667 -- ==Add Relay(103.92.25.248 : 40012) Client 12 ! -- Count 1
+[2018/09/14 08:00:48] 44668 -- ==Enter Remove Relay Client 11 ! -- Count 1
+[2018/09/14 08:00:48] 44669 -- ==Remove Relay Client 11 ! -- Count 1
+[2018/09/14 08:00:48] 44670 -- DB Connect 0 is busy !
+[2018/09/14 08:00:49] 44671 -- DB Connect 0 is free !
+[2018/09/14 08:01:14] 44672 -- ==Enter Add Relay(103.92.25.248 : 40014) Client 13 !
+[2018/09/14 08:01:14] 44673 -- ==Add Relay(103.92.25.248 : 40014) Client 13 ! -- Count 1
+[2018/09/14 08:01:14] 44674 -- ==Enter Remove Relay Client 12 ! -- Count 1
+[2018/09/14 08:01:14] 44675 -- ==Remove Relay Client 12 ! -- Count 1
+[2018/09/14 08:01:14] 44676 -- DB Connect 0 is busy !
+[2018/09/14 08:01:15] 44677 -- DB Connect 0 is free !
+[2018/09/14 08:01:40] 44678 -- ==Enter Add Relay(103.92.25.248 : 40016) Client 14 !
+[2018/09/14 08:01:40] 44679 -- ==Add Relay(103.92.25.248 : 40016) Client 14 ! -- Count 1
+[2018/09/14 08:01:40] 44680 -- ==Enter Remove Relay Client 13 ! -- Count 1
+[2018/09/14 08:01:40] 44681 -- ==Remove Relay Client 13 ! -- Count 1
+[2018/09/14 08:01:40] 44682 -- DB Connect 0 is busy !
+[2018/09/14 08:01:41] 44683 -- DB Connect 0 is free !
+[2018/09/14 08:02:06] 44684 -- ==Enter Add Relay(103.92.25.248 : 40018) Client 9 !
+[2018/09/14 08:02:06] 44685 -- ==Add Relay(103.92.25.248 : 40018) Client 9 ! -- Count 1
+[2018/09/14 08:02:06] 44686 -- ==Enter Remove Relay Client 14 ! -- Count 1
+[2018/09/14 08:02:06] 44687 -- ==Remove Relay Client 14 ! -- Count 1
+[2018/09/14 08:02:06] 44688 -- DB Connect 0 is busy !
+[2018/09/14 08:02:07] 44689 -- DB Connect 0 is free !
+[2018/09/14 08:02:32] 44690 -- ==Enter Add Relay(103.92.25.248 : 40020) Client 15 !
+[2018/09/14 08:02:32] 44691 -- ==Add Relay(103.92.25.248 : 40020) Client 15 ! -- Count 1
+[2018/09/14 08:02:32] 44692 -- ==Enter Remove Relay Client 9 ! -- Count 1
+[2018/09/14 08:02:32] 44693 -- ==Remove Relay Client 9 ! -- Count 1
+[2018/09/14 08:02:32] 44694 -- DB Connect 0 is busy !
+[2018/09/14 08:02:33] 44695 -- DB Connect 0 is free !
+[2018/09/14 08:02:58] 44696 -- ==Enter Add Relay(103.92.25.248 : 40022) Client 17 !
+[2018/09/14 08:02:58] 44697 -- ==Add Relay(103.92.25.248 : 40022) Client 17 ! -- Count 1
+[2018/09/14 08:02:58] 44698 -- ==Enter Remove Relay Client 15 ! -- Count 1
+[2018/09/14 08:02:58] 44699 -- ==Remove Relay Client 15 ! -- Count 1
+[2018/09/14 08:02:58] 44700 -- DB Connect 0 is busy !
+[2018/09/14 08:02:59] 44701 -- DB Connect 0 is free !
+[2018/09/14 08:03:24] 44702 -- ==Enter Add Relay(103.92.25.248 : 40024) Client 16 !
+[2018/09/14 08:03:24] 44703 -- ==Add Relay(103.92.25.248 : 40024) Client 16 ! -- Count 1
+[2018/09/14 08:03:24] 44704 -- ==Enter Remove Relay Client 17 ! -- Count 1
+[2018/09/14 08:03:24] 44705 -- ==Remove Relay Client 17 ! -- Count 1
+[2018/09/14 08:03:24] 44706 -- DB Connect 0 is busy !
+[2018/09/14 08:03:25] 44707 -- DB Connect 0 is free !
+[2018/09/14 08:03:50] 44708 -- ==Enter Add Relay(103.92.25.248 : 40026) Client 5 !
+[2018/09/14 08:03:50] 44709 -- ==Add Relay(103.92.25.248 : 40026) Client 5 ! -- Count 1
+[2018/09/14 08:03:50] 44710 -- ==Enter Remove Relay Client 16 ! -- Count 1
+[2018/09/14 08:03:50] 44711 -- ==Remove Relay Client 16 ! -- Count 1
+[2018/09/14 08:03:50] 44712 -- DB Connect 0 is busy !
+[2018/09/14 08:03:51] 44713 -- DB Connect 0 is free !
+[2018/09/14 08:04:16] 44714 -- ==Enter Add Relay(103.92.25.248 : 40028) Client 0 !
+[2018/09/14 08:04:16] 44715 -- ==Add Relay(103.92.25.248 : 40028) Client 0 ! -- Count 1
+[2018/09/14 08:04:16] 44716 -- ==Enter Remove Relay Client 5 ! -- Count 1
+[2018/09/14 08:04:16] 44717 -- ==Remove Relay Client 5 ! -- Count 1
+[2018/09/14 08:04:16] 44718 -- DB Connect 0 is busy !
+[2018/09/14 08:04:17] 44719 -- DB Connect 0 is free !
+[2018/09/14 08:04:42] 44720 -- ==Enter Add Relay(103.92.25.248 : 40030) Client 2 !
+[2018/09/14 08:04:42] 44721 -- ==Add Relay(103.92.25.248 : 40030) Client 2 ! -- Count 1
+[2018/09/14 08:04:42] 44722 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/09/14 08:04:42] 44723 -- ==Remove Relay Client 0 ! -- Count 1
+[2018/09/14 08:04:42] 44724 -- DB Connect 0 is busy !
+[2018/09/14 08:04:43] 44725 -- DB Connect 0 is free !
+[2018/09/14 08:05:09] 44726 -- ==Enter Add Relay(103.92.25.248 : 40032) Client 3 !
+[2018/09/14 08:05:09] 44727 -- ==Add Relay(103.92.25.248 : 40032) Client 3 ! -- Count 1
+[2018/09/14 08:05:09] 44728 -- ==Enter Remove Relay Client 2 ! -- Count 1
+[2018/09/14 08:05:09] 44729 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/09/14 08:05:09] 44730 -- DB Connect 0 is busy !
+[2018/09/14 08:05:10] 44731 -- DB Connect 0 is free !
+[2018/09/14 08:05:35] 44732 -- ==Enter Add Relay(103.92.25.248 : 40034) Client 18 !
+[2018/09/14 08:05:35] 44733 -- ==Add Relay(103.92.25.248 : 40034) Client 18 ! -- Count 1
+[2018/09/14 08:05:35] 44734 -- ==Enter Remove Relay Client 3 ! -- Count 1
+[2018/09/14 08:05:35] 44735 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/09/14 08:05:35] 44736 -- DB Connect 0 is busy !
+[2018/09/14 08:05:36] 44737 -- DB Connect 0 is free !
+[2018/09/14 08:06:00] 44738 -- ==Enter Add Relay(103.92.25.248 : 40036) Client 4 !
+[2018/09/14 08:06:00] 44739 -- ==Add Relay(103.92.25.248 : 40036) Client 4 ! -- Count 1
+[2018/09/14 08:06:00] 44740 -- ==Enter Remove Relay Client 18 ! -- Count 1
+[2018/09/14 08:06:00] 44741 -- ==Remove Relay Client 18 ! -- Count 1
+[2018/09/14 08:06:00] 44742 -- DB Connect 0 is busy !
+[2018/09/14 08:06:01] 44743 -- DB Connect 0 is free !
+[2018/09/14 08:06:27] 44744 -- ==Enter Add Relay(103.92.25.248 : 40038) Client 7 !
+[2018/09/14 08:06:27] 44745 -- ==Add Relay(103.92.25.248 : 40038) Client 7 ! -- Count 1
+[2018/09/14 08:06:27] 44746 -- ==Enter Remove Relay Client 4 ! -- Count 1
+[2018/09/14 08:06:27] 44747 -- ==Remove Relay Client 4 ! -- Count 1
+[2018/09/14 08:06:27] 44748 -- DB Connect 0 is busy !
+[2018/09/14 08:06:28] 44749 -- DB Connect 0 is free !
+[2018/09/14 08:06:53] 44750 -- ==Enter Add Relay(103.92.25.248 : 40040) Client 6 !
+[2018/09/14 08:06:53] 44751 -- ==Add Relay(103.92.25.248 : 40040) Client 6 ! -- Count 1
+[2018/09/14 08:06:53] 44752 -- ==Enter Remove Relay Client 7 ! -- Count 1
+[2018/09/14 08:06:53] 44753 -- ==Remove Relay Client 7 ! -- Count 1
+[2018/09/14 08:06:53] 44754 -- DB Connect 0 is busy !
+[2018/09/14 08:06:54] 44755 -- DB Connect 0 is free !
+[2018/09/14 08:07:19] 44756 -- ==Enter Add Relay(103.92.25.248 : 40042) Client 19 !
+[2018/09/14 08:07:19] 44757 -- ==Add Relay(103.92.25.248 : 40042) Client 19 ! -- Count 1
+[2018/09/14 08:07:19] 44758 -- ==Enter Remove Relay Client 6 ! -- Count 1
+[2018/09/14 08:07:19] 44759 -- ==Remove Relay Client 6 ! -- Count 1
+[2018/09/14 08:07:19] 44760 -- DB Connect 0 is busy !
+[2018/09/14 08:07:20] 44761 -- DB Connect 0 is free !
+[2018/09/14 08:07:45] 44762 -- ==Enter Add Relay(103.92.25.248 : 40044) Client 8 !
+[2018/09/14 08:07:45] 44763 -- ==Add Relay(103.92.25.248 : 40044) Client 8 ! -- Count 1
+[2018/09/14 08:07:45] 44764 -- ==Enter Remove Relay Client 19 ! -- Count 1
+[2018/09/14 08:07:45] 44765 -- ==Remove Relay Client 19 ! -- Count 1
+[2018/09/14 08:07:45] 44766 -- DB Connect 0 is busy !
+[2018/09/14 08:07:46] 44767 -- DB Connect 0 is free !
+[2018/09/14 08:08:11] 44768 -- ==Enter Add Relay(103.92.25.248 : 40046) Client 1 !
+[2018/09/14 08:08:11] 44769 -- ==Add Relay(103.92.25.248 : 40046) Client 1 ! -- Count 1
+[2018/09/14 08:08:11] 44770 -- ==Enter Remove Relay Client 8 ! -- Count 1
+[2018/09/14 08:08:11] 44771 -- ==Remove Relay Client 8 ! -- Count 1
+[2018/09/14 08:08:11] 44772 -- DB Connect 0 is busy !
+[2018/09/14 08:08:12] 44773 -- DB Connect 0 is free !
+[2018/09/14 08:08:37] 44774 -- ==Enter Add Relay(103.92.25.248 : 40048) Client 10 !
+[2018/09/14 08:08:37] 44775 -- ==Add Relay(103.92.25.248 : 40048) Client 10 ! -- Count 1
+[2018/09/14 08:08:37] 44776 -- ==Enter Remove Relay Client 1 ! -- Count 1
+[2018/09/14 08:08:37] 44777 -- ==Remove Relay Client 1 ! -- Count 1
+[2018/09/14 08:08:37] 44778 -- DB Connect 0 is busy !
+[2018/09/14 08:08:38] 44779 -- DB Connect 0 is free !
+[2018/09/14 08:09:03] 44780 -- ==Enter Add Relay(103.92.25.248 : 40050) Client 11 !
+[2018/09/14 08:09:03] 44781 -- ==Add Relay(103.92.25.248 : 40050) Client 11 ! -- Count 1
+[2018/09/14 08:09:03] 44782 -- ==Enter Remove Relay Client 10 ! -- Count 1
+[2018/09/14 08:09:03] 44783 -- ==Remove Relay Client 10 ! -- Count 1
+[2018/09/14 08:09:03] 44784 -- DB Connect 0 is busy !
+[2018/09/14 08:09:04] 44785 -- DB Connect 0 is free !
+[2018/09/14 08:09:29] 44786 -- ==Enter Add Relay(103.92.25.248 : 40052) Client 12 !
+[2018/09/14 08:09:29] 44787 -- ==Add Relay(103.92.25.248 : 40052) Client 12 ! -- Count 1
+[2018/09/14 08:09:29] 44788 -- ==Enter Remove Relay Client 11 ! -- Count 1
+[2018/09/14 08:09:29] 44789 -- ==Remove Relay Client 11 ! -- Count 1
+[2018/09/14 08:09:29] 44790 -- DB Connect 0 is busy !
+[2018/09/14 08:09:30] 44791 -- DB Connect 0 is free !
+[2018/09/14 08:09:55] 44792 -- ==Enter Add Relay(103.92.25.248 : 40054) Client 13 !
+[2018/09/14 08:09:55] 44793 -- ==Add Relay(103.92.25.248 : 40054) Client 13 ! -- Count 1
+[2018/09/14 08:09:55] 44794 -- ==Enter Remove Relay Client 12 ! -- Count 1
+[2018/09/14 08:09:55] 44795 -- ==Remove Relay Client 12 ! -- Count 1
+[2018/09/14 08:09:55] 44796 -- DB Connect 0 is busy !
+[2018/09/14 08:09:56] 44797 -- DB Connect 0 is free !
+[2018/09/14 08:10:21] 44798 -- ==Enter Add Relay(103.92.25.248 : 40056) Client 14 !
+[2018/09/14 08:10:21] 44799 -- ==Add Relay(103.92.25.248 : 40056) Client 14 ! -- Count 1
+[2018/09/14 08:10:21] 44800 -- ==Enter Remove Relay Client 13 ! -- Count 1
+[2018/09/14 08:10:21] 44801 -- ==Remove Relay Client 13 ! -- Count 1
+[2018/09/14 08:10:21] 44802 -- DB Connect 0 is busy !
+[2018/09/14 08:10:22] 44803 -- DB Connect 0 is free !
+[2018/09/14 08:10:47] 44804 -- ==Enter Add Relay(103.92.25.248 : 40058) Client 9 !
+[2018/09/14 08:10:47] 44805 -- ==Add Relay(103.92.25.248 : 40058) Client 9 ! -- Count 1
+[2018/09/14 08:10:47] 44806 -- ==Enter Remove Relay Client 14 ! -- Count 1
+[2018/09/14 08:10:47] 44807 -- ==Remove Relay Client 14 ! -- Count 1
+[2018/09/14 08:10:47] 44808 -- DB Connect 0 is busy !
+[2018/09/14 08:10:48] 44809 -- DB Connect 0 is free !
+[2018/09/14 08:11:13] 44810 -- ==Enter Add Relay(103.92.25.248 : 40060) Client 15 !
+[2018/09/14 08:11:13] 44811 -- ==Add Relay(103.92.25.248 : 40060) Client 15 ! -- Count 1
+[2018/09/14 08:11:13] 44812 -- ==Enter Remove Relay Client 9 ! -- Count 1
+[2018/09/14 08:11:13] 44813 -- ==Remove Relay Client 9 ! -- Count 1
+[2018/09/14 08:11:13] 44814 -- DB Connect 0 is busy !
+[2018/09/14 08:11:14] 44815 -- DB Connect 0 is free !
+[2018/09/14 08:11:39] 44816 -- ==Enter Add Relay(103.92.25.248 : 40062) Client 17 !
+[2018/09/14 08:11:39] 44817 -- ==Add Relay(103.92.25.248 : 40062) Client 17 ! -- Count 1
+[2018/09/14 08:11:39] 44818 -- ==Enter Remove Relay Client 15 ! -- Count 1
+[2018/09/14 08:11:39] 44819 -- ==Remove Relay Client 15 ! -- Count 1
+[2018/09/14 08:11:39] 44820 -- DB Connect 0 is busy !
+[2018/09/14 08:11:40] 44821 -- DB Connect 0 is free !
+[2018/09/14 08:12:05] 44822 -- ==Enter Add Relay(103.92.25.248 : 40064) Client 16 !
+[2018/09/14 08:12:05] 44823 -- ==Add Relay(103.92.25.248 : 40064) Client 16 ! -- Count 1
+[2018/09/14 08:12:05] 44824 -- ==Enter Remove Relay Client 17 ! -- Count 1
+[2018/09/14 08:12:05] 44825 -- ==Remove Relay Client 17 ! -- Count 1
+[2018/09/14 08:12:05] 44826 -- DB Connect 0 is busy !
+[2018/09/14 08:12:06] 44827 -- DB Connect 0 is free !
+[2018/09/14 08:12:31] 44828 -- ==Enter Add Relay(103.92.25.248 : 40066) Client 5 !
+[2018/09/14 08:12:31] 44829 -- ==Add Relay(103.92.25.248 : 40066) Client 5 ! -- Count 1
+[2018/09/14 08:12:31] 44830 -- ==Enter Remove Relay Client 16 ! -- Count 1
+[2018/09/14 08:12:31] 44831 -- ==Remove Relay Client 16 ! -- Count 1
+[2018/09/14 08:12:31] 44832 -- DB Connect 0 is busy !
+[2018/09/14 08:12:32] 44833 -- DB Connect 0 is free !
+[2018/09/14 08:12:58] 44834 -- ==Enter Add Relay(103.92.25.248 : 40068) Client 0 !
+[2018/09/14 08:12:58] 44835 -- ==Add Relay(103.92.25.248 : 40068) Client 0 ! -- Count 1
+[2018/09/14 08:12:58] 44836 -- ==Enter Remove Relay Client 5 ! -- Count 1
+[2018/09/14 08:12:58] 44837 -- ==Remove Relay Client 5 ! -- Count 1
+[2018/09/14 08:12:58] 44838 -- DB Connect 0 is busy !
+[2018/09/14 08:12:59] 44839 -- DB Connect 0 is free !
+[2018/09/14 08:13:24] 44840 -- ==Enter Add Relay(103.92.25.248 : 40070) Client 2 !
+[2018/09/14 08:13:24] 44841 -- ==Add Relay(103.92.25.248 : 40070) Client 2 ! -- Count 1
+[2018/09/14 08:13:24] 44842 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/09/14 08:13:24] 44843 -- ==Remove Relay Client 0 ! -- Count 1
+[2018/09/14 08:13:24] 44844 -- DB Connect 0 is busy !
+[2018/09/14 08:13:25] 44845 -- DB Connect 0 is free !
+[2018/09/14 08:13:50] 44846 -- ==Enter Add Relay(103.92.25.248 : 40072) Client 3 !
+[2018/09/14 08:13:50] 44847 -- ==Add Relay(103.92.25.248 : 40072) Client 3 ! -- Count 1
+[2018/09/14 08:13:50] 44848 -- ==Enter Remove Relay Client 2 ! -- Count 1
+[2018/09/14 08:13:50] 44849 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/09/14 08:13:50] 44850 -- DB Connect 0 is busy !
+[2018/09/14 08:13:51] 44851 -- DB Connect 0 is free !
+[2018/09/14 08:14:16] 44852 -- ==Enter Add Relay(103.92.25.248 : 40074) Client 18 !
+[2018/09/14 08:14:16] 44853 -- ==Add Relay(103.92.25.248 : 40074) Client 18 ! -- Count 1
+[2018/09/14 08:14:16] 44854 -- ==Enter Remove Relay Client 3 ! -- Count 1
+[2018/09/14 08:14:16] 44855 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/09/14 08:14:16] 44856 -- DB Connect 0 is busy !
+[2018/09/14 08:14:17] 44857 -- DB Connect 0 is free !
+[2018/09/14 08:14:42] 44858 -- ==Enter Add Relay(103.92.25.248 : 40076) Client 4 !
+[2018/09/14 08:14:42] 44859 -- ==Add Relay(103.92.25.248 : 40076) Client 4 ! -- Count 1
+[2018/09/14 08:14:42] 44860 -- ==Enter Remove Relay Client 18 ! -- Count 1
+[2018/09/14 08:14:42] 44861 -- ==Remove Relay Client 18 ! -- Count 1
+[2018/09/14 08:14:42] 44862 -- DB Connect 0 is busy !
+[2018/09/14 08:14:43] 44863 -- DB Connect 0 is free !
+[2018/09/14 08:15:07] 44864 -- ==Enter Add Relay(103.92.25.248 : 40078) Client 7 !
+[2018/09/14 08:15:07] 44865 -- ==Add Relay(103.92.25.248 : 40078) Client 7 ! -- Count 1
+[2018/09/14 08:15:07] 44866 -- ==Enter Remove Relay Client 4 ! -- Count 1
+[2018/09/14 08:15:07] 44867 -- ==Remove Relay Client 4 ! -- Count 1
+[2018/09/14 08:15:07] 44868 -- DB Connect 0 is busy !
+[2018/09/14 08:15:08] 44869 -- DB Connect 0 is free !
+[2018/09/14 08:15:34] 44870 -- ==Enter Add Relay(103.92.25.248 : 40080) Client 6 !
+[2018/09/14 08:15:34] 44871 -- ==Add Relay(103.92.25.248 : 40080) Client 6 ! -- Count 1
+[2018/09/14 08:15:34] 44872 -- ==Enter Remove Relay Client 7 ! -- Count 1
+[2018/09/14 08:15:34] 44873 -- ==Remove Relay Client 7 ! -- Count 1
+[2018/09/14 08:15:34] 44874 -- DB Connect 0 is busy !
+[2018/09/14 08:15:35] 44875 -- DB Connect 0 is free !
+[2018/09/14 08:16:00] 44876 -- ==Enter Add Relay(103.92.25.248 : 40082) Client 19 !
+[2018/09/14 08:16:00] 44877 -- ==Add Relay(103.92.25.248 : 40082) Client 19 ! -- Count 1
+[2018/09/14 08:16:00] 44878 -- ==Enter Remove Relay Client 6 ! -- Count 1
+[2018/09/14 08:16:00] 44879 -- ==Remove Relay Client 6 ! -- Count 1
+[2018/09/14 08:16:00] 44880 -- DB Connect 0 is busy !
+[2018/09/14 08:16:01] 44881 -- DB Connect 0 is free !
+[2018/09/14 08:16:26] 44882 -- ==Enter Add Relay(103.92.25.248 : 40084) Client 8 !
+[2018/09/14 08:16:26] 44883 -- ==Add Relay(103.92.25.248 : 40084) Client 8 ! -- Count 1
+[2018/09/14 08:16:26] 44884 -- ==Enter Remove Relay Client 19 ! -- Count 1
+[2018/09/14 08:16:26] 44885 -- ==Remove Relay Client 19 ! -- Count 1
+[2018/09/14 08:16:26] 44886 -- DB Connect 0 is busy !
+[2018/09/14 08:16:27] 44887 -- DB Connect 0 is free !
+[2018/09/14 08:16:52] 44888 -- ==Enter Add Relay(103.92.25.248 : 40086) Client 1 !
+[2018/09/14 08:16:52] 44889 -- ==Add Relay(103.92.25.248 : 40086) Client 1 ! -- Count 1
+[2018/09/14 08:16:52] 44890 -- ==Enter Remove Relay Client 8 ! -- Count 1
+[2018/09/14 08:16:52] 44891 -- ==Remove Relay Client 8 ! -- Count 1
+[2018/09/14 08:16:52] 44892 -- DB Connect 0 is busy !
+[2018/09/14 08:16:53] 44893 -- DB Connect 0 is free !
+[2018/09/14 08:17:18] 44894 -- ==Enter Add Relay(103.92.25.248 : 40088) Client 10 !
+[2018/09/14 08:17:18] 44895 -- ==Add Relay(103.92.25.248 : 40088) Client 10 ! -- Count 1
+[2018/09/14 08:17:18] 44896 -- ==Enter Remove Relay Client 1 ! -- Count 1
+[2018/09/14 08:17:18] 44897 -- ==Remove Relay Client 1 ! -- Count 1
+[2018/09/14 08:17:18] 44898 -- DB Connect 0 is busy !
+[2018/09/14 08:17:19] 44899 -- DB Connect 0 is free !
+[2018/09/14 08:17:44] 44900 -- ==Enter Add Relay(103.92.25.248 : 40090) Client 11 !
+[2018/09/14 08:17:44] 44901 -- ==Add Relay(103.92.25.248 : 40090) Client 11 ! -- Count 1
+[2018/09/14 08:17:44] 44902 -- ==Enter Remove Relay Client 10 ! -- Count 1
+[2018/09/14 08:17:44] 44903 -- ==Remove Relay Client 10 ! -- Count 1
+[2018/09/14 08:17:44] 44904 -- DB Connect 0 is busy !
+[2018/09/14 08:17:45] 44905 -- DB Connect 0 is free !
+[2018/09/14 08:18:10] 44906 -- ==Enter Add Relay(103.92.25.248 : 40092) Client 12 !
+[2018/09/14 08:18:10] 44907 -- ==Add Relay(103.92.25.248 : 40092) Client 12 ! -- Count 1
+[2018/09/14 08:18:10] 44908 -- ==Enter Remove Relay Client 11 ! -- Count 1
+[2018/09/14 08:18:10] 44909 -- ==Remove Relay Client 11 ! -- Count 1
+[2018/09/14 08:18:10] 44910 -- DB Connect 0 is busy !
+[2018/09/14 08:18:11] 44911 -- DB Connect 0 is free !
+[2018/09/14 08:18:36] 44912 -- ==Enter Add Relay(103.92.25.248 : 40094) Client 13 !
+[2018/09/14 08:18:36] 44913 -- ==Add Relay(103.92.25.248 : 40094) Client 13 ! -- Count 1
+[2018/09/14 08:18:36] 44914 -- ==Enter Remove Relay Client 12 ! -- Count 1
+[2018/09/14 08:18:36] 44915 -- ==Remove Relay Client 12 ! -- Count 1
+[2018/09/14 08:18:36] 44916 -- DB Connect 0 is busy !
+[2018/09/14 08:18:37] 44917 -- DB Connect 0 is free !
+[2018/09/14 08:19:02] 44918 -- ==Enter Add Relay(103.92.25.248 : 40096) Client 14 !
+[2018/09/14 08:19:02] 44919 -- ==Add Relay(103.92.25.248 : 40096) Client 14 ! -- Count 1
+[2018/09/14 08:19:02] 44920 -- ==Enter Remove Relay Client 13 ! -- Count 1
+[2018/09/14 08:19:02] 44921 -- ==Remove Relay Client 13 ! -- Count 1
+[2018/09/14 08:19:02] 44922 -- DB Connect 0 is busy !
+[2018/09/14 08:19:03] 44923 -- DB Connect 0 is free !
+[2018/09/14 08:19:28] 44924 -- ==Enter Add Relay(103.92.25.248 : 40098) Client 9 !
+[2018/09/14 08:19:28] 44925 -- ==Add Relay(103.92.25.248 : 40098) Client 9 ! -- Count 1
+[2018/09/14 08:19:28] 44926 -- ==Enter Remove Relay Client 14 ! -- Count 1
+[2018/09/14 08:19:28] 44927 -- ==Remove Relay Client 14 ! -- Count 1
+[2018/09/14 08:19:28] 44928 -- DB Connect 0 is busy !
+[2018/09/14 08:19:29] 44929 -- DB Connect 0 is free !
+[2018/09/14 08:19:54] 44930 -- ==Enter Add Relay(103.92.25.248 : 40100) Client 15 !
+[2018/09/14 08:19:54] 44931 -- ==Add Relay(103.92.25.248 : 40100) Client 15 ! -- Count 1
+[2018/09/14 08:19:54] 44932 -- ==Enter Remove Relay Client 9 ! -- Count 1
+[2018/09/14 08:19:54] 44933 -- ==Remove Relay Client 9 ! -- Count 1
+[2018/09/14 08:19:54] 44934 -- DB Connect 0 is busy !
+[2018/09/14 08:19:55] 44935 -- DB Connect 0 is free !
+[2018/09/14 08:20:20] 44936 -- ==Enter Add Relay(103.92.25.248 : 40102) Client 17 !
+[2018/09/14 08:20:20] 44937 -- ==Add Relay(103.92.25.248 : 40102) Client 17 ! -- Count 1
+[2018/09/14 08:20:20] 44938 -- ==Enter Remove Relay Client 15 ! -- Count 1
+[2018/09/14 08:20:20] 44939 -- ==Remove Relay Client 15 ! -- Count 1
+[2018/09/14 08:20:20] 44940 -- DB Connect 0 is busy !
+[2018/09/14 08:20:21] 44941 -- DB Connect 0 is free !
+[2018/09/14 08:20:46] 44942 -- ==Enter Add Relay(103.92.25.248 : 40104) Client 16 !
+[2018/09/14 08:20:46] 44943 -- ==Add Relay(103.92.25.248 : 40104) Client 16 ! -- Count 1
+[2018/09/14 08:20:46] 44944 -- ==Enter Remove Relay Client 17 ! -- Count 1
+[2018/09/14 08:20:46] 44945 -- ==Remove Relay Client 17 ! -- Count 1
+[2018/09/14 08:20:46] 44946 -- DB Connect 0 is busy !
+[2018/09/14 08:20:47] 44947 -- DB Connect 0 is free !
+[2018/09/14 08:21:12] 44948 -- ==Enter Add Relay(103.92.25.248 : 40106) Client 5 !
+[2018/09/14 08:21:12] 44949 -- ==Add Relay(103.92.25.248 : 40106) Client 5 ! -- Count 1
+[2018/09/14 08:21:12] 44950 -- ==Enter Remove Relay Client 16 ! -- Count 1
+[2018/09/14 08:21:12] 44951 -- ==Remove Relay Client 16 ! -- Count 1
+[2018/09/14 08:21:12] 44952 -- DB Connect 0 is busy !
+[2018/09/14 08:21:13] 44953 -- DB Connect 0 is free !
+[2018/09/14 08:21:38] 44954 -- ==Enter Add Relay(103.92.25.248 : 40108) Client 0 !
+[2018/09/14 08:21:38] 44955 -- ==Add Relay(103.92.25.248 : 40108) Client 0 ! -- Count 1
+[2018/09/14 08:21:38] 44956 -- ==Enter Remove Relay Client 5 ! -- Count 1
+[2018/09/14 08:21:38] 44957 -- ==Remove Relay Client 5 ! -- Count 1
+[2018/09/14 08:21:38] 44958 -- DB Connect 0 is busy !
+[2018/09/14 08:21:39] 44959 -- DB Connect 0 is free !
+[2018/09/14 08:22:04] 44960 -- ==Enter Add Relay(103.92.25.248 : 40110) Client 2 !
+[2018/09/14 08:22:04] 44961 -- ==Add Relay(103.92.25.248 : 40110) Client 2 ! -- Count 1
+[2018/09/14 08:22:04] 44962 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/09/14 08:22:04] 44963 -- ==Remove Relay Client 0 ! -- Count 1
+[2018/09/14 08:22:04] 44964 -- DB Connect 0 is busy !
+[2018/09/14 08:22:05] 44965 -- DB Connect 0 is free !
+[2018/09/14 08:22:30] 44966 -- ==Enter Add Relay(103.92.25.248 : 40112) Client 3 !
+[2018/09/14 08:22:30] 44967 -- ==Add Relay(103.92.25.248 : 40112) Client 3 ! -- Count 1
+[2018/09/14 08:22:30] 44968 -- ==Enter Remove Relay Client 2 ! -- Count 1
+[2018/09/14 08:22:30] 44969 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/09/14 08:22:30] 44970 -- DB Connect 0 is busy !
+[2018/09/14 08:22:31] 44971 -- DB Connect 0 is free !
+[2018/09/14 08:22:56] 44972 -- ==Enter Add Relay(103.92.25.248 : 40114) Client 18 !
+[2018/09/14 08:22:56] 44973 -- ==Add Relay(103.92.25.248 : 40114) Client 18 ! -- Count 1
+[2018/09/14 08:22:56] 44974 -- ==Enter Remove Relay Client 3 ! -- Count 1
+[2018/09/14 08:22:56] 44975 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/09/14 08:22:56] 44976 -- DB Connect 0 is busy !
+[2018/09/14 08:22:57] 44977 -- DB Connect 0 is free !
+[2018/09/14 08:23:22] 44978 -- ==Enter Add Relay(103.92.25.248 : 40116) Client 4 !
+[2018/09/14 08:23:22] 44979 -- ==Add Relay(103.92.25.248 : 40116) Client 4 ! -- Count 1
+[2018/09/14 08:23:22] 44980 -- ==Enter Remove Relay Client 18 ! -- Count 1
+[2018/09/14 08:23:22] 44981 -- ==Remove Relay Client 18 ! -- Count 1
+[2018/09/14 08:23:22] 44982 -- DB Connect 0 is busy !
+[2018/09/14 08:23:23] 44983 -- DB Connect 0 is free !

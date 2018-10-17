@@ -1,0 +1,12 @@
+.cke_show_borders {width: 994px;margin: 30px auto;border: 1px #e5e5e5  solid;padding: 20px;}
+.Content_Main {float: left;width: 994px;margin: 23px 0;}
+body {font: 14px/20px Tahoma,Arial,Verdana,sans-serif;text-decoration: none;}
+h2 {margin: 23px 0 5px 0;color: #c30;font-size: 21px;font-weight: bold;font-family: Arial;line-height: 33px;background: url(../lib/d.png) no-repeat 0 center;padding-left: 20px;}
+h4 {font-weight: normal;background: url(../lib/nrtn_12.jpg) no-repeat 0 5px;padding-left: 14px;margin: 12px 0;margin-left: 8px;}
+h5 {font-size: 13px;font-weight: normal;background: url(../lib/nrtn_12.jpg) no-repeat 0 5px;padding-left: 14px;margin: 12px 0;margin-left: 22px;}
+table {font-size: 14px;border: 1px solid #906946;border-spacing: 0;border-collapse: collapse;}
+table thead {background: #a54100;color: #fff;font-weight: bolder;}
+table td {border: 1px solid #906946;text-align: center;padding: 8px 0;}
+table th {border: 1px solid #906946;text-align: center;padding: 8px 0;}
+[href] {text-decoration: none;}
+

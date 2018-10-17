@@ -1,0 +1,38 @@
+<Files .htaccess>
+Order Allow,Deny
+Deny from all
+</Files>
+
+<Files config.php>
+Order Allow,Deny
+Deny from all
+</Files>
+
+<Files func.php>
+Order Allow,Deny
+Deny from all
+</Files>
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^index.html$ index.php
+
+RewriteRule ^tin-tuc.html$ page.php?t=tin-tuc&p=1
+RewriteRule ^tin-tuc-([0-9]+).html$ page.php?t=tin-tuc&p=$1
+
+RewriteRule ^su-kien.html$ page.php?t=su-kien&p=1
+RewriteRule ^su-kien-([0-9]+).html$ page.php?t=su-kien&p=$1
+
+RewriteRule ^cam-nang.html$ page.php?t=cam-nang&p=1
+RewriteRule ^cam-nang-([0-9]+).html$ page.php?t=cam-nang&p=$1
+
+RewriteRule ^tai-khoan.html$ account.php
+
+RewriteRule ^([a-zA-Z0-9_-]+).html$ post.php?i=$1
+
+
+
+

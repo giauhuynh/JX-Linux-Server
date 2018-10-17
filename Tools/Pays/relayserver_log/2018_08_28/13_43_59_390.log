@@ -1,0 +1,86 @@
+
+*
+***** S3RelayServer Start (@ 2018/08/28 13:43:59.390) >>>>>
+*
+
+[2018/08/28 13:43:59] Init CheckClientID ok!
+[2018/08/28 13:44:38] 1 -- ==Enter Add Relay(192.168.248.103 : 50082) Client 0 !
+[2018/08/28 13:44:38] 2 -- ==Add Relay(192.168.248.103 : 50082) Client 0 ! -- Count 1
+[2018/08/28 13:44:38] 3 -- DB Connect 0 is busy !
+[2018/08/28 13:44:38] 4 -- Relay volamtrunghieu1(192.168.248.103)0050-56AF-5950: Verify OK !
+[2018/08/28 13:44:39] 5 -- DB Connect 0 is free !
+[2018/08/28 13:44:40] 6 -- Relay volamtrunghieu1(192.168.248.103): Ping 2(s)
+[2018/08/28 13:44:46] 7 -- ==Enter Add Relay(103.92.25.248 : 51478) Client 1 !
+[2018/08/28 13:44:46] 8 -- ==Add Relay(103.92.25.248 : 51478) Client 1 ! -- Count 2
+[2018/08/28 13:44:46] 9 -- DB Connect 0 is busy !
+[2018/08/28 13:44:46] 10 -- Relay volamtrunghieu(103.92.25.248)B499-BAB1-7C21: Verify OK !
+[2018/08/28 13:44:47] 11 -- DB Connect 0 is free !
+[2018/08/28 13:44:48] 12 -- Relay volamtrunghieu(103.92.25.248): Ping 2(s)
+[2018/08/28 13:46:41] 13 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 13:46:49] 14 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 13:48:41] 15 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 13:48:49] 16 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 13:50:41] 17 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 13:50:49] 18 -- Relay volamtrunghieu(103.92.25.248): Ping 119(s)
+[2018/08/28 13:52:41] 19 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 13:52:49] 20 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 13:54:41] 21 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 13:54:49] 22 -- Relay volamtrunghieu(103.92.25.248): Ping 119(s)
+[2018/08/28 13:56:41] 23 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 13:56:49] 24 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 13:58:41] 25 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 13:58:49] 26 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:00:41] 27 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:00:49] 28 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:01:10] 29 -- DB Connect 0 is busy !
+[2018/08/28 14:01:11] 30 -- DB Connect 0 is free !
+[2018/08/28 14:02:41] 31 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 14:02:49] 32 -- Relay volamtrunghieu(103.92.25.248): Ping 119(s)
+[2018/08/28 14:04:41] 33 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 14:04:49] 34 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:06:41] 35 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:06:49] 36 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:08:41] 37 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 14:08:49] 38 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:10:41] 39 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 14:10:49] 40 -- Relay volamtrunghieu(103.92.25.248): Ping 119(s)
+[2018/08/28 14:12:41] 41 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:12:49] 42 -- Relay volamtrunghieu(103.92.25.248): Ping 119(s)
+[2018/08/28 14:14:41] 43 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:14:49] 44 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:16:41] 45 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 14:16:49] 46 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:18:41] 47 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:18:49] 48 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:20:41] 49 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:20:49] 50 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:22:41] 51 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 14:22:49] 52 -- Relay volamtrunghieu(103.92.25.248): Ping 119(s)
+[2018/08/28 14:24:41] 53 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:24:49] 54 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:26:41] 55 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:26:49] 56 -- Relay volamtrunghieu(103.92.25.248): Ping 119(s)
+[2018/08/28 14:28:41] 57 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 14:28:49] 58 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:30:41] 59 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:30:49] 60 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:32:41] 61 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 14:32:49] 62 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:34:41] 63 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:34:49] 64 -- Relay volamtrunghieu(103.92.25.248): Ping 119(s)
+[2018/08/28 14:36:41] 65 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 14:36:49] 66 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:38:41] 67 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:38:49] 68 -- Relay volamtrunghieu(103.92.25.248): Ping 119(s)
+[2018/08/28 14:40:41] 69 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:40:50] 70 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:42:41] 71 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 14:42:49] 72 -- Relay volamtrunghieu(103.92.25.248): Ping 119(s)
+[2018/08/28 14:44:41] 73 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:44:49] 74 -- Relay volamtrunghieu(103.92.25.248): Ping 119(s)
+[2018/08/28 14:46:41] 75 -- Relay volamtrunghieu1(192.168.248.103): Ping 120(s)
+[2018/08/28 14:46:49] 76 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:48:41] 77 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:48:49] 78 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/28 14:50:41] 79 -- Relay volamtrunghieu1(192.168.248.103): Ping 119(s)
+[2018/08/28 14:50:49] 80 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)

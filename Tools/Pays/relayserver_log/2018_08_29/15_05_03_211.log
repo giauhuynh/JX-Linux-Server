@@ -1,0 +1,43 @@
+
+*
+***** S3RelayServer Start (@ 2018/08/29 15:05:03.211) >>>>>
+*
+
+[2018/08/29 15:05:03] Init CheckClientID ok!
+[2018/08/29 15:12:09] 1 -- ==Enter Add Relay(103.92.25.248 : 51956) Client 0 !
+[2018/08/29 15:12:09] 2 -- ==Add Relay(103.92.25.248 : 51956) Client 0 ! -- Count 1
+[2018/08/29 15:12:09] 3 -- DB Connect 0 is busy !
+[2018/08/29 15:12:09] 4 -- Relay volamtrunghieu(103.92.25.248)B499-BAB1-7C21: Verify OK !
+[2018/08/29 15:12:10] 5 -- DB Connect 0 is free !
+[2018/08/29 15:12:11] 6 -- ==Enter Remove Relay Client 0 ! -- Count 1
+[2018/08/29 15:12:11] 7 -- ==Remove Relay Client 0 ! -- Count 0
+[2018/08/29 15:12:11] 8 -- DB Connect 0 is busy !
+[2018/08/29 15:12:11] 9 -- DB Connect 0 is free !
+[2018/08/29 15:13:17] 10 -- ==Enter Add Relay(103.92.25.248 : 51964) Client 1 !
+[2018/08/29 15:13:17] 11 -- ==Add Relay(103.92.25.248 : 51964) Client 1 ! -- Count 1
+[2018/08/29 15:13:17] 12 -- DB Connect 0 is busy !
+[2018/08/29 15:13:17] 13 -- Relay volamtrunghieu(103.92.25.248)B499-BAB1-7C21: Verify OK !
+[2018/08/29 15:13:18] 14 -- DB Connect 0 is free !
+[2018/08/29 15:13:19] 15 -- Relay volamtrunghieu(103.92.25.248): Ping 2(s)
+[2018/08/29 15:15:19] 16 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/29 15:15:53] 17 -- ==Enter Add Relay(103.92.25.229 : 49668) Client 2 !
+[2018/08/29 15:15:53] 18 -- ==Add Relay(103.92.25.229 : 49668) Client 2 ! -- Count 2
+[2018/08/29 15:15:53] 19 -- DB Connect 0 is busy !
+[2018/08/29 15:15:53] 20 -- Relay (103.92.25.229)0050-56AF-5950: Address, Port !
+[2018/08/29 15:15:53] 21 -- Relay (103.92.25.229): Verify fail! kick off!
+[2018/08/29 15:15:53] 22 -- DB Connect 0 is free !
+[2018/08/29 15:15:53] 23 -- ==Enter Remove Relay Client 2 ! -- Count 2
+[2018/08/29 15:15:53] 24 -- ==Remove Relay Client 2 ! -- Count 1
+[2018/08/29 15:17:09] 25 -- ==Enter Add Relay(103.92.25.229 : 49672) Client 3 !
+[2018/08/29 15:17:09] 26 -- ==Add Relay(103.92.25.229 : 49672) Client 3 ! -- Count 2
+[2018/08/29 15:17:09] 27 -- DB Connect 0 is busy !
+[2018/08/29 15:17:09] 28 -- Relay (103.92.25.229)0050-56AF-5950: Address, Port !
+[2018/08/29 15:17:09] 29 -- Relay (103.92.25.229): Verify fail! kick off!
+[2018/08/29 15:17:09] 30 -- DB Connect 0 is free !
+[2018/08/29 15:17:09] 31 -- ==Enter Remove Relay Client 3 ! -- Count 2
+[2018/08/29 15:17:09] 32 -- ==Remove Relay Client 3 ! -- Count 1
+[2018/08/29 15:17:19] 33 -- Relay volamtrunghieu(103.92.25.248): Ping 120(s)
+[2018/08/29 15:18:05] 34 -- ==Enter Remove Relay Client 1 ! -- Count 1
+[2018/08/29 15:18:05] 35 -- ==Remove Relay Client 1 ! -- Count 0
+[2018/08/29 15:18:05] 36 -- DB Connect 0 is busy !
+[2018/08/29 15:18:05] 37 -- DB Connect 0 is free !
