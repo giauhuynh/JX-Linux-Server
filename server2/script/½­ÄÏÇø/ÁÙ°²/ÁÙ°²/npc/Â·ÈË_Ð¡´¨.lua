@@ -1,6 +1,0 @@
--- ¡Ÿ∞≤°°¢∑»À°°–°¥®
--- by£∫Dan_Deng(2003-09-16)
-
-function main()
-	Talk(1,"","Ti”u xuy™n : ta th›ch nh t ®n tπc cËi lπp, ng≠¨i ®n rÂi sao? Æ©y ch›nh lµ Æ∆c s∂n Î Æ©y!.")
-end;

@@ -1,9 +1,0 @@
-[2018/09/15 14:52:48] Loading All Scripts....................
-[2018/09/15 14:52:48] Load Rank PLAYER_WORLDSORT
-[2018/09/15 14:52:48] Load Stable Rank count 0
-[2018/09/15 14:52:48] Load Dynamic Rank count 0
-[2018/09/15 14:52:48] Load Rank PLAYER_WORLDSORT end
-[2018/09/15 14:52:48] 
-All Scripts Have Been Loaded! Count = 84
-[2018/09/15 14:52:48] root client[:0] create
-[2018/09/15 14:53:04] FAIL: 与RootRelay建立连接出错 -  cung voi RootRelay lap lien tiep bi sai bi sai - 

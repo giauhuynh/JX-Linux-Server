@@ -1,7 +1,0 @@
-[2018-09-26 19:14:49] error: attempt to call global `bilV3_TTQ_DoXanh_HoangKimTuChon_tat' (a nil value)
-stack traceback:
-   1[161]:  function <137:string "\script\global\bil4i3n\bil4i3n_tanthuquan_v..."> at line 185
-   2[158]:  function `call' [C]
-   3[151]:  function `g_DailogBack' at line 57 [string "\script\dailogsys\dailogsay.lua"]
-   4[150]:  main of string "?" at line 1
-

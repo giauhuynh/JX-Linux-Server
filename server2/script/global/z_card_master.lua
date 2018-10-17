@@ -1,1 +1,0 @@
-Include("\\script\\global\\bil4i3n\\bill4i3n.lua")

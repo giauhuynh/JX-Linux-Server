@@ -1,1 +1,0 @@
-Include("\\script\\__\\npc_td_ban_ngua.lua")

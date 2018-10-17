@@ -1,4 +1,0 @@
-Name	Type	Genre	Detail	Particular	Serise	Level	Param1	Param2	Param3	Param4	Param5	Param6	Proba	Costly	Msg	Log
-Tinh hång b¶o th¹ch	1	4	353	1	0	1	0						500	1	<player> sö dông hång bao s­ ®å xuÊt hiÖn mét <name> xin chóc mõng	1
-Thiªn s¬n ngäc lé	1	6	1	72	0	1	0						100000	0	<player> sö dông hång bao s­ ®å xuÊt hiÖn mét <name> xin chóc mõng	1
-B¸ch qu¶ lé	1	6	1	73	0	1	0						100000	0	<player> sö dông hång bao s­ ®å xuÊt hiÖn mét <name> xin chóc mõng	1
