@@ -1,0 +1,36 @@
+TongCount=34, MemberCount=54, UnionCount=0
+TongName	MasterName	TongLevel	TongExp	SelfCamp	AllMemberCount	DirectorCount	ManagerCount	MemberCount	BuildLevel	MoneyFund	BuildFund	WarBuildFund	MaintainFund	StoredOffer	StoredBuildFund	UnionNum	UnionName	IsUnionLeader	UnionCamp
+HáaÙLong	HáaÙLongÙTµÙNh©n	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+MinhGiao	HoaiLang	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+DEPÙBLH	DCPÙTL	0	0	2	11	1	2	7	0	0	0	0	0	0	0	0		0	0
+V«ÙDanh	§¹tÙNÖn	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+luongson	testgame	8	72240	2	1	0	0	0	0	995000	0	0	0	0	0	0		0	0
+MétÙThêi	HoaÙDiÙCungÙChñ	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+§ÖNhÊt	ChäcChäc	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+ewtrwtwe	fasfaffaew	6	37080	3	1	0	0	0	0	108566111	0	0	0	0	0	0		0	0
+Warrior	B¹ch§Þnh	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+T×nh	QuûÙLÖÙSÇu	4	21840	1	2	1	0	0	0	453635455	0	0	0	0	0	0		0	0
+TEST	TESTGAMES	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+KING	NMxHide	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+KimÙ	CuÙChÜÙNg­äc	6	46080	3	1	0	0	0	0	998562239	2240	0	0	22400	0	0		0	0
+Trau	SonLinnh	5	25680	1	1	0	0	0	0	204070185	1111	0	0	0	0	0		0	0
+ChoiDi	rayleigh	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+MinhXD	VuVuVnn	6	46200	3	2	1	0	0	0	7226426897	0	67183	0	22330	0	0		0	0
+Laladu	ZzCuxizZ	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+HHBang	SangTpXXX	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+TestHoi	TestChoi	7	49560	3	9	2	0	6	0	664485216	0	0	0	0	0	0		0	0
+Chien	SangTp4	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+Ahihi	axxxxxxx	2	7440	1	1	0	0	0	0	1221912221	0	0	0	0	0	0		0	0
+V×Sao	JohnniSon	7	60840	1	1	0	0	0	0	553020555	0	0	0	0	0	0		0	0
+admin	testgame2	7	59880	1	1	0	0	0	0	105621111	0	0	0	0	0	0		0	0
+TèngÙ	Anyonie	6	47400	1	1	0	0	0	0	312438441	0	0	0	0	0	0		0	0
+ThiªnH¹	T©nKhócSÇu	5	33840	1	1	0	0	0	0	98590000	0	0	0	0	0	0		0	0
+SKIES	Shazam	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+Slock	SlockÙLife	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+102	o0oVmTo0o	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+L¸o	L¸oÙTõÙNhá	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+VIP	TOPTONGKIM	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+MaGiao	RuouQuenSau	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+ThèngÙ	ÙCuÙChÜÙNg­îcÙ	0	120	3	1	0	0	0	0	995000	2240	0	0	22400	0	0		0	0
+qwerqwr	testgame3	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0		0	0
+HæÙB¸o	§¶ÙCÇuÙBæng	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0		0	0

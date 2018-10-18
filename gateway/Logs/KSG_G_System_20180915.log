@@ -1,0 +1,42 @@
+2018-09-15 14:52:41	Node[0] connect: Ip(127.0.0.1 : 59644), Identity(0)
+2018-09-15 14:52:41	ClientConnectCreate:[0]127.0.0.1 : 59644
+2018-09-15 14:52:41	Bishop claim from Node[0]!
+2018-09-15 14:53:05	Node[1] connect: Ip(127.0.0.1 : 57063), Identity(1)
+2018-09-15 14:53:05	ClientConnectCreate:[1]127.0.0.1 : 57063
+2018-09-15 14:53:05	Node[1] disconnect: Ip(127.0.0.1 : 57063), Identity(1)
+2018-09-15 14:53:05	ClientConnectClose:[1]
+
+2018-09-15 14:53:44	Node[0] disconnect: Ip(127.0.0.1 : 59644), Identity(0)
+2018-09-15 14:53:44	ClientConnectClose:[0]
+
+2018-09-15 14:55:08	Node[0] connect: Ip(127.0.0.1 : 49494), Identity(0)
+2018-09-15 14:55:08	ClientConnectCreate:[0]127.0.0.1 : 49494
+2018-09-15 14:55:08	Node[0] disconnect: Ip(127.0.0.1 : 49494), Identity(0)
+2018-09-15 14:55:08	ClientConnectClose:[0]
+
+2018-09-15 14:56:07	Node[0] connect: Ip(127.0.0.1 : 59658), Identity(0)
+2018-09-15 14:56:07	ClientConnectCreate:[0]127.0.0.1 : 59658
+2018-09-15 14:56:07	Bishop claim from Node[0]!
+2018-09-15 14:56:27	Node[1] connect: Ip(127.0.0.1 : 48880), Identity(1)
+2018-09-15 14:56:27	ClientConnectCreate:[1]127.0.0.1 : 48880
+2018-09-15 14:56:27	Node[1] disconnect: Ip(127.0.0.1 : 48880), Identity(1)
+2018-09-15 14:56:27	ClientConnectClose:[1]
+
+2018-09-15 14:57:10	Node[0] disconnect: Ip(127.0.0.1 : 59658), Identity(0)
+2018-09-15 14:57:10	ClientConnectClose:[0]
+
+2018-09-15 15:00:14	Node[0] connect: Ip(127.0.0.1 : 59666), Identity(0)
+2018-09-15 15:00:14	ClientConnectCreate:[0]127.0.0.1 : 59666
+2018-09-15 15:00:14	Bishop claim from Node[0]!
+2018-09-15 15:00:52	Node[1] connect: Ip(127.0.0.1 : 56651), Identity(1)
+2018-09-15 15:00:52	ClientConnectCreate:[1]127.0.0.1 : 56651
+2018-09-15 15:02:39	GetRoleInfo(sanboss01) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-15 15:02:39	GetRoleData(sanboss01) OK: datalen(6088)
+2018-09-15 15:02:39	EnterGame(sanboss01) OK: Move from Node[0] to Node[1]
+2018-09-15 15:03:44	QuitSave[sanboss01] OK: Leave Node[1]
+2018-09-15 15:03:44	SaveRoleData(sanboss01) OK: datalen(6080)
+2018-09-15 17:00:14	Deliver statdata: 0 bytes
+2018-09-15 19:00:14	Deliver statdata: 0 bytes
+2018-09-15 21:00:14	Deliver statdata: 0 bytes
+2018-09-15 23:00:09	[QuitBackup]is_quit:0
+2018-09-15 23:00:14	Deliver statdata: 0 bytes

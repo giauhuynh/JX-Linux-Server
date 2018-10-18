@@ -1,0 +1,13 @@
+MAPPATTERN_ID	BATTLE_MAP_ID	RULE_1	RULE_2	RULE_3	RULE_4	RULE_5	RULE_6	RULE_7	RULE_8	RULE_9	RULE_10
+1	1	7	7								
+2	2	7	7								
+3	3	7	7								
+4	4	7	7								
+5	5	7	7								
+6	6	7	7								
+7	7	7	7								
+8	8	7	7	7	7						
+9	9	7	7	7	7						
+10	11	7									
+11	12	7	7	7							
+12	14	7									

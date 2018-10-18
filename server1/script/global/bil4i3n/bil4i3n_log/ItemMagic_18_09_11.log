@@ -1,0 +1,650 @@
+-- [11-09-18 00:01:09]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1876674578,0,0,5,3,8,0,17,2,6,5,2,2,4,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		ThÓ lùc tèi ®a: +91 ®iÓm
+
+-- [11-09-18 00:01:52]	[DropOn: Train]	[DoanhDoanh-82-letutl72]		Param: (AddItemEx(1,-241095887,0,0,7,12,7,0,80,2,5,1,2,5,1,0))
+			[ DetailType = 7 ] [[  L­u Ly Thoa  ]]
+		Sinh lùc tèi ®a: +20 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		ThÓ lùc tèi ®a: +25 ®iÓm
+
+-- [11-09-18 00:04:07]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,-602647267,0,0,5,1,10,1,98,8,8,6,8,1,8,0))
+			[ DetailType = 5 ] [[  Thiªn Tµm Ngoa  ]]
+		Néi lùc tèi ®a: +71 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+		ThÓ lùc tèi ®a: +22 ®iÓm
+		'Kh¸ng l«i: +'9'%'
+		Sinh lùc tèi ®a: +12 ®iÓm
+
+-- [11-09-18 00:04:14]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,1343866820,0,0,7,5,9,1,145,4,4,8,4,7,3,0))
+			[ DetailType = 7 ] [[  T×nh nhía Hoµn  ]]
+		Néi lùc tèi ®a: +20 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +131 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Sinh lùc tèi ®a: +33 ®iÓm
+
+-- [11-09-18 00:06:23]	[DropOn: Train]	[BopVuBu-83-letutl74]		Param: (AddItemEx(1,41588200,0,0,7,8,8,2,114,3,4,5,3,7,3,0))
+			[ DetailType = 7 ] [[  PhØ Thóy Thoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +86 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Néi lùc tèi ®a: +60 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+
+-- [11-09-18 00:08:38]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-1226261028,0,0,7,1,7,2,59,6,1,1,5,7,3,0))
+			[ DetailType = 7 ] [[  Ngò Nh¹c Qu¸n  ]]
+		Sinh lùc tèi ®a: +36 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		ThÓ lùc tèi ®a: +13 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Néi lùc tèi ®a: +80 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+
+-- [11-09-18 00:08:53]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,260823453,0,0,5,0,10,2,90,7,4,5,4,2,8,0))
+			[ DetailType = 5 ] [[  Cöu TiÕt X­¬ng VÜ Ngoa  ]]
+		ThÓ lùc tèi ®a: +22 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+		Tèc ®é di chuyÓn: +15%
+		'Kh¸ng háa: +'5'%'
+		Néi lùc tèi ®a: +12 ®iÓm
+		'ThÓ lùc tèi ®a: +'11' ®iÓm'
+
+-- [11-09-18 00:12:49]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,-912479387,0,0,5,1,9,1,114,4,1,2,4,3,3,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Néi lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Tèc ®é di chuyÓn: +13%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +43 ®iÓm
+
+-- [11-09-18 00:13:34]	[DropOn: Train]	[BopVuBu-83-letutl74]		Param: (AddItemEx(1,899581048,0,0,8,0,10,4,37,3,4,2,4,6,7,0))
+			[ DetailType = 8 ] [[  Long Phông HuyÕt Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +48 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Néi lùc tèi ®a: +27 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng b¨ng: +'10'%'
+
+-- [11-09-18 00:13:58]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1694289705,0,0,5,2,10,3,15,4,2,4,3,5,3,0))
+			[ DetailType = 5 ] [[  Kim Lò hµi  ]]
+		ThÓ lùc tèi ®a: +12 ®iÓm
+		'Phßng thñ vËt lý: +'1'%'
+		Néi lùc tèi ®a: +45 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Sinh lùc tèi ®a: +56 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [11-09-18 00:14:18]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,-1511027654,0,0,5,3,8,4,42,7,2,3,6,4,4,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		Néi lùc tèi ®a: +26 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +69 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [11-09-18 00:16:41]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,345043272,0,0,6,1,10,4,14,1,8,7,2,5,2,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Néi lùc tèi ®a: +19 ®iÓm
+		'Kh¸ng b¨ng: +'15'%'
+		Sinh lùc tèi ®a: +114 ®iÓm
+
+-- [11-09-18 00:18:42]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,386284438,0,0,5,3,10,1,58,3,8,4,2,6,7,0))
+			[ DetailType = 5 ] [[  Phi Phông Ngoa  ]]
+		ThÓ lùc tèi ®a: +17 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +61 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+
+-- [11-09-18 00:22:17]	[DropOn: Train]	[4StÙThiªnÙNhÉn-104-tuanlovekun3]		Param: (AddItemEx(1,592875430,0,0,5,3,10,4,92,6,1,3,3,2,7,0))
+			[ DetailType = 5 ] [[  Phi Phông Ngoa  ]]
+		Sinh lùc tèi ®a: +59 ®iÓm
+
+-- [11-09-18 00:25:24]	[DropOn: Train]	[1StÙThiªnÙNhÉn-108-tuanlovekun]		Param: (AddItemEx(1,1622279567,0,0,7,7,7,0,123,4,8,7,2,5,1,0))
+			[ DetailType = 7 ] [[  Thiªn Thanh M·o  ]]
+		ThÓ lùc tèi ®a: +57 ®iÓm
+		'Kh¸ng ®éc: +'19'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+
+-- [11-09-18 00:25:40]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,-799542044,0,0,8,1,9,4,52,7,5,6,7,6,1,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +104 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +73 ®iÓm
+
+-- [11-09-18 00:26:13]	[DropOn: Train]	[2StÙThiªnÙNhÉn-100-tuanlovekun1]		Param: (AddItemEx(1,220785601,0,0,6,0,7,3,75,7,7,6,5,3,1,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +107 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Néi lùc tèi ®a: +57 ®iÓm
+		'Phßng thñ vËt lý: +'9'%'
+		Sinh lùc tèi ®a: +60 ®iÓm
+
+-- [11-09-18 00:27:57]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,787868172,0,0,6,0,9,1,111,6,3,3,8,8,1,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +80 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Sinh lùc tèi ®a: +119 ®iÓm
+
+-- [11-09-18 00:32:40]	[DropOn: Train]	[§­êngÙM«n-116-tuanlovekun5]		Param: (AddItemEx(1,1012146907,0,0,2,0,7,3,130,6,7,3,2,4,2,0))
+			[ DetailType = 2 ] [[  NguyÖn B¹ch Cµ Sa   ]]
+		Néi lùc tèi ®a: +14 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Ph¶n ®oµn vËt lý: +6 ®iÓm
+		'Phßng thñ vËt lý: +'3'%'
+
+-- [11-09-18 00:37:56]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-258843570,0,0,9,0,9,2,36,3,3,2,2,3,3,0))
+			[ DetailType = 9 ] [[  Giµ Nam H­¬ng Nang  ]]
+		Phôc håi néi lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Néi lùc tèi ®a: +27 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Sinh lùc tèi ®a: +23 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+
+-- [11-09-18 00:38:56]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-682312007,0,0,7,11,8,4,14,4,6,6,4,3,8,0))
+			[ DetailType = 7 ] [[  PhØ Thóy Kh«i  ]]
+		Néi lùc tèi ®a: +12 ®iÓm
+		'Kh¸ng b¨ng: +'12'%'
+		Sinh lùc tèi ®a: +10 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +37 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+
+-- [11-09-18 00:42:36]	[DropOn: Train]	[3StÙThiªnÙNhÉn-108-tuanlovekun2]		Param: (AddItemEx(1,-1319665563,0,0,5,1,8,1,37,3,4,7,7,2,1,0))
+			[ DetailType = 5 ] [[  Tª B× Ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng l«i: +'9'%'
+		Néi lùc tèi ®a: +58 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+		Tèc ®é di chuyÓn: +11%
+
+-- [11-09-18 00:45:52]	[DropOn: Train]	[5StÙThiªnÙNhÉn-104-tuanlovekun4]		Param: (AddItemEx(1,1206402876,0,0,8,0,7,4,104,8,1,2,3,3,3,0))
+			[ DetailType = 8 ] [[  PhØ Thóy Ngäc Tr¹c  ]]
+		Sinh lùc tèi ®a: +51 ®iÓm
+
+-- [11-09-18 01:08:12]	[DropOn: Train]	[BopVuBu-83-letutl74]		Param: (AddItemEx(1,-1664505867,0,0,6,1,9,4,3,8,3,3,5,2,6,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +87 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		ThÓ lùc tèi ®a: +24 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+
+-- [11-09-18 01:22:01]	[DropOn: Train]	[BopVuBu-83-letutl74]		Param: (AddItemEx(1,-26611258,0,0,9,1,10,2,29,2,1,3,3,2,1,0))
+			[ DetailType = 9 ] [[  D­¬ng Chi B¹ch Ngäc  ]]
+		Sinh lùc tèi ®a: +32 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +22 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Phôc håi néi lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [11-09-18 01:53:16]	[DropOn: Train]	[DoanhDoanh-82-letutl72]		Param: (AddItemEx(1,1612115343,0,0,7,0,7,3,77,5,2,4,2,1,3,0))
+			[ DetailType = 7 ] [[  Phï Dung M·o  ]]
+		Néi lùc tèi ®a: +29 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Sinh lùc tèi ®a: +16 ®iÓm
+		'Phßng thñ vËt lý: +'2'%'
+		ThÓ lùc tèi ®a: +14 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+
+-- [11-09-18 10:17:23]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1338017005,0,0,6,0,8,0,1,7,8,8,7,8,7,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +71 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +5 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Néi lùc tèi ®a: +18 ®iÓm
+
+-- [11-09-18 10:32:13]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,66399283,0,0,8,0,8,4,79,6,1,5,8,3,7,0))
+			[ DetailType = 8 ] [[   ¤n L­¬ng Ngäc TR¹c  ]]
+		ThÓ lùc tèi ®a: +6 ®iÓm
+
+-- [11-09-18 10:34:53]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-2056796394,0,0,6,1,10,2,20,1,6,3,4,7,5,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'9'%'
+		ThÓ lùc tèi ®a: +38 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +90 ®iÓm
+		'Kh¸ng háa: +'5'%'
+
+-- [11-09-18 10:41:43]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,-597371223,0,0,6,0,10,4,133,7,6,7,1,5,6,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +12 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +117 ®iÓm
+
+-- [11-09-18 10:48:53]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,1029362569,0,0,5,0,8,0,128,5,3,5,2,4,6,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		ThÓ lùc tèi ®a: +49 ®iÓm
+		'Kh¸ng ®éc: +'4'%'
+		Sinh lùc tèi ®a: +78 ®iÓm
+
+-- [11-09-18 10:58:30]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1320551389,0,0,6,0,10,0,16,2,7,4,3,6,7,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +6 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +18 ®iÓm
+
+-- [11-09-18 11:10:21]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,396666405,0,0,5,0,9,1,140,4,7,2,2,6,4,0))
+			[ DetailType = 5 ] [[  Phong VÜ Tèng Ngoa  ]]
+		Néi lùc tèi ®a: +8 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Tèc ®é di chuyÓn: +15%
+		'Kh¸ng l«i: +'2'%'
+		Sinh lùc tèi ®a: +52 ®iÓm
+
+-- [11-09-18 11:19:34]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,2060521162,0,0,7,0,8,4,99,6,5,1,5,1,3,0))
+			[ DetailType = 7 ] [[  ThÈm Lu©n M·o  ]]
+		ThÓ lùc tèi ®a: +100 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		Néi lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [11-09-18 11:40:22]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,-1785817243,0,0,0,1,7,4,7,2,2,2,2,2,3,0))
+			[ DetailType = 0 ] [[  Cæn Ch©u B¶o ®ao  ]]
+		Tèc ®é ®¸nh - ngo¹i c«ng: +10%
+		'L«i s¸t - ngo¹i c«ng: +'19' ®iÓm'
+		Hót sinh lùc: +1%
+		'L«i s¸t - néi c«ng: +'3' ®iÓm'
+		ThÓ lùc tèi ®a: +20 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+
+-- [11-09-18 11:53:11]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,119586733,0,0,7,5,10,2,127,1,2,3,2,6,4,0))
+			[ DetailType = 7 ] [[  TrÝch Tinh hoµn  ]]
+		ThÓ lùc tèi ®a: +16 ®iÓm
+		'ThÓ lùc tèi ®a: +'3' ®iÓm'
+		Néi lùc tèi ®a: +24 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [11-09-18 12:01:10]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-2086076423,0,0,5,2,7,0,42,8,7,4,1,4,6,0))
+			[ DetailType = 5 ] [[  Liªn Phong Ngoa  ]]
+		Tèc ®é di chuyÓn: +18%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +47 ®iÓm
+
+-- [11-09-18 12:32:46]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1577001148,0,0,5,1,8,0,75,1,8,7,4,2,7,0))
+			[ DetailType = 5 ] [[  Tª B× Ngoa  ]]
+		Néi lùc tèi ®a: +15 ®iÓm
+		'Kh¸ng ®éc: +'11'%'
+		ThÓ lùc tèi ®a: +89 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +11 ®iÓm
+
+-- [11-09-18 12:49:33]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,-1195586948,0,0,2,2,10,2,13,8,7,4,6,3,6,0))
+			[ DetailType = 2 ] [[  Thiªn NhÉn MËt Trang  ]]
+		Sinh lùc tèi ®a: +131 ®iÓm
+		'ThÓ lùc tèi ®a: +'12' ®iÓm'
+		ThÓ lùc tèi ®a: +26 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [11-09-18 12:50:51]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,1595080045,0,0,8,0,9,3,117,4,1,6,7,6,8,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Néi lùc tèi ®a: +41 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		Sinh lùc tèi ®a: +80 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		ThÓ lùc tèi ®a: +86 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+
+-- [11-09-18 13:02:00]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1515937376,0,0,7,11,7,0,140,3,6,5,2,8,5,0))
+			[ DetailType = 7 ] [[  Song Phông TriÒu Thiªn Qu¸n  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'13'%'
+		Néi lùc tèi ®a: +69 ®iÓm
+
+-- [11-09-18 13:29:49]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1545012222,0,0,5,3,7,4,40,2,3,3,3,6,3,0))
+			[ DetailType = 5 ] [[  X­¬ng Hoµn ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng b¨ng: +'4'%'
+		ThÓ lùc tèi ®a: +19 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Sinh lùc tèi ®a: +95 ®iÓm
+
+-- [11-09-18 13:48:31]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-2129650251,0,0,5,3,7,4,109,2,6,1,8,2,8,0))
+			[ DetailType = 5 ] [[  X­¬ng Hoµn ngoa  ]]
+		ThÓ lùc tèi ®a: +25 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Sinh lùc tèi ®a: +6 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +24 ®iÓm
+		'Kh¸ng b¨ng: +'19'%'
+
+-- [11-09-18 13:52:01]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-429214000,0,0,5,2,7,2,57,8,1,6,6,6,5,0))
+			[ DetailType = 5 ] [[  Liªn Phong Ngoa  ]]
+		Sinh lùc tèi ®a: +11 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Néi lùc tèi ®a: +57 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'10'%'
+		ThÓ lùc tèi ®a: +66 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [11-09-18 14:19:33]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,515085994,0,0,5,3,8,3,35,6,5,6,5,4,8,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +97 ®iÓm
+		'Thêi gian lµm chËm: -'20'%'
+		ThÓ lùc tèi ®a: +24 ®iÓm
+		'Th©n ph¸p: +'10'®iÓm'
+
+-- [11-09-18 14:26:53]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,1918313062,0,0,6,0,10,1,10,6,3,8,6,3,1,0))
+			[ DetailType = 6 ] [[  Thiªn Tµm Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +115 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		Sinh lùc tèi ®a: +7 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Néi lùc tèi ®a: +37 ®iÓm
+
+-- [11-09-18 14:40:34]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,1847460421,0,0,7,0,9,4,59,4,6,5,1,6,5,0))
+			[ DetailType = 7 ] [[  NiÖm Ninh M·o  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		ThÓ lùc tèi ®a: +70 ®iÓm
+
+-- [11-09-18 14:48:45]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1683483596,0,0,6,0,9,1,142,5,4,7,4,7,5,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +40 ®iÓm
+		'Kh¸ng l«i: +'3'%'
+		Néi lùc tèi ®a: +5 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +38 ®iÓm
+
+-- [11-09-18 14:53:07]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,-644438184,0,0,8,0,9,3,72,8,1,7,6,7,1,0))
+			[ DetailType = 8 ] [[  B¨ng Ph¸ch Hµn Ngäc Tr¹c  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		ThÓ lùc tèi ®a: +83 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		Néi lùc tèi ®a: +41 ®iÓm
+
+-- [11-09-18 15:01:51]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,161270528,0,0,8,1,10,4,125,7,8,5,1,8,5,0))
+			[ DetailType = 8 ] [[  Thiªn Tµm Hé UyÓn  ]]
+		ThÓ lùc tèi ®a: +109 ®iÓm
+		'Kh¸ng b¨ng: +'13'%'
+		Néi lùc tèi ®a: +63 ®iÓm
+
+-- [11-09-18 15:07:31]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-197570205,0,0,8,1,7,4,131,3,8,3,4,5,4,0))
+			[ DetailType = 8 ] [[  Sa B× Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		Néi lùc tèi ®a: +37 ®iÓm
+		'Kh¸ng b¨ng: +'1'%'
+		Sinh lùc tèi ®a: +43 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [11-09-18 15:15:49]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,-844636937,0,0,3,0,10,0,35,2,1,2,3,3,3,0))
+			[ DetailType = 3 ] [[  Toµn Th¹ch Giíi ChØ  ]]
+		Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm
+		'Søc m¹nh: +'1'®iÓm'
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng ®éc: +'4'%'
+		Sinh lùc tèi ®a: +56 ®iÓm
+
+-- [11-09-18 15:17:59]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,2077719681,0,0,8,1,9,1,130,8,7,8,6,6,8,0))
+			[ DetailType = 8 ] [[  Long L©n Hé UyÓn  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +4 ®iÓm
+		'Kh¸ng l«i: +'5'%'
+		Néi lùc tèi ®a: +18 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+		ThÓ lùc tèi ®a: +98 ®iÓm
+
+-- [11-09-18 15:19:39]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,-1725344288,0,0,5,2,9,2,4,5,6,5,7,1,7,0))
+			[ DetailType = 5 ] [[  B¹ch Chu ngoa  ]]
+		Néi lùc tèi ®a: +47 ®iÓm
+		'Kh¸ng háa: +'11'%'
+		ThÓ lùc tèi ®a: +92 ®iÓm
+		'ThÓ lùc tèi ®a: +'6' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Thêi gian cho¸ng: -'20' ®iÓm'
+
+-- [11-09-18 15:37:15]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,838513599,0,0,7,8,9,3,47,5,2,6,2,5,2,0))
+			[ DetailType = 7 ] [[  Th¸i cùc Qu¸n  ]]
+		Sinh lùc tèi ®a: +49 ®iÓm
+		'Th©n ph¸p: +'3'®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Phßng thñ vËt lý: +'3'%'
+		ThÓ lùc tèi ®a: +64 ®iÓm
+
+-- [11-09-18 15:43:44]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-529916113,0,0,2,13,9,2,30,7,7,5,3,7,1,0))
+			[ DetailType = 2 ] [[  B¸ch Phong TriÒu D­¬ng quÇn  ]]
+		Néi lùc tèi ®a: +54 ®iÓm
+		'ThÓ lùc tèi ®a: +'13' ®iÓm'
+		Sinh lùc tèi ®a: +29 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+
+-- [11-09-18 15:44:09]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,1088987026,0,0,6,1,10,3,32,4,1,8,4,7,4,0))
+			[ DetailType = 6 ] [[  B¹ch Kim Yªu §¸i  ]]
+		Néi lùc tèi ®a: +77 ®iÓm
+		'Th©n ph¸p: +'2'®iÓm'
+		Sinh lùc tèi ®a: +151 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Phßng thñ vËt lý: +'8'%'
+
+-- [11-09-18 16:11:04]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,178269544,0,0,5,1,8,0,146,5,8,8,8,1,5,0))
+			[ DetailType = 5 ] [[  Tª B× Ngoa  ]]
+		Tèc ®é di chuyÓn: +17%
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Néi lùc tèi ®a: +69 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [11-09-18 16:18:58]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1851062645,0,0,6,0,7,2,110,4,3,5,7,4,7,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Sinh lùc tèi ®a: +41 ®iÓm
+		'Kh¸ng háa: +'3'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ThÓ lùc tèi ®a: +'3' ®iÓm'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [11-09-18 16:30:35]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,-1950885158,0,0,8,1,8,2,112,8,1,8,3,3,8,0))
+			[ DetailType = 8 ] [[  Tª Gi¸c Hé UyÓn  ]]
+		Sinh lùc tèi ®a: +65 ®iÓm
+		'ThÓ lùc tèi ®a: +'2' ®iÓm'
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'Kh¸ng háa: +'4'%'
+		ThÓ lùc tèi ®a: +49 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+
+-- [11-09-18 16:51:40]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-181544020,0,0,6,0,9,0,121,3,3,2,6,5,4,0))
+			[ DetailType = 6 ] [[  Long L©n Yªu §¸i  ]]
+		Néi lùc tèi ®a: +32 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +26 ®iÓm
+		'Kh¸ng ®éc: +'6'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [11-09-18 16:57:20]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-82417407,0,0,5,1,9,1,131,4,4,8,1,4,4,0))
+			[ DetailType = 5 ] [[  Long L©n Ngoa  ]]
+		Sinh lùc tèi ®a: +20 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +85 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [11-09-18 16:58:28]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1231398485,0,0,5,0,9,4,103,3,2,6,2,3,5,0))
+			[ DetailType = 5 ] [[  Phong VÜ Tèng Ngoa  ]]
+		ThÓ lùc tèi ®a: +33 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [11-09-18 17:37:58]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,1793698100,0,0,5,0,10,0,44,3,5,8,1,1,3,0))
+			[ DetailType = 5 ] [[  Cöu TiÕt X­¬ng VÜ Ngoa  ]]
+		ThÓ lùc tèi ®a: +53 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		Tèc ®é di chuyÓn: +24%
+
+-- [11-09-18 18:03:10]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,2007853705,0,0,7,0,10,0,122,7,6,6,7,4,6,0))
+			[ DetailType = 7 ] [[  Tú L« m·o  ]]
+		Sinh lùc tèi ®a: +25 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Néi lùc tèi ®a: +10 ®iÓm
+		'Kh¸ng ®éc: +'14'%'
+		ThÓ lùc tèi ®a: +44 ®iÓm
+
+-- [11-09-18 18:09:46]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,-1603378692,0,0,9,0,10,0,13,2,1,3,2,2,2,0))
+			[ DetailType = 9 ] [[  Long Tiªn H­¬ng Nang  ]]
+		ThÓ lùc tèi ®a: +32 ®iÓm
+		'Søc m¹nh: +'2'®iÓm'
+		Phôc håi néi lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng ®éc: +'1'%'
+		Sinh lùc tèi ®a: +39 ®iÓm
+
+-- [11-09-18 18:11:45]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,1603311676,0,0,5,3,10,4,138,1,7,4,2,5,1,0))
+			[ DetailType = 5 ] [[  Phi Phông Ngoa  ]]
+		Néi lùc tèi ®a: +7 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Sinh lùc tèi ®a: +27 ®iÓm
+		'Kh¸ng b¨ng: +'2'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+
+-- [11-09-18 18:24:50]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,-1663696392,0,0,6,0,7,0,88,4,3,4,6,6,1,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Néi lùc tèi ®a: +24 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Sinh lùc tèi ®a: +63 ®iÓm
+		'Kh¸ng ®éc: +'6'%'
+		ThÓ lùc tèi ®a: +24 ®iÓm
+
+-- [11-09-18 18:36:23]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,421867128,0,0,2,13,8,1,21,3,1,6,4,3,7,0))
+			[ DetailType = 2 ] [[  Kinh B¶o quÇn  ]]
+		ThÓ lùc tèi ®a: +35 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Néi lùc tèi ®a: +25 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		Ph¶n ®oµn vËt lý: +3 ®iÓm
+
+-- [11-09-18 18:45:12]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1122904425,0,0,9,0,9,4,34,1,3,1,1,1,3,0))
+			[ DetailType = 9 ] [[  Giµ Nam H­¬ng Nang  ]]
+		Néi lùc tèi ®a: +10 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +8 ®iÓm
+
+-- [11-09-18 18:58:35]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1977873919,0,0,5,1,10,0,17,3,5,2,7,5,2,0))
+			[ DetailType = 5 ] [[  Thiªn Tµm Ngoa  ]]
+		Sinh lùc tèi ®a: +32 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		ThÓ lùc tèi ®a: +31 ®iÓm
+		'Kh¸ng ®éc: +'5'%'
+		Néi lùc tèi ®a: +57 ®iÓm
+
+-- [11-09-18 19:25:09]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,98343002,0,0,6,1,8,0,4,5,4,2,3,3,5,0))
+			[ DetailType = 6 ] [[  Kim Yªu §¸i  ]]
+		Néi lùc tèi ®a: +46 ®iÓm
+		'Kh¸ng ®éc: +'3'%'
+		ThÓ lùc tèi ®a: +11 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'2'%'
+		Sinh lùc tèi ®a: +17 ®iÓm
+
+-- [11-09-18 19:47:04]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,2097717,0,0,2,10,8,1,110,3,4,7,3,1,2,0))
+			[ DetailType = 2 ] [[  TÊt Sa sam  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'Kh¸ng l«i: +'2'%'
+		Sinh lùc tèi ®a: +35 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Néi lùc tèi ®a: +20 ®iÓm
+
+-- [11-09-18 19:49:54]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1184743498,0,0,2,12,8,4,73,7,8,1,4,7,6,0))
+			[ DetailType = 2 ] [[  Tö Thö y  ]]
+		ThÓ lùc tèi ®a: +120 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		Sinh lùc tèi ®a: +77 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+
+-- [11-09-18 20:33:12]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1459278476,0,0,6,0,7,1,116,5,6,6,8,2,3,0))
+			[ DetailType = 6 ] [[  Sa B× Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +3 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'6'%'
+		ThÓ lùc tèi ®a: +40 ®iÓm
+		'Kh¸ng l«i: +'4'%'
+		Sinh lùc tèi ®a: +26 ®iÓm
+
+-- [11-09-18 20:43:34]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,1166574687,0,0,5,2,8,1,49,8,3,5,2,8,2,0))
+			[ DetailType = 5 ] [[  Ph¹m Hång Ngoa  ]]
+		Néi lùc tèi ®a: +55 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'3'%'
+		ThÓ lùc tèi ®a: +61 ®iÓm
+		'Kh¸ng l«i: +'1'%'
+		Sinh lùc tèi ®a: +104 ®iÓm
+
+-- [11-09-18 21:39:52]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,112995794,0,0,2,6,7,2,142,5,8,7,3,3,6,0))
+			[ DetailType = 2 ] [[  HuyÒn Hoµng ®o¶n gi¸p  ]]
+		Néi lùc tèi ®a: +99 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+		'ThÓ lùc tèi ®a: +'4' ®iÓm'
+		Sinh lùc tèi ®a: +20 ®iÓm
+		'Kh¸ng háa: +'1'%'
+
+-- [11-09-18 22:31:10]	[DropOn: Train]	[Unlock911-107-unlock911]		Param: (AddItemEx(1,-1221012089,0,0,7,0,8,4,56,3,6,6,2,2,4,0))
+			[ DetailType = 7 ] [[  ThÈm Lu©n M·o  ]]
+		Néi lùc tèi ®a: +10 ®iÓm
+		'Thêi gian tróng ®éc: -'30'%'
+		ThÓ lùc tèi ®a: +8 ®iÓm
+		'Kh¸ng b¨ng: +'5'%'
+		Sinh lùc tèi ®a: +25 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'5'%'
+
+-- [11-09-18 22:55:22]	[DropOn: Train]	[Unlock911-108-unlock911]		Param: (AddItemEx(1,-1970930607,0,0,5,0,8,3,86,3,2,8,8,5,1,0))
+			[ DetailType = 5 ] [[  Giao Ngoa  ]]
+		Sinh lùc tèi ®a: +29 ®iÓm
+		'Th©n ph¸p: +'1'®iÓm'
+		ThÓ lùc tèi ®a: +134 ®iÓm
+		'Phßng thñ vËt lý: +'7'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +2 ®iÓm
+
+-- [11-09-18 22:58:39]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,-38906207,0,0,5,3,8,4,120,5,5,5,7,2,7,0))
+			[ DetailType = 5 ] [[  TuyÕt Doanh ngoa  ]]
+		Néi lùc tèi ®a: +61 ®iÓm
+		'Thêi gian tróng ®éc: -'20'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'Kh¸ng b¨ng: +'14'%'
+		Sinh lùc tèi ®a: +16 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'8'%'
+
+-- [11-09-18 23:09:13]	[DropOn: Train]	[Unlock911-108-unlock911]		Param: (AddItemEx(1,485583802,0,0,6,0,8,2,95,1,7,8,5,2,3,0))
+			[ DetailType = 6 ] [[  Tª Gi¸c Yªu §¸i  ]]
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'8' ®iÓm'
+		Sinh lùc tèi ®a: +111 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		ThÓ lùc tèi ®a: +29 ®iÓm
+		'Kh¸ng háa: +'3'%'
+
+-- [11-09-18 23:35:51]	[DropOn: Train]	[Unlock912-102-unlock912]		Param: (AddItemEx(1,623457427,0,0,6,1,9,2,107,8,3,5,6,2,8,0))
+			[ DetailType = 6 ] [[  ¤ Ng©n Yªu §¸i  ]]
+		ThÓ lùc tèi ®a: +41 ®iÓm
+		'ChuyÓn ho¸t s¸t th­¬ng thµnh néi lùc: +'4'%'
+		Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm
+		'ThÓ lùc tèi ®a: +'9' ®iÓm'
+		Sinh lùc tèi ®a: +18 ®iÓm
+		'Kh¸ng háa: +'19'%'
+

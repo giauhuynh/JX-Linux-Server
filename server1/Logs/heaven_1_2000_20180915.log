@@ -1,0 +1,94 @@
+2018-09-15 14:53:00	heaven(version 2.02) log start....
+2018-09-15 14:55:03	heaven(version 2.02) log start....
+2018-09-15 14:56:22	heaven(version 2.02) log start....
+2018-09-15 15:00:47	heaven(version 2.02) log start....
+2018-09-15 15:02:39	Allocate Connectionidx:0, IP:14.233.232.193, LeftFreeCount:1999
+2018-09-15 15:03:44	Callback Connectionidx:0, CloseReason:2, IP:14.233.232.193, LeftFreeCount: 2000
+2018-09-17 17:15:41	Allocate Connectionidx:1, IP:116.111.230.233, LeftFreeCount:1999
+2018-09-17 17:16:30	Callback Connectionidx:1, CloseReason:5, IP:116.111.230.233, LeftFreeCount: 2000
+2018-09-19 06:36:30	Allocate Connectionidx:2, IP:196.52.84.11, LeftFreeCount:1999
+2018-09-19 06:40:33	Callback Connectionidx:2, CloseReason:5, IP:196.52.84.11, LeftFreeCount: 2000
+2018-09-19 06:48:51	Allocate Connectionidx:3, IP:27.75.46.206, LeftFreeCount:1999
+2018-09-19 06:50:05	Allocate Connectionidx:4, IP:27.75.46.206, LeftFreeCount:1998
+2018-09-19 07:17:22	Callback Connectionidx:4, CloseReason:2, IP:27.75.46.206, LeftFreeCount: 1999
+2018-09-19 07:17:24	Callback Connectionidx:3, CloseReason:2, IP:27.75.46.206, LeftFreeCount: 2000
+2018-09-19 16:42:39	Allocate Connectionidx:5, IP:27.2.129.192, LeftFreeCount:1999
+2018-09-19 16:46:26	Callback Connectionidx:5, CloseReason:3, IP:27.2.129.192, LeftFreeCount: 2000
+2018-09-19 16:46:39	Allocate Connectionidx:6, IP:27.2.129.192, LeftFreeCount:1999
+2018-09-19 16:47:35	Callback Connectionidx:6, CloseReason:3, IP:27.2.129.192, LeftFreeCount: 2000
+2018-09-19 16:47:50	Allocate Connectionidx:7, IP:27.2.129.192, LeftFreeCount:1999
+2018-09-19 16:55:24	Callback Connectionidx:7, CloseReason:5, IP:27.2.129.192, LeftFreeCount: 2000
+2018-09-19 17:04:07	Allocate Connectionidx:8, IP:27.2.129.192, LeftFreeCount:1999
+2018-09-19 17:04:38	Callback Connectionidx:8, CloseReason:3, IP:27.2.129.192, LeftFreeCount: 2000
+2018-09-19 17:04:47	Allocate Connectionidx:9, IP:27.2.129.192, LeftFreeCount:1999
+2018-09-19 17:05:59	Callback Connectionidx:9, CloseReason:3, IP:27.2.129.192, LeftFreeCount: 2000
+2018-09-19 17:06:31	Allocate Connectionidx:10, IP:27.2.129.192, LeftFreeCount:1999
+2018-09-19 17:09:07	Callback Connectionidx:10, CloseReason:3, IP:27.2.129.192, LeftFreeCount: 2000
+2018-09-19 17:15:58	Allocate Connectionidx:11, IP:27.2.129.192, LeftFreeCount:1999
+2018-09-19 17:23:13	Callback Connectionidx:11, CloseReason:3, IP:27.2.129.192, LeftFreeCount: 2000
+2018-09-19 17:23:33	Allocate Connectionidx:12, IP:27.2.129.192, LeftFreeCount:1999
+2018-09-19 17:23:57	Callback Connectionidx:12, CloseReason:3, IP:27.2.129.192, LeftFreeCount: 2000
+2018-09-19 18:16:02	Allocate Connectionidx:13, IP:61.12.252.245, LeftFreeCount:1999
+2018-09-19 18:28:21	Allocate Connectionidx:14, IP:27.2.129.192, LeftFreeCount:1998
+2018-09-19 18:29:28	Callback Connectionidx:14, CloseReason:3, IP:27.2.129.192, LeftFreeCount: 1999
+2018-09-19 18:29:42	Allocate Connectionidx:15, IP:27.2.129.192, LeftFreeCount:1998
+2018-09-19 18:32:02	Allocate Connectionidx:16, IP:61.12.252.245, LeftFreeCount:1997
+2018-09-19 18:34:17	Callback Connectionidx:15, CloseReason:3, IP:27.2.129.192, LeftFreeCount: 1998
+2018-09-19 18:34:32	Allocate Connectionidx:17, IP:27.2.129.192, LeftFreeCount:1997
+2018-09-19 18:51:13	Callback Connectionidx:17, CloseReason:5, IP:27.2.129.192, LeftFreeCount: 1998
+2018-09-19 18:51:20	Allocate Connectionidx:18, IP:27.2.129.192, LeftFreeCount:1997
+2018-09-19 19:22:30	Callback Connectionidx:13, CloseReason:3, IP:61.12.252.245, LeftFreeCount: 1998
+2018-09-19 19:22:41	Allocate Connectionidx:19, IP:61.12.252.245, LeftFreeCount:1997
+2018-09-19 19:23:25	Callback Connectionidx:19, CloseReason:3, IP:61.12.252.245, LeftFreeCount: 1998
+2018-09-19 19:23:31	Allocate Connectionidx:20, IP:61.12.252.245, LeftFreeCount:1997
+2018-09-19 19:23:42	Callback Connectionidx:20, CloseReason:3, IP:61.12.252.245, LeftFreeCount: 1998
+2018-09-19 19:23:59	Allocate Connectionidx:21, IP:61.12.252.245, LeftFreeCount:1997
+2018-09-19 19:24:19	Callback Connectionidx:21, CloseReason:3, IP:61.12.252.245, LeftFreeCount: 1998
+2018-09-19 19:24:36	Allocate Connectionidx:22, IP:61.12.252.245, LeftFreeCount:1997
+2018-09-19 19:31:32	Callback Connectionidx:18, CloseReason:3, IP:27.2.129.192, LeftFreeCount: 1998
+2018-09-19 19:32:00	Callback Connectionidx:16, CloseReason:3, IP:61.12.252.245, LeftFreeCount: 1999
+2018-09-19 19:32:03	Callback Connectionidx:22, CloseReason:3, IP:61.12.252.245, LeftFreeCount: 2000
+2018-09-19 19:33:38	Allocate Connectionidx:23, IP:27.2.129.192, LeftFreeCount:1999
+2018-09-19 19:34:55	Callback Connectionidx:23, CloseReason:3, IP:27.2.129.192, LeftFreeCount: 2000
+2018-09-19 19:35:06	Allocate Connectionidx:24, IP:27.2.129.192, LeftFreeCount:1999
+2018-09-19 19:39:03	Allocate Connectionidx:25, IP:27.75.46.206, LeftFreeCount:1998
+2018-09-19 19:39:31	Allocate Connectionidx:26, IP:27.75.46.206, LeftFreeCount:1997
+2018-09-19 20:20:36	Callback Connectionidx:24, CloseReason:3, IP:27.2.129.192, LeftFreeCount: 1998
+2018-09-19 21:56:49	Allocate Connectionidx:27, IP:27.75.46.206, LeftFreeCount:1997
+2018-09-19 22:38:04	Callback Connectionidx:25, CloseReason:2, IP:27.75.46.206, LeftFreeCount: 1998
+2018-09-19 22:38:30	Callback Connectionidx:26, CloseReason:2, IP:27.75.46.206, LeftFreeCount: 1999
+2018-09-19 22:47:48	Callback Connectionidx:27, CloseReason:2, IP:27.75.46.206, LeftFreeCount: 2000
+2018-09-20 08:16:29	Allocate Connectionidx:28, IP:116.108.237.77, LeftFreeCount:1999
+2018-09-20 08:17:11	Allocate Connectionidx:29, IP:116.108.237.77, LeftFreeCount:1998
+2018-09-20 10:59:12	Callback Connectionidx:28, CloseReason:2, IP:116.108.237.77, LeftFreeCount: 1999
+2018-09-20 10:59:14	Callback Connectionidx:29, CloseReason:2, IP:116.108.237.77, LeftFreeCount: 2000
+2018-09-20 15:46:25	Allocate Connectionidx:30, IP:116.108.237.77, LeftFreeCount:1999
+2018-09-20 16:23:24	Allocate Connectionidx:31, IP:116.108.237.77, LeftFreeCount:1998
+2018-09-20 17:58:03	Callback Connectionidx:31, CloseReason:2, IP:116.108.237.77, LeftFreeCount: 1999
+2018-09-20 17:59:52	Callback Connectionidx:30, CloseReason:2, IP:116.108.237.77, LeftFreeCount: 2000
+2018-09-20 21:57:13	Allocate Connectionidx:32, IP:27.75.46.206, LeftFreeCount:1999
+2018-09-20 22:00:27	Callback Connectionidx:32, CloseReason:2, IP:27.75.46.206, LeftFreeCount: 2000
+2018-09-21 13:33:03	Allocate Connectionidx:33, IP:42.118.214.140, LeftFreeCount:1999
+2018-09-21 13:34:00	Callback Connectionidx:33, CloseReason:3, IP:42.118.214.140, LeftFreeCount: 2000
+2018-09-21 14:51:37	Allocate Connectionidx:34, IP:42.118.214.140, LeftFreeCount:1999
+2018-09-21 15:07:13	Callback Connectionidx:34, CloseReason:3, IP:42.118.214.140, LeftFreeCount: 2000
+2018-09-23 16:54:25	Allocate Connectionidx:35, IP:115.79.47.230, LeftFreeCount:1999
+2018-09-23 16:55:31	Callback Connectionidx:35, CloseReason:2, IP:115.79.47.230, LeftFreeCount: 2000
+2018-09-24 10:57:16	Allocate Connectionidx:36, IP:171.232.102.112, LeftFreeCount:1999
+2018-09-24 11:19:50	Callback Connectionidx:36, CloseReason:5, IP:171.232.102.112, LeftFreeCount: 2000
+2018-09-24 16:56:58	Allocate Connectionidx:37, IP:42.113.186.84, LeftFreeCount:1999
+2018-09-24 16:57:18	Callback Connectionidx:37, CloseReason:5, IP:42.113.186.84, LeftFreeCount: 2000
+2018-09-25 14:56:15	Allocate Connectionidx:38, IP:42.118.214.140, LeftFreeCount:1999
+2018-09-25 14:58:59	Callback Connectionidx:38, CloseReason:3, IP:42.118.214.140, LeftFreeCount: 2000
+2018-09-26 00:20:33	Allocate Connectionidx:39, IP:171.248.179.192, LeftFreeCount:1999
+2018-09-26 00:23:53	Callback Connectionidx:39, CloseReason:2, IP:171.248.179.192, LeftFreeCount: 2000
+2018-09-26 09:57:56	Allocate Connectionidx:40, IP:116.108.237.77, LeftFreeCount:1999
+2018-09-26 09:58:48	Allocate Connectionidx:41, IP:116.108.237.77, LeftFreeCount:1998
+2018-09-26 10:36:44	Callback Connectionidx:40, CloseReason:2, IP:116.108.237.77, LeftFreeCount: 1999
+2018-09-26 10:36:45	Callback Connectionidx:41, CloseReason:2, IP:116.108.237.77, LeftFreeCount: 2000
+2018-09-26 15:49:34	Allocate Connectionidx:42, IP:171.232.102.112, LeftFreeCount:1999
+2018-09-26 16:10:10	Callback Connectionidx:42, CloseReason:3, IP:171.232.102.112, LeftFreeCount: 2000
+2018-09-26 16:12:27	Allocate Connectionidx:43, IP:171.232.102.112, LeftFreeCount:1999
+2018-09-26 19:12:03	Callback Connectionidx:43, CloseReason:5, IP:171.232.102.112, LeftFreeCount: 2000
+2018-09-26 19:12:18	Allocate Connectionidx:44, IP:171.232.102.112, LeftFreeCount:1999
+2018-09-26 19:25:44	Callback Connectionidx:44, CloseReason:2, IP:171.232.102.112, LeftFreeCount: 2000

@@ -1,0 +1,10 @@
+-- ´óµí¡¡¢·ÈË¡¡Ïã¿Ý1
+-- by£ºDan_Deng(2003-09-16)
+
+function main()
+	if (random(0,1) == 0) then
+		Talk(1,"","Thiªn Long Tù lµ gia miÕu cña tinh thÊt thµnh §¹i Lý chóng ta, ®Þa vÞ t«n tinh, h­¬ng háa ®ang thÞnh.")
+	else
+		Talk(1,"","So s¸nh Thiªn Long Tù cña thµnh §¹i Lý chóng ta víi nh÷ng danh s¬n ®¹i tù nh­ Ngò §µi trong Vinh C¶nh, Phæ §µ, Cöu Hoa, kh«ng hÒ thua Nga Mi, ch¼ng qua chØ lµ bëi v× n¬i hoang v¾ng biªn giíi phÝa nam cho nªn Ýt tiÕng t¨m.")
+	end
+end;

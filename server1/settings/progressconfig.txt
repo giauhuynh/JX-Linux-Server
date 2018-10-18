@@ -1,0 +1,27 @@
+Id	Title	Time	EVENT_MOVE	EVENT_ATTACK	EVENT_SITE	EVENT_RIDE	EVENT_USEITEM	EVENT_ARRANGEITEM	EVENT_DROPITEM	EVENT_CHANGEEQUIP	EVENT_TRADE	EVENT_CHANGEFIGHTSTATE	EVENT_ATTACKED	EVENT_DEATH	EVENT_REVIVE	EVENT_BUYITEM	EVENT_SELLITEM	EVENT_TALK	comment
+1	...Waiting...	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	»Ô»ÍÖ®¹û
+2	...Waiting...	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	»Æ½ðÖ®¹û
+3	...Waiting...	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	»Ô»ÍÖ®¹û
+4	...Waiting...	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	ôÕ×ÓÏä
+5	...§ang Thao T¸c...	90	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	¿ªÒ©
+6	...Waiting...	8	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2011ÄêÖ²Ê÷½Ú´òË®
+7	...Waiting...	4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2011Äê7ÔÂ»î¶¯
+8	...Waiting...	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ñ×µÛ±¦²Ø´ò¿ªÃØ±¦
+9	...Waiting...	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	150¼¶¼¼ÄÜØ¤°ïÈÎÎñ
+10	...Waiting...	5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	150¼¶¼¼ÄÜÊìÁ·¶È
+11	...Waiting...	6	1	0	1	1	0	0	0	0	0	0	0	1	1	0	0	0	ÌìÖ®±¦Ïä
+12	...Waiting...	0	1	0	1	1	0	0	0	0	0	0	0	1	1	0	0	0	»ìÔªÁéÂ¶°ü
+13	...Waiting...	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	3ÃëÊ°È¡
+14	...Waiting...	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2012ÖÐÇï¹úÇì»î¶¯Ê³ÓÃÉñÆæµÄÔÂ±ý
+15	...Waiting...	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2012Äê11ÔÂ»î¶¯ÔîÌ¨¶ÁÌõëçÖÆÀ°Èâ
+16	...Waiting...	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2013ÄêÔªÏü»î¶¯µãµÆÁý
+17	...Waiting...	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2013ÄêÔªÏü»î¶¯µãµÆÁý
+18	...Waiting...	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2013ÄêÔªÏü»î¶¯µãµÆÁý
+19	...Waiting...	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2013ÄêÎåÔÂ»î¶¯
+20	...Waiting...	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2013ÄêÎåÔÂ»î¶¯
+21	...Waiting...	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2013Äê¶ËÎç»î¶¯
+22	...Waiting...	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2013Äê¶ËÎç»î¶¯
+23	…®ang thay ®æi ma ph¸p…	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2013Äê¶ËÎç»î¶¯
+24	…®ang h¸i qu¶…	10	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2013Äê¶ËÎç»î¶¯
+25	Di chuyÓn ®Ó b¾t c¸	60	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2013Äê¶ËÎç»î¶¯
+26	§ang thu thËp	3	1	0	1	1	0	0	0	0	0	0	0	1	1	0	0	0	ÌìÖ®±¦Ïä

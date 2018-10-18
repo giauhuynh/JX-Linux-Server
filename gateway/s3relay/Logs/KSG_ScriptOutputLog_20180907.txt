@@ -1,0 +1,1014 @@
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\misc\rank\rankdata.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode \script\sharedata_key.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/gb_taskfuncs.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/lib/sharedata.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/leaguematch/switch.lua 
+ExecuteCode /script/leaguematch/head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/mision/boss/bigboss.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode \script\tong\tong_statistics.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode \script\mission\dungeon\datamanager.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/second_hand_store/goodslist.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode /script/bil4i3n/bil4i3n_bangxephang.lua 
+ExecuteCode /script/bil4i3n/bil4i3n_ontimer_tong.lua 
+ExecuteCode /script/bil4i3n/bil4i3n_msg2allworld.lua 
+ExecuteCode /script/bil4i3n/bil4i3n_worldrank_hook.lua 
+ExecuteCode /script/bil4i3n/bil4i3n_boss_tinh_anh.lua 
+ExecuteCode /script/bil4i3n/bil4i3n_funcs3relay.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\challengeoftime-1h0.lua 
+CallFun \RelaySetting\Task\challengeoftime-1h0.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challengeoftime-3h0.lua 
+CallFun \RelaySetting\Task\challengeoftime-3h0.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challengeoftime-5h0.lua 
+CallFun \RelaySetting\Task\challengeoftime-5h0.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challengeoftime-7h0.lua 
+CallFun \RelaySetting\Task\challengeoftime-7h0.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challengeoftime-9h0.lua 
+CallFun \RelaySetting\Task\challengeoftime-9h0.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challengeoftime-11h0.lua 
+CallFun \RelaySetting\Task\challengeoftime-11h0.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challengeoftime-13h0.lua 
+CallFun \RelaySetting\Task\challengeoftime-13h0.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challengeoftime-15h0.lua 
+CallFun \RelaySetting\Task\challengeoftime-15h0.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challengeoftime-17h0.lua 
+CallFun \RelaySetting\Task\challengeoftime-17h0.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challengeoftime-19h0.lua 
+CallFun \RelaySetting\Task\challengeoftime-19h0.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challengeoftime-21h0.lua 
+CallFun \RelaySetting\Task\challengeoftime-21h0.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challengeoftime-23h0.lua 
+CallFun \RelaySetting\Task\challengeoftime-23h0.lua TaskShedule
+ExecuteCode \RelaySetting\Task\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_1h50.lua 
+CallFun \RelaySetting\Task\fengling_ferry_1h50.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_3h50.lua 
+CallFun \RelaySetting\Task\fengling_ferry_3h50.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_5h50.lua 
+CallFun \RelaySetting\Task\fengling_ferry_5h50.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_7h50.lua 
+CallFun \RelaySetting\Task\fengling_ferry_7h50.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_9h50.lua 
+CallFun \RelaySetting\Task\fengling_ferry_9h50.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_11h50.lua 
+CallFun \RelaySetting\Task\fengling_ferry_11h50.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_13h50.lua 
+CallFun \RelaySetting\Task\fengling_ferry_13h50.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_15h50.lua 
+CallFun \RelaySetting\Task\fengling_ferry_15h50.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_17h50.lua 
+CallFun \RelaySetting\Task\fengling_ferry_17h50.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_19h50.lua 
+CallFun \RelaySetting\Task\fengling_ferry_19h50.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_21h50.lua 
+CallFun \RelaySetting\Task\fengling_ferry_21h50.lua TaskShedule
+ExecuteCode \RelaySetting\Task\fengling_ferry_23h50.lua 
+CallFun \RelaySetting\Task\fengling_ferry_23h50.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\ladderload.lua 
+CallFun \RelaySetting\Task\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bilcallboss_20h15.lua 
+ExecuteCode \RelaySetting\Task\bilcallboss_incityhead.lua 
+CallFun \RelaySetting\Task\bilcallboss_20h15.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bilcallboss_22h15.lua 
+CallFun \RelaySetting\Task\bilcallboss_22h15.lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle-1-9h(8h50).lua 
+CallFun \RelaySetting\Task\battle-1-9h(8h50).lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle-1-11h(10h50).lua 
+CallFun \RelaySetting\Task\battle-1-11h(10h50).lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle-1-13h(12h50).lua 
+CallFun \RelaySetting\Task\battle-1-13h(12h50).lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle-1-15h(14h50).lua 
+CallFun \RelaySetting\Task\battle-1-15h(14h50).lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle-1-17h(16h50).lua 
+CallFun \RelaySetting\Task\battle-1-17h(16h50).lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle-1-19h(18h50).lua 
+CallFun \RelaySetting\Task\battle-1-19h(18h50).lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle-1-21h(20h50).lua 
+CallFun \RelaySetting\Task\battle-1-21h(20h50).lua TaskShedule
+ExecuteCode \RelaySetting\Task\battle-1-23h(22h50).lua 
+CallFun \RelaySetting\Task\battle-1-23h(22h50).lua TaskShedule
+ExecuteCode \RelaySetting\Task\congthanh7thanh\sevencity_1.lua 
+CallFun \RelaySetting\Task\congthanh7thanh\sevencity_1.lua TaskShedule
+ExecuteCode \RelaySetting\Task\congthanh7thanh\sevencity_2.lua 
+CallFun \RelaySetting\Task\congthanh7thanh\sevencity_2.lua TaskShedule
+ExecuteCode \RelaySetting\Task\congthanh7thanh\sevencity_3.lua 
+CallFun \RelaySetting\Task\congthanh7thanh\sevencity_3.lua TaskShedule
+ExecuteCode \RelaySetting\Task\congthanh7thanh\sevencity_4.lua 
+CallFun \RelaySetting\Task\congthanh7thanh\sevencity_4.lua TaskShedule
+ExecuteCode \RelaySetting\Task\congthanh7thanh\sevencity_5.lua 
+CallFun \RelaySetting\Task\congthanh7thanh\sevencity_5.lua TaskShedule
+ExecuteCode \RelaySetting\Task\leaguematch.lua 
+CallFun \RelaySetting\Task\leaguematch.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_phongkytoado_2h00.lua 
+CallFun \RelaySetting\Task\bil_phongkytoado_2h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_phongkytoado_4h00.lua 
+CallFun \RelaySetting\Task\bil_phongkytoado_4h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_phongkytoado_6h00.lua 
+CallFun \RelaySetting\Task\bil_phongkytoado_6h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_phongkytoado_8h00.lua 
+CallFun \RelaySetting\Task\bil_phongkytoado_8h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_phongkytoado_10h00.lua 
+CallFun \RelaySetting\Task\bil_phongkytoado_10h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_phongkytoado_12h00.lua 
+CallFun \RelaySetting\Task\bil_phongkytoado_12h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_phongkytoado_14h00.lua 
+CallFun \RelaySetting\Task\bil_phongkytoado_14h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_phongkytoado_16h00.lua 
+CallFun \RelaySetting\Task\bil_phongkytoado_16h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_phongkytoado_18h00.lua 
+CallFun \RelaySetting\Task\bil_phongkytoado_18h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_phongkytoado_20h00.lua 
+CallFun \RelaySetting\Task\bil_phongkytoado_20h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_phongkytoado_22h00.lua 
+CallFun \RelaySetting\Task\bil_phongkytoado_22h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_phongkytoado_24h00.lua 
+CallFun \RelaySetting\Task\bil_phongkytoado_24h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonghoalienthanh\citydefence_1830.lua 
+CallFun \RelaySetting\Task\phonghoalienthanh\citydefence_1830.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonghoalienthanh\close_citydefence_1900.lua 
+CallFun \RelaySetting\Task\phonghoalienthanh\close_citydefence_1900.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_daichienhoason_10h15.lua 
+CallFun \RelaySetting\Task\bil_daichienhoason_10h15.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_daichienhoason_21h15.lua 
+CallFun \RelaySetting\Task\bil_daichienhoason_21h15.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_nhimbeophi_11h30.lua 
+CallFun \RelaySetting\Task\bil_nhimbeophi_11h30.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_nhimbeophi_22h30.lua 
+CallFun \RelaySetting\Task\bil_nhimbeophi_22h30.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_update_datarank_privweek.lua 
+CallFun \RelaySetting\Task\bil_update_datarank_privweek.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_worldrank_update_data_hook.lua 
+CallFun \RelaySetting\Task\bil_worldrank_update_data_hook.lua TaskShedule
+ExecuteCode \RelaySetting\Task\yandibaozang_7h.lua 
+CallFun \RelaySetting\Task\yandibaozang_7h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\yandibaozang_11h.lua 
+CallFun \RelaySetting\Task\yandibaozang_11h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\yandibaozang_15h.lua 
+CallFun \RelaySetting\Task\yandibaozang_15h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\yandibaozang_19h.lua 
+CallFun \RelaySetting\Task\yandibaozang_19h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\yandibaozang_23h.lua 
+CallFun \RelaySetting\Task\yandibaozang_23h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_boss_tinh_anh.lua 
+CallFun \RelaySetting\Task\bil_boss_tinh_anh.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss_mini_old_12h.lua 
+ExecuteCode \RelaySetting\Task\boss_mini_old_call.lua 
+CallFun \RelaySetting\Task\boss_mini_old_12h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss_mini_old_20h15.lua 
+CallFun \RelaySetting\Task\boss_mini_old_20h15.lua TaskShedule
+ExecuteCode \RelaySetting\Task\longdenbanghoi.lua 
+CallFun \RelaySetting\Task\longdenbanghoi.lua TaskShedule
+ExecuteCode \RelaySetting\Task\qua_hh_hk_chien_long_dong_20h.lua 
+CallFun \RelaySetting\Task\qua_hh_hk_chien_long_dong_20h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\cau_ca_7h00.lua 
+CallFun \RelaySetting\Task\cau_ca_7h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\cau_ca_17h00.lua 
+CallFun \RelaySetting\Task\cau_ca_17h00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\bil_tieu_bang_chien.lua 
+CallFun \RelaySetting\Task\bil_tieu_bang_chien.lua TaskShedule
+ExecuteCode \RelaySetting\Task\congthanh7thanh\sevencity_cleardata.lua 
+CallFun \RelaySetting\Task\congthanh7thanh\sevencity_cleardata.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun ladderload.lua TaskContent
+CallFun bil_worldrank_update_data_hook.lua TaskContent
+CallFun challengeoftime-1h0.lua GameSvrConnected
+CallFun challengeoftime-3h0.lua GameSvrConnected
+CallFun challengeoftime-5h0.lua GameSvrConnected
+CallFun challengeoftime-7h0.lua GameSvrConnected
+CallFun challengeoftime-9h0.lua GameSvrConnected
+CallFun challengeoftime-11h0.lua GameSvrConnected
+CallFun challengeoftime-13h0.lua GameSvrConnected
+CallFun challengeoftime-15h0.lua GameSvrConnected
+CallFun challengeoftime-17h0.lua GameSvrConnected
+CallFun challengeoftime-19h0.lua GameSvrConnected
+CallFun challengeoftime-21h0.lua GameSvrConnected
+CallFun challengeoftime-23h0.lua GameSvrConnected
+CallFun challegeoftime-dailyrank.lua GameSvrConnected
+CallFun fengling_ferry_1h50.lua GameSvrConnected
+CallFun fengling_ferry_3h50.lua GameSvrConnected
+CallFun fengling_ferry_5h50.lua GameSvrConnected
+CallFun fengling_ferry_7h50.lua GameSvrConnected
+CallFun fengling_ferry_9h50.lua GameSvrConnected
+CallFun fengling_ferry_11h50.lua GameSvrConnected
+CallFun fengling_ferry_13h50.lua GameSvrConnected
+CallFun fengling_ferry_15h50.lua GameSvrConnected
+CallFun fengling_ferry_17h50.lua GameSvrConnected
+CallFun fengling_ferry_19h50.lua GameSvrConnected
+CallFun fengling_ferry_21h50.lua GameSvrConnected
+CallFun fengling_ferry_23h50.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun ladderload.lua GameSvrConnected
+CallFun bilcallboss_20h15.lua GameSvrConnected
+CallFun bilcallboss_22h15.lua GameSvrConnected
+CallFun battle-1-9h(8h50).lua GameSvrConnected
+CallFun battle-1-11h(10h50).lua GameSvrConnected
+CallFun battle-1-13h(12h50).lua GameSvrConnected
+CallFun battle-1-15h(14h50).lua GameSvrConnected
+CallFun battle-1-17h(16h50).lua GameSvrConnected
+CallFun battle-1-19h(18h50).lua GameSvrConnected
+CallFun battle-1-21h(20h50).lua GameSvrConnected
+CallFun battle-1-23h(22h50).lua GameSvrConnected
+CallFun congthanh7thanh\sevencity_1.lua GameSvrConnected
+CallFun congthanh7thanh\sevencity_2.lua GameSvrConnected
+CallFun congthanh7thanh\sevencity_3.lua GameSvrConnected
+CallFun congthanh7thanh\sevencity_4.lua GameSvrConnected
+CallFun congthanh7thanh\sevencity_5.lua GameSvrConnected
+CallFun leaguematch.lua GameSvrConnected
+CallFun bil_phongkytoado_2h00.lua GameSvrConnected
+CallFun bil_phongkytoado_4h00.lua GameSvrConnected
+CallFun bil_phongkytoado_6h00.lua GameSvrConnected
+CallFun bil_phongkytoado_8h00.lua GameSvrConnected
+CallFun bil_phongkytoado_10h00.lua GameSvrConnected
+CallFun bil_phongkytoado_12h00.lua GameSvrConnected
+CallFun bil_phongkytoado_14h00.lua GameSvrConnected
+CallFun bil_phongkytoado_16h00.lua GameSvrConnected
+CallFun bil_phongkytoado_18h00.lua GameSvrConnected
+CallFun bil_phongkytoado_20h00.lua GameSvrConnected
+CallFun bil_phongkytoado_22h00.lua GameSvrConnected
+CallFun bil_phongkytoado_24h00.lua GameSvrConnected
+CallFun phonghoalienthanh\citydefence_1830.lua GameSvrConnected
+CallFun phonghoalienthanh\close_citydefence_1900.lua GameSvrConnected
+CallFun bil_daichienhoason_10h15.lua GameSvrConnected
+CallFun bil_daichienhoason_21h15.lua GameSvrConnected
+CallFun bil_nhimbeophi_11h30.lua GameSvrConnected
+CallFun bil_nhimbeophi_22h30.lua GameSvrConnected
+CallFun bil_update_datarank_privweek.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun bil_worldrank_update_data_hook.lua GameSvrConnected
+CallFun yandibaozang_7h.lua GameSvrConnected
+CallFun yandibaozang_11h.lua GameSvrConnected
+CallFun yandibaozang_15h.lua GameSvrConnected
+CallFun yandibaozang_19h.lua GameSvrConnected
+CallFun yandibaozang_23h.lua GameSvrConnected
+CallFun bil_boss_tinh_anh.lua GameSvrConnected
+CallFun boss_mini_old_12h.lua GameSvrConnected
+CallFun boss_mini_old_20h15.lua GameSvrConnected
+CallFun longdenbanghoi.lua GameSvrConnected
+CallFun qua_hh_hk_chien_long_dong_20h.lua GameSvrConnected
+CallFun cau_ca_7h00.lua GameSvrConnected
+CallFun cau_ca_17h00.lua GameSvrConnected
+CallFun bil_tieu_bang_chien.lua GameSvrConnected
+CallFun congthanh7thanh\sevencity_cleardata.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun challengeoftime-1h0.lua GameSvrReady
+CallFun challengeoftime-3h0.lua GameSvrReady
+CallFun challengeoftime-5h0.lua GameSvrReady
+CallFun challengeoftime-7h0.lua GameSvrReady
+CallFun challengeoftime-9h0.lua GameSvrReady
+CallFun challengeoftime-11h0.lua GameSvrReady
+CallFun challengeoftime-13h0.lua GameSvrReady
+CallFun challengeoftime-15h0.lua GameSvrReady
+CallFun challengeoftime-17h0.lua GameSvrReady
+CallFun challengeoftime-19h0.lua GameSvrReady
+CallFun challengeoftime-21h0.lua GameSvrReady
+CallFun challengeoftime-23h0.lua GameSvrReady
+CallFun challegeoftime-dailyrank.lua GameSvrReady
+CallFun fengling_ferry_1h50.lua GameSvrReady
+CallFun fengling_ferry_3h50.lua GameSvrReady
+CallFun fengling_ferry_5h50.lua GameSvrReady
+CallFun fengling_ferry_7h50.lua GameSvrReady
+CallFun fengling_ferry_9h50.lua GameSvrReady
+CallFun fengling_ferry_11h50.lua GameSvrReady
+CallFun fengling_ferry_13h50.lua GameSvrReady
+CallFun fengling_ferry_15h50.lua GameSvrReady
+CallFun fengling_ferry_17h50.lua GameSvrReady
+CallFun fengling_ferry_19h50.lua GameSvrReady
+CallFun fengling_ferry_21h50.lua GameSvrReady
+CallFun fengling_ferry_23h50.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun ladderload.lua GameSvrReady
+CallFun bilcallboss_20h15.lua GameSvrReady
+CallFun bilcallboss_22h15.lua GameSvrReady
+CallFun battle-1-9h(8h50).lua GameSvrReady
+CallFun battle-1-11h(10h50).lua GameSvrReady
+CallFun battle-1-13h(12h50).lua GameSvrReady
+CallFun battle-1-15h(14h50).lua GameSvrReady
+CallFun battle-1-17h(16h50).lua GameSvrReady
+CallFun battle-1-19h(18h50).lua GameSvrReady
+CallFun battle-1-21h(20h50).lua GameSvrReady
+CallFun battle-1-23h(22h50).lua GameSvrReady
+CallFun congthanh7thanh\sevencity_1.lua GameSvrReady
+CallFun congthanh7thanh\sevencity_2.lua GameSvrReady
+CallFun congthanh7thanh\sevencity_3.lua GameSvrReady
+CallFun congthanh7thanh\sevencity_4.lua GameSvrReady
+CallFun congthanh7thanh\sevencity_5.lua GameSvrReady
+CallFun leaguematch.lua GameSvrReady
+CallFun bil_phongkytoado_2h00.lua GameSvrReady
+CallFun bil_phongkytoado_4h00.lua GameSvrReady
+CallFun bil_phongkytoado_6h00.lua GameSvrReady
+CallFun bil_phongkytoado_8h00.lua GameSvrReady
+CallFun bil_phongkytoado_10h00.lua GameSvrReady
+CallFun bil_phongkytoado_12h00.lua GameSvrReady
+CallFun bil_phongkytoado_14h00.lua GameSvrReady
+CallFun bil_phongkytoado_16h00.lua GameSvrReady
+CallFun bil_phongkytoado_18h00.lua GameSvrReady
+CallFun bil_phongkytoado_20h00.lua GameSvrReady
+CallFun bil_phongkytoado_22h00.lua GameSvrReady
+CallFun bil_phongkytoado_24h00.lua GameSvrReady
+CallFun phonghoalienthanh\citydefence_1830.lua GameSvrReady
+CallFun phonghoalienthanh\close_citydefence_1900.lua GameSvrReady
+CallFun bil_daichienhoason_10h15.lua GameSvrReady
+CallFun bil_daichienhoason_21h15.lua GameSvrReady
+CallFun bil_nhimbeophi_11h30.lua GameSvrReady
+CallFun bil_nhimbeophi_22h30.lua GameSvrReady
+CallFun bil_update_datarank_privweek.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun bil_worldrank_update_data_hook.lua GameSvrReady
+CallFun yandibaozang_7h.lua GameSvrReady
+CallFun yandibaozang_11h.lua GameSvrReady
+CallFun yandibaozang_15h.lua GameSvrReady
+CallFun yandibaozang_19h.lua GameSvrReady
+CallFun yandibaozang_23h.lua GameSvrReady
+CallFun bil_boss_tinh_anh.lua GameSvrReady
+CallFun boss_mini_old_12h.lua GameSvrReady
+CallFun boss_mini_old_20h15.lua GameSvrReady
+CallFun longdenbanghoi.lua GameSvrReady
+CallFun qua_hh_hk_chien_long_dong_20h.lua GameSvrReady
+CallFun cau_ca_7h00.lua GameSvrReady
+CallFun cau_ca_17h00.lua GameSvrReady
+CallFun bil_tieu_bang_chien.lua GameSvrReady
+CallFun congthanh7thanh\sevencity_cleardata.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun challengeoftime-3h0.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun fengling_ferry_3h50.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_phongkytoado_4h00.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun challengeoftime-5h0.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun fengling_ferry_5h50.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_phongkytoado_6h00.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun challengeoftime-7h0.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun yandibaozang_7h.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun fengling_ferry_7h50.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_phongkytoado_8h00.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun challengeoftime-9h0.lua TaskContent
+CallFun battle-1-9h(8h50).lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+ExecuteCode  
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun fengling_ferry_9h50.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_phongkytoado_10h00.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun challengeoftime-11h0.lua TaskContent
+CallFun battle-1-11h(10h50).lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun yandibaozang_11h.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun leaguematch.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_daichienhoason_10h15.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_nhimbeophi_11h30.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun fengling_ferry_11h50.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_phongkytoado_12h00.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun boss_mini_old_12h.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun challengeoftime-13h0.lua TaskContent
+CallFun battle-1-13h(12h50).lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun fengling_ferry_13h50.lua TaskContent
+CallFun phonghoalienthanh\citydefence_1830.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_phongkytoado_14h00.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+ExecuteCode  
+CallFun /script/tong/tong_mix.lua MEMBER_ADD_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun challengeoftime-15h0.lua TaskContent
+CallFun battle-1-15h(14h50).lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun yandibaozang_15h.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun phonghoalienthanh\close_citydefence_1900.lua TaskContent
+CallFun bil_daichienhoason_21h15.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun fengling_ferry_15h50.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_phongkytoado_16h00.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun challengeoftime-17h0.lua TaskContent
+CallFun battle-1-17h(16h50).lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun leaguematch.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun leaguematch.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun fengling_ferry_17h50.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_phongkytoado_18h00.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun congthanh7thanh\sevencity_1.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun qua_hh_hk_chien_long_dong_20h.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun challengeoftime-19h0.lua TaskContent
+CallFun battle-1-19h(18h50).lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun yandibaozang_19h.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun cau_ca_7h00.lua TaskContent
+CallFun bil_tieu_bang_chien.lua TaskContent
+CallFun congthanh7thanh\sevencity_2.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun leaguematch.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun longdenbanghoi.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun leaguematch.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun fengling_ferry_19h50.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_phongkytoado_20h00.lua TaskContent
+CallFun cau_ca_17h00.lua TaskContent
+CallFun congthanh7thanh\sevencity_3.lua TaskContent
+CallFun tongkim\battle_2_createnew.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bilcallboss_20h15.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun boss_mini_old_20h15.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun congthanh7thanh\sevencity_4.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun challengeoftime-21h0.lua TaskContent
+CallFun battle-1-21h(20h50).lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun tongkim\battle_2_2050.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun congthanh7thanh\sevencity_5.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun fengling_ferry_21h50.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_phongkytoado_22h00.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bilcallboss_22h15.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_nhimbeophi_22h30.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun challengeoftime-23h0.lua TaskContent
+CallFun battle-1-23h(22h50).lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun yandibaozang_23h.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_update_datarank_privweek.lua TaskContent
+CallFun tongkim\battle_1_honour.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun leaguematch.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun fengling_ferry_23h50.lua TaskContent
+CallFun congthanh7thanh\sevencity_cleardata.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent
+CallFun bil_boss_tinh_anh.lua TaskContent

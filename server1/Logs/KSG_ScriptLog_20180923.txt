@@ -1,0 +1,914 @@
+2018-09-23 00:00:40	[Battle Log] Ending Misson Begin
+2018-09-23 00:00:40	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 00:00:40	[Battle Log] Sorting World Ladder
+2018-09-23 00:00:40	[Battle Log] Awarding Activity
+2018-09-23 00:00:40	[Battle Log] Awarding Single Player
+2018-09-23 00:00:40	[Battle Log] Awarding by Result
+2018-09-23 00:00:40	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 00:00:40	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 00:00:40	[Battle Log] Ready for kick Out
+2018-09-23 00:00:40	[Battle Log] Ending Misson End
+2018-09-23 00:00:40	[Battle Log] Ending Misson Begin
+2018-09-23 00:00:40	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 00:00:40	[Battle Log] Sorting World Ladder
+2018-09-23 00:00:40	[Battle Log] Awarding Activity
+2018-09-23 00:00:40	[Battle Log] Awarding Single Player
+2018-09-23 00:00:40	[Battle Log] Awarding by Result
+2018-09-23 00:00:40	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 00:00:40	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 00:00:40	[Battle Log] Ready for kick Out
+2018-09-23 00:00:40	[Battle Log] Ending Misson End
+2018-09-23 00:00:40	[Battle Log] Ending Misson Begin
+2018-09-23 00:00:40	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 00:00:40	[Battle Log] Sorting World Ladder
+2018-09-23 00:00:40	[Battle Log] Awarding Activity
+2018-09-23 00:00:40	[Battle Log] Awarding Single Player
+2018-09-23 00:00:40	[Battle Log] Awarding by Result
+2018-09-23 00:00:40	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 00:00:40	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 00:00:40	[Battle Log] Ready for kick Out
+2018-09-23 00:00:40	[Battle Log] Ending Misson End
+2018-09-23 08:50:41	Battle Start :1rule20Issue1
+2018-09-23 08:50:41	Battle Start :1rule20Issue1
+2018-09-23 08:50:41	Battle Start :1rule20Issue1
+2018-09-23 09:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 09:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 09:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 10:00:00	[Thiªn Tr× MËt C¶nh][4tÇng]	2018-09-23 10:00			Boss Hoµng Nhan Qu¶ng D­¬ng ë tÇng 4 Thiªn Tr× MËt C¶nh xuÊt hiÖn.
+2018-09-23 10:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 10:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 10:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 10:00:41	[Battle Log] Awarding Activity
+2018-09-23 10:00:41	[Battle Log] Awarding Single Player
+2018-09-23 10:00:41	[Battle Log] Awarding by Result
+2018-09-23 10:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 10:00:41	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 10:00:41	[Battle Log] Ready for kick Out
+2018-09-23 10:00:41	[Battle Log] Ending Misson End
+2018-09-23 10:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 10:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 10:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 10:00:41	[Battle Log] Awarding Activity
+2018-09-23 10:00:41	[Battle Log] Awarding Single Player
+2018-09-23 10:00:41	[Battle Log] Awarding by Result
+2018-09-23 10:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 10:00:41	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 10:00:41	[Battle Log] Ready for kick Out
+2018-09-23 10:00:41	[Battle Log] Ending Misson End
+2018-09-23 10:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 10:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 10:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 10:00:41	[Battle Log] Awarding Activity
+2018-09-23 10:00:41	[Battle Log] Awarding Single Player
+2018-09-23 10:00:41	[Battle Log] Awarding by Result
+2018-09-23 10:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 10:00:41	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 10:00:41	[Battle Log] Ready for kick Out
+2018-09-23 10:00:41	[Battle Log] Ending Misson End
+2018-09-23 10:50:41	Battle Start :1rule20Issue1
+2018-09-23 10:50:41	Battle Start :1rule20Issue1
+2018-09-23 10:50:41	Battle Start :1rule20Issue1
+2018-09-23 11:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 11:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 11:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1502,3041
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1528,3318
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1444,2992
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1487,3022
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1492,2983
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1503,3290
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1492,2983
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1503,3054
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1445,3256
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1487,3093
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1495,3280
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1470,3234
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1455,3257
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1502,3020
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	1,1503,3054
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,2989,5267
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,3306,4842
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,2963,5191
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,2936,5202
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,2915,5239
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,2970,5228
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,2989,5267
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,2902,5144
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,2951,5179
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,2989,5267
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,2911,5163
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,2915,5239
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,3363,4889
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,3369,4909
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	11,3311,4938
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1528,3278
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1535,2952
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1589,2829
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1526,2947
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1530,2928
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1551,2909
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1568,2957
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1498,2906
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1570,2888
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1534,2897
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1535,2952
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1550,3241
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1466,2910
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1535,2952
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	37,1570,3285
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1341,3449
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1398,3358
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1366,3156
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1429,3096
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1398,3384
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1359,3444
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1404,3340
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1398,3339
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1341,3423
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1341,3449
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1400,3366
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1384,3125
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1359,3133
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1439,3051
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	78,1366,3156
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1773,3373
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1754,3280
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1770,3284
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1773,3373
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1585,3295
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1789,3291
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1763,3354
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1518,3302
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1788,3263
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1755,3268
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1811,3249
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1749,3274
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1546,3258
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1517,3254
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	80,1595,3344
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1751,3003
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1407,3415
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1419,3402
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1425,3408
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1341,3207
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1426,3394
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1337,3310
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1720,3047
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1679,3009
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1679,3009
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1407,3415
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1734,3005
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1416,3374
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1720,3047
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	162,1679,3009
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1623,2731
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1684,2862
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1623,2731
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1239,3359
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1336,3385
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1656,2731
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1257,3386
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1212,3347
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1257,3418
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1345,3395
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1231,3362
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1650,2778
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1233,3338
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1250,3342
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	176,1631,2795
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1484,3533
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1693,3184
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1632,3078
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1595,3005
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1638,3326
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1595,3005
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1512,3329
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1632,3078
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1434,3251
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1638,3326
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1481,3408
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1533,3397
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1481,3408
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1595,3005
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	174,1560,3136
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,2035,4605
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,2249,4582
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,1832,4438
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,1896,4631
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,2062,4410
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,1851,4569
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,1832,4438
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,2249,4582
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,1832,4438
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,2065,4281
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,2062,4410
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,2035,4605
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,1827,4510
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,2062,4410
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	121,2065,4281
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1600,3375
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1551,3214
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1701,3172
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1701,3172
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1825,3289
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1723,3024
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1698,3528
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1731,3303
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1587,3320
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1736,3224
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1567,3136
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1600,3375
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1629,3318
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1701,3172
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	153,1731,3303
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1390,3334
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1798,3263
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1390,3334
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1602,3038
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1766,3048
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1822,3099
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1733,2973
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1602,3038
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1859,3295
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1683,3018
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1424,3410
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1390,3334
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1840,3178
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1683,3018
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	101,1683,3018
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1587,3078
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1723,3045
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1504,3266
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1521,3174
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1723,3045
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1513,3257
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1587,3078
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1590,3361
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1543,3130
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1513,3257
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1600,3002
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1513,3257
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1804,3300
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1710,3296
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	99,1600,3002
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1488,3335
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1495,3227
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1758,2908
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1599,3046
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1773,3142
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1811,3249
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1543,3224
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1576,3250
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1721,3069
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1488,3335
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1407,3042
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1758,2908
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1576,3250
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1758,2908
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	100,1538,3063
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3599,6359
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3624,6035
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3724,6299
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3661,6071
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3515,5997
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3426,6284
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3581,5977
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3650,6330
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3581,5977
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3637,5912
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3724,6299
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3724,6299
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3650,6330
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3591,6448
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	20,3505,5847
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1543,3304
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1416,3226
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1611,2957
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1748,3259
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1710,3303
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1416,3226
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1757,3220
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1484,3015
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1546,3333
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1621,3327
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1398,3086
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1748,3259
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1465,3126
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1465,3126
+2018-09-23 11:30:42	Sun Sep 23 11:30:42 2018	53,1465,3126
+2018-09-23 12:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 12:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 12:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 12:00:41	[Battle Log] Awarding Activity
+2018-09-23 12:00:41	[Battle Log] Awarding Single Player
+2018-09-23 12:00:41	[Battle Log] Awarding by Result
+2018-09-23 12:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 12:00:41	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 12:00:41	[Battle Log] Ready for kick Out
+2018-09-23 12:00:41	[Battle Log] Ending Misson End
+2018-09-23 12:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 12:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 12:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 12:00:41	[Battle Log] Awarding Activity
+2018-09-23 12:00:41	[Battle Log] Awarding Single Player
+2018-09-23 12:00:41	[Battle Log] Awarding by Result
+2018-09-23 12:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 12:00:41	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 12:00:41	[Battle Log] Ready for kick Out
+2018-09-23 12:00:41	[Battle Log] Ending Misson End
+2018-09-23 12:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 12:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 12:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 12:00:41	[Battle Log] Awarding Activity
+2018-09-23 12:00:41	[Battle Log] Awarding Single Player
+2018-09-23 12:00:41	[Battle Log] Awarding by Result
+2018-09-23 12:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 12:00:41	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 12:00:41	[Battle Log] Ready for kick Out
+2018-09-23 12:00:41	[Battle Log] Ending Misson End
+2018-09-23 12:00:58	BaiRenLeiTai	CallNPC_GuShou:960,55840,100384
+2018-09-23 12:30:58	BaiRenLeiTai	CallNPC_GuShou:960,55840,100384
+2018-09-23 12:50:41	Battle Start :1rule20Issue1
+2018-09-23 12:50:41	Battle Start :1rule20Issue1
+2018-09-23 12:50:41	Battle Start :1rule20Issue1
+2018-09-23 13:00:40	butcher battle is entering fight state. now member count=0:0
+2018-09-23 13:00:40	butcher battle is entering fight state. now member count=0:0
+2018-09-23 13:00:40	butcher battle is entering fight state. now member count=0:0
+2018-09-23 13:00:58	BaiRenLeiTai	CallNPC_GuShou:960,56384,99968
+2018-09-23 13:30:58	BaiRenLeiTai	CallNPC_GuShou:960,57888,101152
+2018-09-23 13:50:42	VÖ quèc Phong Háa liªn thµnhThñ thµnh phe Tèng	 vµo giai ®o¹n b¸o danh 	 b¶n ®åi d	580	 thêi gian 	13:50
+2018-09-23 14:00:40	[Battle Log] Ending Misson Begin
+2018-09-23 14:00:40	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 14:00:40	[Battle Log] Sorting World Ladder
+2018-09-23 14:00:40	[Battle Log] Awarding Activity
+2018-09-23 14:00:40	[Battle Log] Awarding Single Player
+2018-09-23 14:00:40	[Battle Log] Awarding by Result
+2018-09-23 14:00:40	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 14:00:40	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 14:00:40	[Battle Log] Ready for kick Out
+2018-09-23 14:00:40	[Battle Log] Ending Misson End
+2018-09-23 14:00:40	[Battle Log] Ending Misson Begin
+2018-09-23 14:00:40	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 14:00:40	[Battle Log] Sorting World Ladder
+2018-09-23 14:00:40	[Battle Log] Awarding Activity
+2018-09-23 14:00:40	[Battle Log] Awarding Single Player
+2018-09-23 14:00:40	[Battle Log] Awarding by Result
+2018-09-23 14:00:40	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 14:00:40	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 14:00:40	[Battle Log] Ready for kick Out
+2018-09-23 14:00:40	[Battle Log] Ending Misson End
+2018-09-23 14:00:40	[Battle Log] Ending Misson Begin
+2018-09-23 14:00:40	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 14:00:40	[Battle Log] Sorting World Ladder
+2018-09-23 14:00:40	[Battle Log] Awarding Activity
+2018-09-23 14:00:40	[Battle Log] Awarding Single Player
+2018-09-23 14:00:40	[Battle Log] Awarding by Result
+2018-09-23 14:00:40	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 14:00:40	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 14:00:40	[Battle Log] Ready for kick Out
+2018-09-23 14:00:40	[Battle Log] Ending Misson End
+2018-09-23 14:00:58	BaiRenLeiTai	CallNPC_GuShou:960,57888,101152
+2018-09-23 14:30:58	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2018-09-23 14:50:41	Battle Start :1rule20Issue1
+2018-09-23 14:50:41	Battle Start :1rule20Issue1
+2018-09-23 14:50:41	Battle Start :1rule20Issue1
+2018-09-23 15:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 15:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 15:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 15:00:58	BaiRenLeiTai	CallNPC_GuShou:960,57056,102848
+2018-09-23 15:30:58	BaiRenLeiTai	CallNPC_GuShou:960,55840,100384
+2018-09-23 16:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 16:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 16:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 16:00:41	[Battle Log] Awarding Activity
+2018-09-23 16:00:41	[Battle Log] Awarding Single Player
+2018-09-23 16:00:41	[Battle Log] Awarding by Result
+2018-09-23 16:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 16:00:41	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 16:00:41	[Battle Log] Ready for kick Out
+2018-09-23 16:00:41	[Battle Log] Ending Misson End
+2018-09-23 16:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 16:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 16:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 16:00:41	[Battle Log] Awarding Activity
+2018-09-23 16:00:41	[Battle Log] Awarding Single Player
+2018-09-23 16:00:41	[Battle Log] Awarding by Result
+2018-09-23 16:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 16:00:41	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 16:00:41	[Battle Log] Ready for kick Out
+2018-09-23 16:00:41	[Battle Log] Ending Misson End
+2018-09-23 16:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 16:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 16:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 16:00:41	[Battle Log] Awarding Activity
+2018-09-23 16:00:41	[Battle Log] Awarding Single Player
+2018-09-23 16:00:41	[Battle Log] Awarding by Result
+2018-09-23 16:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 16:00:41	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 16:00:41	[Battle Log] Ready for kick Out
+2018-09-23 16:00:41	[Battle Log] Ending Misson End
+2018-09-23 16:00:58	BaiRenLeiTai	CallNPC_GuShou:960,57824,99968
+2018-09-23 16:30:58	BaiRenLeiTai	CallNPC_GuShou:960,59264,100192
+2018-09-23 16:50:41	Battle Start :1rule20Issue1
+2018-09-23 16:50:41	Battle Start :1rule20Issue1
+2018-09-23 16:50:41	Battle Start :1rule20Issue1
+2018-09-23 17:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 17:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 17:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 17:00:58	BaiRenLeiTai	CallNPC_GuShou:960,57824,99968
+2018-09-23 17:30:58	BaiRenLeiTai	CallNPC_GuShou:960,56640,97568
+2018-09-23 18:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 18:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 18:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 18:00:41	[Battle Log] Awarding Activity
+2018-09-23 18:00:41	[Battle Log] Awarding Single Player
+2018-09-23 18:00:41	[Battle Log] Awarding by Result
+2018-09-23 18:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 18:00:41	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 18:00:41	[Battle Log] Ready for kick Out
+2018-09-23 18:00:41	[Battle Log] Ending Misson End
+2018-09-23 18:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 18:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 18:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 18:00:41	[Battle Log] Awarding Activity
+2018-09-23 18:00:41	[Battle Log] Awarding Single Player
+2018-09-23 18:00:41	[Battle Log] Awarding by Result
+2018-09-23 18:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 18:00:41	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 18:00:41	[Battle Log] Ready for kick Out
+2018-09-23 18:00:41	[Battle Log] Ending Misson End
+2018-09-23 18:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 18:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 18:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 18:00:41	[Battle Log] Awarding Activity
+2018-09-23 18:00:41	[Battle Log] Awarding Single Player
+2018-09-23 18:00:41	[Battle Log] Awarding by Result
+2018-09-23 18:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 18:00:41	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 18:00:41	[Battle Log] Ready for kick Out
+2018-09-23 18:00:41	[Battle Log] Ending Misson End
+2018-09-23 18:00:42	2018/09/23-18:00	Vâ l©m liªn ®Êu 1 ®ang trong giai ®o¹n b¸o danh. C¸c ®éi muèn tham gia h·y nhanh ch©n ®Õn b¸o danh!
+2018-09-23 18:00:58	BaiRenLeiTai	CallNPC_GuShou:960,55840,100384
+2018-09-23 18:04:42	18-09-23,18:04:42	wlls_buildup_vs(0)
+2018-09-23 18:04:42	18-09-23,18:04:42	wlls_buildup_vs(0)
+2018-09-23 18:04:42	18-09-23,18:04:42	wlls_buildup_vs(0)
+2018-09-23 18:04:42	18-09-23,18:04:42	wlls_buildup_vs(0)
+2018-09-23 18:04:42	18-09-23,18:04:42	wlls_buildup_vs(0)
+2018-09-23 18:04:42	18-09-23,18:04:42	wlls_buildup_vs(0)
+2018-09-23 18:04:42	18-09-23,18:04:42	wlls_buildup_vs(0)
+2018-09-23 18:04:42	18-09-23,18:04:42	wlls_buildup_vs(0)
+2018-09-23 18:14:42	2018-09-23 181442, Vâ l©m liªn ®Êu(8) kÕt thóc thi ®Êu.
+2018-09-23 18:14:42	2018-09-23 181442, Vâ l©m liªn ®Êu(1) kÕt thóc thi ®Êu.
+2018-09-23 18:14:42	2018-09-23 181442, Vâ l©m liªn ®Êu(2) kÕt thóc thi ®Êu.
+2018-09-23 18:14:42	2018-09-23 181442, Vâ l©m liªn ®Êu(3) kÕt thóc thi ®Êu.
+2018-09-23 18:14:42	2018-09-23 181442, Vâ l©m liªn ®Êu(4) kÕt thóc thi ®Êu.
+2018-09-23 18:14:42	2018-09-23 181442, Vâ l©m liªn ®Êu(5) kÕt thóc thi ®Êu.
+2018-09-23 18:14:42	2018-09-23 181442, Vâ l©m liªn ®Êu(6) kÕt thóc thi ®Êu.
+2018-09-23 18:14:42	2018-09-23 181442, Vâ l©m liªn ®Êu(7) kÕt thóc thi ®Êu.
+2018-09-23 18:15:42	2018/09/23-18:15	Vâ l©m liªn ®Êu 2 ®ang trong giai ®o¹n b¸o danh. C¸c ®éi muèn tham gia h·y nhanh ch©n ®Õn b¸o danh!
+2018-09-23 18:19:42	18-09-23,18:19:42	wlls_buildup_vs(0)
+2018-09-23 18:19:42	18-09-23,18:19:42	wlls_buildup_vs(0)
+2018-09-23 18:19:42	18-09-23,18:19:42	wlls_buildup_vs(0)
+2018-09-23 18:19:42	18-09-23,18:19:42	wlls_buildup_vs(0)
+2018-09-23 18:19:42	18-09-23,18:19:42	wlls_buildup_vs(0)
+2018-09-23 18:19:42	18-09-23,18:19:42	wlls_buildup_vs(0)
+2018-09-23 18:19:42	18-09-23,18:19:42	wlls_buildup_vs(0)
+2018-09-23 18:19:42	18-09-23,18:19:42	wlls_buildup_vs(0)
+2018-09-23 18:29:42	2018-09-23 182942, Vâ l©m liªn ®Êu(8) kÕt thóc thi ®Êu.
+2018-09-23 18:29:42	2018-09-23 182942, Vâ l©m liªn ®Êu(1) kÕt thóc thi ®Êu.
+2018-09-23 18:29:42	2018-09-23 182942, Vâ l©m liªn ®Êu(2) kÕt thóc thi ®Êu.
+2018-09-23 18:29:42	2018-09-23 182942, Vâ l©m liªn ®Êu(3) kÕt thóc thi ®Êu.
+2018-09-23 18:29:42	2018-09-23 182942, Vâ l©m liªn ®Êu(4) kÕt thóc thi ®Êu.
+2018-09-23 18:29:42	2018-09-23 182942, Vâ l©m liªn ®Êu(5) kÕt thóc thi ®Êu.
+2018-09-23 18:29:42	2018-09-23 182942, Vâ l©m liªn ®Êu(6) kÕt thóc thi ®Êu.
+2018-09-23 18:29:42	2018-09-23 182942, Vâ l©m liªn ®Êu(7) kÕt thóc thi ®Êu.
+2018-09-23 18:30:42	2018/09/23-18:30	Vâ l©m liªn ®Êu 3 ®ang trong giai ®o¹n b¸o danh. C¸c ®éi muèn tham gia h·y nhanh ch©n ®Õn b¸o danh!
+2018-09-23 18:30:58	BaiRenLeiTai	CallNPC_GuShou:960,56384,99968
+2018-09-23 18:34:42	18-09-23,18:34:42	wlls_buildup_vs(0)
+2018-09-23 18:34:42	18-09-23,18:34:42	wlls_buildup_vs(0)
+2018-09-23 18:34:42	18-09-23,18:34:42	wlls_buildup_vs(0)
+2018-09-23 18:34:42	18-09-23,18:34:42	wlls_buildup_vs(0)
+2018-09-23 18:34:42	18-09-23,18:34:42	wlls_buildup_vs(0)
+2018-09-23 18:34:42	18-09-23,18:34:42	wlls_buildup_vs(0)
+2018-09-23 18:34:42	18-09-23,18:34:42	wlls_buildup_vs(0)
+2018-09-23 18:34:42	18-09-23,18:34:42	wlls_buildup_vs(0)
+2018-09-23 18:44:42	2018-09-23 184442, Vâ l©m liªn ®Êu(8) kÕt thóc thi ®Êu.
+2018-09-23 18:44:42	2018-09-23 184442, Vâ l©m liªn ®Êu(1) kÕt thóc thi ®Êu.
+2018-09-23 18:44:42	2018-09-23 184442, Vâ l©m liªn ®Êu(2) kÕt thóc thi ®Êu.
+2018-09-23 18:44:42	2018-09-23 184442, Vâ l©m liªn ®Êu(3) kÕt thóc thi ®Êu.
+2018-09-23 18:44:42	2018-09-23 184442, Vâ l©m liªn ®Êu(4) kÕt thóc thi ®Êu.
+2018-09-23 18:44:42	2018-09-23 184442, Vâ l©m liªn ®Êu(5) kÕt thóc thi ®Êu.
+2018-09-23 18:44:42	2018-09-23 184442, Vâ l©m liªn ®Êu(6) kÕt thóc thi ®Êu.
+2018-09-23 18:44:42	2018-09-23 184442, Vâ l©m liªn ®Êu(7) kÕt thóc thi ®Êu.
+2018-09-23 18:45:42	2018/09/23-18:45	Vâ l©m liªn ®Êu 4 ®ang trong giai ®o¹n b¸o danh. C¸c ®éi muèn tham gia h·y nhanh ch©n ®Õn b¸o danh!
+2018-09-23 18:49:42	18-09-23,18:49:42	wlls_buildup_vs(0)
+2018-09-23 18:49:42	18-09-23,18:49:42	wlls_buildup_vs(0)
+2018-09-23 18:49:42	18-09-23,18:49:42	wlls_buildup_vs(0)
+2018-09-23 18:49:42	18-09-23,18:49:42	wlls_buildup_vs(0)
+2018-09-23 18:49:42	18-09-23,18:49:42	wlls_buildup_vs(0)
+2018-09-23 18:49:42	18-09-23,18:49:42	wlls_buildup_vs(0)
+2018-09-23 18:49:42	18-09-23,18:49:42	wlls_buildup_vs(0)
+2018-09-23 18:49:42	18-09-23,18:49:42	wlls_buildup_vs(0)
+2018-09-23 18:50:41	Battle Start :1rule20Issue1
+2018-09-23 18:50:41	Battle Start :1rule20Issue1
+2018-09-23 18:50:41	Battle Start :1rule20Issue1
+2018-09-23 18:59:42	2018-09-23 185942, Vâ l©m liªn ®Êu(8) kÕt thóc thi ®Êu.
+2018-09-23 18:59:42	2018-09-23 185942, Vâ l©m liªn ®Êu(1) kÕt thóc thi ®Êu.
+2018-09-23 18:59:42	2018-09-23 185942, Vâ l©m liªn ®Êu(2) kÕt thóc thi ®Êu.
+2018-09-23 18:59:42	2018-09-23 185942, Vâ l©m liªn ®Êu(3) kÕt thóc thi ®Êu.
+2018-09-23 18:59:42	2018-09-23 185942, Vâ l©m liªn ®Êu(4) kÕt thóc thi ®Êu.
+2018-09-23 18:59:42	2018-09-23 185942, Vâ l©m liªn ®Êu(5) kÕt thóc thi ®Êu.
+2018-09-23 18:59:42	2018-09-23 185942, Vâ l©m liªn ®Êu(6) kÕt thóc thi ®Êu.
+2018-09-23 18:59:42	2018-09-23 185942, Vâ l©m liªn ®Êu(7) kÕt thóc thi ®Êu.
+2018-09-23 19:00:40	butcher battle is entering fight state. now member count=0:0
+2018-09-23 19:00:40	butcher battle is entering fight state. now member count=0:0
+2018-09-23 19:00:40	butcher battle is entering fight state. now member count=0:0
+2018-09-23 19:00:42	2018/09/23-19:00	Vâ l©m liªn ®Êu 5 ®ang trong giai ®o¹n b¸o danh. C¸c ®éi muèn tham gia h·y nhanh ch©n ®Õn b¸o danh!
+2018-09-23 19:00:58	BaiRenLeiTai	CallNPC_GuShou:960,55904,96768
+2018-09-23 19:04:42	18-09-23,19:04:42	wlls_buildup_vs(0)
+2018-09-23 19:04:42	18-09-23,19:04:42	wlls_buildup_vs(0)
+2018-09-23 19:04:42	18-09-23,19:04:42	wlls_buildup_vs(0)
+2018-09-23 19:04:42	18-09-23,19:04:42	wlls_buildup_vs(0)
+2018-09-23 19:04:42	18-09-23,19:04:42	wlls_buildup_vs(0)
+2018-09-23 19:04:42	18-09-23,19:04:42	wlls_buildup_vs(0)
+2018-09-23 19:04:42	18-09-23,19:04:42	wlls_buildup_vs(0)
+2018-09-23 19:04:42	18-09-23,19:04:42	wlls_buildup_vs(0)
+2018-09-23 19:14:42	2018-09-23 191442, Vâ l©m liªn ®Êu(8) kÕt thóc thi ®Êu.
+2018-09-23 19:14:42	2018-09-23 191442, Vâ l©m liªn ®Êu(1) kÕt thóc thi ®Êu.
+2018-09-23 19:14:42	2018-09-23 191442, Vâ l©m liªn ®Êu(2) kÕt thóc thi ®Êu.
+2018-09-23 19:14:42	2018-09-23 191442, Vâ l©m liªn ®Êu(3) kÕt thóc thi ®Êu.
+2018-09-23 19:14:42	2018-09-23 191442, Vâ l©m liªn ®Êu(4) kÕt thóc thi ®Êu.
+2018-09-23 19:14:42	2018-09-23 191442, Vâ l©m liªn ®Êu(5) kÕt thóc thi ®Êu.
+2018-09-23 19:14:42	2018-09-23 191442, Vâ l©m liªn ®Êu(6) kÕt thóc thi ®Êu.
+2018-09-23 19:14:42	2018-09-23 191442, Vâ l©m liªn ®Êu(7) kÕt thóc thi ®Êu.
+2018-09-23 19:15:42	2018/09/23-19:15	Vâ l©m liªn ®Êu 6 ®ang trong giai ®o¹n b¸o danh. C¸c ®éi muèn tham gia h·y nhanh ch©n ®Õn b¸o danh!
+2018-09-23 19:19:42	18-09-23,19:19:42	wlls_buildup_vs(0)
+2018-09-23 19:19:42	18-09-23,19:19:42	wlls_buildup_vs(0)
+2018-09-23 19:19:42	18-09-23,19:19:42	wlls_buildup_vs(0)
+2018-09-23 19:19:42	18-09-23,19:19:42	wlls_buildup_vs(0)
+2018-09-23 19:19:42	18-09-23,19:19:42	wlls_buildup_vs(0)
+2018-09-23 19:19:42	18-09-23,19:19:42	wlls_buildup_vs(0)
+2018-09-23 19:19:42	18-09-23,19:19:42	wlls_buildup_vs(0)
+2018-09-23 19:19:42	18-09-23,19:19:42	wlls_buildup_vs(0)
+2018-09-23 19:29:42	2018-09-23 192942, Vâ l©m liªn ®Êu(8) kÕt thóc thi ®Êu.
+2018-09-23 19:29:42	2018-09-23 192942, Vâ l©m liªn ®Êu(1) kÕt thóc thi ®Êu.
+2018-09-23 19:29:42	2018-09-23 192942, Vâ l©m liªn ®Êu(2) kÕt thóc thi ®Êu.
+2018-09-23 19:29:42	2018-09-23 192942, Vâ l©m liªn ®Êu(3) kÕt thóc thi ®Êu.
+2018-09-23 19:29:42	2018-09-23 192942, Vâ l©m liªn ®Êu(4) kÕt thóc thi ®Êu.
+2018-09-23 19:29:42	2018-09-23 192942, Vâ l©m liªn ®Êu(5) kÕt thóc thi ®Êu.
+2018-09-23 19:29:42	2018-09-23 192942, Vâ l©m liªn ®Êu(6) kÕt thóc thi ®Êu.
+2018-09-23 19:29:42	2018-09-23 192942, Vâ l©m liªn ®Êu(7) kÕt thóc thi ®Êu.
+2018-09-23 19:30:42	2018/09/23-19:30	Vâ l©m liªn ®Êu 7 ®ang trong giai ®o¹n b¸o danh. C¸c ®éi muèn tham gia h·y nhanh ch©n ®Õn b¸o danh!
+2018-09-23 19:30:58	BaiRenLeiTai	CallNPC_GuShou:960,58592,99200
+2018-09-23 19:34:42	18-09-23,19:34:42	wlls_buildup_vs(0)
+2018-09-23 19:34:42	18-09-23,19:34:42	wlls_buildup_vs(0)
+2018-09-23 19:34:42	18-09-23,19:34:42	wlls_buildup_vs(0)
+2018-09-23 19:34:42	18-09-23,19:34:42	wlls_buildup_vs(0)
+2018-09-23 19:34:42	18-09-23,19:34:42	wlls_buildup_vs(0)
+2018-09-23 19:34:42	18-09-23,19:34:42	wlls_buildup_vs(0)
+2018-09-23 19:34:42	18-09-23,19:34:42	wlls_buildup_vs(0)
+2018-09-23 19:34:42	18-09-23,19:34:42	wlls_buildup_vs(0)
+2018-09-23 19:44:42	2018-09-23 194442, Vâ l©m liªn ®Êu(8) kÕt thóc thi ®Êu.
+2018-09-23 19:44:42	2018-09-23 194442, Vâ l©m liªn ®Êu(1) kÕt thóc thi ®Êu.
+2018-09-23 19:44:42	2018-09-23 194442, Vâ l©m liªn ®Êu(2) kÕt thóc thi ®Êu.
+2018-09-23 19:44:42	2018-09-23 194442, Vâ l©m liªn ®Êu(3) kÕt thóc thi ®Êu.
+2018-09-23 19:44:42	2018-09-23 194442, Vâ l©m liªn ®Êu(4) kÕt thóc thi ®Êu.
+2018-09-23 19:44:42	2018-09-23 194442, Vâ l©m liªn ®Êu(5) kÕt thóc thi ®Êu.
+2018-09-23 19:44:42	2018-09-23 194442, Vâ l©m liªn ®Êu(6) kÕt thóc thi ®Êu.
+2018-09-23 19:44:42	2018-09-23 194442, Vâ l©m liªn ®Êu(7) kÕt thóc thi ®Êu.
+2018-09-23 19:45:42	2018/09/23-19:45	Vâ l©m liªn ®Êu 8 ®ang trong giai ®o¹n b¸o danh. C¸c ®éi muèn tham gia h·y nhanh ch©n ®Õn b¸o danh!
+2018-09-23 19:49:42	18-09-23,19:49:42	wlls_buildup_vs(0)
+2018-09-23 19:49:42	18-09-23,19:49:42	wlls_buildup_vs(0)
+2018-09-23 19:49:42	18-09-23,19:49:42	wlls_buildup_vs(0)
+2018-09-23 19:49:42	18-09-23,19:49:42	wlls_buildup_vs(0)
+2018-09-23 19:49:42	18-09-23,19:49:42	wlls_buildup_vs(0)
+2018-09-23 19:49:42	18-09-23,19:49:42	wlls_buildup_vs(0)
+2018-09-23 19:49:42	18-09-23,19:49:42	wlls_buildup_vs(0)
+2018-09-23 19:49:42	18-09-23,19:49:42	wlls_buildup_vs(0)
+2018-09-23 19:59:42	2018-09-23 195942, Vâ l©m liªn ®Êu(8) kÕt thóc thi ®Êu.
+2018-09-23 19:59:42	2018-09-23 195942, Vâ l©m liªn ®Êu(1) kÕt thóc thi ®Êu.
+2018-09-23 19:59:42	2018-09-23 195942, Vâ l©m liªn ®Êu(2) kÕt thóc thi ®Êu.
+2018-09-23 19:59:42	2018-09-23 195942, Vâ l©m liªn ®Êu(3) kÕt thóc thi ®Êu.
+2018-09-23 19:59:42	2018-09-23 195942, Vâ l©m liªn ®Êu(4) kÕt thóc thi ®Êu.
+2018-09-23 19:59:42	2018-09-23 195942, Vâ l©m liªn ®Êu(5) kÕt thóc thi ®Êu.
+2018-09-23 19:59:42	2018-09-23 195942, Vâ l©m liªn ®Êu(6) kÕt thóc thi ®Êu.
+2018-09-23 19:59:42	2018-09-23 195942, Vâ l©m liªn ®Êu(7) kÕt thóc thi ®Êu.
+2018-09-23 20:00:40	[Battle Log] Ending Misson Begin
+2018-09-23 20:00:40	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 20:00:40	[Battle Log] Sorting World Ladder
+2018-09-23 20:00:40	[Battle Log] Awarding Activity
+2018-09-23 20:00:40	[Battle Log] Awarding Single Player
+2018-09-23 20:00:40	[Battle Log] Awarding by Result
+2018-09-23 20:00:40	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 20:00:40	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 20:00:40	[Battle Log] Ready for kick Out
+2018-09-23 20:00:40	[Battle Log] Ending Misson End
+2018-09-23 20:00:40	[Battle Log] Ending Misson Begin
+2018-09-23 20:00:40	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 20:00:40	[Battle Log] Sorting World Ladder
+2018-09-23 20:00:40	[Battle Log] Awarding Activity
+2018-09-23 20:00:40	[Battle Log] Awarding Single Player
+2018-09-23 20:00:40	[Battle Log] Awarding by Result
+2018-09-23 20:00:40	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 20:00:40	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 20:00:40	[Battle Log] Ready for kick Out
+2018-09-23 20:00:40	[Battle Log] Ending Misson End
+2018-09-23 20:00:40	[Battle Log] Ending Misson Begin
+2018-09-23 20:00:40	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 20:00:40	[Battle Log] Sorting World Ladder
+2018-09-23 20:00:40	[Battle Log] Awarding Activity
+2018-09-23 20:00:40	[Battle Log] Awarding Single Player
+2018-09-23 20:00:40	[Battle Log] Awarding by Result
+2018-09-23 20:00:40	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 20:00:40	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 20:00:40	[Battle Log] Ready for kick Out
+2018-09-23 20:00:40	[Battle Log] Ending Misson End
+2018-09-23 20:00:58	BaiRenLeiTai	CallNPC_GuShou:960,56640,97568
+2018-09-23 20:15:41	20:15,562,95,4,78,1670,3462,§¹o Thanh Ch©n Nh©n
+2018-09-23 20:15:41	20:15,583,95,3,1,1436,2953,M¹nh Th­¬ng L­¬ng
+2018-09-23 20:15:41	20:15,1366,95,1,11,3346,4797,§­êng Phi YÕn
+2018-09-23 20:15:41	20:15,747,95,4,80,1538,3041,TuyÒn C¬ Tö
+2018-09-23 20:15:41	20:15,743,95,2,37,1520,3281,Thanh TuyÖt S­ Th¸i
+2018-09-23 20:15:41	20:15,739,95,0,162,1388,3149,V­¬ng T¸
+2018-09-23 20:15:41	20:15,744,95,2,176,1162,2781,Yªn HiÓu Tr¸i
+2018-09-23 20:30:58	BaiRenLeiTai	CallNPC_GuShou:960,55392,98752
+2018-09-23 20:50:41	Battle Start :1rule20Issue1
+2018-09-23 20:50:41	Battle Start :1rule20Issue1
+2018-09-23 20:50:41	Battle Start :1rule20Issue1
+2018-09-23 21:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 21:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 21:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 21:00:58	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2018-09-23 21:30:58	BaiRenLeiTai	CallNPC_GuShou:960,55392,98752
+2018-09-23 22:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 22:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 22:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 22:00:41	[Battle Log] Awarding Activity
+2018-09-23 22:00:41	[Battle Log] Awarding Single Player
+2018-09-23 22:00:41	[Battle Log] Awarding by Result
+2018-09-23 22:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 22:00:41	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 22:00:41	[Battle Log] Ready for kick Out
+2018-09-23 22:00:41	[Battle Log] Ending Misson End
+2018-09-23 22:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 22:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 22:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 22:00:41	[Battle Log] Awarding Activity
+2018-09-23 22:00:41	[Battle Log] Awarding Single Player
+2018-09-23 22:00:41	[Battle Log] Awarding by Result
+2018-09-23 22:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 22:00:41	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 22:00:41	[Battle Log] Ready for kick Out
+2018-09-23 22:00:41	[Battle Log] Ending Misson End
+2018-09-23 22:00:41	[Battle Log] Ending Misson Begin
+2018-09-23 22:00:41	[Battle Log] battle is ending. now member count=0:0
+2018-09-23 22:00:41	[Battle Log] Sorting World Ladder
+2018-09-23 22:00:41	[Battle Log] Awarding Activity
+2018-09-23 22:00:41	[Battle Log] Awarding Single Player
+2018-09-23 22:00:41	[Battle Log] Awarding by Result
+2018-09-23 22:00:41	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-23 22:00:41	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tÝch lòy lµ 0:0
+2018-09-23 22:00:41	[Battle Log] Ready for kick Out
+2018-09-23 22:00:41	[Battle Log] Ending Misson End
+2018-09-23 22:00:58	BaiRenLeiTai	CallNPC_GuShou:960,56512,98624
+2018-09-23 22:15:41	22:15,743,95,2,78,1369,3411,Thanh TuyÖt S­ Th¸i
+2018-09-23 22:15:41	22:15,568,95,2,1,1799,3265,Hµ Linh Phiªu
+2018-09-23 22:15:41	22:15,1368,95,4,11,3346,4797,Thanh Liªn Tö
+2018-09-23 22:15:41	22:15,1366,95,1,80,1538,3041,§­êng Phi YÕn
+2018-09-23 22:15:41	22:15,744,95,2,37,2017,2679,Yªn HiÓu Tr¸i
+2018-09-23 22:15:41	22:15,741,95,1,162,1723,3501,§­êng BÊt NhiÔm
+2018-09-23 22:15:41	22:15,747,95,4,176,1754,2805,TuyÒn C¬ Tö
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1460,3035
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1430,3047
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1504,3028
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1513,3073
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1441,3001
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1501,3331
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1487,3093
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1492,2983
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1489,3064
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1541,3302
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1502,2990
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1451,3071
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1441,3001
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1458,2966
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	1,1444,3030
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,2979,5233
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,2894,5186
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,3314,4930
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,3309,4860
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,3309,4930
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,2940,5194
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,3348,4876
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,3300,4852
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,3308,4800
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,2909,5243
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,3316,4941
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,3332,4876
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,3349,4957
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,3346,4928
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	11,3369,4909
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1478,2897
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1587,3349
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1571,2877
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1532,3261
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1579,3246
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1574,3231
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1521,2900
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1593,3275
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1560,3248
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1590,3338
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1590,3313
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1561,3292
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1589,3302
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1565,2938
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	37,1590,3313
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1389,3128
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1383,3393
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1434,3149
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1389,3128
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1389,3128
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1424,3317
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1448,3122
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1411,3336
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1352,3153
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1370,3418
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1404,3340
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1438,3121
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1394,3357
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1359,3133
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	78,1368,3399
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1517,3254
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1525,3305
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1562,3391
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1754,3280
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1791,3385
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1555,3308
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1601,3314
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1503,3253
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1535,3355
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1525,3305
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1792,3371
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1595,3317
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1831,3323
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1562,3303
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	80,1806,3260
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1414,3348
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1703,2995
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1735,3025
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1805,3011
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1428,3326
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1428,3326
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1747,2995
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1382,3357
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1703,2995
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1426,3394
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1732,3035
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1337,3310
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1705,3068
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1716,3044
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	162,1725,3037
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1631,2795
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1328,3382
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1300,3376
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1698,2800
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1226,3331
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1336,3385
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1245,3368
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1339,3398
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1257,3418
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1636,2841
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1647,2803
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1650,2761
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1274,3425
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1653,2719
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	176,1639,2868
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1434,3251
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1483,3235
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1481,3408
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1699,3260
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1688,3311
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1533,3397
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1560,3136
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1560,3136
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1434,3251
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1595,3005
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1772,3309
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1699,3260
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1632,3078
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1512,3329
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	174,1699,3260
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,2062,4410
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,1851,4569
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,1827,4510
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,1896,4631
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,2082,4468
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,1896,4631
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,1991,4353
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,2082,4468
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,2035,4605
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,2035,4605
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,1908,4275
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,2035,4605
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,1948,4694
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,1991,4353
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	121,1896,4631
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1629,3318
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1695,3292
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1695,3292
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1736,3224
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1723,3024
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1698,3528
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1600,3375
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1695,3292
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1551,3214
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1551,3214
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1731,3303
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1551,3214
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1701,3172
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1562,3282
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	153,1731,3303
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1840,3178
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1553,3277
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1733,2973
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1424,3410
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1390,3334
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1602,3038
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1424,3410
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1360,2974
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1683,3018
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1822,3099
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1822,3099
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1733,2973
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1390,3334
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1424,3410
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	101,1683,3018
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1521,3174
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1521,3174
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1723,3045
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1504,3266
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1673,3534
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1513,3257
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1673,3534
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1587,3078
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1675,3362
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1710,3296
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1675,3362
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1631,3075
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1513,3257
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1804,3300
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	99,1804,3300
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1495,3227
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1538,3063
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1758,2908
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1721,3069
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1599,3046
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1543,3224
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1571,3074
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1811,3249
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1903,3238
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1538,3063
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1488,3335
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1407,3042
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1543,3224
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1407,3042
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	100,1485,3084
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3749,6038
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3749,6038
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3637,5912
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3505,5847
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3426,6284
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3624,6035
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3505,6351
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3426,6284
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3581,5977
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3624,6035
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3749,6038
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3685,5843
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3724,6299
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3599,6359
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	20,3637,5912
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1621,3327
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1549,3006
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1757,3220
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1611,2957
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1485,3391
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1484,3015
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1465,3126
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1710,3303
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1416,3226
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1484,3015
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1611,2957
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1485,3391
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1416,3226
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1613,3040
+2018-09-23 22:30:42	Sun Sep 23 22:30:42 2018	53,1416,3226
+2018-09-23 22:30:58	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2018-09-23 22:50:41	Battle Start :1rule20Issue1
+2018-09-23 22:50:41	Battle Start :1rule20Issue1
+2018-09-23 22:50:41	Battle Start :1rule20Issue1
+2018-09-23 23:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 23:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 23:00:41	butcher battle is entering fight state. now member count=0:0
+2018-09-23 23:00:58	BaiRenLeiTai	CallNPC_GuShou:960,56384,99968
+2018-09-23 23:30:58	BaiRenLeiTai	CallNPC_GuShou:960,55904,96768

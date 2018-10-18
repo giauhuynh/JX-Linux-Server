@@ -1,0 +1,72 @@
+2018-09-15 14:52:36	heaven(version 2.02) log start....
+2018-09-15 14:54:51	heaven(version 2.02) log start....
+2018-09-15 14:56:01	heaven(version 2.02) log start....
+2018-09-15 15:00:09	heaven(version 2.02) log start....
+2018-09-15 23:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-15 23:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-16 07:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-16 07:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-16 15:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-16 15:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-16 23:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-16 23:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-17 07:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-17 07:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-17 15:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-17 15:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-17 23:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-17 23:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-18 07:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-18 07:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-18 15:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-18 15:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-18 23:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-18 23:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-19 07:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-19 07:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-19 15:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-19 15:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-19 23:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-19 23:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-20 07:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-20 07:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-20 15:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-20 15:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-20 23:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-20 23:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-21 07:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-21 07:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-21 15:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-21 15:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-21 23:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-21 23:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-22 07:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-22 07:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-22 15:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-22 15:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-22 23:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-22 23:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-23 07:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-23 07:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-23 15:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-23 15:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-23 23:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-23 23:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-24 07:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-24 07:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-24 15:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-24 15:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-24 23:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-24 23:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-25 07:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-25 07:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-25 15:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-25 15:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-25 23:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-25 23:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-26 07:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-26 07:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-26 15:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-26 15:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1
+2018-09-26 23:00:09	Allocate Connectionidx:0, IP:127.0.0.1, LeftFreeCount:0
+2018-09-26 23:00:12	Callback Connectionidx:0, CloseReason:2, IP:127.0.0.1, LeftFreeCount: 1

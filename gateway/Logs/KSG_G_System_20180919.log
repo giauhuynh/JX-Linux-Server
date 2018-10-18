@@ -1,0 +1,192 @@
+2018-09-19 01:00:14	Deliver statdata: 0 bytes
+2018-09-19 03:00:14	Deliver statdata: 0 bytes
+2018-09-19 05:00:14	Deliver statdata: 0 bytes
+2018-09-19 06:48:51	GetRoleInfo(111111111) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 06:48:51	GetRoleData(111111111) OK: datalen(8568)
+2018-09-19 06:48:51	EnterGame(111111111) OK: Move from Node[0] to Node[1]
+2018-09-19 06:50:05	GetRoleInfo(BinBin) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 06:50:05	GetRoleData(BinBin) OK: datalen(8160)
+2018-09-19 06:50:05	EnterGame(BinBin) OK: Move from Node[0] to Node[1]
+2018-09-19 07:00:09	[QuitBackup]is_quit:0
+2018-09-19 07:00:14	Deliver statdata: 0 bytes
+2018-09-19 07:06:21	SaveRoleData(111111111) OK: datalen(11183)
+2018-09-19 07:09:28	SaveRoleData(BinBin) OK: datalen(8615)
+2018-09-19 07:17:22	QuitSave[BinBin] OK: Leave Node[1]
+2018-09-19 07:17:22	SaveRoleData(BinBin) OK: datalen(8599)
+2018-09-19 07:17:24	QuitSave[111111111] OK: Leave Node[1]
+2018-09-19 07:17:24	SaveRoleData(111111111) OK: datalen(10336)
+2018-09-19 09:00:14	Deliver statdata: 0 bytes
+2018-09-19 11:00:14	Deliver statdata: 0 bytes
+2018-09-19 13:00:14	Deliver statdata: 0 bytes
+2018-09-19 15:00:09	[QuitBackup]is_quit:0
+2018-09-19 15:00:14	Deliver statdata: 0 bytes
+2018-09-19 16:42:39	GetRoleInfo(ThÇnMenPh¸Ph¸ch) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 16:42:39	GetRoleData(ThÇnMenPh¸Ph¸ch) OK: datalen(4120)
+2018-09-19 16:42:39	EnterGame(ThÇnMenPh¸Ph¸ch) OK: Move from Node[0] to Node[1]
+2018-09-19 16:46:26	QuitSave[ThÇnMenPh¸Ph¸ch] OK: Leave Node[1]
+2018-09-19 16:46:26	SaveRoleData(ThÇnMenPh¸Ph¸ch) OK: datalen(4120)
+2018-09-19 16:46:39	GetRoleInfo(Ph¸Gi¸p§écC«) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 16:46:39	GetRoleData(Ph¸Gi¸p§écC«) OK: datalen(4704)
+2018-09-19 16:46:39	EnterGame(Ph¸Gi¸p§écC«) OK: Move from Node[0] to Node[1]
+2018-09-19 16:47:36	QuitSave[Ph¸Gi¸p§écC«] OK: Leave Node[1]
+2018-09-19 16:47:36	SaveRoleData(Ph¸Gi¸p§écC«) OK: datalen(4696)
+2018-09-19 16:47:50	GetRoleInfo(B¶o®ao§åLong) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 16:47:50	GetRoleData(B¶o®ao§åLong) OK: datalen(6164)
+2018-09-19 16:47:50	EnterGame(B¶o®ao§åLong) OK: Move from Node[0] to Node[1]
+2018-09-19 16:55:24	QuitSave[B¶o®ao§åLong] OK: Leave Node[1]
+2018-09-19 16:55:24	SaveRoleData(B¶o®ao§åLong) OK: datalen(6056)
+2018-09-19 17:00:14	Deliver statdata: 0 bytes
+2018-09-19 17:04:06	GetRoleInfo(LýThuTh¶o) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 17:04:06	GetRoleData(LýThuTh¶o) OK: datalen(5052)
+2018-09-19 17:04:07	EnterGame(LýThuTh¶o) OK: Move from Node[0] to Node[1]
+2018-09-19 17:04:38	QuitSave[LýThuTh¶o] OK: Leave Node[1]
+2018-09-19 17:04:38	SaveRoleData(LýThuTh¶o) OK: datalen(5052)
+2018-09-19 17:04:47	GetRoleInfo(CleopatraVII) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 17:04:47	GetRoleData(CleopatraVII) OK: datalen(4959)
+2018-09-19 17:04:47	EnterGame(CleopatraVII) OK: Move from Node[0] to Node[1]
+2018-09-19 17:05:59	QuitSave[CleopatraVII] OK: Leave Node[1]
+2018-09-19 17:05:59	SaveRoleData(CleopatraVII) OK: datalen(5079)
+2018-09-19 17:06:31	GetRoleInfo(0903659998) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 17:06:31	GetRoleData(0903659998) OK: datalen(4644)
+2018-09-19 17:06:31	EnterGame(0903659998) OK: Move from Node[0] to Node[1]
+2018-09-19 17:09:07	QuitSave[0903659998] OK: Leave Node[1]
+2018-09-19 17:09:07	SaveRoleData(0903659998) OK: datalen(4536)
+2018-09-19 17:15:58	GetRoleInfo(B¶o®ao§åLong) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 17:15:58	GetRoleData(B¶o®ao§åLong) OK: datalen(6056)
+2018-09-19 17:15:58	EnterGame(B¶o®ao§åLong) OK: Move from Node[0] to Node[1]
+2018-09-19 17:23:13	QuitSave[B¶o®ao§åLong] OK: Leave Node[1]
+2018-09-19 17:23:13	SaveRoleData(B¶o®ao§åLong) OK: datalen(6152)
+2018-09-19 17:23:32	GetRoleInfo(Ph¸Gi¸p§écC«) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 17:23:32	GetRoleData(Ph¸Gi¸p§écC«) OK: datalen(4696)
+2018-09-19 17:23:32	EnterGame(Ph¸Gi¸p§écC«) OK: Move from Node[0] to Node[1]
+2018-09-19 17:23:57	QuitSave[Ph¸Gi¸p§écC«] OK: Leave Node[1]
+2018-09-19 17:23:57	SaveRoleData(Ph¸Gi¸p§écC«) OK: datalen(4696)
+2018-09-19 18:16:02	CreateRoleData(BossTrum91) OK: Account(letam91), datalen(575)
+2018-09-19 18:16:02	EnterGame(BossTrum91) OK: Move from Node[0] to Node[1]
+2018-09-19 18:23:37	SaveRoleData(BossTrum91) OK: datalen(2775)
+2018-09-19 18:28:21	GetRoleInfo(ThÇnMenPh¸Ph¸ch) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 18:28:21	GetRoleData(ThÇnMenPh¸Ph¸ch) OK: datalen(4120)
+2018-09-19 18:28:21	EnterGame(ThÇnMenPh¸Ph¸ch) OK: Move from Node[0] to Node[1]
+2018-09-19 18:29:25	SaveRoleData(BossTrum91) OK: datalen(2808)
+2018-09-19 18:29:29	QuitSave[ThÇnMenPh¸Ph¸ch] OK: Leave Node[1]
+2018-09-19 18:29:29	SaveRoleData(ThÇnMenPh¸Ph¸ch) OK: datalen(4444)
+2018-09-19 18:29:42	GetRoleInfo(B¶o®ao§åLong) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 18:29:42	GetRoleData(B¶o®ao§åLong) OK: datalen(6152)
+2018-09-19 18:29:42	EnterGame(B¶o®ao§åLong) OK: Move from Node[0] to Node[1]
+2018-09-19 18:32:01	CreateRoleData(BossTrum92) OK: Account(letam92), datalen(575)
+2018-09-19 18:32:01	EnterGame(BossTrum92) OK: Move from Node[0] to Node[1]
+2018-09-19 18:34:17	QuitSave[B¶o®ao§åLong] OK: Leave Node[1]
+2018-09-19 18:34:17	SaveRoleData(B¶o®ao§åLong) OK: datalen(6384)
+2018-09-19 18:34:32	GetRoleInfo(Ph¸Gi¸p§écC«) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 18:34:32	GetRoleData(Ph¸Gi¸p§écC«) OK: datalen(4696)
+2018-09-19 18:34:32	EnterGame(Ph¸Gi¸p§écC«) OK: Move from Node[0] to Node[1]
+2018-09-19 18:42:47	SaveRoleData(BossTrum91) OK: datalen(3372)
+2018-09-19 18:49:45	SaveRoleData(BossTrum92) OK: datalen(2856)
+2018-09-19 18:51:13	QuitSave[Ph¸Gi¸p§écC«] OK: Leave Node[1]
+2018-09-19 18:51:13	SaveRoleData(Ph¸Gi¸p§écC«) OK: datalen(5088)
+2018-09-19 18:51:19	GetRoleInfo(Ph¸Gi¸p§écC«) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 18:51:19	GetRoleData(Ph¸Gi¸p§écC«) OK: datalen(5088)
+2018-09-19 18:51:20	EnterGame(Ph¸Gi¸p§écC«) OK: Move from Node[0] to Node[1]
+2018-09-19 18:56:09	SaveRoleData(BossTrum91) OK: datalen(3372)
+2018-09-19 19:00:14	Deliver statdata: 0 bytes
+2018-09-19 19:07:28	SaveRoleData(BossTrum92) OK: datalen(2856)
+2018-09-19 19:09:02	SaveRoleData(Ph¸Gi¸p§écC«) OK: datalen(4928)
+2018-09-19 19:09:31	SaveRoleData(BossTrum91) OK: datalen(3372)
+2018-09-19 19:22:30	QuitSave[BossTrum91] OK: Leave Node[1]
+2018-09-19 19:22:30	SaveRoleData(BossTrum91) OK: datalen(2847)
+2018-09-19 19:22:40	GetRoleInfo(BossTrum91) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 19:22:40	GetRoleData(BossTrum91) OK: datalen(2847)
+2018-09-19 19:22:41	EnterGame(BossTrum91) OK: Move from Node[0] to Node[1]
+2018-09-19 19:23:25	QuitSave[BossTrum91] OK: Leave Node[1]
+2018-09-19 19:23:25	SaveRoleData(BossTrum91) OK: datalen(2847)
+2018-09-19 19:23:31	GetRoleInfo(BossTrum91) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 19:23:31	GetRoleData(BossTrum91) OK: datalen(2847)
+2018-09-19 19:23:31	EnterGame(BossTrum91) OK: Move from Node[0] to Node[1]
+2018-09-19 19:23:42	QuitSave[BossTrum91] OK: Leave Node[1]
+2018-09-19 19:23:42	SaveRoleData(BossTrum91) OK: datalen(2847)
+2018-09-19 19:23:59	GetRoleInfo(BossTrum91) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 19:23:59	GetRoleData(BossTrum91) OK: datalen(2847)
+2018-09-19 19:23:59	EnterGame(BossTrum91) OK: Move from Node[0] to Node[1]
+2018-09-19 19:24:19	QuitSave[BossTrum91] OK: Leave Node[1]
+2018-09-19 19:24:19	SaveRoleData(BossTrum91) OK: datalen(2847)
+2018-09-19 19:24:36	GetRoleInfo(BossTrum91) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 19:24:36	GetRoleData(BossTrum91) OK: datalen(2847)
+2018-09-19 19:24:36	EnterGame(BossTrum91) OK: Move from Node[0] to Node[1]
+2018-09-19 19:25:11	SaveRoleData(BossTrum92) OK: datalen(2672)
+2018-09-19 19:26:44	SaveRoleData(Ph¸Gi¸p§écC«) OK: datalen(4936)
+2018-09-19 19:31:32	QuitSave[Ph¸Gi¸p§écC«] OK: Leave Node[1]
+2018-09-19 19:31:32	SaveRoleData(Ph¸Gi¸p§écC«) OK: datalen(4812)
+2018-09-19 19:32:00	QuitSave[BossTrum92] OK: Leave Node[1]
+2018-09-19 19:32:00	SaveRoleData(BossTrum92) OK: datalen(3120)
+2018-09-19 19:32:03	QuitSave[BossTrum91] OK: Leave Node[1]
+2018-09-19 19:32:03	SaveRoleData(BossTrum91) OK: datalen(3259)
+2018-09-19 19:33:37	CreateRoleData(0903669999) OK: Account(vohoangvu), datalen(575)
+2018-09-19 19:33:37	EnterGame(0903669999) OK: Move from Node[0] to Node[1]
+2018-09-19 19:34:55	QuitSave[0903669999] OK: Leave Node[1]
+2018-09-19 19:34:55	SaveRoleData(0903669999) OK: datalen(3063)
+2018-09-19 19:35:05	GetRoleInfo(ThÇnMenPh¸Ph¸ch) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 19:35:05	GetRoleData(ThÇnMenPh¸Ph¸ch) OK: datalen(4444)
+2018-09-19 19:35:05	EnterGame(ThÇnMenPh¸Ph¸ch) OK: Move from Node[0] to Node[1]
+2018-09-19 19:39:03	GetRoleInfo(111111111) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 19:39:03	GetRoleData(111111111) OK: datalen(10336)
+2018-09-19 19:39:03	EnterGame(111111111) OK: Move from Node[0] to Node[1]
+2018-09-19 19:39:31	GetRoleInfo(BinBin) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 19:39:31	GetRoleData(BinBin) OK: datalen(8599)
+2018-09-19 19:39:31	EnterGame(BinBin) OK: Move from Node[0] to Node[1]
+2018-09-19 19:54:16	SaveRoleData(ThÇnMenPh¸Ph¸ch) OK: datalen(4544)
+2018-09-19 19:54:30	SaveRoleData(111111111) OK: datalen(11216)
+2018-09-19 19:55:07	SaveRoleData(BinBin) OK: datalen(8423)
+2018-09-19 20:07:41	SaveRoleData(ThÇnMenPh¸Ph¸ch) OK: datalen(4436)
+2018-09-19 20:09:56	SaveRoleData(111111111) OK: datalen(12836)
+2018-09-19 20:10:42	SaveRoleData(BinBin) OK: datalen(12095)
+2018-09-19 20:13:26	SaveRoleData(ThÇnMenPh¸Ph¸ch) OK: datalen(4536)
+2018-09-19 20:20:36	QuitSave[ThÇnMenPh¸Ph¸ch] OK: Leave Node[1]
+2018-09-19 20:20:36	SaveRoleData(ThÇnMenPh¸Ph¸ch) OK: datalen(4744)
+2018-09-19 20:25:22	SaveRoleData(111111111) OK: datalen(12728)
+2018-09-19 20:26:17	SaveRoleData(BinBin) OK: datalen(11555)
+2018-09-19 20:40:48	SaveRoleData(111111111) OK: datalen(13949)
+2018-09-19 20:41:52	SaveRoleData(BinBin) OK: datalen(9395)
+2018-09-19 20:56:14	SaveRoleData(111111111) OK: datalen(13916)
+2018-09-19 20:57:27	SaveRoleData(BinBin) OK: datalen(8855)
+2018-09-19 21:00:14	Deliver statdata: 0 bytes
+2018-09-19 21:01:56	SaveRoleData(BinBin) OK: datalen(9287)
+2018-09-19 21:01:56	SaveRoleData(111111111) OK: datalen(10568)
+2018-09-19 21:11:40	SaveRoleData(111111111) OK: datalen(13484)
+2018-09-19 21:13:02	SaveRoleData(BinBin) OK: datalen(8855)
+2018-09-19 21:27:06	SaveRoleData(111111111) OK: datalen(12188)
+2018-09-19 21:28:37	SaveRoleData(BinBin) OK: datalen(9071)
+2018-09-19 21:42:32	SaveRoleData(111111111) OK: datalen(11972)
+2018-09-19 21:44:12	SaveRoleData(BinBin) OK: datalen(8963)
+2018-09-19 21:56:06	SaveRoleData(BinBin) OK: datalen(9071)
+2018-09-19 21:56:06	SaveRoleData(111111111) OK: datalen(12113)
+2018-09-19 21:56:49	GetRoleInfo(Thiennhan) OK: Enter Node[0](127.0.0.1 : 59666)
+2018-09-19 21:56:49	GetRoleData(Thiennhan) OK: datalen(3383)
+2018-09-19 21:56:49	EnterGame(Thiennhan) OK: Move from Node[0] to Node[1]
+2018-09-19 21:57:20	SaveRoleData(Thiennhan) OK: datalen(3507)
+2018-09-19 21:57:20	SaveRoleData(BinBin) OK: datalen(8855)
+2018-09-19 21:57:58	SaveRoleData(111111111) OK: datalen(12113)
+2018-09-19 21:58:50	SaveRoleData(Thiennhan) OK: datalen(5991)
+2018-09-19 21:58:50	SaveRoleData(111111111) OK: datalen(9629)
+2018-09-19 21:59:47	SaveRoleData(BinBin) OK: datalen(8855)
+2018-09-19 22:13:24	SaveRoleData(111111111) OK: datalen(12728)
+2018-09-19 22:15:07	SaveRoleData(Thiennhan) OK: datalen(5991)
+2018-09-19 22:15:22	SaveRoleData(BinBin) OK: datalen(8855)
+2018-09-19 22:28:50	SaveRoleData(111111111) OK: datalen(10028)
+2018-09-19 22:30:57	SaveRoleData(BinBin) OK: datalen(11015)
+2018-09-19 22:33:24	SaveRoleData(Thiennhan) OK: datalen(5991)
+2018-09-19 22:38:04	SaveRoleData(111111111) OK: datalen(8989)
+2018-09-19 22:38:29	SaveRoleData(BinBin) OK: datalen(10591)
+2018-09-19 22:44:16	SaveRoleData(111111111) OK: datalen(8989)
+2018-09-19 22:46:32	SaveRoleData(BinBin) OK: datalen(10591)
+2018-09-19 22:47:48	QuitSave[Thiennhan] OK: Leave Node[1]
+2018-09-19 22:47:48	SaveRoleData(Thiennhan) OK: datalen(5975)
+2018-09-19 22:59:42	SaveRoleData(111111111) OK: datalen(8989)
+2018-09-19 23:00:09	[QuitBackup]is_quit:0
+2018-09-19 23:00:14	Deliver statdata: 0 bytes
+2018-09-19 23:02:07	SaveRoleData(BinBin) OK: datalen(10591)
+2018-09-19 23:15:08	SaveRoleData(111111111) OK: datalen(8989)
+2018-09-19 23:17:42	SaveRoleData(BinBin) OK: datalen(10591)
+2018-09-19 23:30:34	SaveRoleData(111111111) OK: datalen(8989)
+2018-09-19 23:33:17	SaveRoleData(BinBin) OK: datalen(10591)
+2018-09-19 23:46:00	SaveRoleData(111111111) OK: datalen(8956)
+2018-09-19 23:48:52	SaveRoleData(BinBin) OK: datalen(10591)

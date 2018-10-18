@@ -1,0 +1,1769 @@
+2018-09-10 00:00:23	000023:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 00:00:28	000028:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 00:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 00:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 00:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 00:00:50	[Battle Log] Awarding Activity
+2018-09-10 00:00:50	[Battle Log] Awarding Single Player
+2018-09-10 00:00:50	[Battle Log] Awarding by Result
+2018-09-10 00:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 00:00:50	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 00:00:50	[Battle Log] Ready for kick Out
+2018-09-10 00:00:50	[Battle Log] Ending Misson End
+2018-09-10 00:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 00:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 00:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 00:00:50	[Battle Log] Awarding Activity
+2018-09-10 00:00:50	[Battle Log] Awarding Single Player
+2018-09-10 00:00:50	[Battle Log] Awarding by Result
+2018-09-10 00:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 00:00:50	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 00:00:50	[Battle Log] Ready for kick Out
+2018-09-10 00:00:50	[Battle Log] Ending Misson End
+2018-09-10 00:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 00:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 00:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 00:00:50	[Battle Log] Awarding Activity
+2018-09-10 00:00:50	[Battle Log] Awarding Single Player
+2018-09-10 00:00:50	[Battle Log] Awarding by Result
+2018-09-10 00:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 00:00:50	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 00:00:50	[Battle Log] Ready for kick Out
+2018-09-10 00:00:50	[Battle Log] Ending Misson End
+2018-09-10 00:03:34	000334:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 00:04:04	000404:tuanlovekun5(§­êngÙM«n) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 00:04:05	000405:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:75)
+2018-09-10 00:04:36	000436:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 00:04:37	000437:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 00:04:37	000437:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 00:05:20	000520:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 00:05:53	000553:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 00:05:53	000553:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 00:07:17	000717:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 00:08:31	000831:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 00:14:31	001431:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 00:14:32	001432:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 00:35:19	003519:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 00:35:23	003523:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 00:37:06	003706:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 00:44:46	004446:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 00:44:47	004447:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 00:44:48	004448:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 00:46:25	004625:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 00:46:26	004626:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 00:49:08	004908:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 00:49:08	004908:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 00:50:28	005028:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 00:50:29	005029:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 00:51:51	005151:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 00:51:57	005157:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 00:51:57	005157:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:75)
+2018-09-10 00:51:58	005158:tuanlovekun5(§­êngÙM«n) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 00:56:26	005626:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 00:58:38	005838:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 00:59:02	005902:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 01:00:48	010048:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 01:00:49	010049:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 01:00:56	010056:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 01:00:56	010056:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 01:06:19	010619:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 01:06:20	010620:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 01:07:46	010746:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 01:07:47	010747:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 01:07:49	010749:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 01:07:50	010750:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 01:08:42	010842:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 01:14:20	011420:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 01:17:03	011703:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 01:18:06	011806:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 01:18:54	011854:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 01:19:24	011924:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 01:19:24	011924:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 01:19:29	011929:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 01:19:30	011930:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:75)
+2018-09-10 01:19:31	011931:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 01:22:31	012231:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 01:31:18	013118:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 01:31:18	013118:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 01:31:19	013119:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 01:32:10	013210:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 01:37:10	013710:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 01:41:40	014140:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 01:44:51	014451:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 01:46:12	014612:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 01:47:40	014740:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 01:51:15	015115:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 01:51:48	015148:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 01:56:42	015642:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 01:57:13	015713:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 01:59:16	015916:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 01:59:19	015919:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 02:02:03	020203:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 02:06:13	020613:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 02:08:52	020852:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 02:11:45	021145:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 02:12:04	021204:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 02:12:05	021205:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 02:17:49	021749:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 02:17:50	021750:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 02:21:44	022144:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 02:21:45	022145:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 02:21:49	022149:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 02:28:09	022809:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 02:28:10	022810:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 02:32:43	023243:tuanlovekun5(§­êngÙM«n) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 02:32:44	023244:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 02:33:34	023334:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 02:33:35	023335:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 02:36:04	023604:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 02:36:05	023605:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 02:36:05	023605:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 02:36:24	023624:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 02:36:30	023630:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 02:40:11	024011:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 02:40:12	024012:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 02:40:13	024013:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 02:40:14	024014:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 02:45:20	024520:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 02:45:21	024521:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 02:45:22	024522:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 02:46:53	024653:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 02:46:54	024654:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 02:46:54	024654:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 02:49:39	024939:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 02:51:19	025119:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 02:51:19	025119:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 02:55:34	025534:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 02:57:06	025706:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 03:04:06	030406:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 03:04:07	030407:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:75)
+2018-09-10 03:07:11	030711:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 03:07:38	030738:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 03:08:10	030810:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 03:08:11	030811:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 03:08:11	030811:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 03:08:12	030812:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 03:10:48	031048:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:75)
+2018-09-10 03:10:49	031049:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 03:12:42	031242:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 03:13:44	031344:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 03:14:09	031409:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 03:15:09	031509:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 03:15:10	031510:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 03:16:57	031657:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 03:20:18	032018:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 03:20:18	032018:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 03:26:49	032649:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 03:32:10	033210:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 03:32:16	033216:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 03:32:16	033216:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 03:32:17	033217:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 03:32:51	033251:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 03:37:18	033718:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 03:38:19	033819:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 03:41:45	034145:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 03:41:45	034145:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 03:43:39	034339:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 03:44:54	034454:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 03:45:10	034510:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 03:45:11	034511:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 03:46:27	034627:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 03:54:37	035437:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 03:54:38	035438:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 03:56:39	035639:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 03:56:54	035654:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 03:56:57	035657:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 03:56:58	035658:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 04:01:11	040111:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 04:03:10	040310:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 04:04:21	040421:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 04:04:22	040422:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 04:05:50	040550:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 04:05:51	040551:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:75)
+2018-09-10 04:09:09	040909:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 04:09:09	040909:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 04:13:46	041346:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 04:17:19	041719:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 04:19:25	041925:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 04:24:31	042431:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 04:24:54	042454:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 04:24:55	042455:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 04:26:28	042628:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 04:27:54	042754:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 04:29:24	042924:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 04:31:42	043142:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 04:32:40	043240:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 04:35:12	043512:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 04:36:46	043646:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 04:36:48	043648:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 04:40:46	044046:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 04:40:46	044046:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 04:40:47	044047:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 04:43:04	044304:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 04:49:24	044924:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 04:52:37	045237:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 04:52:37	045237:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 04:53:34	045334:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 04:53:35	045335:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 04:53:36	045336:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 04:53:56	045356:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 04:53:59	045359:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 04:57:42	045742:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 05:00:03	050003:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 05:02:22	050222:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 05:05:27	050527:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 05:05:28	050528:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 05:06:56	050656:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 05:08:10	050810:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 05:08:11	050811:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 05:08:39	050839:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 05:09:38	050938:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 05:11:17	051117:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 05:11:18	051118:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 05:12:12	051212:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 05:13:10	051310:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 05:16:38	051638:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 05:16:46	051646:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 05:17:02	051702:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 05:17:02	051702:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 05:25:23	052523:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 05:25:24	052524:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 05:26:46	052646:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 05:27:57	052757:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 05:27:58	052758:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 05:29:45	052945:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 05:29:46	052946:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 05:29:47	052947:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:75)
+2018-09-10 05:29:48	052948:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 05:31:53	053153:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 05:34:50	053450:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 05:36:05	053605:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 05:36:34	053634:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 05:36:35	053635:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 05:40:00	054000:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 05:40:16	054016:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 05:40:37	054037:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 05:41:33	054133:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 05:41:34	054134:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 05:46:20	054620:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 05:47:15	054715:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:75)
+2018-09-10 05:48:26	054826:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 05:48:26	054826:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 05:48:27	054827:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 05:49:44	054944:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 05:49:45	054945:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 05:50:41	055041:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 05:53:31	055331:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 05:58:12	055812:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 05:58:13	055813:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 05:58:14	055814:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 06:00:08	060008:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 06:00:44	060044:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 06:01:36	060136:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 06:07:30	060730:tuanlovekun5(§­êngÙM«n) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 06:07:43	060743:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 06:07:44	060744:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 06:10:36	061036:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 06:13:41	061341:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:75)
+2018-09-10 06:18:29	061829:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 06:19:09	061909:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 06:20:05	062005:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 06:20:06	062006:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 06:21:00	062100:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 06:24:10	062410:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 06:24:10	062410:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 06:28:40	062840:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 06:30:09	063009:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 06:30:55	063055:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 06:32:11	063211:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 06:33:07	063307:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 06:33:53	063353:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 06:33:54	063354:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 06:35:46	063546:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 06:35:46	063546:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 06:35:47	063547:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 06:39:34	063934:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 06:40:04	064004:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 06:44:54	064454:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 06:47:18	064718:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 06:47:19	064719:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 06:47:28	064728:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 06:48:55	064855:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 06:48:56	064856:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 06:52:55	065255:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 06:56:35	065635:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 07:04:28	070428:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 07:04:30	070430:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 07:04:34	070434:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 07:09:11	070911:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 07:09:11	070911:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 07:09:12	070912:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 07:09:13	070913:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 07:14:09	071409:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 07:17:08	071708:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 07:17:09	071709:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 07:17:10	071710:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 07:25:20	072520:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 07:25:20	072520:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 07:25:21	072521:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 07:25:53	072553:tuanlovekun5(§­êngÙM«n) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 07:25:55	072555:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 07:29:43	072943:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 07:30:20	073020:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 07:33:25	073325:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 07:33:26	073326:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 07:34:42	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	Kim Phong	AddItemEx(4,634948984,1,0,183,1,5,4,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:34:42	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	Kim Phong	AddItemEx(4,-222448251,1,0,178,1,5,1,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:34:42	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	Kim Phong	AddItemEx(4,-820929786,1,0,177,18,5,0,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:34:42	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	Kim Phong	AddItemEx(4,-1564903221,1,0,176,4,5,2,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:34:42	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	Kim Phong	AddItemEx(4,-1124874012,1,0,182,1,5,0,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:34:42	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	Kim Phong	AddItemEx(4,176918945,1,0,179,0,5,2,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:34:42	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	Kim Phong	AddItemEx(4,1480992402,1,0,181,1,5,3,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:34:42	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	Kim Phong	AddItemEx(4,1442459015,1,0,180,1,5,4,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:34:42	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	Kim Phong	AddItemEx(4,-640813168,1,0,184,0,5,1,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:34:59	073459:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 07:36:08	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	Ngùa	AddItemEx(4,317470996,0,0,10,2,9,0,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:36:08	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	BK	AddItemEx(4,1056572187,0,6,1,2424,1,0,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:36:08	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	BK2	AddItemEx(4,-1068401812,0,6,1,2426,1,0,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:36:42	[§¹i Thµnh Bİ Kİp 90]	2018-09-10 07:36:42	Account:tuandaugau002	Name:ThÇnSÊmSĞt	UpGrade Skill:372
+2018-09-10 07:36:49	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	Ngùa	AddItemEx(4,1830641,0,0,10,2,9,0,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:36:49	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	BK	AddItemEx(4,506836308,0,6,1,2424,1,0,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:36:49	tuandaugau002	ThÇnSÊmSĞt	test	80	0	award	BK2	AddItemEx(4,-2090625879,0,6,1,2426,1,0,0,0,0,0,0,0,0,0)	1		53
+2018-09-10 07:36:53	[§¹i Thµnh Bİ Kİp 90]	2018-09-10 07:36:53	Account:tuandaugau002	Name:ThÇnSÊmSĞt	UpGrade Skill:375
+2018-09-10 07:37:22	[§¹i Thµnh Bİ Kİp 90]	2018-09-10 07:37:22	Account:tuandaugau002	Name:ThÇnSÊmSĞt	UpGrade Skill:372
+2018-09-10 07:37:24	[§¹i Thµnh Bİ Kİp 90]	2018-09-10 07:37:24	Account:tuandaugau002	Name:ThÇnSÊmSĞt	UpGrade Skill:375
+2018-09-10 07:39:29	073929:tuanlovekun5(§­êngÙM«n) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 07:42:24	074224:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 07:42:26	074226:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 07:49:42	074942:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 07:49:43	074943:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 07:50:30	075030:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 07:53:15	075315:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 07:53:16	075316:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 07:54:57	075457:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 07:57:14	075714:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 07:57:15	075715:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 07:57:16	075716:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 07:57:17	075717:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:75)
+2018-09-10 08:00:45	080045:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 08:00:45	080045:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 08:01:24	080124:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 08:01:33	080133:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 08:01:48	080148:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 08:04:06	080406:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 08:07:24	080724:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 08:07:24	080724:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 08:08:45	080845:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 08:08:45	080845:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 08:13:47	081347:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 08:15:15	081515:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 08:16:39	081639:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 08:16:40	081640:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 08:18:11	081811:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 08:18:12	081812:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 08:21:13	082113:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 08:25:44	082544:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 08:26:09	082609:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 08:26:10	082610:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 08:26:11	082611:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 08:26:12	082612:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 08:29:38	082938:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 08:29:38	082938:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 08:38:07	083807:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 08:38:07	083807:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 08:38:08	083808:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 08:38:16	083816:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 08:39:26	083926:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 08:39:26	083926:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 08:41:26	084126:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 08:41:26	084126:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 08:45:44	084544:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 08:46:48	084648:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 08:46:49	084649:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 08:46:50	084650:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 08:46:51	084651:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 08:50:50	Battle Start :1rule20Issue1
+2018-09-10 08:50:50	Battle Start :1rule20Issue1
+2018-09-10 08:50:50	Battle Start :1rule20Issue1
+2018-09-10 08:51:53	085153:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 08:51:53	085153:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 08:51:54	085154:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 08:56:03	085603:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 08:56:04	085604:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 08:56:05	085605:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 08:56:06	085606:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (3000) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 08:56:26	085626:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 08:58:23	085823:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 08:59:10	085910:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 08:59:16	085916:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 09:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 09:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 09:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 09:08:10	090810:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 09:08:18	090818:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 09:08:19	090819:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 09:08:23	090823:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 09:10:31	091031:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (4500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 09:10:31	091031:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 09:10:32	091032:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 09:11:50	091150:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 09:11:51	091151:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 09:15:28	091528:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 09:15:29	091529:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 09:23:00	092300:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 09:23:01	092301:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 09:23:01	092301:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 09:23:07	092307:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 09:30:53	093053:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 09:30:53	093053:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 09:30:54	093054:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:75)
+2018-09-10 09:31:44	093144:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 09:31:45	093145:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 09:31:46	093146:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 09:31:53	093153:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 09:31:53	093153:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 09:33:49	093349:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 09:33:50	093350:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 09:33:51	093351:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 09:36:27	093627:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 09:36:28	093628:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 09:36:30	093630:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 09:39:46	093946:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 09:40:01	094001:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 09:44:08	094408:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 09:44:09	094409:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 09:44:59	094459:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 09:44:59	094459:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 09:49:26	094926:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 09:49:27	094927:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 09:49:28	094928:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 09:51:36	095136:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 09:51:37	095137:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 10:00:42	100042:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 10:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 10:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 10:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 10:00:50	[Battle Log] Awarding Activity
+2018-09-10 10:00:50	[Battle Log] Awarding Single Player
+2018-09-10 10:00:50	[Battle Log] Awarding by Result
+2018-09-10 10:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 10:00:50	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 10:00:50	[Battle Log] Ready for kick Out
+2018-09-10 10:00:50	[Battle Log] Ending Misson End
+2018-09-10 10:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 10:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 10:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 10:00:50	[Battle Log] Awarding Activity
+2018-09-10 10:00:50	[Battle Log] Awarding Single Player
+2018-09-10 10:00:50	[Battle Log] Awarding by Result
+2018-09-10 10:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 10:00:50	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 10:00:50	[Battle Log] Ready for kick Out
+2018-09-10 10:00:50	[Battle Log] Ending Misson End
+2018-09-10 10:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 10:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 10:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 10:00:50	[Battle Log] Awarding Activity
+2018-09-10 10:00:50	[Battle Log] Awarding Single Player
+2018-09-10 10:00:50	[Battle Log] Awarding by Result
+2018-09-10 10:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 10:00:50	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 10:00:50	[Battle Log] Ready for kick Out
+2018-09-10 10:00:50	[Battle Log] Ending Misson End
+2018-09-10 10:00:54	100054:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 10:01:43	100143:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 10:04:29	100429:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 10:04:30	100430:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 10:04:30	100430:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:75)
+2018-09-10 10:04:31	100431:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 10:04:51	100451:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 10:11:37	101137:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 10:11:38	101138:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 10:11:39	101139:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 10:11:39	101139:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 10:15:08	101508:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 10:15:09	101509:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 10:16:11	101611:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 10:19:50	101950:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 10:19:51	101951:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 10:19:52	101952:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 10:21:42	102142:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 10:23:28	102328:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 10:23:28	102328:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 10:25:32	102532:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 10:27:56	102756:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 10:29:50	102950:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 10:29:51	102951:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 10:33:32	103332:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 10:39:11	103911:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 10:40:10	104010:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 10:40:10	104010:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 10:41:57	104157:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 10:43:10	104310:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 10:43:11	104311:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 10:46:05	104605:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 10:46:17	104617:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:75)
+2018-09-10 10:48:01	104801:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 10:48:01	104801:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 10:48:30	104830:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:75)
+2018-09-10 10:49:49	104949:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 10:50:50	Battle Start :1rule20Issue1
+2018-09-10 10:50:50	Battle Start :1rule20Issue1
+2018-09-10 10:50:50	Battle Start :1rule20Issue1
+2018-09-10 10:57:04	105704:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 10:57:05	105705:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 10:57:37	105737:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 10:59:01	105901:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 11:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 11:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 11:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 11:01:43	110143:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 11:01:44	110144:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 11:04:22	110422:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 11:04:23	110423:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 11:04:24	110424:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 11:04:37	110437:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 11:10:08	111008:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 11:10:09	111009:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 11:12:18	111218:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 11:12:19	111219:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 11:13:35	111335:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 11:13:36	111336:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 11:13:37	111337:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 11:13:53	111353:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 11:14:32	111432:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 11:15:09	111509:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 11:17:49	111749:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 11:23:08	112308:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 11:23:09	112309:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 11:25:47	112547:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 11:25:48	112548:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 11:25:48	112548:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 11:25:49	112549:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 11:25:55	112555:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1502,3020
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1486,3267
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1464,3032
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1442,3012
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1500,3287
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1487,2988
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1438,3024
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1495,3280
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1457,3268
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1450,3216
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1509,3328
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1501,3313
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1497,3302
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1464,3056
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	1,1501,3313
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,3299,4865
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,3341,4879
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,2941,5238
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,2923,5235
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,2949,5257
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,2979,5233
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,2881,5235
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,2900,5234
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,2882,5218
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,2894,5141
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,3356,4892
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,3300,4852
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,2934,5209
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,3341,4872
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	11,2984,5258
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1467,2897
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1599,3246
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1597,2828
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1541,3259
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1566,3232
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1525,3298
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1519,3292
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1583,3320
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1571,3246
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1575,3342
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1554,2898
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1575,3254
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1467,2897
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1519,3292
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	37,1551,2909
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1418,3337
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1427,3069
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1377,3400
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1433,3038
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1346,3106
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1346,3484
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1429,3096
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1435,3087
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1418,3337
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1372,3411
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1355,3494
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1392,3372
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1418,3037
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1359,3133
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	78,1352,3403
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1532,3340
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1553,3268
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1527,3264
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1749,3274
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1800,3349
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1562,3303
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1774,3275
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1811,3266
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1790,3310
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1770,3363
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1763,3288
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1788,3263
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1825,3294
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1786,3255
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	80,1780,3280
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1348,3278
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1418,3334
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1722,3016
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1405,3424
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1391,3368
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1430,3401
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1705,3068
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1723,3052
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1668,2977
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1418,3342
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1778,2987
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1400,3370
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1771,3005
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1736,2975
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	162,1706,3080
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1660,2786
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1698,2800
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1245,3368
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1660,2786
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1336,3385
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1660,2742
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1660,2786
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1668,2869
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1254,3394
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1261,3383
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1706,2839
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1639,2868
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1270,3369
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1629,2861
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	176,1287,3443
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1595,3005
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1693,3184
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1511,3187
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1483,3235
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1483,3235
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1638,3326
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1699,3260
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1632,3078
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1483,3235
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1772,3309
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1533,3397
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1693,3184
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1595,3005
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1434,3251
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	174,1434,3251
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,1908,4275
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,2035,4605
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,2249,4582
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,2062,4410
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,2249,4582
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,1991,4353
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,1827,4510
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,1896,4631
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,1851,4569
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,2249,4582
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,1926,4349
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,1889,4365
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,1952,4740
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,1832,4438
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	121,2082,4468
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1825,3289
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1825,3289
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1421,3239
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1664,3129
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1587,3320
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1567,3136
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1551,3214
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1825,3289
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1701,3172
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1723,3024
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1664,3129
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1736,3224
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1664,3129
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1587,3320
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	153,1825,3289
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1424,3410
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1840,3178
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1733,2973
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1733,2973
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1640,3009
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1602,3038
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1733,2973
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1640,3009
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1822,3099
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1424,3410
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1683,3018
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1602,3038
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1798,3263
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1822,3099
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	101,1859,3295
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1521,3174
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1587,3078
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1722,3038
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1723,3045
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1590,3361
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1722,3038
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1590,3361
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1587,3078
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1673,3534
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1521,3174
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1722,3038
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1543,3130
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1804,3300
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1723,3045
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	99,1600,3002
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1576,3250
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1407,3042
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1721,3069
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1773,3142
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1407,3042
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1543,3224
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1903,3238
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1407,3042
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1571,3074
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1758,2908
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1538,3063
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1543,3224
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1543,3224
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1571,3074
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	100,1903,3238
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3515,5997
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3505,5847
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3650,6330
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3749,6038
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3624,6035
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3505,6351
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3685,5843
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3749,6038
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3591,6448
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3581,5977
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3624,6035
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3599,6359
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3599,6359
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3505,6351
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	20,3464,6029
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1416,3226
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1549,3006
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1543,3304
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1485,3391
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1611,2957
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1710,3303
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1748,3259
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1546,3333
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1465,3126
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1398,3086
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1465,3126
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1621,3327
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1721,3105
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1484,3015
+2018-09-10 11:30:50	Mon Sep 10 11:30:50 2018	53,1613,3040
+2018-09-10 11:31:00	113100:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 11:31:01	113101:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 11:31:02	113102:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 11:35:35	113535:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 11:39:30	113930:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 11:39:31	113931:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 11:39:31	113931:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 11:39:45	113945:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 11:39:46	113946:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 11:41:22	114122:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 11:43:25	114325:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 11:46:18	114618:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 11:46:19	114619:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 11:46:20	114620:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 11:53:03	115303:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 11:55:53	115553:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 11:59:22	115922:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 12:00:02	BaiRenLeiTai	CallNPC_GuShou:960,57824,99968
+2018-09-10 12:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 12:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 12:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 12:00:50	[Battle Log] Awarding Activity
+2018-09-10 12:00:50	[Battle Log] Awarding Single Player
+2018-09-10 12:00:50	[Battle Log] Awarding by Result
+2018-09-10 12:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 12:00:50	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 12:00:50	[Battle Log] Ready for kick Out
+2018-09-10 12:00:50	[Battle Log] Ending Misson End
+2018-09-10 12:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 12:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 12:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 12:00:50	[Battle Log] Awarding Activity
+2018-09-10 12:00:50	[Battle Log] Awarding Single Player
+2018-09-10 12:00:50	[Battle Log] Awarding by Result
+2018-09-10 12:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 12:00:50	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 12:00:50	[Battle Log] Ready for kick Out
+2018-09-10 12:00:50	[Battle Log] Ending Misson End
+2018-09-10 12:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 12:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 12:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 12:00:50	[Battle Log] Awarding Activity
+2018-09-10 12:00:50	[Battle Log] Awarding Single Player
+2018-09-10 12:00:50	[Battle Log] Awarding by Result
+2018-09-10 12:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 12:00:50	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 12:00:50	[Battle Log] Ready for kick Out
+2018-09-10 12:00:50	[Battle Log] Ending Misson End
+2018-09-10 12:02:12	120212:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 12:02:12	120212:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 12:04:14	120414:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 12:07:38	120738:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 12:07:39	120739:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 12:07:40	120740:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 12:07:42	120742:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 12:07:43	120743:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 12:14:42	121442:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 12:14:43	121443:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 12:15:50	121550:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 12:15:51	121551:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 12:19:07	121907:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 12:21:33	122133:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 12:21:34	122134:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 12:21:47	122147:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 12:22:33	122233:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 12:22:44	122244:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 12:22:45	122245:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 12:27:54	122754:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 12:29:07	122907:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 12:30:02	BaiRenLeiTai	CallNPC_GuShou:960,54752,98048
+2018-09-10 12:32:51	123251:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 12:34:03	123403:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 12:36:05	123605:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 12:37:41	123741:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 12:37:42	123742:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 12:39:27	123927:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 12:39:36	123936:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:75)
+2018-09-10 12:40:40	124040:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 12:42:37	124237:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 12:46:17	124617:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 12:47:15	124715:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 12:50:12	125012:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 12:50:50	Battle Start :1rule20Issue1
+2018-09-10 12:50:50	Battle Start :1rule20Issue1
+2018-09-10 12:50:50	Battle Start :1rule20Issue1
+2018-09-10 12:53:06	125306:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 12:57:00	125700:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 12:57:01	125701:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 12:58:22	125822:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 13:00:02	BaiRenLeiTai	CallNPC_GuShou:960,56640,97568
+2018-09-10 13:00:06	130006:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 13:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 13:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 13:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 13:04:32	130432:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 13:04:33	130433:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 13:05:23	130523:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 13:05:36	130536:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 13:09:48	130948:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 13:10:57	131057:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 13:18:09	131809:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 13:18:09	131809:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 13:18:10	131810:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 13:18:27	131827:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 13:20:48	132048:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 13:20:49	132049:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 13:20:49	132049:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 13:24:38	132438:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 13:24:39	132439:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 13:27:25	132725:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 13:28:03	132803:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 13:28:03	132803:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 13:28:58	132858:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 13:30:02	BaiRenLeiTai	CallNPC_GuShou:960,57888,101152
+2018-09-10 13:30:47	133047:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 13:36:26	133626:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 13:39:13	133913:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 13:43:07	134307:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 13:43:08	134308:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 13:47:32	134732:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 13:50:50	VÖ quèc Phong Háa liªn thµnhThñ thµnh phe Tèng	 vµo giai ®o¹n b¸o danh 	 b¶n ®åi d	580	 thêi gian 	13:50
+2018-09-10 13:53:13	135313:vubluish2(hoalongcaka) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534913415 CurDur:80)
+2018-09-10 13:53:14	135314:vubluish2(hoalongcaka) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534913415 CurDur:70)
+2018-09-10 13:53:16	135316:vubluish2(hoalongcaka) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534913415 CurDur:75)
+2018-09-10 13:56:12	135612:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 13:56:17	135617:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 13:56:50	135650:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 13:56:51	135651:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (3240) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 13:59:32	135932:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 14:00:02	BaiRenLeiTai	CallNPC_GuShou:960,55392,98752
+2018-09-10 14:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 14:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 14:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 14:00:50	[Battle Log] Awarding Activity
+2018-09-10 14:00:50	[Battle Log] Awarding Single Player
+2018-09-10 14:00:50	[Battle Log] Awarding by Result
+2018-09-10 14:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 14:00:50	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 14:00:50	[Battle Log] Ready for kick Out
+2018-09-10 14:00:50	[Battle Log] Ending Misson End
+2018-09-10 14:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 14:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 14:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 14:00:50	[Battle Log] Awarding Activity
+2018-09-10 14:00:50	[Battle Log] Awarding Single Player
+2018-09-10 14:00:50	[Battle Log] Awarding by Result
+2018-09-10 14:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 14:00:50	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 14:00:50	[Battle Log] Ready for kick Out
+2018-09-10 14:00:50	[Battle Log] Ending Misson End
+2018-09-10 14:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 14:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 14:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 14:00:50	[Battle Log] Awarding Activity
+2018-09-10 14:00:50	[Battle Log] Awarding Single Player
+2018-09-10 14:00:50	[Battle Log] Awarding by Result
+2018-09-10 14:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 14:00:50	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 14:00:50	[Battle Log] Ready for kick Out
+2018-09-10 14:00:50	[Battle Log] Ending Misson End
+2018-09-10 14:01:32	140132:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 14:01:59	140159:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 14:05:15	140515:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 14:05:15	140515:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 14:08:51	140851:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 14:08:51	140851:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 14:08:52	140852:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 14:10:44	141044:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 14:10:45	141045:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 14:11:04	141104:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 14:13:10	141310:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 14:13:50	141350:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 14:16:46	141646:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 14:18:06	141806:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 14:21:41	142141:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 14:21:42	142142:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 14:23:11	142311:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 14:24:43	142443:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 14:25:24	142524:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 14:25:25	142525:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 14:25:26	142526:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 14:30:02	BaiRenLeiTai	CallNPC_GuShou:960,56384,99968
+2018-09-10 14:33:50	143350:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 14:35:18	143518:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 14:40:44	144044:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 14:46:32	144632:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 14:47:46	144746:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 14:50:00	145000:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 14:50:15	145015:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 14:50:16	145016:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 14:50:50	Battle Start :1rule20Issue1
+2018-09-10 14:50:50	Battle Start :1rule20Issue1
+2018-09-10 14:50:50	Battle Start :1rule20Issue1
+2018-09-10 14:51:03	145103:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 14:51:03	145103:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 14:51:04	145104:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 14:53:49	145349:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 15:00:02	BaiRenLeiTai	CallNPC_GuShou:960,57824,99968
+2018-09-10 15:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 15:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 15:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 15:01:37	150137:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 15:02:02	150202:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 15:02:49	150249:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 15:04:09	150409:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 15:05:45	150545:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 15:08:29	150829:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 15:09:04	150904:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 15:09:05	150905:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 15:09:06	150906:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 15:10:38	151038:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 15:11:45	151145:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 15:11:45	151145:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 15:13:10	151310:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 15:13:11	151311:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 15:14:52	151452:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 15:19:12	151912:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 15:21:28	152128:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 15:21:29	152129:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 15:22:52	152252:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 15:23:39	152339:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 15:27:15	152715:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 15:28:56	152856:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 15:28:57	152857:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 15:29:05	152905:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 15:29:06	152906:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 15:29:07	152907:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 15:30:02	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2018-09-10 15:32:39	153239:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 15:36:10	153610:tuanlovekun5(§­êngÙM«n) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 15:44:26	154426:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (3000) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 15:44:27	154427:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 15:44:28	154428:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 15:49:11	154911:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 15:49:11	154911:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 15:49:13	154913:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 15:49:14	154914:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 15:50:08	155008:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 15:51:20	155120:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 15:52:03	155203:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 15:52:04	155204:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 15:54:48	155448:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 15:57:19	155719:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 16:00:02	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2018-09-10 16:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 16:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 16:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 16:00:50	[Battle Log] Awarding Activity
+2018-09-10 16:00:50	[Battle Log] Awarding Single Player
+2018-09-10 16:00:50	[Battle Log] Awarding by Result
+2018-09-10 16:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 16:00:50	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 16:00:50	[Battle Log] Ready for kick Out
+2018-09-10 16:00:50	[Battle Log] Ending Misson End
+2018-09-10 16:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 16:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 16:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 16:00:50	[Battle Log] Awarding Activity
+2018-09-10 16:00:50	[Battle Log] Awarding Single Player
+2018-09-10 16:00:50	[Battle Log] Awarding by Result
+2018-09-10 16:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 16:00:50	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 16:00:50	[Battle Log] Ready for kick Out
+2018-09-10 16:00:50	[Battle Log] Ending Misson End
+2018-09-10 16:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 16:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 16:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 16:00:50	[Battle Log] Awarding Activity
+2018-09-10 16:00:50	[Battle Log] Awarding Single Player
+2018-09-10 16:00:50	[Battle Log] Awarding by Result
+2018-09-10 16:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 16:00:50	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 16:00:50	[Battle Log] Ready for kick Out
+2018-09-10 16:00:50	[Battle Log] Ending Misson End
+2018-09-10 16:01:07	160107:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 16:01:08	160108:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 16:02:10	160210:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 16:02:11	160211:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 16:02:17	160217:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 16:03:42	160342:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 16:03:42	160342:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 16:06:40	160640:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 16:06:40	160640:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 16:09:11	160911:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 16:11:15	161115:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 16:11:16	161116:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 16:14:05	161405:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 16:16:24	161624:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 16:23:33	162333:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 16:23:34	162334:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 16:26:32	162632:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 16:26:33	162633:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 16:27:25	162725:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 16:30:02	BaiRenLeiTai	CallNPC_GuShou:960,56384,99968
+2018-09-10 16:30:13	163013:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 16:30:14	163014:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 16:39:47	163947:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 16:39:48	163948:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 16:43:18	164318:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 16:43:19	164319:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 16:47:05	164705:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 16:50:50	Battle Start :1rule20Issue1
+2018-09-10 16:50:50	Battle Start :1rule20Issue1
+2018-09-10 16:50:50	Battle Start :1rule20Issue1
+2018-09-10 16:52:11	165211:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 16:54:13	165413:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 16:55:02	165502:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 16:55:03	165503:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 16:55:04	165504:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 16:55:05	165505:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 16:55:05	165505:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 16:56:23	165623:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:80)
+2018-09-10 17:00:02	BaiRenLeiTai	CallNPC_GuShou:960,55904,96768
+2018-09-10 17:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 17:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 17:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 17:06:15	170615:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 17:07:40	170740:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 17:11:36	171136:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 17:14:47	171447:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 17:14:57	171457:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 17:19:58	171958:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 17:21:49	172149:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 17:21:50	172150:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 17:23:39	172339:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 17:23:43	172343:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 17:27:39	172739:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 17:27:40	172740:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 17:27:41	172741:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 17:29:00	[Thiªn Tr× MËt C¶nh][4tÇng]	2018-09-10 17:29			Boss Hoµng Nhan Qu¶ng D­¬ng ë tÇng 4 Thiªn Tr× MËt C¶nh xuÊt hiÖn.
+2018-09-10 17:30:02	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2018-09-10 17:32:26	173226:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 17:36:37	173637:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 17:42:40	174240:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 17:45:33	174533:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 17:45:34	174534:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 17:45:36	174536:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 17:49:53	174953:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 17:50:15	175015:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 17:53:45	175345:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 17:55:56	175556:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 17:55:59	175559:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 17:56:24	175624:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 17:58:38	175838:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 17:59:05	175905:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 17:59:57	175957:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 17:59:58	175958:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 18:00:02	BaiRenLeiTai	CallNPC_GuShou:960,55392,98752
+2018-09-10 18:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 18:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 18:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 18:00:50	[Battle Log] Awarding Activity
+2018-09-10 18:00:50	[Battle Log] Awarding Single Player
+2018-09-10 18:00:50	[Battle Log] Awarding by Result
+2018-09-10 18:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 18:00:50	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 18:00:50	[Battle Log] Ready for kick Out
+2018-09-10 18:00:50	[Battle Log] Ending Misson End
+2018-09-10 18:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 18:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 18:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 18:00:50	[Battle Log] Awarding Activity
+2018-09-10 18:00:50	[Battle Log] Awarding Single Player
+2018-09-10 18:00:50	[Battle Log] Awarding by Result
+2018-09-10 18:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 18:00:50	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 18:00:50	[Battle Log] Ready for kick Out
+2018-09-10 18:00:50	[Battle Log] Ending Misson End
+2018-09-10 18:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 18:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 18:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 18:00:50	[Battle Log] Awarding Activity
+2018-09-10 18:00:50	[Battle Log] Awarding Single Player
+2018-09-10 18:00:50	[Battle Log] Awarding by Result
+2018-09-10 18:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 18:00:50	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 18:00:50	[Battle Log] Ready for kick Out
+2018-09-10 18:00:50	[Battle Log] Ending Misson End
+2018-09-10 18:00:50	2018/09/10-18:00	Vâ l©m liªn ®Êu 1 ®ang trong giai ®o¹n b¸o danh. C¸c ®éi muèn tham gia h·y nhanh ch©n ®Õn b¸o danh!
+2018-09-10 18:04:05	180405:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 18:04:25	180425:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 18:04:26	180426:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 18:04:50	18-09-10,18:04:50	wlls_buildup_vs(0)
+2018-09-10 18:04:50	18-09-10,18:04:50	wlls_buildup_vs(0)
+2018-09-10 18:04:50	18-09-10,18:04:50	wlls_buildup_vs(0)
+2018-09-10 18:04:50	18-09-10,18:04:50	wlls_buildup_vs(0)
+2018-09-10 18:04:50	18-09-10,18:04:50	wlls_buildup_vs(0)
+2018-09-10 18:04:50	18-09-10,18:04:50	wlls_buildup_vs(0)
+2018-09-10 18:04:50	18-09-10,18:04:50	wlls_buildup_vs(0)
+2018-09-10 18:04:50	18-09-10,18:04:50	wlls_buildup_vs(0)
+2018-09-10 18:09:01	180901:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 18:09:02	180902:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:75)
+2018-09-10 18:09:31	180931:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 18:10:24	181024:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 18:11:48	181148:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 18:11:49	181149:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 18:12:11	181211:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 18:14:50	2018-09-10 181450, Vâ l©m liªn ®Êu(8) kÕt thóc thi ®Êu.
+2018-09-10 18:14:50	2018-09-10 181450, Vâ l©m liªn ®Êu(1) kÕt thóc thi ®Êu.
+2018-09-10 18:14:50	2018-09-10 181450, Vâ l©m liªn ®Êu(2) kÕt thóc thi ®Êu.
+2018-09-10 18:14:50	2018-09-10 181450, Vâ l©m liªn ®Êu(3) kÕt thóc thi ®Êu.
+2018-09-10 18:14:50	2018-09-10 181450, Vâ l©m liªn ®Êu(4) kÕt thóc thi ®Êu.
+2018-09-10 18:14:50	2018-09-10 181450, Vâ l©m liªn ®Êu(5) kÕt thóc thi ®Êu.
+2018-09-10 18:14:50	2018-09-10 181450, Vâ l©m liªn ®Êu(6) kÕt thóc thi ®Êu.
+2018-09-10 18:14:50	2018-09-10 181450, Vâ l©m liªn ®Êu(7) kÕt thóc thi ®Êu.
+2018-09-10 18:15:50	2018/09/10-18:15	Vâ l©m liªn ®Êu 2 ®ang trong giai ®o¹n b¸o danh. C¸c ®éi muèn tham gia h·y nhanh ch©n ®Õn b¸o danh!
+2018-09-10 18:16:08	181608:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 18:17:31	181731:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 18:19:50	18-09-10,18:19:50	wlls_buildup_vs(0)
+2018-09-10 18:19:50	18-09-10,18:19:50	wlls_buildup_vs(0)
+2018-09-10 18:19:50	18-09-10,18:19:50	wlls_buildup_vs(0)
+2018-09-10 18:19:50	18-09-10,18:19:50	wlls_buildup_vs(0)
+2018-09-10 18:19:50	18-09-10,18:19:50	wlls_buildup_vs(0)
+2018-09-10 18:19:50	18-09-10,18:19:50	wlls_buildup_vs(0)
+2018-09-10 18:19:50	18-09-10,18:19:50	wlls_buildup_vs(0)
+2018-09-10 18:19:50	18-09-10,18:19:50	wlls_buildup_vs(0)
+2018-09-10 18:24:07	182407:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 18:24:08	182408:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 18:24:45	182445:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 18:29:50	2018-09-10 182950, Vâ l©m liªn ®Êu(8) kÕt thóc thi ®Êu.
+2018-09-10 18:29:50	2018-09-10 182950, Vâ l©m liªn ®Êu(1) kÕt thóc thi ®Êu.
+2018-09-10 18:29:50	2018-09-10 182950, Vâ l©m liªn ®Êu(2) kÕt thóc thi ®Êu.
+2018-09-10 18:29:50	2018-09-10 182950, Vâ l©m liªn ®Êu(3) kÕt thóc thi ®Êu.
+2018-09-10 18:29:50	2018-09-10 182950, Vâ l©m liªn ®Êu(4) kÕt thóc thi ®Êu.
+2018-09-10 18:29:50	2018-09-10 182950, Vâ l©m liªn ®Êu(5) kÕt thóc thi ®Êu.
+2018-09-10 18:29:50	2018-09-10 182950, Vâ l©m liªn ®Êu(6) kÕt thóc thi ®Êu.
+2018-09-10 18:29:50	2018-09-10 182950, Vâ l©m liªn ®Êu(7) kÕt thóc thi ®Êu.
+2018-09-10 18:30:02	BaiRenLeiTai	CallNPC_GuShou:960,57056,102848
+2018-09-10 18:30:50	2018/09/10-18:30	Vâ l©m liªn ®Êu 3 ®ang trong giai ®o¹n b¸o danh. C¸c ®éi muèn tham gia h·y nhanh ch©n ®Õn b¸o danh!
+2018-09-10 18:34:50	18-09-10,18:34:50	wlls_buildup_vs(0)
+2018-09-10 18:34:50	18-09-10,18:34:50	wlls_buildup_vs(0)
+2018-09-10 18:34:50	18-09-10,18:34:50	wlls_buildup_vs(0)
+2018-09-10 18:34:50	18-09-10,18:34:50	wlls_buildup_vs(0)
+2018-09-10 18:34:50	18-09-10,18:34:50	wlls_buildup_vs(0)
+2018-09-10 18:34:50	18-09-10,18:34:50	wlls_buildup_vs(0)
+2018-09-10 18:34:50	18-09-10,18:34:50	wlls_buildup_vs(0)
+2018-09-10 18:34:50	18-09-10,18:34:50	wlls_buildup_vs(0)
+2018-09-10 18:35:34	183534:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 18:36:36	183636:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 18:36:45	183645:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:75)
+2018-09-10 18:38:22	183822:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 18:38:23	183823:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 18:38:24	183824:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 18:38:26	183826:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 18:41:02	184102:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 18:43:03	184303:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 18:43:08	184308:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 18:43:55	184355:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 18:44:50	2018-09-10 184450, Vâ l©m liªn ®Êu(8) kÕt thóc thi ®Êu.
+2018-09-10 18:44:50	2018-09-10 184450, Vâ l©m liªn ®Êu(1) kÕt thóc thi ®Êu.
+2018-09-10 18:44:50	2018-09-10 184450, Vâ l©m liªn ®Êu(2) kÕt thóc thi ®Êu.
+2018-09-10 18:44:50	2018-09-10 184450, Vâ l©m liªn ®Êu(3) kÕt thóc thi ®Êu.
+2018-09-10 18:44:50	2018-09-10 184450, Vâ l©m liªn ®Êu(4) kÕt thóc thi ®Êu.
+2018-09-10 18:44:50	2018-09-10 184450, Vâ l©m liªn ®Êu(5) kÕt thóc thi ®Êu.
+2018-09-10 18:44:50	2018-09-10 184450, Vâ l©m liªn ®Êu(6) kÕt thóc thi ®Êu.
+2018-09-10 18:44:50	2018-09-10 184450, Vâ l©m liªn ®Êu(7) kÕt thóc thi ®Êu.
+2018-09-10 18:45:50	2018/09/10-18:45	Vâ l©m liªn ®Êu 4 ®ang trong giai ®o¹n b¸o danh. C¸c ®éi muèn tham gia h·y nhanh ch©n ®Õn b¸o danh!
+2018-09-10 18:46:09	184609:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 18:46:32	184632:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 18:49:39	184939:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 18:49:50	18-09-10,18:49:50	wlls_buildup_vs(0)
+2018-09-10 18:49:50	18-09-10,18:49:50	wlls_buildup_vs(0)
+2018-09-10 18:49:50	18-09-10,18:49:50	wlls_buildup_vs(0)
+2018-09-10 18:49:50	18-09-10,18:49:50	wlls_buildup_vs(0)
+2018-09-10 18:49:50	18-09-10,18:49:50	wlls_buildup_vs(0)
+2018-09-10 18:49:50	18-09-10,18:49:50	wlls_buildup_vs(0)
+2018-09-10 18:49:50	18-09-10,18:49:50	wlls_buildup_vs(0)
+2018-09-10 18:49:50	18-09-10,18:49:50	wlls_buildup_vs(0)
+2018-09-10 18:50:50	Battle Start :1rule20Issue1
+2018-09-10 18:50:50	Battle Start :1rule20Issue1
+2018-09-10 18:50:50	Battle Start :1rule20Issue1
+2018-09-10 18:51:14	185114:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 18:55:08	185508:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 18:55:09	185509:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 18:56:42	185642:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 18:58:14	185814:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 18:58:16	185816:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 18:58:23	185823:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 18:59:50	2018-09-10 185950, Vâ l©m liªn ®Êu(8) kÕt thóc thi ®Êu.
+2018-09-10 18:59:50	2018-09-10 185950, Vâ l©m liªn ®Êu(1) kÕt thóc thi ®Êu.
+2018-09-10 18:59:50	2018-09-10 185950, Vâ l©m liªn ®Êu(2) kÕt thóc thi ®Êu.
+2018-09-10 18:59:50	2018-09-10 185950, Vâ l©m liªn ®Êu(3) kÕt thóc thi ®Êu.
+2018-09-10 18:59:50	2018-09-10 185950, Vâ l©m liªn ®Êu(4) kÕt thóc thi ®Êu.
+2018-09-10 18:59:50	2018-09-10 185950, Vâ l©m liªn ®Êu(5) kÕt thóc thi ®Êu.
+2018-09-10 18:59:50	2018-09-10 185950, Vâ l©m liªn ®Êu(6) kÕt thóc thi ®Êu.
+2018-09-10 18:59:50	2018-09-10 185950, Vâ l©m liªn ®Êu(7) kÕt thóc thi ®Êu.
+2018-09-10 19:00:02	BaiRenLeiTai	CallNPC_GuShou:960,55904,96768
+2018-09-10 19:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 19:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 19:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 19:01:15	190115:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 19:12:33	191233:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 19:20:01	192001:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 19:20:01	192001:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 19:20:02	192002:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 19:22:27	192227:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 19:22:28	192228:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 19:22:58	192258:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 19:23:07	192307:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 19:26:55	192655:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 19:26:56	192656:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 19:30:02	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2018-09-10 19:32:37	193237:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 19:34:01	193401:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 19:34:01	193401:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 19:34:02	193402:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 19:38:56	193856:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 19:38:57	193857:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 19:40:31	194031:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 19:41:01	194101:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 19:41:01	194101:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 19:41:54	194154:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 19:41:55	194155:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 19:41:56	194156:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 19:44:58	194458:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 19:50:03	195003:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 19:51:55	195155:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 19:52:03	195203:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 19:53:37	195337:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 19:53:38	195338:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:75)
+2018-09-10 19:53:42	195342:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 19:59:08	195908:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 20:00:02	BaiRenLeiTai	CallNPC_GuShou:960,55392,98752
+2018-09-10 20:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 20:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 20:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 20:00:50	[Battle Log] Awarding Activity
+2018-09-10 20:00:50	[Battle Log] Awarding Single Player
+2018-09-10 20:00:50	[Battle Log] Awarding by Result
+2018-09-10 20:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 20:00:50	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 20:00:50	[Battle Log] Ready for kick Out
+2018-09-10 20:00:50	[Battle Log] Ending Misson End
+2018-09-10 20:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 20:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 20:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 20:00:50	[Battle Log] Awarding Activity
+2018-09-10 20:00:50	[Battle Log] Awarding Single Player
+2018-09-10 20:00:50	[Battle Log] Awarding by Result
+2018-09-10 20:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 20:00:50	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 20:00:50	[Battle Log] Ready for kick Out
+2018-09-10 20:00:50	[Battle Log] Ending Misson End
+2018-09-10 20:00:50	[Battle Log] Ending Misson Begin
+2018-09-10 20:00:50	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 20:00:50	[Battle Log] Sorting World Ladder
+2018-09-10 20:00:50	[Battle Log] Awarding Activity
+2018-09-10 20:00:50	[Battle Log] Awarding Single Player
+2018-09-10 20:00:50	[Battle Log] Awarding by Result
+2018-09-10 20:00:50	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 20:00:50	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 20:00:50	[Battle Log] Ready for kick Out
+2018-09-10 20:00:50	[Battle Log] Ending Misson End
+2018-09-10 20:02:57	200257:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 20:03:15	200315:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 20:04:42	200442:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 20:06:21	200621:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 20:06:21	200621:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 20:09:02	200902:tuanlovekun5(§­êngÙM«n) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 20:10:20	201020:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 20:10:21	201021:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 20:10:21	201021:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 20:11:29	201129:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 20:13:40	201340:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 20:13:40	201340:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 20:15:50	20:15,742,95,1,78,1369,3411,B¹ch Doanh Doanh
+2018-09-10 20:15:50	20:15,744,95,2,1,1404,3338,Yªn HiÓu Tr¸i
+2018-09-10 20:15:50	20:15,1366,95,1,11,2966,4807,§­êng Phi YÕn
+2018-09-10 20:15:50	20:15,1367,95,4,80,1934,2861,Tõ §¹i Nh¹c
+2018-09-10 20:15:50	20:15,739,95,0,37,1770,3403,V­¬ng T¸
+2018-09-10 20:15:50	20:15,565,95,3,162,1388,3149,§oan Méc DuÖ
+2018-09-10 20:15:50	20:15,562,95,4,176,1754,2805,§¹o Thanh Ch©n Nh©n
+2018-09-10 20:17:57	201757:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 20:17:58	201758:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 20:23:56	202356:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 20:25:08	202508:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 20:25:08	202508:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 20:26:30	202630:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:70)
+2018-09-10 20:30:02	BaiRenLeiTai	CallNPC_GuShou:960,56512,98624
+2018-09-10 20:31:32	203132:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 20:34:47	203447:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 20:35:59	203559:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 20:39:22	203922:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 20:39:23	203923:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 20:39:24	203924:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 20:43:22	204322:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 20:44:10	204410:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 20:44:11	204411:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 20:46:20	204620:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 20:46:36	204636:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 20:48:01	204801:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 20:48:18	204818:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 20:50:50	Battle Start :1rule20Issue1
+2018-09-10 20:50:50	Battle Start :1rule20Issue1
+2018-09-10 20:50:50	Battle Start :1rule20Issue1
+2018-09-10 20:50:50	Battle Start :1rule20Issue1
+2018-09-10 20:52:42	205242:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 20:52:42	205242:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 20:55:27	205527:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 20:55:41	205541:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 20:55:42	205542:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 20:55:59	205559:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 20:56:00	205600:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 20:56:01	205601:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 20:57:11	205711:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 21:00:00	210000:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 21:00:02	BaiRenLeiTai	CallNPC_GuShou:960,59264,100192
+2018-09-10 21:00:49	butcher battle is entering fight state. now member count=0:0
+2018-09-10 21:00:49	butcher battle is entering fight state. now member count=0:0
+2018-09-10 21:00:49	butcher battle is entering fight state. now member count=0:0
+2018-09-10 21:01:03	210103:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 21:02:40	210240:letutl74(BopVuBu) sö dông (250) l­îng b¹c, söa ®¬n gi¶n trang bŞ(ItemGenTime:1536415370 CurDur:72) , ®é bÒn lín nhÊt gi¶m xuèng, 1®iÓm
+2018-09-10 21:02:41	210241:letutl74(BopVuBu) sö dông (750) l­îng b¹c, söa ®¬n gi¶n trang bŞ(ItemGenTime:1536415370 CurDur:77) , ®é bÒn lín nhÊt gi¶m xuèng, 1®iÓm
+2018-09-10 21:02:46	210246:letutl74(BopVuBu) sö dông (500) l­îng b¹c, söa ®¬n gi¶n trang bŞ(ItemGenTime:1536415370 CurDur:67) , ®é bÒn lín nhÊt gi¶m xuèng, 1®iÓm
+2018-09-10 21:02:51	210251:letutl74(BopVuBu) sö dông (250) l­îng b¹c, söa ®¬n gi¶n trang bŞ(ItemGenTime:1536415370 CurDur:73) , ®é bÒn lín nhÊt gi¶m xuèng, 1®iÓm
+2018-09-10 21:03:11	210311:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 21:05:31	210531:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 21:06:14	210614:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 21:08:40	210840:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 21:09:20	210920:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 21:09:21	210921:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 21:30:02	BaiRenLeiTai	CallNPC_GuShou:960,57888,101152
+2018-09-10 21:32:32	213232:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 21:32:33	213233:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 21:32:37	213237:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 21:35:08	213508:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 21:41:20	214120:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 21:41:21	214121:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 21:43:02	214302:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 21:43:02	214302:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 21:48:31	214831:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 21:48:32	214832:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 21:50:48	215048:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 21:50:49	215049:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 21:50:50	215050:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2160) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 21:54:35	215435:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 21:55:25	215525:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 21:55:26	215526:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 21:55:27	215527:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 22:00:02	BaiRenLeiTai	CallNPC_GuShou:960,56384,99968
+2018-09-10 22:00:05	220005:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 22:00:49	[Battle Log] Ending Misson Begin
+2018-09-10 22:00:49	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 22:00:49	[Battle Log] Sorting World Ladder
+2018-09-10 22:00:49	[Battle Log] Awarding Activity
+2018-09-10 22:00:49	[Battle Log] Awarding Single Player
+2018-09-10 22:00:49	[Battle Log] Awarding by Result
+2018-09-10 22:00:49	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 22:00:49	Khu vùc S¬ cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 22:00:49	[Battle Log] Ready for kick Out
+2018-09-10 22:00:49	[Battle Log] Ending Misson End
+2018-09-10 22:00:49	[Battle Log] Ending Misson Begin
+2018-09-10 22:00:49	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 22:00:49	[Battle Log] Sorting World Ladder
+2018-09-10 22:00:49	[Battle Log] Awarding Activity
+2018-09-10 22:00:49	[Battle Log] Awarding Single Player
+2018-09-10 22:00:49	[Battle Log] Awarding by Result
+2018-09-10 22:00:49	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 22:00:49	Khu vùc Trung cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 22:00:49	[Battle Log] Ready for kick Out
+2018-09-10 22:00:49	[Battle Log] Ending Misson End
+2018-09-10 22:00:49	[Battle Log] Ending Misson Begin
+2018-09-10 22:00:49	[Battle Log] battle is ending. now member count=0:0
+2018-09-10 22:00:49	[Battle Log] Sorting World Ladder
+2018-09-10 22:00:49	[Battle Log] Awarding Activity
+2018-09-10 22:00:49	[Battle Log] Awarding Single Player
+2018-09-10 22:00:49	[Battle Log] Awarding by Result
+2018-09-10 22:00:49	Do phe b¹i kh«ng cã ng­êi ch¬i, phe th¾ng kh«ng ®­îc tÆng th­ëng!
+2018-09-10 22:00:49	Khu vùc Cao cÊp ChiÕn sù ®· kÕt thóc, tû lÖ ®iÓm tİch lòy lµ 0:0
+2018-09-10 22:00:49	[Battle Log] Ready for kick Out
+2018-09-10 22:00:49	[Battle Log] Ending Misson End
+2018-09-10 22:03:00	220300:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 22:03:00	220300:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 22:03:01	220301:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 22:03:04	220304:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 22:07:47	220747:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 22:11:01	221101:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 22:11:02	221102:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 22:11:25	221125:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 22:11:26	221126:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 22:12:17	221217:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 22:15:47	221547:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 22:15:50	22:15,563,95,3,78,1670,3462,Gia LuËt TŞ Ly
+2018-09-10 22:15:50	22:15,744,95,2,1,1835,3024,Yªn HiÓu Tr¸i
+2018-09-10 22:15:50	22:15,741,95,1,11,2966,4807,§­êng BÊt NhiÔm
+2018-09-10 22:15:50	22:15,566,95,0,80,1723,3339,Cæ B¸ch
+2018-09-10 22:15:50	22:15,562,95,4,37,1520,3281,§¹o Thanh Ch©n Nh©n
+2018-09-10 22:15:50	22:15,567,95,2,162,1388,3149,Chung Linh Tó
+2018-09-10 22:15:50	22:15,743,95,2,176,1247,3354,Thanh TuyÖt S­ Th¸i
+2018-09-10 22:18:05	221805:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 22:18:06	221806:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 22:18:07	221807:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 22:18:07	221807:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 22:18:22	221822:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 22:19:34	221934:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 22:19:45	221945:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 22:20:20	222020:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 22:20:21	222021:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 22:29:53	222953:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 22:29:54	222954:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:70)
+2018-09-10 22:30:02	BaiRenLeiTai	CallNPC_GuShou:960,57056,102848
+2018-09-10 22:30:29	223029:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1438,3024
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1460,3235
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1437,3055
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1543,3318
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1456,3225
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1460,3235
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1444,3030
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1518,3068
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1486,3267
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1534,3323
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1489,3064
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1508,3063
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1501,3331
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1444,3030
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	1,1502,3020
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,3306,4776
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,3309,4860
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,2965,5215
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,2894,5141
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,3346,4928
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,2908,5231
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,3309,4860
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,3330,4935
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,2958,5184
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,3316,4941
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,3312,4850
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,3316,4941
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,2882,5218
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,2900,5234
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	11,3355,4902
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1554,2922
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1606,2819
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1587,3349
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1551,3251
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1571,3246
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1595,2815
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1518,2934
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1513,2922
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1545,2948
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1541,3251
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1560,3248
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1597,2828
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1565,3240
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1551,2909
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	37,1585,3264
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1394,3357
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1352,3153
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1338,3458
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1341,3423
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1384,3149
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1352,3117
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1346,3106
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1413,3138
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1424,3103
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1394,3357
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1359,3444
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1346,3470
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1344,3400
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1418,3037
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	78,1416,3328
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1789,3363
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1582,3361
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1555,3301
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1553,3268
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1562,3360
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1593,3306
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1517,3254
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1562,3252
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1809,3343
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1761,3323
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1772,3296
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1563,3339
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1555,3301
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1774,3275
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	80,1749,3274
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1401,3345
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1705,3068
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1353,3292
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1337,3236
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1702,3075
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1742,2990
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1344,3252
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1354,3323
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1736,2975
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1716,3044
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1747,2995
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1789,2987
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1713,3016
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1401,3345
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	162,1363,3322
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1233,3338
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1660,2836
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1684,2862
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1618,2775
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1631,2734
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1265,3358
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1691,2864
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1242,3349
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1656,2864
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1659,2875
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1624,2786
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1644,2787
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1635,2811
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1261,3383
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	176,1281,3437
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1481,3408
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1688,3311
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1434,3251
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1484,3533
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1632,3078
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1595,3005
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1688,3311
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1481,3408
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1434,3251
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1484,3533
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1434,3251
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1560,3136
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1632,3078
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1638,3326
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	174,1483,3235
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,1827,4510
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,2082,4468
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,2082,4468
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,2249,4582
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,1832,4438
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,1827,4510
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,2082,4468
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,1926,4349
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,1832,4438
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,1827,4510
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,1991,4353
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,2249,4582
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,1896,4631
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,2062,4410
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	121,1952,4740
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1695,3292
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1562,3282
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1825,3289
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1825,3289
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1567,3136
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1664,3129
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1731,3303
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1695,3292
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1723,3024
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1701,3172
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1562,3282
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1664,3129
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1600,3375
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1698,3528
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	153,1698,3528
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1683,3018
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1766,3048
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1859,3295
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1360,2974
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1822,3099
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1840,3178
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1733,2973
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1859,3295
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1553,3277
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1640,3009
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1508,3349
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1390,3334
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1553,3277
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1508,3349
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	101,1683,3018
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1521,3174
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1504,3266
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1722,3038
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1521,3174
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1521,3174
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1722,3038
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1675,3362
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1710,3296
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1497,3327
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1521,3174
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1590,3361
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1722,3038
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1722,3038
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1631,3075
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	99,1600,3002
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1811,3249
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1758,2908
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1571,3074
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1758,2908
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1576,3250
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1485,3084
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1903,3238
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1543,3224
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1576,3250
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1495,3227
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1721,3069
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1495,3227
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1485,3084
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1538,3063
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	100,1576,3250
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3515,5997
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3505,5847
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3624,6035
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3661,6071
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3661,6071
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3515,5997
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3599,6359
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3685,5843
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3637,5912
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3581,5977
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3650,6330
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3464,6029
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3685,5843
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3685,5843
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	20,3637,5912
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1757,3220
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1465,3126
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1398,3086
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1416,3226
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1398,3086
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1757,3220
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1465,3126
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1485,3391
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1611,2957
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1757,3220
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1543,3304
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1398,3086
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1611,2957
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1485,3391
+2018-09-10 22:30:50	Mon Sep 10 22:30:50 2018	53,1721,3105
+2018-09-10 22:33:58	223358:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 22:33:59	223359:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 22:34:14	223414:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (2250) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 22:34:14	223414:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 22:34:15	223415:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 22:34:36	223436:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 22:34:37	223437:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 22:34:37	223437:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 22:34:44	 [Hñy bá kû lôc nhiÖm vô liªn tiÕp] [18 n¨m 09 th¸ng 10 ngµy  22 giê 34 phót]: Tµi kho¶nletutl74, nh©n vËtBopVuBuT¹i nhiÖm vô thø 23Hñy bá c¬ héi cßn d­ 2giê hñy bá mét lÇn nhiÖm vô.
+2018-09-10 22:44:18	224418:tuanlovekun5(§­êngÙM«n) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 22:44:39	224439:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 22:44:41	224441:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 22:48:26	224826:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 22:48:42	224842:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 22:48:43	224843:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:70)
+2018-09-10 22:50:50	Battle Start :1rule20Issue1
+2018-09-10 22:50:50	Battle Start :1rule20Issue1
+2018-09-10 22:50:50	Battle Start :1rule20Issue1
+2018-09-10 22:56:28	225628:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 22:56:29	225629:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 23:00:02	BaiRenLeiTai	CallNPC_GuShou:960,56384,102016
+2018-09-10 23:00:28	230028:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 23:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 23:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 23:00:50	butcher battle is entering fight state. now member count=0:0
+2018-09-10 23:02:52	230252:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 23:03:47	230347:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 23:03:48	230348:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 23:04:03	230403:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:75)
+2018-09-10 23:04:04	230404:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:80)
+2018-09-10 23:04:36	230436:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 23:06:26	230626:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 23:08:52	230852:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 23:08:52	230852:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:70)
+2018-09-10 23:09:24	230924:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 23:09:59	230959:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 23:09:59	230959:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 23:11:18	231118:tuanlovekun5(§­êngÙM«n) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 23:11:19	231119:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 23:12:05	231205:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 23:13:24	231324:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123639 CurDur:70)
+2018-09-10 23:13:47	231347:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 23:18:09	231809:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 23:18:37	231837:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 23:19:14	letutl74	BopVuBu	Get S¸t Thñ Bİ B¶o	83	0	award	S¸t Thñ Bİ B¶o	AddItemEx(4,1309814748,1,0,169,1,6,1,0,0,0,0,0,0,0,0)	1		202
+2018-09-10 23:19:15	231915:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683513 CurDur:80)
+2018-09-10 23:22:01	232201:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 23:22:01	232201:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 23:28:33	232833:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 23:28:34	232834:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679623 CurDur:80)
+2018-09-10 23:29:34	232934:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534678047 CurDur:75)
+2018-09-10 23:30:02	BaiRenLeiTai	CallNPC_GuShou:960,59264,100192
+2018-09-10 23:32:16	233216:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 23:32:17	233217:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 23:34:26	233426:letutl72(DoanhDoanh) sö dông (1000) l­îng b¹c, söa ®¬n gi¶n trang bŞ(ItemGenTime:1535390037 CurDur:73) , ®é bÒn lín nhÊt gi¶m xuèng, 1®iÓm
+2018-09-10 23:34:28	233428:letutl72(DoanhDoanh) sö dông (250) l­îng b¹c, söa ®¬n gi¶n trang bŞ(ItemGenTime:1535390037 CurDur:66) , ®é bÒn lín nhÊt gi¶m xuèng, 1®iÓm
+2018-09-10 23:36:41	233641:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680103 CurDur:75)
+2018-09-10 23:36:42	233642:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 23:36:43	233643:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 23:39:38	233938:tuanlovekun5(§­êngÙM«n) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534683267 CurDur:75)
+2018-09-10 23:41:01	234101:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:70)
+2018-09-10 23:43:16	234316:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 23:43:17	234317:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 23:44:04	234404:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:70)
+2018-09-10 23:44:34	234434:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:75)
+2018-09-10 23:44:35	234435:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676871 CurDur:80)
+2018-09-10 23:44:36	234436:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 23:46:16	234616:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)
+2018-09-10 23:49:07	234907:tuanlovekun2(3StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534679561 CurDur:75)
+2018-09-10 23:51:31	235131:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1500) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680143 CurDur:80)
+2018-09-10 23:51:32	235132:tuanlovekun3(4StÙThiªnÙNhÉn) sö dông (1080) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1535123446 CurDur:70)
+2018-09-10 23:54:13	235413:tuanlovekun(1StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534676467 CurDur:70)
+2018-09-10 23:54:19	235419:tuanlovekun1(2StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534677963 CurDur:75)
+2018-09-10 23:56:37	235637:tuanlovekun4(5StÙThiªnÙNhÉn) sö dông (750) l­îng b¹c, söa kü  trang bŞ(ItemGenTime:1534680649 CurDur:70)

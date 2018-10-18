@@ -1,0 +1,4 @@
+TongCount=2, MemberCount=3, UnionCount=0
+TongName	MasterName	TongLevel	TongExp	SelfCamp	AllMemberCount	DirectorCount	ManagerCount	MemberCount	BuildLevel	MoneyFund	BuildFund	WarBuildFund	MaintainFund	StoredOffer	StoredBuildFund	UnionNum	UnionName	IsUnionLeader	UnionCamp
+DeVuong	dasdsadsadasd	2	8400	3	2	0	0	1	0	46043946	0	0	0	0	0	0		0	0
+HïngB¸	NguoiMoi	0	0	3	1	0	0	0	0	123123	123	0	0	0	0	0		0	0

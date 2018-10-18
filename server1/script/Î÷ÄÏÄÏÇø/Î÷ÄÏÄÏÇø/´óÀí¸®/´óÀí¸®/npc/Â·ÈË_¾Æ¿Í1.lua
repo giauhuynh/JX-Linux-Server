@@ -1,0 +1,6 @@
+-- ´óµí¡¡¢·ÈË¡¡¾Æ¿Ý1
+-- by£ºDan_Deng(2003-09-16)
+
+function main()
+	Talk(1,"","TiÓu nhÞ, cho mét t« bón, ph¶i cay nha!")
+end;

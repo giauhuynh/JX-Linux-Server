@@ -1,0 +1,22 @@
+Tong[1]: dsdsadad
+MemberName	Offer
+regergerge	0
+MemberCount: 1
+------------------------------------------------------------
+Tong[2]: CUOP
+MemberName	Offer
+haaaaaaackkkk	0
+MemberCount: 1
+------------------------------------------------------------
+Tong[3]: CoLong
+MemberName	Offer
+vdgdsgsdvs	0
+MemberCount: 1
+------------------------------------------------------------
+Tong[4]: TieuXa
+MemberName	Offer
+test10	68
+dsadasfdsfdds	180
+dasdsadsadasdas	0
+MemberCount: 3
+------------------------------------------------------------
