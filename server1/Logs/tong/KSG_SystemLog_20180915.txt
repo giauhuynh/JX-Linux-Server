@@ -1,4 +1,0 @@
-2018-09-15 14:53:00	(INF)	mod:SYS	act:GameStart	
-2018-09-15 14:55:03	(INF)	mod:SYS	act:GameStart	
-2018-09-15 14:56:22	(INF)	mod:SYS	act:GameStart	
-2018-09-15 15:00:47	(INF)	mod:SYS	act:GameStart	

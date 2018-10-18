@@ -1,9 +1,0 @@
-[2018-09-10 01:02:13]Connect to database[servergamedata] on 127.0.0.1:3306
-[2018-09-10 01:02:16]QueryCount:8, ErrorCount:0
-[2018-09-10 01:02:16]Close database
-[2018-09-10 09:02:13]Connect to database[servergamedata] on 127.0.0.1:3306
-[2018-09-10 09:02:16]QueryCount:8, ErrorCount:0
-[2018-09-10 09:02:16]Close database
-[2018-09-10 17:02:13]Connect to database[servergamedata] on 127.0.0.1:3306
-[2018-09-10 17:02:16]QueryCount:8, ErrorCount:0
-[2018-09-10 17:02:16]Close database

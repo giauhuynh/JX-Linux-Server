@@ -1,2 +1,0 @@
-2018-09-15 15:00:41	(INF)	mod:SYS	act:GameStart	
-2018-09-15 15:00:41	(INF)	mod:TONG	act:dbload	from:new	tongnum:2
